@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 */8 * * *'
   push:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -11,11 +12,11 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "RUN_DATE=$(date +'%Y-%m-%d  %H:%M UTC')" >> $GITHUB_ENV
+        run: echo "RUN_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: checkout repo content
         uses: actions/checkout@v4
-        
+
       - name: pull changes
         run: |
           git pull
@@ -30,9 +31,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: execute py script
-        run: python generate_redbull.py
-   
+      - name: generate Rai EPG
+        run: python generate_rai.py --days 3 --out epg_rai.xml
+
+      - name: generate Rakuten EPG
+        run: python generate_rakuten.py --out epg_rakuten.xml
+
+      - name: generate Pluto EPG
+        run: python generate_pluto.py --hours 48 --out epg_pluto.xml
+
+      - name: generate RedBull EPG
+        run: python generate_redbull.py --out epg_redbull.xml
+
+      - name: merge into epg_finale.xml
+        run: python merge_epg.py --rai epg_rai.xml --rakuten epg_rakuten.xml --pluto epg_pluto.xml --redbull epg_redbull.xml --out epg_finale.xml
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
@@ -40,6 +53,8 @@ jobs:
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
 
-
       - name: push changes
-
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
