@@ -30,19 +30,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: generate RedBull EPG
-        run: python generate_redbull.py --out epg_redbull.xml
-
-       - name: commit files
+      - name: execute py script
+        run: python generate_redbull.py
+   
+      - name: commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
 
+
       - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
 
