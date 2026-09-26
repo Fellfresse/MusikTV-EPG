@@ -2,9 +2,8 @@ name: Build EPG
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */8 * * *'
   push:
-  workflow_dispatch:
 
 jobs:
   build:
@@ -12,11 +11,11 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "RUN_DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "RUN_DATE=$(date +'%Y-%m-%d  %H:%M UTC')" >> $GITHUB_ENV
 
       - name: checkout repo content
         uses: actions/checkout@v4
-
+        
       - name: pull changes
         run: |
           git pull
