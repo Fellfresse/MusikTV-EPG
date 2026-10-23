@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="redbull-epg" generator-info-url="https://tv-api.redbull.com">
+  <channel id="redbull_tv">
+  <display-name lang="de">Red Bull TV</display-name>
+  </channel>
+  <channel id="redbull_padel">
+  <display-name lang="de">Red Bull Padel</display-name>
+  </channel>
+  <channel id="redbull_bike">
+  <display-name lang="de">Red Bull Bike</display-name>
+  </channel>
+  <channel id="redbull_adventure">
+  <display-name lang="de">Red Bull Adventure</display-name>
+  </channel>
+  <channel id="redbull_motorsports">
+  <display-name lang="de">Red Bull Motorsports</display-name>
+  </channel>
+  <channel id="redbull_surfing">
+  <display-name lang="de">Red Bull Surfing</display-name>
+  </channel>
+  <channel id="redbull_skateboarding">
+  <display-name lang="de">Red Bull Skateboarding</display-name>
+  </channel>
+  <channel id="redbull_winter">
+  <display-name lang="de">Red Bull Winter</display-name>
+  </channel>
+  <channel id="redbull_action_reel">
+  <display-name lang="de">Red Bull Action Reel</display-name>
+  </channel>
+  <programme start="20261023040000 +0000" stop="20261023053242 +0000" channel="redbull_tv">
+    <title lang="de">Red Bull Cliff Diving 2026 - Indonesien</title>
+    <desc lang="de">Die 17. Saison der Red Bull Cliff Diving World Series beginnt an einer brandneuen Location in Indonesien, wo die Cliff Diver in der atemberaubenden Natur Balis springen.</desc>
+  </programme>
+  <programme start="20261023053242 +0000" stop="20261023061122 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Desi Breaks</title>
+    <desc lang="de">10 Jahre BC One Indien: B-Boys und B-Girls erzählen, wie Breaking ihnen Bühne, Anerkennung und neue Perspektiven gab – und wie aus einem Wettbewerb eine ganze Bewegung wurde.</desc>
+  </programme>
+  <programme start="20261023061122 +0000" stop="20261023064926 +0000" channel="redbull_tv">
+    <title lang="de">Red Bull Dance Your Style - Team USA vs Team Afrika</title>
+    <desc lang="de">All-Star-Battle mit Rhythmus und Respekt: Team USA und Team Afrika liefern über zehn Runden Freestyle-Solos, Tanzkombinationen und pure Dancefloor-Energie.</desc>
+  </programme>
+  <programme start="20261023064926 +0000" stop="20261023072859 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Roots of my Rhythm</title>
+    <desc lang="de">Von der Weltspitze zurück zu den eigenen Wurzeln: Hip-Hop-Tänzer Majid Kessab reist mit seinem Vater in die kurdische Heimat und entdeckt seine Familiengeschichte.</desc>
+  </programme>
+  <programme start="20261023072859 +0000" stop="20261023075944 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Pushing Progression - S1 E7</title>
+    <desc lang="de">Von Hinterhöfen in der Bronx auf die Weltbühne: Busta Rhymes und Breaking-Ikonen verschiedener Generationen erzählen, wie aus einer Szene eine globale Bewegung wurde.</desc>
+  </programme>
+  <programme start="20261023075944 +0000" stop="20261023085108 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Breaking Beyond - S1 E1</title>
+    <desc lang="de">Von Goma direkt in die Szene: Junior und Shigekix tauchen in lokale Traditionen, Märkte und Hip-Hop-Kultur ein – und erleben Breaking dort, wo Tanz, Alltag und Community verschmelzen.</desc>
+  </programme>
+  <programme start="20261023085108 +0000" stop="20261023094401 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Breaking Beyond - S1 E2</title>
+    <desc lang="de">São Paulo steckt voller Rhythmus: B-Girl Kastet entdeckt mit B-Boy Neguin, wie Capoeira, Passinho und Jiu-Jitsu den einzigartigen brasilianischen Breaking-Style prägen.</desc>
+  </programme>
+  <programme start="20261023094401 +0000" stop="20261023101040 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Take the Title - S1 E2</title>
+    <desc lang="de">Von Euphorie zum abrupten Stopp: Red Bull Dance Your Style 2021 führt durch Landestour und nationale Finals – bis Covid-19 das Weltfinale kurz vor dem Höhepunkt ausbremst.</desc>
+  </programme>
+  <programme start="20261023101040 +0000" stop="20261023103529 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Phil Wizard vs. Hong 10</title>
+    <desc lang="de">Mentor gegen Schüler, ohne Rundenlimit: Phil Wizard fordert Hong 10 zum Ausdauer-Battle – Skills, Kondition und Nerven entscheiden, wie lange dieser Breaking-Marathon dauert und wer zuletzt steht.</desc>
+  </programme>
+  <programme start="20261023103529 +0000" stop="20261023105620 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Victor Montalvo - Breaking the Loop</title>
+    <desc lang="de">Von der Vorbereitung bis zur olympischen Bühne: Victor Montalvo tanzt sich durch Druck, Zweifel und Weltklasse-Battles – und schreibt mit Bronze US-Breaking-Geschichte.</desc>
+  </programme>
+  <programme start="20261023105620 +0000" stop="20261023112259 +0000" channel="redbull_tv">
+    <title lang="de">UCI MTB World Cup 2025 Lenzerheide - Highlights</title>
+    <desc lang="de">Die atemberaubenden Strecken und die unvergleichliche Begeisterung der Fans machen Lenzerheide zu einem unverzichtbaren Highlight im UCI MTB World Cup Circuit.</desc>
+  </programme>
+  <programme start="20261023112259 +0000" stop="20261023114938 +0000" channel="redbull_tv">
+    <title lang="de">UCI MTB World Cup 2025: Loudenvielle - Highlights</title>
+    <desc lang="de">Spektakuläre Abfahrten in Loudenvielle: Gracey Hemstreet und Jackson Goldstone feiern ihre ersten Elite-Siege beim UCI MTB Downhill-Weltcup 2025 – Technik, Tempo und Triumph in den Pyrenäen.</desc>
+  </programme>
+  <programme start="20261023114938 +0000" stop="20261023122818 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Desi Breaks</title>
+    <desc lang="de">10 Jahre BC One Indien: B-Boys und B-Girls erzählen, wie Breaking ihnen Bühne, Anerkennung und neue Perspektiven gab – und wie aus einem Wettbewerb eine ganze Bewegung wurde.</desc>
+  </programme>
+  <programme start="20261023122818 +0000" stop="20261023130622 +0000" channel="redbull_tv">
+    <title lang="de">Red Bull Dance Your Style - Team USA vs Team Afrika</title>
+    <desc lang="de">All-Star-Battle mit Rhythmus und Respekt: Team USA und Team Afrika liefern über zehn Runden Freestyle-Solos, Tanzkombinationen und pure Dancefloor-Energie.</desc>
+  </programme>
+  <programme start="20261023130622 +0000" stop="20261023134555 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Roots of my Rhythm</title>
+    <desc lang="de">Von der Weltspitze zurück zu den eigenen Wurzeln: Hip-Hop-Tänzer Majid Kessab reist mit seinem Vater in die kurdische Heimat und entdeckt seine Familiengeschichte.</desc>
+  </programme>
+  <programme start="20261023134555 +0000" stop="20261023141640 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Pushing Progression - S1 E7</title>
+    <desc lang="de">Von Hinterhöfen in der Bronx auf die Weltbühne: Busta Rhymes und Breaking-Ikonen verschiedener Generationen erzählen, wie aus einer Szene eine globale Bewegung wurde.</desc>
+  </programme>
+  <programme start="20261023141640 +0000" stop="20261023150805 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Breaking Beyond - S1 E1</title>
+    <desc lang="de">Von Goma direkt in die Szene: Junior und Shigekix tauchen in lokale Traditionen, Märkte und Hip-Hop-Kultur ein – und erleben Breaking dort, wo Tanz, Alltag und Community verschmelzen.</desc>
+  </programme>
+  <programme start="20261023150805 +0000" stop="20261023160058 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Breaking Beyond - S1 E2</title>
+    <desc lang="de">São Paulo steckt voller Rhythmus: B-Girl Kastet entdeckt mit B-Boy Neguin, wie Capoeira, Passinho und Jiu-Jitsu den einzigartigen brasilianischen Breaking-Style prägen.</desc>
+  </programme>
+  <programme start="20261023160058 +0000" stop="20261023162737 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Take the Title - S1 E2</title>
+    <desc lang="de">Von Euphorie zum abrupten Stopp: Red Bull Dance Your Style 2021 führt durch Landestour und nationale Finals – bis Covid-19 das Weltfinale kurz vor dem Höhepunkt ausbremst.</desc>
+  </programme>
+  <programme start="20261023162737 +0000" stop="20261023165225 +0000" channel="redbull_tv">
+    <title lang="de">DANCE: Phil Wizard vs. Hong 10</title>
+    <desc lang="de">Mentor gegen Schüler, ohne Rundenlimit: Phil Wizard fordert Hong 10 zum Ausdauer-Battle – Skills, Kondition und Nerven entscheiden, wie lange dieser Breaking-Marathon dauert und wer zuletzt steht.</desc>
+  </programme>
+  <programme start="20261023040143 +0000" stop="20261023042628 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Coello, Sanchez, Chingotto and Salazar</title>
+    <desc lang="de">Arturo Coello, Ariana Sanchez, Fede Chingotto and Ale Salazar offer a glimpse into their journey, the sacrifices made and the passion driving their success on and off the court.</desc>
+  </programme>
+  <programme start="20261023042628 +0000" stop="20261023045255 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Fernández, Triay, Lebrón and Yanguas</title>
+    <desc lang="de">Claudia Fernández, Gemma Triay, Juan Lebrón and Mike Yanguas give an inside look into their lives, training, competition and the vibrant community behind the world’s fastest-growing game.</desc>
+  </programme>
+  <programme start="20261023045255 +0000" stop="20261023051859 +0000" channel="redbull_padel">
+    <title lang="de">Paris Major Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des Paris Major Premier Padel-Turniers im Roland-Garros-Stadion an.</desc>
+  </programme>
+  <programme start="20261023051859 +0000" stop="20261023054345 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Coello, Sanchez, Chingotto and Salazar</title>
+    <desc lang="de">Arturo Coello, Ariana Sanchez, Fede Chingotto and Ale Salazar offer a glimpse into their journey, the sacrifices made and the passion driving their success on and off the court.</desc>
+  </programme>
+  <programme start="20261023054345 +0000" stop="20261023060949 +0000" channel="redbull_padel">
+    <title lang="de">Bordeaux Premier Padel P2: Highlights</title>
+    <desc lang="de">Sieh dir die Höhepunkte des Bordeaux Premier Padel P2-Turniers auf der Eisbahn von Bordeaux Mériadeck in Frankreich an.</desc>
+  </programme>
+  <programme start="20261023060949 +0000" stop="20261023063557 +0000" channel="redbull_padel">
+    <title lang="de">Malaga Premier Padel P1: Highlights</title>
+    <desc lang="de">Sieh dir die Höhepunkte des Malaga Premier Padel P1 Turniers in Spanien an.</desc>
+  </programme>
+  <programme start="20261023063557 +0000" stop="20261023070223 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Fernández, Triay, Lebrón and Yanguas</title>
+    <desc lang="de">Claudia Fernández, Gemma Triay, Juan Lebrón and Mike Yanguas give an inside look into their lives, training, competition and the vibrant community behind the world’s fastest-growing game.</desc>
+  </programme>
+  <programme start="20261023070223 +0000" stop="20261023072830 +0000" channel="redbull_padel">
+    <title lang="de">Madrid P1 Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Action beim Madrid P1 Premier Padel in Spanien an.</desc>
+  </programme>
+  <programme start="20261023072830 +0000" stop="20261023075315 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Coello, Sanchez, Chingotto and Salazar</title>
+    <desc lang="de">Arturo Coello, Ariana Sanchez, Fede Chingotto and Ale Salazar offer a glimpse into their journey, the sacrifices made and the passion driving their success on and off the court.</desc>
+  </programme>
+  <programme start="20261023075315 +0000" stop="20261023081905 +0000" channel="redbull_padel">
+    <title lang="de">Tarragona P1 Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des Tarragona P1 Premier Padel Turniers 2025 an.</desc>
+  </programme>
+  <programme start="20261023081905 +0000" stop="20261023084510 +0000" channel="redbull_padel">
+    <title lang="de">Bordeaux Premier Padel P2: Highlights</title>
+    <desc lang="de">Sieh dir die Höhepunkte des Bordeaux Premier Padel P2-Turniers auf der Eisbahn von Bordeaux Mériadeck in Frankreich an.</desc>
+  </programme>
+  <programme start="20261023084510 +0000" stop="20261023091114 +0000" channel="redbull_padel">
+    <title lang="de">Paris Major Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des Paris Major Premier Padel-Turniers im Roland-Garros-Stadion an.</desc>
+  </programme>
+  <programme start="20261023091114 +0000" stop="20261023093705 +0000" channel="redbull_padel">
+    <title lang="de">Tarragona P1 Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des Tarragona P1 Premier Padel Turniers 2025 an.</desc>
+  </programme>
+  <programme start="20261023093705 +0000" stop="20261023100254 +0000" channel="redbull_padel">
+    <title lang="de">Italien Major Premier Padel Highlights</title>
+    <desc lang="de">Sieh dir die Höhepunkte des Italien Major Premier Padel Turniers im Foro Italico in Rom an.</desc>
+  </programme>
+  <programme start="20261023100254 +0000" stop="20261023102846 +0000" channel="redbull_padel">
+    <title lang="de">Deutschland Premier Padel P2: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des deutschen Premier Padel P2-Turniers an.</desc>
+  </programme>
+  <programme start="20261023102846 +0000" stop="20261023105454 +0000" channel="redbull_padel">
+    <title lang="de">Malaga Premier Padel P1: Highlights</title>
+    <desc lang="de">Sieh dir die Höhepunkte des Malaga Premier Padel P1 Turniers in Spanien an.</desc>
+  </programme>
+  <programme start="20261023105454 +0000" stop="20261023112120 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Fernández, Triay, Lebrón and Yanguas</title>
+    <desc lang="de">Claudia Fernández, Gemma Triay, Juan Lebrón and Mike Yanguas give an inside look into their lives, training, competition and the vibrant community behind the world’s fastest-growing game.</desc>
+  </programme>
+  <programme start="20261023112120 +0000" stop="20261023114711 +0000" channel="redbull_padel">
+    <title lang="de">Tarragona P1 Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des Tarragona P1 Premier Padel Turniers 2025 an.</desc>
+  </programme>
+  <programme start="20261023114711 +0000" stop="20261023121156 +0000" channel="redbull_padel">
+    <title lang="de">Meet padel stars Coello, Sanchez, Chingotto and Salazar</title>
+    <desc lang="de">Arturo Coello, Ariana Sanchez, Fede Chingotto and Ale Salazar offer a glimpse into their journey, the sacrifices made and the passion driving their success on and off the court.</desc>
+  </programme>
+  <programme start="20261023121156 +0000" stop="20261023123801 +0000" channel="redbull_padel">
+    <title lang="de">Paris Major Premier Padel: Highlights</title>
+    <desc lang="de">Sieh dir die Highlights des Paris Major Premier Padel-Turniers im Roland-Garros-Stadion an.</desc>
+  </programme>
+  <programme start="20261023035711 +0000" stop="20261023044911 +0000" channel="redbull_bike">
+    <title lang="de">Alle Highlights aus Whistler</title>
+    <desc lang="de">Erfahre alles, was in Whistler bei allen Events passiert ist: Specialized Dual Slalom, RockShox Ultimate Pump Track Challenge, CLIF Speed &amp; Style, RockShox Canadian Open DH und Red Bull Joyride.</desc>
+  </programme>
+  <programme start="20261023044911 +0000" stop="20261023050123 +0000" channel="redbull_bike">
+    <title lang="de">Recap Show – Nové Město</title>
+    <desc lang="de">Erlebe den vollständigen Recap der Cross-Country-Action von Nové Město, wo Rebecca McConnell und Tom Pidcock triumphierten.</desc>
+  </programme>
+  <programme start="20261023050123 +0000" stop="20261023050830 +0000" channel="redbull_bike">
+    <title lang="de">Harriet Burbidge-Smith – Australian Style</title>
+    <desc lang="de">Genieße das Geräusch der Reifen im Dreck, wenn die australische Freeride-Mountainbikerin Harriet Burbidge-Smith im Maydena Bike Park in der Nähe ihrer Heimat in Tasmanien Gas gibt.</desc>
+  </programme>
+  <programme start="20261023050830 +0000" stop="20261023053409 +0000" channel="redbull_bike">
+    <title lang="de">Red Bull Hardline: Asa Vermettes Abfahrt</title>
+    <desc lang="de">Asa Vermette, einer der aufregendsten jungen Mountainbike-Fahrer, hat sich den Junioren-Weltmeistertitel gesichert. Verfolge seine Reise, während er sich in seiner ersten Red Bull Hardline-Saison dem härtesten Downhill-Rennen der Welt stellt.</desc>
+  </programme>
+  <programme start="20261023053409 +0000" stop="20261023055803 +0000" channel="redbull_bike">
+    <title lang="de">Kolumbien</title>
+    <desc lang="de">Rob Warner ist zusammen mit dem zukünftigen Megastar Finn Iles in Kolumbien auf der Suche nach den schönsten Trails der Welt. Um ihre Muskeln zu lockern beginnen sie mit einer Lektion im Salsa-Tanzen.</desc>
+  </programme>
+  <programme start="20261023055803 +0000" stop="20261023060246 +0000" channel="redbull_bike">
+    <title lang="de">Courage Adams</title>
+    <desc lang="de">Erlebe BMX-Street-Rider Courage Adams in Johannesburg, Südafrika, während er eine elektrifizierende Line in der Innenstadt von Soweto kreiert.</desc>
+  </programme>
+  <programme start="20261023060246 +0000" stop="20261023062405 +0000" channel="redbull_bike">
+    <title lang="de">Bas Keep: More Walls</title>
+    <desc lang="de">Aufbauend auf seinem früheren Walls Projekten fährt der BMX-Star Sebastian Keep auf selbstgebauten Rampen, Überführungen, Laufstegen und schrägen Gebäudeseiten in der urbanen Landschaft britischer Stadtzentren.</desc>
+  </programme>
+  <programme start="20261023062405 +0000" stop="20261023064136 +0000" channel="redbull_bike">
+    <title lang="de">Das war Red Bull Formation 2022</title>
+    <desc lang="de">Erlebe alle Highlights des ersten Invitational seiner Art. Red Bull Formation ist das Freeride-MTB-Event für Athletinnen vor der atemberaubenden Kulisse Utahs.</desc>
+  </programme>
+  <programme start="20261023064136 +0000" stop="20261023065610 +0000" channel="redbull_bike">
+    <title lang="de">Starting again</title>
+    <desc lang="de">Wirf mit der Cross-Country Mountainbike Fahrerin Kate Courtney und den Downhill Fahrern Loïc Bruni und Finn Iles einen Blick hinter die Kulissen einer ganz anderen UCI Weltcup Saison 2020.</desc>
+  </programme>
+  <programme start="20261023065610 +0000" stop="20261023070448 +0000" channel="redbull_bike">
+    <title lang="de">Tom Oehler befährt die Dolomiten</title>
+    <desc lang="de">Wenn sich Tom Oehler in die Dolomiten begibt, kann das nur eines bedeuten: Trial-Action der Extraklasse und Nervenkitzel garantiert!</desc>
+  </programme>
+  <programme start="20261023070448 +0000" stop="20261023072914 +0000" channel="redbull_bike">
+    <title lang="de">Kenia</title>
+    <desc lang="de">Rob Warner reist mit dem Freeride-Profi Matt Jones nach Kenia, wo sie einen der höchsten Berge Afrikas befahren und die lokale Tierwelt hautnah erleben.</desc>
+  </programme>
+  <programme start="20261023072914 +0000" stop="20261023074557 +0000" channel="redbull_bike">
+    <title lang="de">Remy Morton: 7 Tage und 7.000 Dollar</title>
+    <desc lang="de">MTB-Freerider Remy Morton setzt für den Bikepark alles aufs Spiel. Kann er in nur sieben Tagen und mit einem Budget von 7.000 AUD$ die ultimative Strecke für die Community bauen?</desc>
+  </programme>
+  <programme start="20261023074557 +0000" stop="20261023090944 +0000" channel="redbull_bike">
+    <title lang="de">The Engine Inside</title>
+    <desc lang="de">Sechs Menschen aus verschiedenen Welten widmen ihr Leben einer einfachen, uralten Maschine: dem Fahrrad. Angesichts überwältigender Herausforderungen offenbaren ihre Geschichten die Kraft in uns, eine bessere Welt aufzubauen.</desc>
+  </programme>
+  <programme start="20261023090944 +0000" stop="20261023093554 +0000" channel="redbull_bike">
+    <title lang="de">Chasing the Inca II</title>
+    <desc lang="de">Vier MTB-Athlet:innen begeben sich erneut in die Anden, um auf der Suche nach einer verschollenen Inka-Straße, die fast ein Jahrzehnt zuvor bei einer früheren Expedition (Chasing the Inca I) entdeckt wurde, die Grenzen von Mountainbiking zu verschieben.</desc>
+  </programme>
+  <programme start="20261023093554 +0000" stop="20261023102754 +0000" channel="redbull_bike">
+    <title lang="de">Alle Highlights aus Whistler</title>
+    <desc lang="de">Erfahre alles, was in Whistler bei allen Events passiert ist: Specialized Dual Slalom, RockShox Ultimate Pump Track Challenge, CLIF Speed &amp; Style, RockShox Canadian Open DH und Red Bull Joyride.</desc>
+  </programme>
+  <programme start="20261023102754 +0000" stop="20261023105036 +0000" channel="redbull_bike">
+    <title lang="de">The Road Back: Brook Macdonald</title>
+    <desc lang="de">Begleite den neuseeländischen Profi-Mountainbiker Brook Macdonald, der sich auf wundersame Weise von einem verheerenden Sturz erholt, der ihn fast gelähmt hätte.</desc>
+  </programme>
+  <programme start="20261023105036 +0000" stop="20261023111546 +0000" channel="redbull_bike">
+    <title lang="de">Kriss Kyle: Out of Season</title>
+    <desc lang="de">Erlebe wie der Fahrrad-Handling-Guru Kriss Kyle in den wilden Wälder von Wales bei klassischem britischen Winterwetter vom BMXer zum Allround-Radsportler wird.</desc>
+  </programme>
+  <programme start="20261023111546 +0000" stop="20261023113741 +0000" channel="redbull_bike">
+    <title lang="de">Dear 39th Street</title>
+    <desc lang="de">Nachdem er sich bei der Tour de France als Außenseiter fühlte, gründete Justin Williams sein erstes Radsportteam. Erlebe, wie er mit seinem Team L3GION einen Sieg nach dem anderen einfährt und damit die Grenzen seines Sports überschreitet.</desc>
+  </programme>
+  <programme start="20261023113741 +0000" stop="20261023115317 +0000" channel="redbull_bike">
+    <title lang="de">Norwegische Freeride-Acion mit Brage Vestavik</title>
+    <desc lang="de">Mit seinen einzigartigen Lines im hohen Norden Europas hat sich der Norweger Brage Vestavik einen Namen als einer der toughesten Freerider der Szene gemacht.</desc>
+  </programme>
+  <programme start="20261023115317 +0000" stop="20261023115801 +0000" channel="redbull_bike">
+    <title lang="de">Courage Adams</title>
+    <desc lang="de">Erlebe BMX-Street-Rider Courage Adams in Johannesburg, Südafrika, während er eine elektrifizierende Line in der Innenstadt von Soweto kreiert.</desc>
+  </programme>
+  <programme start="20261023040902 +0000" stop="20261023050127 +0000" channel="redbull_adventure">
+    <title lang="de">Die Highlights aus Kopenhagen</title>
+    <desc lang="de">Die Serie kehrt zum fünften Mal seit 2013 in die dänische Hauptstadt zurück. Erlebe die besten Momente und Top-Sprünge vom dritten Stopp der Red Bull Cliff Diving World Series 2022!</desc>
+  </programme>
+  <programme start="20261023050127 +0000" stop="20261023050902 +0000" channel="redbull_adventure">
+    <title lang="de">Stadt des Goldes</title>
+    <desc lang="de">Der Freerunner Dominic Di Tommaso wird in ein Videospiel versetzt, in dem er Goldmünzen sammeln muss. Kann er sie alle finden, um das letzte Level abzuschließen und zurück in die reale Welt zu gelangen?</desc>
+  </programme>
+  <programme start="20261023050902 +0000" stop="20261023052803 +0000" channel="redbull_adventure">
+    <title lang="de">"The high road" Teil 2</title>
+    <desc lang="de">Nina Williams verfolgt ein neues unglaubliches Ziel: Einen 15 m hohen Felsbrocken namens "Too Big to Flail" in Kalifornien, der erstmals von Alex Honnold, dem weltbesten Freikletterer, bestiegen wurde.</desc>
+  </programme>
+  <programme start="20261023052803 +0000" stop="20261023055315 +0000" channel="redbull_adventure">
+    <title lang="de">Der "The Nose" Geschwindigkeitsrekord Teil 2</title>
+    <desc lang="de">Das Rennen hinauf auf "The Nose" spitzt sich zu. Während Alex Honnold die Seile kennt und auf Perfektion drängt, ist Tommy Caldwell neu im Speedklettern und die Lernkurve ist so steil wie die Wand selbst.</desc>
+  </programme>
+  <programme start="20261023055315 +0000" stop="20261023060602 +0000" channel="redbull_adventure">
+    <title lang="de">Jason Paul’s Wild Ride</title>
+    <desc lang="de">Diese Location fasziniert Jason Paul: Die Achterbahn im „Erlebnispark Tripsdrill“! Mit seinen Freerunning-Freunden Krystian Kowalewski und Silke Sollfrank springt er über den fahrenden Wagon.</desc>
+  </programme>
+  <programme start="20261023060602 +0000" stop="20261023063215 +0000" channel="redbull_adventure">
+    <title lang="de">Der "The Nose" Geschwindigkeitsrekord Teil 3</title>
+    <desc lang="de">Nach wochenlangem Training und mehr als ein paar Pannen beginnen Alex Honnold und Tommy Caldwell ihren Rekordversuch. Die Zuschauer halten den Atem an, als die beiden mit halsbrecherischer Geschwindigkeit den Fels erklimmen.</desc>
+  </programme>
+  <programme start="20261023063215 +0000" stop="20261023063751 +0000" channel="redbull_adventure">
+    <title lang="de">Kairo Dom-ination</title>
+    <desc lang="de">Die ägyptische Großstadt Kairo ist der neue Spielplatz für den australischen Freerunner Dominic Di Tommaso, der seine beeindruckenden Parkour-Fähigkeiten an einer Reihe von ikonischen Orten wie dem Nil oder den Pyramiden präsentiert.</desc>
+  </programme>
+  <programme start="20261023063751 +0000" stop="20261023071421 +0000" channel="redbull_adventure">
+    <title lang="de">Red Bull Dual Ascent</title>
+    <desc lang="de">Sechzehn Weltklasse-Athleten in acht Teams kämpfen beim Red Bull Dual Ascent um den schnellsten Aufstieg über sechs Seillängen: zwei exakte Routen, Seite an Seite, 150 Meter hoch, ein Siegerteam.</desc>
+  </programme>
+  <programme start="20261023071421 +0000" stop="20261023073522 +0000" channel="redbull_adventure">
+    <title lang="de">Märchenflug </title>
+    <desc lang="de">Der Franzose Valentin Delluc stürzt sich in einem actionreichen Speedflying-Abenteuer aus dem Heißluftballon in das magische Kappadokien der Türkei.</desc>
+  </programme>
+  <programme start="20261023073522 +0000" stop="20261023075853 +0000" channel="redbull_adventure">
+    <title lang="de">Free Solo am Les Drus in Frankreich</title>
+    <desc lang="de">Für Alex Honnold und Nico Hojac geht es ins Mont Blanc Massiv nach Frankreich, genauer zu einer Route des Les Druns. Können sie am "Cerro Torre der Alpen" ihre Ziele in die Tat umsetzen?</desc>
+  </programme>
+  <programme start="20261023075853 +0000" stop="20261023081951 +0000" channel="redbull_adventure">
+    <title lang="de">Der "The Nose" Geschwindigkeitsrekord Teil 1</title>
+    <desc lang="de">Alex Honnold und Tommy Caldwell stellen uns eine der begehrtesten Trophäen der Kletterwelt vor: Den Geschwindigkeitsrekord über die "The Nose-Route" auf den 915m hohen El Capitan, im Yosemite Nationalpark in Kalifornien.</desc>
+  </programme>
+  <programme start="20261023081951 +0000" stop="20261023083718 +0000" channel="redbull_adventure">
+    <title lang="de">One Day: 4061m &amp; 4478m</title>
+    <desc lang="de">Mit einem beeindruckenden alpinen Doppel setzt die brasilianische Ultraläuferin Fernanda Maciel neue Rekorde: Gran Paradiso und Matterhorn  – beide in 24 Stunden.</desc>
+  </programme>
+  <programme start="20261023083718 +0000" stop="20261023084453 +0000" channel="redbull_adventure">
+    <title lang="de">Stadt des Goldes</title>
+    <desc lang="de">Der Freerunner Dominic Di Tommaso wird in ein Videospiel versetzt, in dem er Goldmünzen sammeln muss. Kann er sie alle finden, um das letzte Level abzuschließen und zurück in die reale Welt zu gelangen?</desc>
+  </programme>
+  <programme start="20261023084453 +0000" stop="20261023091005 +0000" channel="redbull_adventure">
+    <title lang="de">Der "The Nose" Geschwindigkeitsrekord Teil 2</title>
+    <desc lang="de">Das Rennen hinauf auf "The Nose" spitzt sich zu. Während Alex Honnold die Seile kennt und auf Perfektion drängt, ist Tommy Caldwell neu im Speedklettern und die Lernkurve ist so steil wie die Wand selbst.</desc>
+  </programme>
+  <programme start="20261023091005 +0000" stop="20261023095805 +0000" channel="redbull_adventure">
+    <title lang="de">360 Ascent</title>
+    <desc lang="de">Die Weltklasse-Kletterer Janja Garnbret und Domen Škofic erklimmen den höchsten Schornstein Europas im slowenischen Kraftwerk Trbovlje und nehmen damit die höchste künstliche Mehrseillängenroute der Welt in Angriff.</desc>
+  </programme>
+  <programme start="20261023095805 +0000" stop="20261023110352 +0000" channel="redbull_adventure">
+    <title lang="de">K2: The Impossible Descent</title>
+    <desc lang="de">Am 22. Juli 2018 steigt ein polnischer Skibergsteiger in 8.611m Höhe in seine Bindungen, um Geschichte zu schreiben. Erlebe Andrzej Bargiels Expedition von Polen nach Pakistan, und die unglaubliche Abfahrt vom Gipfel des K2 – auf Skiern.</desc>
+  </programme>
+  <programme start="20261023110352 +0000" stop="20261023124229 +0000" channel="redbull_adventure">
+    <title lang="de">Valley Uprising</title>
+    <desc lang="de">„Valley Uprising" ist die fesselnde und unvergessliche Geschichte der kühnen Klettertradition im Yosemite-Nationalpark: ein halbes Jahrhundert kämpfte man gegen die Gesetze der Schwerkraft - und die Gesetze des Landes.</desc>
+  </programme>
+  <programme start="20261023124229 +0000" stop="20261023130330 +0000" channel="redbull_adventure">
+    <title lang="de">Märchenflug </title>
+    <desc lang="de">Der Franzose Valentin Delluc stürzt sich in einem actionreichen Speedflying-Abenteuer aus dem Heißluftballon in das magische Kappadokien der Türkei.</desc>
+  </programme>
+  <programme start="20261023130330 +0000" stop="20261023132018 +0000" channel="redbull_adventure">
+    <title lang="de">Beneath the Ice</title>
+    <desc lang="de">Eine wissenschaftliche Expedition in ein bisher unerforschtes Gebiet. Der Kanadier Will Gadd nutzt seine unvergleichlichen Fähigkeiten und sein Wissen in den eisigen Abgründen Grönlands.</desc>
+  </programme>
+  <programme start="20261023132018 +0000" stop="20261023134334 +0000" channel="redbull_adventure">
+    <title lang="de">"The high road" Teil 1</title>
+    <desc lang="de">Während sich die meisten Boulderer auf schwierige Bewegungen in Bodennähe konzentrieren, hat Nina Williams ihre Ziele höher gesetzt. Erlebe, sie die Kletterwelt mit einer Reihe spektakulärer.</desc>
+  </programme>
+  <programme start="20261023041747 +0000" stop="20261023044009 +0000" channel="redbull_motorsports">
+    <title lang="de">Vollgas für die HERO Challenge</title>
+    <desc lang="de">Manuel Lettenbichler und Paul Bolton sind in Polen bei der HERO Challenge. Im Vorfeld der Veranstaltung schauen sie sich die Strecke an, zeigen uns die Location und holen sich Eindrücke bei anderen Fahrern.</desc>
+  </programme>
+  <programme start="20261023044009 +0000" stop="20261023053210 +0000" channel="redbull_motorsports">
+    <title lang="de">Hare Scramble</title>
+    <desc lang="de">Bei nahezu perfekten Wetterbedingungen gehen in Erzberg 500 Hard-Enduro-Fahrer an den Start. Der österreichische Bergwerksparcours ist das tückischste Hard-Enduro-Rennen des Jahres, bei dem nur drei Prozent der Fahrer überhaupt ins Ziel kommen.</desc>
+  </programme>
+  <programme start="20261023053210 +0000" stop="20261023055755 +0000" channel="redbull_motorsports">
+    <title lang="de">ABC of... Drifting</title>
+    <desc lang="de">Fahrer Dave Egan zeigt dir einen der verrücktesten Motorsportarten überhaupt: Drifting. Von den Regeln bis zu den Menschen dahinter: Hier bekommst du einen Crashkurs in dem Sport, in dem es um Geschwindigkeit, Style, Rauch und Skills geht.</desc>
+  </programme>
+  <programme start="20261023055755 +0000" stop="20261023061341 +0000" channel="redbull_motorsports">
+    <title lang="de">Aufstrebende MX-Fahrer</title>
+    <desc lang="de">Der neunmalige Weltmeister Antonio Cairoli ist einer der besten MX-Fahrer seiner Generation, aber einige aufstrebende Fahrer sind bereit es mit ihm aufzunehmen. Kann Tony seinen 10. Titel gewinnen, bevor er überholt wird?</desc>
+  </programme>
+  <programme start="20261023061341 +0000" stop="20261023062404 +0000" channel="redbull_motorsports">
+    <title lang="de">Motocross: Fahrer erzählen ihre Geschichten</title>
+    <desc lang="de">In den letzten Jahrzehnten ist die Welt des Motocross von einem Dutzend Meisterschaften, hauptsächlich in Europa, auf mehr als 20 Rennen in 16 Ländern weltweit angewachsen. Die physischen und finanziellen Aufwände, aber auch die Belohnungen sind enorm. Fahrer und Manager erzählen ihre Geschichten.</desc>
+  </programme>
+  <programme start="20261023062404 +0000" stop="20261023064016 +0000" channel="redbull_motorsports">
+    <title lang="de">Streben nach dem Sieg</title>
+    <desc lang="de">Toni Cairoli spürt den Druck, während er sich darauf vorbereitet das Rennen in Trentino in seinem Heimatland zu fahren.</desc>
+  </programme>
+  <programme start="20261023064016 +0000" stop="20261023070228 +0000" channel="redbull_motorsports">
+    <title lang="de">Durchstarten in Rumänien</title>
+    <desc lang="de">Mani Lettenbichler und Paul Bolton fahren nach Sibiu zu den Red Bull Romaniacs, dem wahrscheinlich am meisten erwarteten und gefürchteten Event im Hard Enduro Kalender.</desc>
+  </programme>
+  <programme start="20261023070228 +0000" stop="20261023080634 +0000" channel="redbull_motorsports">
+    <title lang="de">Hare Scramble</title>
+    <desc lang="de">Das Hare Scramble, Höhepunkt des Erzbergrodeos, ist ein 35 Kilometer langes, extremes Hard-Enduro-Rennen und findet in Österreichs größtem Eisenerztagebau statt. Die 22. Ausgabe dieses historischen Rennens scheint die bisher härteste zu werden.</desc>
+  </programme>
+  <programme start="20261023080634 +0000" stop="20261023090023 +0000" channel="redbull_motorsports">
+    <title lang="de">Toby Price: Ridin’ Shotgun</title>
+    <desc lang="de">Sechsmaliger Sieger auf zwei Rädern, dreimaliger Verlierer auf vier Rädern: Kann Toby Price an der Startlinie stehen und endlich seine Dämonen abschütteln, um beim Finke Desert Race der unbestrittene König der australischen Wüste zu werden?</desc>
+  </programme>
+  <programme start="20261023090023 +0000" stop="20261023091513 +0000" channel="redbull_motorsports">
+    <title lang="de">Silk Way Rally</title>
+    <desc lang="de">Der russische LKW-Riese KAMAZ präsentierte bei der Silk Way Rally einen Truck im neuen Look, während Red Bull KTM Factory Racing wieder auf die Siegerstraße zurückkehrte. Außerdem mussten die Fahrer eine Kurskorrektur in letzter Minute bewältigen.</desc>
+  </programme>
+  <programme start="20261023091513 +0000" stop="20261023095918 +0000" channel="redbull_motorsports">
+    <title lang="de">Red Bull Hare Scramble</title>
+    <desc lang="de">The Erzbergrodeo Red Bull Hare Scramble is the toughest single-day Hard Enduro race in the world. Relive some of the most iconic moments from the history of the Iron Giant.</desc>
+  </programme>
+  <programme start="20261023095918 +0000" stop="20261023110653 +0000" channel="redbull_motorsports">
+    <title lang="de">Crandon World Cup</title>
+    <desc lang="de">Mehr als 50.000 Fans versammeln sich in Crandon, Wisconsin, um ihre Lieblingsfahrer anzufeuern, die auf der längsten und schnellsten Kurzstrecke der Crandon World Championship Off-Road Races gegeneinander antreten.</desc>
+  </programme>
+  <programme start="20261023110653 +0000" stop="20261023115053 +0000" channel="redbull_motorsports">
+    <title lang="de">Red Bull Straight Rhythm</title>
+    <desc lang="de">Die Supercross-Fahrer treten im kalifornischen Pomona auf einer 800 Meter langen Strecke mit Jumps und Double Jumps gegeneinander an.</desc>
+  </programme>
+  <programme start="20261023115053 +0000" stop="20261023120145 +0000" channel="redbull_motorsports">
+    <title lang="de">Tony Cairoli´s treibende Kraft</title>
+    <desc lang="de">Familie, Freunde, Fans und Tony Cairoli sprechen über die Verbindung zwischen Tony und seinem verstorbenen Vater Benedetto, der treibenden Kraft hinter Tonys Karriere. Jetzt kann Tony sein Wissen an den jungen Fahrer Jorge Prado weitergeben, der kürzlich dem Team beigetreten ist.</desc>
+  </programme>
+  <programme start="20261023120145 +0000" stop="20261023130513 +0000" channel="redbull_motorsports">
+    <title lang="de">Crandon</title>
+    <desc lang="de">Die besten Rennfahrer aus jeder Profi-Klasse kämpfen auf der legendären Kurzstrecke des Crandon International Raceway im US-Bundesstaat Wisconsin um den Sieg beim Off-Road World Cup.</desc>
+  </programme>
+  <programme start="20261023130513 +0000" stop="20261023141248 +0000" channel="redbull_motorsports">
+    <title lang="de">Kenda Tennessee Knockout</title>
+    <desc lang="de">It was blood, sweat and tears in the Great Smoky Mountains as America's top off-road motorcycle riders faced a brutal test of man and machine at the annual Tennessee Knockout Extreme Enduro.</desc>
+  </programme>
+  <programme start="20261023141248 +0000" stop="20261023152018 +0000" channel="redbull_motorsports">
+    <title lang="de">Red Bull Straight Rhythm</title>
+    <desc lang="de">In Pomona, Kalifornien, wird es ernst: Auf knapp einem Kilometer gerader Supercross-Strecke kämpfen die Fahrer unter Flutlicht um den Sieg.</desc>
+  </programme>
+  <programme start="20261023152018 +0000" stop="20261023153751 +0000" channel="redbull_motorsports">
+    <title lang="de">Tom Vialles: Familiäre Unterstützung und Hingabe</title>
+    <desc lang="de">Tom Vialle ist das neueste Mitglied des Red Bull KTM Factory Racing Teams. Erfahre wie Tom Vialles Familie seinen Traum vom MXGP-Ruhm teilt.</desc>
+  </programme>
+  <programme start="20261023153751 +0000" stop="20261023162156 +0000" channel="redbull_motorsports">
+    <title lang="de">Red Bull Drift Masters</title>
+    <desc lang="de">Beim einzigen Stopp der Red Bull Drift Masters 2020-Saison kamen die besten Drifter der Welt nach Lettland. Erlebe spektakuläre Vollgas-Action beim heißen Kampf um den Sieg. Wer krönt sich zum "König von Riga"?</desc>
+  </programme>
+  <programme start="20261023162156 +0000" stop="20261023163654 +0000" channel="redbull_motorsports">
+    <title lang="de">Tom Vialle: Wer blinzelt verliert!</title>
+    <desc lang="de">Tom Vialle war in der 2019er Saison für einige Überraschungen gut und konnte sich entgegen aller Erwartungen als Rookie of the Season durchsetzen. Kann Tom Vialle der Herausforderung als KTM-Fahrer in MX2 gerecht werden?</desc>
+  </programme>
+  <programme start="20261023040516 +0000" stop="20261023042551 +0000" channel="redbull_surfing">
+    <title lang="de">Das Erwachen des Biests</title>
+    <desc lang="de">Kai fährt nach Portugal zu einem historischen Swell in Nazaré. Inmitten eines epischen Schauspiels von Big-Wave-Performances der weltbesten Surfer erlebt er jedoch einen Wipeout, der ihn in einen Kampf um sein Leben stürzt.</desc>
+  </programme>
+  <programme start="20261023042551 +0000" stop="20261023051527 +0000" channel="redbull_surfing">
+    <title lang="de">The Curious Tales of Ítalo Ferreira</title>
+    <desc lang="de">Wer ist Ítalo Ferreira wirklich? Entdecke die Wurzeln des brasilianischen Surfstars und beantworte mit ihm die eine Frage: kann er nach der Golmedaille in Tokio auch zum zweiten Mal in Folge die World Surf League Championship Tour gewinnen?</desc>
+  </programme>
+  <programme start="20261023051527 +0000" stop="20261023053452 +0000" channel="redbull_surfing">
+    <title lang="de">Showdown in Jaws (Peahi)</title>
+    <desc lang="de">Kai Lenny stellt sich beim WSL Big Wave World Tour-Event auf seinem Home-Break Jaws (Peahi) den weltbesten Big Wave-Surfern - ein Contest, den er bereits mehrfach zu gewinnen versuchte.</desc>
+  </programme>
+  <programme start="20261023053452 +0000" stop="20261023054859 +0000" channel="redbull_surfing">
+    <title lang="de">Aloha Mr. Lenny</title>
+    <desc lang="de">Auf der Insel Maui aufzuwachsen, umgeben von einigen der besten Surfer der Welt, mag Kai Lenny stark beeinflusst haben, aber nun steht er selber an der Spitze des Sports und hat nur ein Ziel vor Augen: der beste Big Wave-Surfer der Welt zu werden.</desc>
+  </programme>
+  <programme start="20261023054859 +0000" stop="20261023063652 +0000" channel="redbull_surfing">
+    <title lang="de">Shaping Jordy</title>
+    <desc lang="de">Zum ersten Mal seit 10 Jahren verbringt der Surfer Jordy Smith den Winter in seiner Heimat Südafrika. Mit dem Free-Surfing Meister Mikey February begibt er sich dort auf die Suche nach den besten Wellen.</desc>
+  </programme>
+  <programme start="20261023063652 +0000" stop="20261023065647 +0000" channel="redbull_surfing">
+    <title lang="de">Kai Lenny: Wiedergutmachung in Nazaré</title>
+    <desc lang="de">Der spektakuläre Tow Surfing-Contest in Nazaré ist ON. Zusammen mit Lucas „Chumbo" Chianca als Partner ist es Kai Lennys letzte Chance, auf einen Triumph in diesem Winter.</desc>
+  </programme>
+  <programme start="20261023065647 +0000" stop="20261023072437 +0000" channel="redbull_surfing">
+    <title lang="de">Mateus Herdy erkundet Floripa</title>
+    <desc lang="de">Das pulsierende Herz der brasilianischen Surfkultur liegt im Süden Brasiliens: Florianópolis. Mateus Herdy führt uns über eine Strecke von 600 km in 10 Tagen durch eine der produktivsten DIY-Surf- und Skate-Communitys der Welt.</desc>
+  </programme>
+  <programme start="20261023072437 +0000" stop="20261023080757 +0000" channel="redbull_surfing">
+    <title lang="de">Chapters</title>
+    <desc lang="de">Werfe einen Blick hinter die Kulissen und begleite Kanoa Igarashi zu den Stopps der World Championship Tour. Dabei erhältst du Insider-Infos über die Karriere eines der vielversprechendsten jungen Surf-Talente unserer Zeit.</desc>
+  </programme>
+  <programme start="20261023080757 +0000" stop="20261023092518 +0000" channel="redbull_surfing">
+    <title lang="de">Shaka</title>
+    <desc lang="de">Mathieu Crepel hat sich zwar vom Profi-Snowboarden zurückgezogen, ist aber immer noch offen für Abenteuer. Er beschließt, sich einer der größten Herausforderungen seines Lebens zu stellen: Er will Hawaiis größte Welle surfen – Jaws.</desc>
+  </programme>
+  <programme start="20261023092518 +0000" stop="20261023094553 +0000" channel="redbull_surfing">
+    <title lang="de">Das Erwachen des Biests</title>
+    <desc lang="de">Kai fährt nach Portugal zu einem historischen Swell in Nazaré. Inmitten eines epischen Schauspiels von Big-Wave-Performances der weltbesten Surfer erlebt er jedoch einen Wipeout, der ihn in einen Kampf um sein Leben stürzt.</desc>
+  </programme>
+  <programme start="20261023094553 +0000" stop="20261023102221 +0000" channel="redbull_surfing">
+    <title lang="de">Meet Kehu Butler in New Zealand</title>
+    <desc lang="de">The future of Kiwi surfing, Māori Kehu Butler, examines his culture’s past and his country’s surfing history as Made In: New Zealand travels around the Land of the Long White Cloud.</desc>
+  </programme>
+  <programme start="20261023102221 +0000" stop="20261023103628 +0000" channel="redbull_surfing">
+    <title lang="de">Aloha Mr. Lenny</title>
+    <desc lang="de">Auf der Insel Maui aufzuwachsen, umgeben von einigen der besten Surfer der Welt, mag Kai Lenny stark beeinflusst haben, aber nun steht er selber an der Spitze des Sports und hat nur ein Ziel vor Augen: der beste Big Wave-Surfer der Welt zu werden.</desc>
+  </programme>
+  <programme start="20261023103628 +0000" stop="20261023105146 +0000" channel="redbull_surfing">
+    <title lang="de">Die Legende von Nazaré</title>
+    <desc lang="de">Im portugiesischen Fischerdorf Nazaré trifft Kai Kenny auf den brasilianischen Profisurfer und seinen Partner für die bevorstehende Tow-Surfing Big Wave World Tour Lucas Chumbo, um mit ihm zu trainieren.</desc>
+  </programme>
+  <programme start="20261023105146 +0000" stop="20261023111309 +0000" channel="redbull_surfing">
+    <title lang="de">That’s Caroline</title>
+    <desc lang="de">Caroline Marks ist das Nachwuchs-Phänomen des Surfens. Ihr kometenhafter Aufstieg, vom Start der Profi-Karriere mit nur 13 Jahren, bis zur Qualifikation ihr Land diesen Sommer zu vertreten, ist nur der Anfang.</desc>
+  </programme>
+  <programme start="20261023111309 +0000" stop="20261023124807 +0000" channel="redbull_surfing">
+    <title lang="de">For the Dream</title>
+    <desc lang="de">Ben Gravy, ex-pro surfer and purveyor of stoke, sets out on his dream to be the first person to surf in all 50 US states, with the Nub Nation, his girlfriend and family supporting him along the way.</desc>
+  </programme>
+  <programme start="20261023124807 +0000" stop="20261023143044 +0000" channel="redbull_surfing">
+    <title lang="de">And Two If By Sea</title>
+    <desc lang="de">Surfer, Rivalen und eineiige Zwillinge: Verfolge die aussergewöhnliche Geschichte von CJ und Damien Hobgood, die auf der Suche nach ihrer jeweiligen Identität ihre Karrieren vorantreiben.</desc>
+  </programme>
+  <programme start="20261023143044 +0000" stop="20261023145145 +0000" channel="redbull_surfing">
+    <title lang="de">„Gigantes de Nazaré"</title>
+    <desc lang="de">Kai Lenny surft beim Contest „Gigantes de Nazaré" in Portugal, bevor er wieder in den Flieger zurück nach Maui steigt - gerade noch rechtzeitig, um einen der besten Surftage in Jaws (Peahi) zu erleben.</desc>
+  </programme>
+  <programme start="20261023145145 +0000" stop="20261023151237 +0000" channel="redbull_surfing">
+    <title lang="de">Becoming Bronson</title>
+    <desc lang="de">Der 16-jährige Bronson Meydi wuchs im Restaurant seiner Mutter im abgelegenen Indonesien auf - mit den höchsten Wellen direkt vor seiner Haustür. Wird er der erste indonesische Surfer sein, der sich für die WSL Championship Tour qualifiziert?</desc>
+  </programme>
+  <programme start="20261023151237 +0000" stop="20261023160213 +0000" channel="redbull_surfing">
+    <title lang="de">The Curious Tales of Ítalo Ferreira</title>
+    <desc lang="de">Wer ist Ítalo Ferreira wirklich? Entdecke die Wurzeln des brasilianischen Surfstars und beantworte mit ihm die eine Frage: kann er nach der Golmedaille in Tokio auch zum zweiten Mal in Folge die World Surf League Championship Tour gewinnen?</desc>
+  </programme>
+  <programme start="20261023160213 +0000" stop="20261023162208 +0000" channel="redbull_surfing">
+    <title lang="de">Kai Lenny: Wiedergutmachung in Nazaré</title>
+    <desc lang="de">Der spektakuläre Tow Surfing-Contest in Nazaré ist ON. Zusammen mit Lucas „Chumbo" Chianca als Partner ist es Kai Lennys letzte Chance, auf einen Triumph in diesem Winter.</desc>
+  </programme>
+  <programme start="20261023041830 +0000" stop="20261023042831 +0000" channel="redbull_skateboarding">
+    <title lang="de">Alex Sorgente</title>
+    <desc lang="de">Wir fahren ins kalifornische Carlsbad, um mit dem Skateboarder Alex Sorgente einen Tag mit Skatepark-Sessions, Go-Karts und Fisch-Tacos zu verbringen.</desc>
+  </programme>
+  <programme start="20261023042831 +0000" stop="20261023044324 +0000" channel="redbull_skateboarding">
+    <title lang="de">Madars Apse wagt sich an die Megaramp</title>
+    <desc lang="de">Madars Apse wagt sich an die Megaramp. Mit der Unterstützung von Beaver Fleming nimmt es Apse mit der Mini-Megaramp in Philadelphia, Pennsylvania auf.</desc>
+  </programme>
+  <programme start="20261023044324 +0000" stop="20261023044750 +0000" channel="redbull_skateboarding">
+    <title lang="de">Skate Intersection – Verloren in Shanghai</title>
+    <desc lang="de">Sei dabei, wenn Maxim Habanec, Vladik Scholz und Angelo Caro das einzigartige und ungewöhnliche Skate-Terrain von Shanghai entdecken, dass mehreren europäischen Städte Tribut zollt.</desc>
+  </programme>
+  <programme start="20261023044750 +0000" stop="20261023045416 +0000" channel="redbull_skateboarding">
+    <title lang="de">Margielyn Didal</title>
+    <desc lang="de">Begleite Margielyn Didal in ihre Heimatstadt Cebu City auf den Philippinen, um ihr Zuhause zu besichtigen, eine Session im nahe gelegenen Skatespot mitzuerleben und mit den Einheimischen zu chillen.</desc>
+  </programme>
+  <programme start="20261023045416 +0000" stop="20261023052231 +0000" channel="redbull_skateboarding">
+    <title lang="de">Unbekannte Skate-Spots in Europa</title>
+    <desc lang="de">Sei Teil der ersten Skate-Tour durch das unbekannte Terrain von Montenegro, Albanien, Kosovo und Nord Mazedonien - mit Wes Kremer, Madars Apse, Ben Skrzypek und Tino Arena.</desc>
+  </programme>
+  <programme start="20261023052231 +0000" stop="20261023052953 +0000" channel="redbull_skateboarding">
+    <title lang="de">Pura Pura Skatepark, Bolivia</title>
+    <desc lang="de">2014 wurde dieser bolivianische Skatepark von der Non-Profit Organisation Make Life Skate Life geshaped. Dafür brauchten über 100 Freiwillige weniger als einen Monat.</desc>
+  </programme>
+  <programme start="20261023052953 +0000" stop="20261023054858 +0000" channel="redbull_skateboarding">
+    <title lang="de">Hometown skating in Lisbon</title>
+    <desc lang="de">Lerne Gustavo Ribeiro, den portugiesischen Profi-Skater kennen, der kurz davor steht, auf der größten Bühne der Welt zu stehen. Begleite ihn, wenn er uns seine Heimatstadt Lissabon, Portugal, zeigt.</desc>
+  </programme>
+  <programme start="20261023054858 +0000" stop="20261023055252 +0000" channel="redbull_skateboarding">
+    <title lang="de">Phipps Skate Park</title>
+    <desc lang="de">Joey and Rip meet up with Autumn Tust to hit West Palm Beach’s Phipps Skate Park and stop by Post-Modern skate shop.</desc>
+  </programme>
+  <programme start="20261023055252 +0000" stop="20261023055833 +0000" channel="redbull_skateboarding">
+    <title lang="de">Skatepark of Tampa</title>
+    <desc lang="de">Joey and Rip meet Skatepark of Tampa’s Brian Schaefer to get a tour of the Florida park, meet the locals, and check out the on-site skate shop. Think Rip could hold his own at the next Tampa Am?</desc>
+  </programme>
+  <programme start="20261023055833 +0000" stop="20261023060921 +0000" channel="redbull_skateboarding">
+    <title lang="de">Skating the streets of Barcelona</title>
+    <desc lang="de">Where better try out some new tricks than on the fabled streets of skateboarding’s first city? Gustavo Ribeiro joins the Ementa crew to do just that in Barcelona.</desc>
+  </programme>
+  <programme start="20261023060921 +0000" stop="20261023061943 +0000" channel="redbull_skateboarding">
+    <title lang="de">Inside Gustavo Ribeiro's skatepark</title>
+    <desc lang="de">Tauche ein in die Welt des Profi-Skaters Gustavo Ribeiro, der Leticia Bufoni durch seinen privaten Indoor-Park führt und dort Aufnahmen für The Maze dreht.</desc>
+  </programme>
+  <programme start="20261023061943 +0000" stop="20261023063122 +0000" channel="redbull_skateboarding">
+    <title lang="de">How a skateboard gets made</title>
+    <desc lang="de">Der portugiesische Tech-Street-Profi Gustavo Ribeiro besucht Danny Leon, um die größte Skateboard-Fabrik Europas zu besichtigen.</desc>
+  </programme>
+  <programme start="20261023063122 +0000" stop="20261023070034 +0000" channel="redbull_skateboarding">
+    <title lang="de">Madars Apse trifft Mike Vallely</title>
+    <desc lang="de">Die lebende Legende Mike Vallely kann auf eine 35-jährige Karriere als Profi-Skater zurückblicken. Madars Apse geht mit einem echten Original auf die Straße, um etwas über Street Plant, Punkrock und Selbstverwirklichung zu lernen.</desc>
+  </programme>
+  <programme start="20261023070034 +0000" stop="20261023071203 +0000" channel="redbull_skateboarding">
+    <title lang="de">Jagger Eaton</title>
+    <desc lang="de">Ein Tag in Arizona mit Jagger Eaton oder aus dem Leben eines jungen Skateboarders. HIer gibt's die Homestory!</desc>
+  </programme>
+  <programme start="20261023071203 +0000" stop="20261023072553 +0000" channel="redbull_skateboarding">
+    <title lang="de">Joey Brezinski und sein mobiler Skatepark</title>
+    <desc lang="de">Ein Tag im Leben von Joey Brezinski – daheim bei ihm in Kalifornien und unterwegs in seinem mobilen Skatepark.</desc>
+  </programme>
+  <programme start="20261023072553 +0000" stop="20261023074047 +0000" channel="redbull_skateboarding">
+    <title lang="de">Madars Apse wagt sich an die Megaramp</title>
+    <desc lang="de">Madars Apse wagt sich an die Megaramp. Mit der Unterstützung von Beaver Fleming nimmt es Apse mit der Mini-Megaramp in Philadelphia, Pennsylvania auf.</desc>
+  </programme>
+  <programme start="20261023074047 +0000" stop="20261023080343 +0000" channel="redbull_skateboarding">
+    <title lang="de">Madars Apse trifft Dan Mancina</title>
+    <desc lang="de">In Detroit, Michigan trifft Madars Apse den blinden Skateboarder Dan Mancina, um seine Geschichte über den Weg zurück aufs Skateboard zu hören, nachdem er langsam das Augenlicht verlor.</desc>
+  </programme>
+  <programme start="20261023080343 +0000" stop="20261023082139 +0000" channel="redbull_skateboarding">
+    <title lang="de">Madars Apse trifft Bam Margera in Pennsylvania</title>
+    <desc lang="de">Pro-Skater Madars Apse begibt sich für die erste Episode nach Pennsylvania und trifft dort die lebende Skate-Legende Bam Margera. Gemeinsam erkunden sie Bams Skatescheune und eine brandneue Skaterampe.</desc>
+  </programme>
+  <programme start="20261023082139 +0000" stop="20261023082721 +0000" channel="redbull_skateboarding">
+    <title lang="de">Skatepark of Tampa</title>
+    <desc lang="de">Joey and Rip meet Skatepark of Tampa’s Brian Schaefer to get a tour of the Florida park, meet the locals, and check out the on-site skate shop. Think Rip could hold his own at the next Tampa Am?</desc>
+  </programme>
+  <programme start="20261023082721 +0000" stop="20261023085442 +0000" channel="redbull_skateboarding">
+    <title lang="de">Douglas Miles Jr und Apache Skateboards</title>
+    <desc lang="de">Apache Skateboards ist eine Bewegung, die die historische Kultur der amerikanischen Ureinwohner mit der modernen Skateboard-Ästhetik verbindet und beiden Welten neue Energien verleiht. Madars schließt sich ihnen an, um mehr zu erfahren.</desc>
+  </programme>
+  <programme start="20261023034059 +0000" stop="20261023042918 +0000" channel="redbull_winter">
+    <title lang="de">The Collective</title>
+    <desc lang="de">Von den Gipfeln Georgiens, durch die Straßen Schwedens, das gelobte Land Japan, bis zu den Spots von La Clusaz konzentriert sich die Crew aus Skifahrern, Künstlern und Filmemachern ganz auf eins: innovatives Skifahren.</desc>
+  </programme>
+  <programme start="20261023042918 +0000" stop="20261023051607 +0000" channel="redbull_winter">
+    <title lang="de">Roots</title>
+    <desc lang="de">Was ist die Essenz des Freeskiing? Im neuen Film von Faction Skis geht die aktuelle Generation von Ridern dieser Frage nach und begibt sich auf eine Reise von den mythischen Gipfeln Verbiers über Wyoming bis in die Dolomiten. Mit dabei: Mathilde Gremaud, Sam Anthamatten, Matej Svancer, Blake Wilson, Elisabeth Gerritzen uvm</desc>
+  </programme>
+  <programme start="20261023051607 +0000" stop="20261023060617 +0000" channel="redbull_winter">
+    <title lang="de">She Who Flies</title>
+    <desc lang="de">Ein persönlicher Film über Mathilde Gremaud: "She Who Flies" zeigt Erfolge, Rückschläge und die mentale Stärke der Schweizerin, einer der kreativsten und erfolgreichsten Freeskierinnen der Welt.</desc>
+  </programme>
+  <programme start="20261023060617 +0000" stop="20261023061601 +0000" channel="redbull_winter">
+    <title lang="de">Scotty James: Mit dem Splitboard in der Schweiz</title>
+    <desc lang="de">Scotty James macht sich mit seiner Crew auf ins Schweizer Backcountry auf der Suche nach dem ultimativen Splitboard Abenteuer. Im Anschluss geht es wieder zurück in die Halfpipe für die letzten Vorbereitungen vor dem Saisonstart.</desc>
+  </programme>
+  <programme start="20261023061601 +0000" stop="20261023062543 +0000" channel="redbull_winter">
+    <title lang="de">Spring training days with Scotty James</title>
+    <desc lang="de">The sun has set on Scotty James's 2021 competitive halfpipe season, but there's nothing but bluebird conditions in the forecast for his first spring training sessions back in Switzerland.</desc>
+  </programme>
+  <programme start="20261023062543 +0000" stop="20261023070746 +0000" channel="redbull_winter">
+    <title lang="de">Chasing Winter</title>
+    <desc lang="de">Begleite Mark McMorris und seine Freunde, wie sie sich in einem idyllischen Trainingslager in der Schweiz auf die wichtigste Wettkampfsaison ihrer Karriere vorbereiten.</desc>
+  </programme>
+  <programme start="20261023070746 +0000" stop="20261023071755 +0000" channel="redbull_winter">
+    <title lang="de">Scotty James: Die Berge rufen - Zeit zu antworten!</title>
+    <desc lang="de">Wir treffen Scotty James bei seiner Vorbereitung in Australien im September 2020, direkt vor seiner Abreise in die Schweiz. Wie Scotty sich die Zeit bis zum ersten Schnee vertreibt? Auf die bestmögliche Art und Weise...</desc>
+  </programme>
+  <programme start="20261023071755 +0000" stop="20261023072433 +0000" channel="redbull_winter">
+    <title lang="de">Wie man an den Shot der Träume herangeht</title>
+    <desc lang="de">Im Snowboarding wurde beinahe alles bereits gefilmt, dennoch gibt es diesen einen Shot der Träume immer wieder. Erlebe, was passiert, wenn John Jackson und die Pirate-Film-Crew in einen aktiven Vulkan in Kamchatka, Russland, steigen.</desc>
+  </programme>
+  <programme start="20261023072433 +0000" stop="20261023073447 +0000" channel="redbull_winter">
+    <title lang="de">Start der Halfpipe-Saison in Laax</title>
+    <desc lang="de">Endlich geht es für Scotty James wieder zu einem Wettkampf: beim ersten Halfpipe-Event des Jahres, den Laax Open 2021, will er sich den Titel holen.</desc>
+  </programme>
+  <programme start="20261023073447 +0000" stop="20261023075800 +0000" channel="redbull_winter">
+    <title lang="de">Bang on Time</title>
+    <desc lang="de">Eine Weltpremiere vereint Freeskier und Wingsuit-Piloten: Während die Freeskier ihre Tricks performen, werden sie zeitgleich vom Red Bull Skydive Team begleitet.</desc>
+  </programme>
+  <programme start="20261023075800 +0000" stop="20261023081541 +0000" channel="redbull_winter">
+    <title lang="de">Unrailistic 2.0 - Making of</title>
+    <desc lang="de">Die meisten Tricks in Unrailistic 2.0 sehen so einfach aus...aber lass dich davon nicht täuschen. Wie du im Video sehen kannst, dauert es Tage, bis Jesper mit einem Trick endlich zufrieden ist.</desc>
+  </programme>
+  <programme start="20261023081541 +0000" stop="20261023085331 +0000" channel="redbull_winter">
+    <title lang="de">Abstract</title>
+    <desc lang="de">Skifahren ist keine Kunst und Skifahrer:innen sind keine Künstler. Und wenn doch? Denn wie künstlerisch mutet es an, wenn Freeskier und Landschaften zu einem Gesamtwerk verschmelzen.</desc>
+  </programme>
+  <programme start="20261023085331 +0000" stop="20261023094150 +0000" channel="redbull_winter">
+    <title lang="de">The Collective</title>
+    <desc lang="de">Von den Gipfeln Georgiens, durch die Straßen Schwedens, das gelobte Land Japan, bis zu den Spots von La Clusaz konzentriert sich die Crew aus Skifahrern, Künstlern und Filmemachern ganz auf eins: innovatives Skifahren.</desc>
+  </programme>
+  <programme start="20261023094150 +0000" stop="20261023100443 +0000" channel="redbull_winter">
+    <title lang="de">Saisho</title>
+    <desc lang="de">Von der Hektik Tokios bis zur Stille des schneebedeckten Hokkaido folgt Saisho den Freestyle-Skifahrern Miguel und Nico Porteous und Felix Klein, die Japan zum ersten Mal erleben.</desc>
+  </programme>
+  <programme start="20261023100443 +0000" stop="20261023104652 +0000" channel="redbull_winter">
+    <title lang="de">Paved</title>
+    <desc lang="de">Die Koproduktion von Burton und Red Bull Media House ist mehr als nur ein Snowboardfilm: ein Stück Geschichte, ein legendäres Treffen und eine wilde Backcountry-Odyssee. Mit rauem Charme, ironischem Witz und purer Leidenschaft fängt Paved die Seele des Snowboardens in seiner unverfälschten, freien Form ein.</desc>
+  </programme>
+  <programme start="20261023104652 +0000" stop="20261023105438 +0000" channel="redbull_winter">
+    <title lang="de">Wie man Action und Landschaft kombiniert einfängt</title>
+    <desc lang="de">Wie filmt die Pirate-Film-Crew die besten Snowboarder der Welt an den magischsten Orten auf diesem Planeten? Finde heraus, was eine Session dieser Art auszeichnet, wie man für die besten Lichtbedingungen und das beste Kamera-Setup sorgt und vieles mehr...</desc>
+  </programme>
+  <programme start="20261023105438 +0000" stop="20261023110541 +0000" channel="redbull_winter">
+    <title lang="de">Keine Auszeit für Scotty James und Maddie Mastro</title>
+    <desc lang="de">Scotty James und Maddie Mastro machen sich auf zum Training mit ihrem Coach. Von Aspen geht es nach Park City, wo die beiden eine Session nach der andere fahren, um sich auf die zweite Saison-Hälfte vorzubereiten.</desc>
+  </programme>
+  <programme start="20261023110541 +0000" stop="20261023111722 +0000" channel="redbull_winter">
+    <title lang="de">Finale! On to the next one for Scotty James</title>
+    <desc lang="de">Snowboarder Scotty James is wrapping up another season spent perfecting the halfpipe, but he's already eyeing up what's coming up next for him in 2021.</desc>
+  </programme>
+  <programme start="20261023111722 +0000" stop="20261023112550 +0000" channel="redbull_winter">
+    <title lang="de">Wie man die perfekten Drohnen-Shots umsetzt</title>
+    <desc lang="de">Drohnen sind billiger und umweltfreundlicher als ein Heli. Unzählige Menschen haben eine - aber wie kann man diese optimal für professionelle Action-Shots einsetzen? Lerne, wie man sie fliegt und die optimalen Winkel findet. </desc>
+  </programme>
+  <programme start="20261023112550 +0000" stop="20261023113954 +0000" channel="redbull_winter">
+    <title lang="de">Action Men</title>
+    <desc lang="de">Paddy Graham, Markus Eder und die Gang finden sich zusammen um die Höhen und Tiefen eines epischen Ski-Abenteuers Revue passieren zu lassen. Doch die Zeit scheint sie verändert zu haben.</desc>
+  </programme>
+  <programme start="20261023041906 +0000" stop="20261023042457 +0000" channel="redbull_action_reel">
+    <title lang="de">Running Reverse</title>
+    <desc lang="de">Jason Paul erlebt einen seltsamen Tag in seiner Heimatstadt Frankfurt am Main. Sieh dabei zu, wie der Freerunner die Lage mit einer Reihe von atemberaubenden und risikoreichen Moves bereinigt.</desc>
+  </programme>
+  <programme start="20261023042457 +0000" stop="20261023042814 +0000" channel="redbull_action_reel">
+    <title lang="de">Keys to the Track</title>
+    <desc lang="de">Travis Pastrana, Alexander Rossi und Gregg Duffy lassen sich von Wintertemperaturen nicht abschrecken, wenn sie einen Spaß-Tag auf dem Indianapolis Motor Speedway verbringen.</desc>
+  </programme>
+  <programme start="20261023042814 +0000" stop="20261023043104 +0000" channel="redbull_action_reel">
+    <title lang="de">Die gewaltigen Wellen von Nazaré</title>
+    <desc lang="de">Die Wellen in Nazaré in Portugal sind bekannt für ihre wilde Kraft und das macht sie zu einem Magneten für Big-Wave-Surfer. Erlebe, wie Justine Dupont, Andrew Cotton, Conor Maguire, Kai Lenny und noch viele andere die monströsen Brecher in Angriff nehmen.</desc>
+  </programme>
+  <programme start="20261023043104 +0000" stop="20261023043314 +0000" channel="redbull_action_reel">
+    <title lang="de">Wake Crane</title>
+    <desc lang="de">Three top wakeboarders – Dominik Gührs, Felix Georgii and Dominik Hernler – rip around a custom wakeboard park built from a crane and a bunch of cargo containers in the port of Pula, Croatia.</desc>
+  </programme>
+  <programme start="20261023043314 +0000" stop="20261023043830 +0000" channel="redbull_action_reel">
+    <title lang="de">Tyler Bereman</title>
+    <desc lang="de">Watch as a drone captures freestyle motocross rider Tyler Bereman on one epic ride from start to finish. No cuts, no edits, just maximum FMX action.</desc>
+  </programme>
+  <programme start="20261023043830 +0000" stop="20261023044238 +0000" channel="redbull_action_reel">
+    <title lang="de">Freerunner's guide to the Sydney Opera House</title>
+    <desc lang="de">Watch Dominic Di Tommaso freerun on the roof of the Sydney Opera House – all the way to tip of the sails. (Activities performed in a controlled environment under the supervision of professionals.)</desc>
+  </programme>
+  <programme start="20261023044238 +0000" stop="20261023044527 +0000" channel="redbull_action_reel">
+    <title lang="de">Simon Stricker: Taiwanische Kirschblüten</title>
+    <desc lang="de">Die Straßen von Taipei und Kaohsiung in Taiwan bieten natürliche Schönheiten durch und durch - Simon Stricker macht sie zu seinem ganz eigenen Spielplatz.</desc>
+  </programme>
+  <programme start="20261023044527 +0000" stop="20261023044749 +0000" channel="redbull_action_reel">
+    <title lang="de">The Soul Flyers</title>
+    <desc lang="de">Above the Alps, the Soul Flyers, Fred Fugen and Vince Reffet, make history by BASE jumping from a mountain, catching a Pilatus plane in their wingsuits, then flying right through the aircraft's door!</desc>
+  </programme>
+  <programme start="20261023044749 +0000" stop="20261023044945 +0000" channel="redbull_action_reel">
+    <title lang="de">Unendlichkeitswürfel</title>
+    <desc lang="de">Die Red Bull BC One All Stars zeigen ihre Moves in einem Spiegelwürfel, der den Raum visuell in alle Richtungen erweitert und den Eindruck unendlicher Bewegungen erweckt.</desc>
+  </programme>
+  <programme start="20261023044945 +0000" stop="20261023045627 +0000" channel="redbull_action_reel">
+    <title lang="de">Zwischen Sim und Realität</title>
+    <desc lang="de">Challenge accepted: Max Verstappen taucht tief in seinen Simulator ein und muss verschiedene Levels absolvieren, um zum GP in Belgien am Circuit Spa-Francorchamps zu gelangen.</desc>
+  </programme>
+  <programme start="20261023045627 +0000" stop="20261023045808 +0000" channel="redbull_action_reel">
+    <title lang="de">Carson Storch</title>
+    <desc lang="de">Sieh dir an, wie Carson Storch durch einen Wald in New Hampshire fährt und es mit einem Zug und einer Eisenbahntrasse aufnimmt – in 100 Sekunden krasser MTB-Action.</desc>
+  </programme>
+  <programme start="20261023045808 +0000" stop="20261023045931 +0000" channel="redbull_action_reel">
+    <title lang="de">Petra BASE jump</title>
+    <desc lang="de">Red Bull Air Force's Miles Daisher becomes the first BASE jumper to land in front of Petra's famous UNESCO World Heritage Site, The Treasury, clearing a 30m-wide valley and reaching speeds of 32kph.</desc>
+  </programme>
+  <programme start="20261023045931 +0000" stop="20261023050247 +0000" channel="redbull_action_reel">
+    <title lang="de">Uncorked</title>
+    <desc lang="de">With a gorgeous sunset providing the backdrop for a perfect evening session, Mark McMorris, Seb Toots, and friends rip up a perfectly manicured snowboard park.</desc>
+  </programme>
+  <programme start="20261023050247 +0000" stop="20261023050507 +0000" channel="redbull_action_reel">
+    <title lang="de">Tanzen im Lichtermeer</title>
+    <desc lang="de">Begrüße 2019 mit einem Tanz auf den Dächern von Mumbai, Indien. Die Kombination aus herausragenden Tanzfertigkeiten und Feuerwerk ist wunderschön und elektrisierend.</desc>
+  </programme>
+  <programme start="20261023050507 +0000" stop="20261023050915 +0000" channel="redbull_action_reel">
+    <title lang="de">Luc Ackermann: FMX Unloaded</title>
+    <desc lang="de">Freestyle-Motocross-Fahrer Luc Ackermann verwandelt das Rhenus-Logistiklager in Duisburg, Deutschland, in seinen persönlichen FMX-Spielplatz und enthüllt drei Weltneuheiten in diesem beeindruckenden neuen Videoprojekt.</desc>
+  </programme>
+  <programme start="20261023050915 +0000" stop="20261023051055 +0000" channel="redbull_action_reel">
+    <title lang="de">Rob Warner and Matt Jones go riding in New Zealand</title>
+    <desc lang="de">Experience just the clear sound of bike tyre on gravel track as Rob Warner and slopestyle rider Matt Jones ride down a mountainside trail in New Zealand's South Island.</desc>
+  </programme>
+  <programme start="20261023051055 +0000" stop="20261023051521 +0000" channel="redbull_action_reel">
+    <title lang="de">Skate Intersection – Verloren in Shanghai</title>
+    <desc lang="de">Sei dabei, wenn Maxim Habanec, Vladik Scholz und Angelo Caro das einzigartige und ungewöhnliche Skate-Terrain von Shanghai entdecken, dass mehreren europäischen Städte Tribut zollt.</desc>
+  </programme>
+  <programme start="20261023051521 +0000" stop="20261023051807 +0000" channel="redbull_action_reel">
+    <title lang="de">Tahnée Seagrave mischt Lousã, Portugal auf</title>
+    <desc lang="de">Nach einer lebensverändernden Kopfverletzung ist Tahnée Seagrave wieder zurück und bereit, um für einen Spitzenplatz beim UCI Downhill Mountain Bike World Cup zu kämpfen.</desc>
+  </programme>
+  <programme start="20261023051807 +0000" stop="20261023052006 +0000" channel="redbull_action_reel">
+    <title lang="de">GP on Ice</title>
+    <desc lang="de">Erlebe, wie Weltmeister Max Verstappen das erste Rennen des Jahres 2022 bestreitet - auf Eis. Er stellt seinen F1-Boliden mit speziell entwickelten Pirelli-Spike-Reifen auf die Probe stellt. Mit von der Partie: Eisspeedway-Star Franky Zorn.</desc>
+  </programme>
+  <programme start="20261023052006 +0000" stop="20261023052400 +0000" channel="redbull_action_reel">
+    <title lang="de">Project Istanbulls</title>
+    <desc lang="de">Pierre Gasly von Scuderia AlphaTauri und Alex Albon von Aston Martin Red Bull Racing feiern in den Straßen Istanbuls die lang ersehnte Rückkehr der Formel 1 in die Türkei.</desc>
+  </programme>
+</tv>
