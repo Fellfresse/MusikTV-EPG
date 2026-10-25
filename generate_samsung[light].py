@@ -11,10 +11,21 @@ SAM_URL = "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Samsung
 ID_TRANSLATION = {
     "DE2500001DO": "Cool Summer Channel",
     "GBBC19000017V": "Vevo Pop [UK]",
-    "GBBD1900009UD": "Vevo '70s-'80s [UK]",
-    "GBBC2100002HP": "Vevo '90s-'00s [UK]",
+    "GBBD1900009UD": "Vevo 70s-80s [UK]",
+    "GBBC2100002HP": "Vevo 90s-00s [UK]",
     "GBBD2300001C0": "Vevo Hip Hop-R-B [UK]",
     "GBBD3000004VR": "Def Jam",
+    "FRBC2100001YY": "Vevo Pop [FR]",
+    "FRBD1900013CB": "Vevo Rétro [FR]",
+    "FRBC2100002JA": "Vevo Hip Hop-R-B [FR]",
+    "ESBC2100001IU": "Vevo Pop [ES]",
+    "ESBD230000289": "Vevo Retro [ES]",
+    "ESBC2100002LV": "Vevo Latino [ES]",
+    "ITBC2100001G9": "Vevo Pop [IT]",
+    "ITBD1900010JL": "Vevo 70s-80s [IT]",
+    "ITBC210000200": "Vevo 90s-00s [IT]",
+    "ITBC1100011RK": "Rock TV [IT]",
+    "IT500006GE": "70-80.it",
 }
 
 HEADERS = {
