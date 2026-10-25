@@ -9,9 +9,12 @@ import xml.etree.ElementTree as ET
 SAM_URL = "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz"
 
 ID_TRANSLATION = {
-    "GBBB3800005QO": "XITE Hits [UK]",
-    "USBD3300004RH": "XITE Hits [US]",
-    "USBB320000647": "XITE 80s Flashback [US]",
+    "DE2500001DO": "Cool Summer Channel",
+    "GBBC19000017V": "Vevo Pop [UK]",
+    "GBBD1900009UD": "Vevo '70s-'80s [UK]",
+    "GBBC2100002HP": "Vevo '90s-'00s [UK]",
+    "GBBD2300001C0": "Vevo Hip Hop-R&B [UK]",
+    "GBBD3000004VR": "Def Jam",
 }
 
 HEADERS = {
