@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Fellfresse" generator-info="Samsung[light]_epg">
-  <channel id="GBBB3800005QO">
+  <channel id="XITE Hits [UK]">
     <display-name>XITE Hits</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB3800005QO_20260804T051900SQUARE.png" />
   </channel>
-  <channel id="USBD3300004RH">
+  <channel id="XITE Hits [US]">
     <display-name>XITE Hits</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20260421T141846SQUARE.png" />
   </channel>
-  <channel id="USBB320000647">
+  <channel id="XITE 80s Flashback [US]">
     <display-name>XITE 80s Flashback</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png" />
   </channel>
-  <programme channel="USBD3300004RH" start="20261025070000 +0000" stop="20261025100000 +0000">
+  <programme channel="XITE Hits [US]" start="20261025070000 +0000" stop="20261025100000 +0000">
     <title>The Hit Mix: After Hours</title>
     <desc>Experience the ultimate after-hours mix with these music video hits.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2952980232_0_20260522T054422156Z_3_imageprocessorclient-tvplus-linear-75df688c49-bl6n6.png" />
@@ -20,7 +20,7 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBD3300004RH" start="20261025100000 +0000" stop="20261025130000 +0000">
+  <programme channel="XITE Hits [US]" start="20261025100000 +0000" stop="20261025130000 +0000">
     <title>Rise &amp; Shine Hits</title>
     <desc>Struggling to rise and shine? Let these hits get you through the early hours.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2536799480_11_20260213T005719483Z_109_imageprocessorclient-tvplus-linear-584c967455-6w4wn.png" />
@@ -28,7 +28,7 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBD3300004RH" start="20261025130000 +0000" stop="20261025160000 +0000">
+  <programme channel="XITE Hits [US]" start="20261025130000 +0000" stop="20261025160000 +0000">
     <title>Morning Hits</title>
     <desc>Start your morning with the best hits of the moment!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2952938680_0_20260522T054422156Z_94_imageprocessorclient-tvplus-linear-75df688c49-bl6n6.png" />
@@ -36,7 +36,7 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBB320000647" start="20261025070000 +0000" stop="20261025100000 +0000">
+  <programme channel="XITE 80s Flashback [US]" start="20261025070000 +0000" stop="20261025100000 +0000">
     <title>Nighttime 80s</title>
     <desc>80s music videos all night long.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2953308057_3_20260522T081103987Z_66_imageprocessorclient-tvplus-linear-75df688c49-jrl2c.png" />
@@ -44,7 +44,7 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBB320000647" start="20261025100000 +0000" stop="20261025120000 +0000">
+  <programme channel="XITE 80s Flashback [US]" start="20261025100000 +0000" stop="20261025120000 +0000">
     <title>Wide Awake 80s</title>
     <desc>Get your day started with these 80s music videos.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_3494236232_0_20260918T185233041Z_24_imageprocessorclient-tvplus-linear-6b56cc9f55-z4t54.png" />
@@ -52,7 +52,7 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="USBB320000647" start="20261025120000 +0000" stop="20261025160000 +0000">
+  <programme channel="XITE 80s Flashback [US]" start="20261025120000 +0000" stop="20261025160000 +0000">
     <title>Wake Up And Go-Go</title>
     <desc>Let these 80s hits be your morning motivation.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2590975722_1_20260225T185448939Z_117_imageprocessorclient-tvplus-linear-584c967455-ntwwh.png" />
