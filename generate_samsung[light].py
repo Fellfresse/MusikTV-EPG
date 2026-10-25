@@ -13,7 +13,7 @@ ID_TRANSLATION = {
     "GBBC19000017V": "Vevo Pop [UK]",
     "GBBD1900009UD": "Vevo '70s-'80s [UK]",
     "GBBC2100002HP": "Vevo '90s-'00s [UK]",
-    "GBBD2300001C0": "Vevo Hip Hop-R&B [UK]",
+    "GBBD2300001C0": "Vevo Hip Hop-R-B [UK]",
     "GBBD3000004VR": "Def Jam",
 }
 
