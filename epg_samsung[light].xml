@@ -12,22 +12,6 @@
     <display-name>XITE 80s Flashback</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20260512T070257SQUARE.png" />
   </channel>
-  <programme channel="XITE Hits [US]" start="20261025100000 +0000" stop="20261025130000 +0000">
-    <title>Rise &amp; Shine Hits</title>
-    <desc>Struggling to rise and shine? Let these hits get you through the early hours.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2536799480_11_20260213T005719483Z_109_imageprocessorclient-tvplus-linear-584c967455-6w4wn.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="XITE Hits [US]" start="20261025130000 +0000" stop="20261025160000 +0000">
-    <title>Morning Hits</title>
-    <desc>Start your morning with the best hits of the moment!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2952938680_0_20260522T054422156Z_94_imageprocessorclient-tvplus-linear-75df688c49-bl6n6.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="XITE Hits [US]" start="20261025160000 +0000" stop="20261025190000 +0000">
     <title>Nonstop Hits</title>
     <desc>Check out the hottest music videos of the moment.</desc>
@@ -36,10 +20,18 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="XITE 80s Flashback [US]" start="20261025120000 +0000" stop="20261025160000 +0000">
-    <title>Wake Up And Go-Go</title>
-    <desc>Let these 80s hits be your morning motivation.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2590975722_1_20260225T185448939Z_117_imageprocessorclient-tvplus-linear-584c967455-ntwwh.png" />
+  <programme channel="XITE Hits [US]" start="20261025190000 +0000" stop="20261025220000 +0000">
+    <title>Hits All Afternoon</title>
+    <desc>Need a pick me up? Here are some uplifting music videos that will give you energy for the hardest part of the day.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2956687653_1_20260523T013649236Z_44_imageprocessorclient-tvplus-linear-75df688c49-bwtc7.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261025220000 +0000" stop="20261026010000 +0000">
+    <title>Hits Now: The Ultimate Collection</title>
+    <desc>Tune in for a non-stop playlist of today's chart-topping hits!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2952952722_0_20260522T054422158Z_54_imageprocessorclient-tvplus-linear-75df688c49-bl6n6.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -55,6 +47,14 @@
   <programme channel="XITE 80s Flashback [US]" start="20261025180000 +0000" stop="20261025220000 +0000">
     <title>80s Afternoon Anthems</title>
     <desc>Let these 80s hits be the soundtrack to your afternoon.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2590975722_1_20260225T185448939Z_117_imageprocessorclient-tvplus-linear-584c967455-ntwwh.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261025220000 +0000" stop="20261026000000 +0000">
+    <title>Ultimate 80s Mixtape</title>
+    <desc>Simply the best 80s music video hits.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/US_USQT620324A_2590975722_1_20260225T185448939Z_117_imageprocessorclient-tvplus-linear-584c967455-ntwwh.png" />
     <rating>
       <value>NA</value>
