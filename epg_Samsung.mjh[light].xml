@@ -24,22 +24,6 @@
     <display-name>Def Jam</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3000004VR_20250107T030629SQUARE.png" />
   </channel>
-  <programme channel="Cool Summer Channel" start="20261025172410 +0000" stop="20261025182545 +0000">
-    <title>Summer Replay Vol.2</title>
-    <desc>Set the tone for summer with on-repeat favourites from Gracie Abrams, Justin Bieber, Selena Gomez and more.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2262693944_0_20261007T125212484Z_79_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="Cool Summer Channel" start="20261025182545 +0000" stop="20261025185827 +0000">
-    <title>Olivia Dean X SIENNA SPIRO Vol.1</title>
-    <desc>Modern soul meets pop with the best of Olivia Dean and Sienna Spiro.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2124906448_0_20260821T171327370Z_60_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
   <programme channel="Cool Summer Channel" start="20261025185827 +0000" stop="20261025192802 +0000">
     <title>Just Dropped Vol.1</title>
     <desc>Fresh tracks from Taylor Swift, Olivia Rodrigo, Chappell Roan and more</desc>
@@ -96,12 +80,20 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [UK]" start="20261025180000 +0000" stop="20261025190000 +0000">
-    <title>Pop Rewind</title>
-    <desc>Unforgettable hits from the past few years.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737191_2_20260903T193609210Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.png" />
+  <programme channel="Cool Summer Channel" start="20261026004110 +0000" stop="20261026011111 +0000">
+    <title>Lorde X Troye Sivan Vol.1</title>
+    <desc>The best of Lorde and Troye Sivan.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2179446968_0_20260909T164528306Z_56_imageprocessorclient-tvplus-linear-b5879c6c6-ln68x.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme channel="Cool Summer Channel" start="20261026011111 +0000" stop="20261026024425 +0000">
+    <title>Hot Pop Hits Vol.6</title>
+    <desc>All of the hottest pop hits from Sabrina Carpenter, Olivia Rodrigo, Ariana Grande and more.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_485193647_0_20231012T003838502Z_63.jpeg" />
+    <rating>
+      <value>18</value>
     </rating>
   </programme>
   <programme channel="Vevo Pop [UK]" start="20261025190000 +0000" stop="20261025200000 +0000">
@@ -152,10 +144,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo '70s-'80s [UK]" start="20261025180000 +0000" stop="20261025190000 +0000">
-    <title>Love it Live: '70s &amp; '80s</title>
-    <desc>Watch legendary artists on stage during their hottest moment.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736965_3_20260903T193609471Z_34_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
+  <programme channel="Vevo Pop [UK]" start="20261026010000 +0000" stop="20261026020000 +0000">
+    <title>Pure Pop Videos</title>
+    <desc>The best videos in pop music.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737025_4_20260903T193614918Z_74_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -208,10 +200,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo '90s-'00s [UK]" start="20261025180000 +0000" stop="20261025190000 +0000">
-    <title>'00s UK Number Ones</title>
-    <desc>Every UK Number 1 from the '00s.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737204_3_20260903T193609472Z_92_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
+  <programme channel="Vevo '70s-'80s [UK]" start="20261026010000 +0000" stop="20261026020000 +0000">
+    <title>British Legends</title>
+    <desc>The most influential music icons of the '70s &amp; '80s.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736905_4_20260903T193609544Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -264,10 +256,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261025180000 +0000" stop="20261025190000 +0000">
-    <title>UK Rap Essentials</title>
-    <desc>The biggest videos from the UK from rap to drill.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737134_5_20260903T193609568Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-ln68x.png" />
+  <programme channel="Vevo '90s-'00s [UK]" start="20261026010000 +0000" stop="20261026020000 +0000">
+    <title>Boy vs Girl Bands</title>
+    <desc>We're going toe-to-toe with the top boy &amp; girl bands of both decades.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162735967_1_20260903T193609184Z_128_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -320,22 +312,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Def Jam" start="20261025171415 +0000" stop="20261025181347 +0000">
-    <title>Def Jam</title>
-    <sub-title>Vol.1</sub-title>
-    <desc>From breakout singles to fan-favourites, discover the best of Alessia Cara.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2076032607_6_20260804T132951224Z_26_imageprocessorclient-tvplus-linear-648598f6b5-rmzhl.jpeg" />
+  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261026010000 +0000" stop="20261026020000 +0000">
+    <title>DSCVR New Music</title>
+    <desc>Emerging artists that you need to know about.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737054_3_20260903T193614470Z_63_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
     <rating>
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="Def Jam" start="20261025181347 +0000" stop="20261025191255 +0000">
-    <title>Def Jam</title>
-    <sub-title>Original Cuts</sub-title>
-    <desc>Def Jam Original Cuts</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2113850858_0_20260817T184935284Z_79_imageprocessorclient-tvplus-linear-648598f6b5-n7xck.jpeg" />
-    <rating>
-      <value>5</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="Def Jam" start="20261025191255 +0000" stop="20261025201439 +0000">
@@ -386,6 +368,15 @@
     <sub-title>Elevate: The New R&amp;B Era Vol.2</sub-title>
     <desc>Discover the new era of R&amp;B with standout hits from Coco Jones, Muni Long, Chase Shakur and more.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2266264495_2_20261008T164227960Z_50_imageprocessorclient-tvplus-linear-b5879c6c6-5w9tj.jpeg" />
+    <rating>
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme channel="Def Jam" start="20261026004832 +0000" stop="20261026014902 +0000">
+    <title>Def Jam</title>
+    <sub-title>90's Vol.1</sub-title>
+    <desc>The Golden Era: A History of Def Jam: 90's</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2266242409_0_20261008T164227913Z_49_imageprocessorclient-tvplus-linear-b5879c6c6-2h2xg.jpeg" />
     <rating>
       <value>18</value>
     </rating>
