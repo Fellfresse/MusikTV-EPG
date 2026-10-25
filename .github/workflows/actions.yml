@@ -2,7 +2,7 @@ name: Build EPG
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */1 * * *'
   push:
   workflow_dispatch:
 
@@ -31,9 +31,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: generate RedBull EPG
-        run: python generate_redbull.py --out epg_redbull.xml
+#      - name: generate RedBull EPG
+#        run: python generate_redbull.py --out epg_redbull.xml
         
+      - name: generate Samsung[light] EPG
+        run: python generate_samsung[light].py
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
