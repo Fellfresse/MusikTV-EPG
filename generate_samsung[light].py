@@ -9,9 +9,9 @@ import xml.etree.ElementTree as ET
 SAM_URL = "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/SamsungTVPlus/all.xml.gz"
 
 ID_TRANSLATION = {
-    "GBBB3800005QO": "GBBB3800005QO",
-    "USBD3300004RH": "USBD3300004RH",
-    "USBB320000647": "USBB320000647",
+    "GBBB3800005QO": "XITE Hits [UK]",
+    "USBD3300004RH": "XITE Hits [US]",
+    "USBB320000647": "XITE 80s Flashback [US]",
 }
 
 HEADERS = {
