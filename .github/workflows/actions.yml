@@ -7,7 +7,11 @@ on:
     - cron: '12 * * * *'
 
   push:
-  workflow_dispatch:
+#  workflow_dispatch:
+
+  repository_dispatch:
+    types: [scheduled-sync]
+  workflow_dispatch: {}
 
 jobs:
   build:
