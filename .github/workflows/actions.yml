@@ -11,9 +11,9 @@ on:
   push:
 #  workflow_dispatch:
 
-  repository_dispatch:
-    types: [scheduled-sync]
-  workflow_dispatch: {}
+#  repository_dispatch:
+#    types: [scheduled-sync]
+#  workflow_dispatch: {}
 
 jobs:
   build:
