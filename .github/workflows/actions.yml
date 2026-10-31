@@ -1,10 +1,12 @@
 name: Build EPG
 
+#on:
+#  schedule:
+#    - cron: '0 */1 * * *'
 on:
-  schedule:
-#    - cron: '0 */2 * * *'
-#    - cron: '0 * * * *'
-    - cron: '12 * * * *'
+  repository_dispatch:
+    types:
+      - webhook-1
 
   push:
 #  workflow_dispatch:
