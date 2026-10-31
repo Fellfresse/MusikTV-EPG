@@ -6,7 +6,7 @@ name: Build EPG
 on:
   repository_dispatch:
     types:
-      - webhook-1
+      - Webhook-1
 
   push:
 #  workflow_dispatch:
