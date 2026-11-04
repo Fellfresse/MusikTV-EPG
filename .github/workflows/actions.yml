@@ -28,6 +28,18 @@ jobs:
       - name: generate Samsung[light] EPG
         run: python generate_samsung[light].py
 
+      - name: generate Pluto GB[light] EPG
+        run: python generate_pluto_gblight].py --hours 48 --out epg_Pluto_GB[light].xml
+
+      - name: generate Pluto CA[light] EPG
+        run: python generate_pluto_ca[light].py --hours 48 --out epg_Pluto_CA[light].xml
+
+      - name: generate Pluto BR[light] EPG
+        run: python generate_pluto_br[light].py --hours 48 --out epg_Pluto_BR[light].xml
+ 
+      - name: generate Pluto US[light] EPG
+        run: python generate_pluto_us[light].py --hours 48 --out epg_Pluto_US[light].xml
+ 
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
