@@ -100,17 +100,9 @@
     <display-name>Rock TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" />
   </channel>
-  <programme start="20261104163000 +0200" stop="20261104203000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261104170000 +0200" stop="20261104213000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261104203000 +0200" stop="20261104210000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
-  </programme>
-  <programme start="20261104210000 +0200" stop="20261104213000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
   <programme start="20261104213000 +0200" stop="20261104220000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
@@ -312,33 +304,21 @@
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
-  <programme start="20261105223000 +0200" stop="20261106043000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261105223000 +0200" stop="20261106050000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104204408 +0200" channel="mtv-classic-ca">
+  <programme start="20261104170000 +0200" stop="20261104215508 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261104204408 +0200" stop="20261104210608 +0200" channel="mtv-classic-ca">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Dancing In The Dark (Bruce Springsteen) / Wake Me Up Before You Go Go (Wham) / The Final Countdown (Europe) / Push It (Salt-N-Pepa) / Don't Leave Me This Way (The Communards)</desc>
-  </programme>
-  <programme start="20261104210608 +0200" stop="20261104213508 +0200" channel="mtv-classic-ca">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Come On Eileen (Dexys) / I Just Called To Say I Love You (Stevie Wonder) / The Power Of Love (Jennifer Rush) / Hello (Lionel Richie) / Sledgehammer (Peter Gabriel).</desc>
-  </programme>
-  <programme start="20261104213508 +0200" stop="20261104215508 +0200" channel="mtv-classic-ca">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">TLC / Bryan Adams / CeCe Peniston / Roxette.</desc>
   </programme>
   <programme start="20261104215508 +0200" stop="20261104221108 +0200" channel="mtv-classic-ca">
     <title lang="en">90s Hits</title>
@@ -636,29 +616,21 @@
     <title lang="en">90s Hits</title>
     <desc lang="en">Nightcrawlers / B-52's /Sinéad O'Connor / Snap!.</desc>
   </programme>
-  <programme start="20261105221608 +0200" stop="20261106043000 +0200" channel="mtv-classic-ca">
+  <programme start="20261105221608 +0200" stop="20261106050000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-classic-ca">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-classic-ca">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104203000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261104170000 +0200" stop="20261104213000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261104203000 +0200" stop="20261104210000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
-  </programme>
-  <programme start="20261104210000 +0200" stop="20261104213000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
   <programme start="20261104213000 +0200" stop="20261104220000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
@@ -860,19 +832,19 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
-  <programme start="20261105223000 +0200" stop="20261106043000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261105223000 +0200" stop="20261106050000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104204900 +0200" channel="mtv-rocks-br">
+  <programme start="20261104170000 +0200" stop="20261104204900 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -1116,19 +1088,19 @@
     <title lang="en">90s Rock Anthems</title>
     <desc lang="en">What's Up? (4 Non Blondes) / Disappear (INXS) / Are You Gonna Go My Way (Lenny Kravitz) / Beetlebum (Blur) / Common People (Pulp)</desc>
   </programme>
-  <programme start="20261105222500 +0200" stop="20261106043000 +0200" channel="mtv-rocks-br">
+  <programme start="20261105222500 +0200" stop="20261106050000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-rocks-br">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-rocks-br">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104204800 +0200" channel="mtv-classic-br">
+  <programme start="20261104170000 +0200" stop="20261104204800 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -1376,19 +1348,19 @@
     <title lang="en">90s Hits: 4 Non Blondes / Take That / Nirvana / Boyz II Men / Macy Gray</title>
     <desc lang="en">What's Up? (4 Non Blondes) / Back For Good (Take That) / Smells Like Teen Spirit (Nirvana) / End Of The Road (Boyz II Men) / I Try (Macy Gray)</desc>
   </programme>
-  <programme start="20261105220200 +0200" stop="20261106043000 +0200" channel="mtv-classic-br">
+  <programme start="20261105220200 +0200" stop="20261106050000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-classic-br">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-classic-br">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104203000 +0200" channel="that-s-60s">
+  <programme start="20261104170000 +0200" stop="20261104203000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -1600,25 +1572,21 @@
     <title lang="en">That's 60s</title>
     <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
-  <programme start="20261105223000 +0200" stop="20261106043000 +0200" channel="that-s-60s">
+  <programme start="20261105223000 +0200" stop="20261106050000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="that-s-60s">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="that-s-60s">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104200000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261104170000 +0200" stop="20261104210000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261104200000 +0200" stop="20261104210000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261104210000 +0200" stop="20261104220000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -1724,25 +1692,21 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261105230000 +0200" stop="20261106043000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261105230000 +0200" stop="20261106050000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261104163000 +0200" stop="20261104200000 +0200" channel="mtv-yo!-us">
+  <programme start="20261104170000 +0200" stop="20261104210000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261104200000 +0200" stop="20261104210000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261104210000 +0200" stop="20261104220000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -1848,15 +1812,15 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261105230000 +0200" stop="20261106043000 +0200" channel="mtv-yo!-us">
+  <programme start="20261105230000 +0200" stop="20261106050000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106043000 +0200" stop="20261106163000 +0200" channel="mtv-yo!-us">
+  <programme start="20261106050000 +0200" stop="20261106170000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106163000 +0200" stop="20261106223000 +0200" channel="mtv-yo!-us">
+  <programme start="20261106170000 +0200" stop="20261106230000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
