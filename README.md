@@ -4,7 +4,7 @@
 EPG for Test 1
 
 ## Usage
-Grab the XMLTV file from this link and paste it into your favorite IPTV client:
+Grab the XMLTV file from this link:
 ```
 https://raw.githubusercontent.com/Fellfresse/***/master/***.xml
 ```
