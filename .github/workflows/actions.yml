@@ -3,7 +3,7 @@ name: Build EPG
 on:
   repository_dispatch:
     types:
-      - webhook-1
+      - 1-H
   push:
 jobs:
   build:
@@ -40,8 +40,8 @@ jobs:
       - name: generate Pluto US[light] EPG
         run: python generate_pluto_us[light].py --hours 48 --out epg_Pluto_US[light].xml
  
-      - name: generate EPG_MusikTV-1 EPG
-        run: python generate_musicTV_1_epg.py
+      - name: generate EPG_MusikTV-1H EPG
+        run: python generate_musicTV_1h_epg.py
 
       - name: commit files
         run: |
