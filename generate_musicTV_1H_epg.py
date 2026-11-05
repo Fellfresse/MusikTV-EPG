@@ -109,7 +109,7 @@ def main():
     parser.add_argument("--pluto_gb", default="epg_Pluto_GB[light].xml")
     parser.add_argument("--pluto_us", default="epg_Pluto_US[light].xml")
     parser.add_argument("--skip-sam", action="store_true")
-    parser.add_argument("--out", default="EPG_MusikTV-1.xml")
+    parser.add_argument("--out", default="EPG_MusikTV-1H.xml")
     args = parser.parse_args()
     
     all_channels = []
@@ -136,7 +136,7 @@ def main():
         seen_channel_ids.add(cid)
         deduped_channels.append(ch)
         
-    root = ET.Element("tv", {"generator-info-name": "Fellfresse", "generator-info": "MusikTV-1-EPG"})
+    root = ET.Element("tv", {"generator-info-name": "Fellfresse", "generator-info": "MusikTV-1H-EPG"})
     for ch in deduped_channels:
         root.append(ch)
     for pr in all_programmes:
