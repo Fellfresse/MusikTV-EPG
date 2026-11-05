@@ -41,7 +41,7 @@ jobs:
         run: python generate_pluto_us[light].py --hours 48 --out epg_Pluto_US[light].xml
  
       - name: generate EPG_MusikTV-1H EPG
-        run: python generate_musicTV_1h_epg.py
+        run: python generate_musicTV_1H_epg.py
 
       - name: commit files
         run: |
