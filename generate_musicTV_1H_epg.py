@@ -108,6 +108,7 @@ def main():
     parser.add_argument("--pluto_br", default="epg_Pluto_BR[light].xml")
     parser.add_argument("--pluto_gb", default="epg_Pluto_GB[light].xml")
     parser.add_argument("--pluto_us", default="epg_Pluto_US[light].xml")
+    parser.add_argument("--plex", default="epg_Plex.mjh[light].xml")
     parser.add_argument("--skip-sam", action="store_true")
     parser.add_argument("--out", default="EPG_MusikTV-1H.xml")
     args = parser.parse_args()
@@ -117,7 +118,7 @@ def main():
     
     # Liste der zu verarbeitenden Dateien HINZUGEFÜGT
 #    for label, path in [("Rakuten_DE", args.rakuten_de), ("Rakuten_NL", args.rakuten_nl), ("Pluto_CA", args.pluto_ca), ("Pluto_BR", args.pluto_br), ("Samsung", args.samsung), ("MusikBox", args.musikbox)]:
-    for label, path in [("Pluto_CA", args.pluto_ca), ("Pluto_BR", args.pluto_br), ("Pluto_GB", args.pluto_gb), ("Pluto_US", args.pluto_us)]:
+    for label, path in [("Pluto_CA", args.pluto_ca), ("Pluto_BR", args.pluto_br), ("Pluto_GB", args.pluto_gb), ("Pluto_US", args.pluto_us), ("Plex", args.plex)]:
         ch, pr = parse_local_xmltv(path)
         all_channels.extend(ch)
         all_programmes.extend(pr)
