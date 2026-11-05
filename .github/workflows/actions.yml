@@ -25,9 +25,6 @@ jobs:
         with:
           python-version: "3.10"
 
-#      - name: generate Samsung[light] EPG
-#        run: python generate_samsung[light].py
-
       - name: generate Pluto GB[light] EPG
         run: python generate_pluto_gblight].py --hours 48 --out epg_Pluto_GB[light].xml
 
@@ -40,6 +37,9 @@ jobs:
       - name: generate Pluto US[light] EPG
         run: python generate_pluto_us[light].py --hours 48 --out epg_Pluto_US[light].xml
  
+      - name: generate Plex.mjh[light] EPG
+        run: python generate_plex.mjh[light].py --out epg_Plex.mjh[light].xml
+
       - name: generate EPG_MusikTV-1H EPG
         run: python generate_musicTV_1H_epg.py
 
