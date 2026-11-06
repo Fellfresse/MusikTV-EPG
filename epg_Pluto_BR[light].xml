@@ -8,21 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261106050000 +0200" stop="20261106093900 +0200" channel="mtv-rocks-br">
+  <programme start="20261106060000 +0200" stop="20261106105700 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106093900 +0200" stop="20261106100500 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">The Day We Caught The Train (Ocean Colour Scene) / She Said (Longpigs) / Breakfast At Tiffany's (Deep Blue Something) / Innuendo (Queen) / Spiderwebs (No Doubt)</desc>
-  </programme>
-  <programme start="20261106100500 +0200" stop="20261106102900 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">Two Princes (Spin Doctors) / Ironic (Alanis Morissette) / Even Flow (Pearl Jam) / Come As You Are (Nirvana) / Celebrity Skin (Hole)</desc>
-  </programme>
-  <programme start="20261106102900 +0200" stop="20261106105700 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Pride (U2) / Brass In Pocket (The Pretenders) / Beds Are Burning (Midnight Oil) / Living After Midnight (Judas Priest) / Looks That Kill (Mötley Crüe) / Animal (Def Leppard)</desc>
   </programme>
   <programme start="20261106105700 +0200" stop="20261106112400 +0200" channel="mtv-rocks-br">
     <title lang="en">Rock Anthems of the Century</title>
@@ -252,33 +240,21 @@
     <title lang="en">90s Rock Anthems</title>
     <desc lang="en">All Star (Smash Mouth) / Losing My Religion (R.E.M.) / Stupid Girl (Garbage) / Everlong (Foo Fighters) / Thunderstruck (AC/DC)</desc>
   </programme>
-  <programme start="20261107111800 +0200" stop="20261107170000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107111800 +0200" stop="20261107180000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107170000 +0200" stop="20261108050000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107180000 +0200" stop="20261108060000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108050000 +0200" stop="20261108110000 +0200" channel="mtv-rocks-br">
+  <programme start="20261108060000 +0200" stop="20261108120000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106050000 +0200" stop="20261106094500 +0200" channel="mtv-classic-br">
+  <programme start="20261106060000 +0200" stop="20261106105100 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106094500 +0200" stop="20261106100900 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Umbrella (Rihanna Ft. Jay-Z) / The Man Who Can't Be Moved (The Script) / I Got A Feeling (The Black Eyed Peas) / Chasing Cars (Snow Patrol) / Jenny From The Block (Jennifer Lopez Ft. Jadakiss &amp; Styles)</desc>
-  </programme>
-  <programme start="20261106100900 +0200" stop="20261106103100 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
-  </programme>
-  <programme start="20261106103100 +0200" stop="20261106105100 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">Return Of The Mack (Mark Morrison) / Unbreak My Heart (Toni Braxton) / Believe (Cher) / U Can't Touch This (MC Hammer)</desc>
   </programme>
   <programme start="20261106105100 +0200" stop="20261106111600 +0200" channel="mtv-classic-br">
     <title lang="en">80s Hits</title>
@@ -516,15 +492,15 @@
     <title lang="en">00s Hits</title>
     <desc lang="en">Umbrella (Rihanna Ft. Jay-Z) / The Man Who Can't Be Moved (The Script) / I Got A Feeling (The Black Eyed Peas) / Chasing Cars (Snow Patrol) / Jenny From The Block (Jennifer Lopez Ft. Jadakiss &amp; Styles)</desc>
   </programme>
-  <programme start="20261107112400 +0200" stop="20261107170000 +0200" channel="mtv-classic-br">
+  <programme start="20261107112400 +0200" stop="20261107180000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107170000 +0200" stop="20261108050000 +0200" channel="mtv-classic-br">
+  <programme start="20261107180000 +0200" stop="20261108060000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108050000 +0200" stop="20261108110000 +0200" channel="mtv-classic-br">
+  <programme start="20261108060000 +0200" stop="20261108120000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
