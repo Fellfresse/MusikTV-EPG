@@ -8,17 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261106010000 +0200" stop="20261106054700 +0200" channel="mtv-rocks-br">
+  <programme start="20261106020000 +0200" stop="20261106063700 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106054700 +0200" stop="20261106061200 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Is This Love (Whitesnake) / Rosanna (Toto) / Poison (Alice Cooper) / Start Me Up (Rolling Stones) / Love Is A Battlefield (Pat Benatar)</desc>
-  </programme>
-  <programme start="20261106061200 +0200" stop="20261106063700 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Let's Go Crazy (Prince &amp; The Revolution) / Love In An Elevator (Aerosmith) / Reason To Live (Kiss) / I Love Rock 'N' Roll (Joan Jett) / Still Haven't Found What I'm Looking For (U2)</desc>
   </programme>
   <programme start="20261106063700 +0200" stop="20261106070200 +0200" channel="mtv-rocks-br">
     <title lang="en">Rock Anthems of the Century</title>
@@ -252,33 +244,21 @@
     <title lang="en">90s Rock Anthems</title>
     <desc lang="en">You Oughta Know (Alanis Morissette) / No Rain (Blind Melon) / Lust For Life (Iggy Pop) / Hush (Kula Shaker) / Learn To Fly (Foo Fighters) / Shiny Happy People (R.E.M.)</desc>
   </programme>
-  <programme start="20261107072000 +0200" stop="20261107130000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107072000 +0200" stop="20261107140000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107130000 +0200" stop="20261108010000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107140000 +0200" stop="20261108020000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108010000 +0200" stop="20261108070000 +0200" channel="mtv-rocks-br">
+  <programme start="20261108020000 +0200" stop="20261108080000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106010000 +0200" stop="20261106054100 +0200" channel="mtv-classic-br">
+  <programme start="20261106020000 +0200" stop="20261106065900 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106054100 +0200" stop="20261106060500 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Faded (Alan Walker), Party Rock Anthem (LMFAO Ft. Lauren Bennett &amp; Goonrock), Moment 4 Life (Nicki Minaj Ft. Drake), Don't Let Me Down (The Chainsmokers Ft. Daya), Story Of My Life (One Direction)</desc>
-  </programme>
-  <programme start="20261106060500 +0200" stop="20261106063200 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Californication (Red Hot Chili Peppers) / Hips Don't Lie (Shakira Ft. Wyclef Jean) / The Scientist (Coldplay) / Ms. Jackson (Outkast) / Complicated (Avril Lavigne)</desc>
-  </programme>
-  <programme start="20261106063200 +0200" stop="20261106065900 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
   </programme>
   <programme start="20261106065900 +0200" stop="20261106072500 +0200" channel="mtv-classic-br">
     <title lang="en">90s Hits</title>
@@ -512,15 +492,15 @@
     <title lang="en">10's Hits</title>
     <desc lang="en">All Of Me (John Legend)</desc>
   </programme>
-  <programme start="20261107070200 +0200" stop="20261107130000 +0200" channel="mtv-classic-br">
+  <programme start="20261107070200 +0200" stop="20261107140000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107130000 +0200" stop="20261108010000 +0200" channel="mtv-classic-br">
+  <programme start="20261107140000 +0200" stop="20261108020000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108010000 +0200" stop="20261108070000 +0200" channel="mtv-classic-br">
+  <programme start="20261108020000 +0200" stop="20261108080000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
