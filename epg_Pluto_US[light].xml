@@ -8,17 +8,9 @@
     <display-name lang="en">Yo! MTV</display-name>
     <icon src="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261106090000 +0200" stop="20261106120000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261106100000 +0200" stop="20261106140000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106120000 +0200" stop="20261106130000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
-  </programme>
-  <programme start="20261106130000 +0200" stop="20261106140000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261106140000 +0200" stop="20261106150000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -124,29 +116,21 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261107160000 +0200" stop="20261107210000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261107160000 +0200" stop="20261107220000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107210000 +0200" stop="20261108090000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108090000 +0200" stop="20261108150000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106090000 +0200" stop="20261106120000 +0200" channel="mtv-yo!-us">
+  <programme start="20261106100000 +0200" stop="20261106140000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106120000 +0200" stop="20261106130000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
-  </programme>
-  <programme start="20261106130000 +0200" stop="20261106140000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261106140000 +0200" stop="20261106150000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -252,15 +236,15 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261107160000 +0200" stop="20261107210000 +0200" channel="mtv-yo!-us">
+  <programme start="20261107160000 +0200" stop="20261107220000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107210000 +0200" stop="20261108090000 +0200" channel="mtv-yo!-us">
+  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108090000 +0200" stop="20261108150000 +0200" channel="mtv-yo!-us">
+  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
