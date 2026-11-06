@@ -12,17 +12,9 @@
     <display-name lang="en">MTV Biggest Pop</display-name>
     <icon src="https://images.pluto.tv/channels/65410176770cf1000866bf31/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261105210000 +0200" stop="20261106013000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261105220000 +0200" stop="20261106023000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106013000 +0200" stop="20261106020000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
-  </programme>
-  <programme start="20261106020000 +0200" stop="20261106023000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
   <programme start="20261106023000 +0200" stop="20261106030000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
@@ -216,37 +208,37 @@
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
-  <programme start="20261107023000 +0200" stop="20261107090000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261107023000 +0200" stop="20261107030000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261107030000 +0200" stop="20261107033000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261107033000 +0200" stop="20261107040000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261107040000 +0200" stop="20261107043000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261107043000 +0200" stop="20261107100000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107090000 +0200" stop="20261107210000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261107100000 +0200" stop="20261107220000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107210000 +0200" stop="20261108030000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261107220000 +0200" stop="20261108040000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261105210000 +0200" stop="20261106014008 +0200" channel="mtv-classic-ca">
+  <programme start="20261105220000 +0200" stop="20261106025808 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106014008 +0200" stop="20261106020108 +0200" channel="mtv-classic-ca">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Kanye West Ft. Jamie Foxx / Eric Prydz / Taylor Swift / Timbaland Ft. OneRepublic / Ciara Ft. Missy Elliott.</desc>
-  </programme>
-  <programme start="20261106020108 +0200" stop="20261106021508 +0200" channel="mtv-classic-ca">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">The Pussycat Dolls; Busta Rhymes / Fall Out Boy / Plain White T's.</desc>
-  </programme>
-  <programme start="20261106021508 +0200" stop="20261106023908 +0200" channel="mtv-classic-ca">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Rihanna Ft. Jay-Z / The Script / The Black Eyed Peas / Snow Patrol / Jennifer Lopez Ft. Jadakiss &amp; Styles.</desc>
-  </programme>
-  <programme start="20261106023908 +0200" stop="20261106025808 +0200" channel="mtv-classic-ca">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Kelly Clarkson / Toploader / Beyonce / Foo Fighters.</desc>
   </programme>
   <programme start="20261106025808 +0200" stop="20261106031808 +0200" channel="mtv-classic-ca">
     <title lang="en">10's Hits</title>
@@ -524,29 +516,41 @@
     <title lang="en">10's Hits</title>
     <desc lang="en">Eastside (Benny Blanco, Halsey &amp; Khalid), Just The Way You Are (Bruno Mars), Blank Space(Taylor Swift), Perfect (Ed Sheeran), See You Again (Wiz Khalifa Ft Charlie Puth)</desc>
   </programme>
-  <programme start="20261107022008 +0200" stop="20261107090000 +0200" channel="mtv-classic-ca">
+  <programme start="20261107022008 +0200" stop="20261107024408 +0200" channel="mtv-classic-ca">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
+  </programme>
+  <programme start="20261107024408 +0200" stop="20261107030608 +0200" channel="mtv-classic-ca">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
+  </programme>
+  <programme start="20261107030608 +0200" stop="20261107032808 +0200" channel="mtv-classic-ca">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">All Of Me (John Legend)</desc>
+  </programme>
+  <programme start="20261107032808 +0200" stop="20261107035008 +0200" channel="mtv-classic-ca">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
+  </programme>
+  <programme start="20261107035008 +0200" stop="20261107041108 +0200" channel="mtv-classic-ca">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
+  </programme>
+  <programme start="20261107041108 +0200" stop="20261107100000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107090000 +0200" stop="20261107210000 +0200" channel="mtv-classic-ca">
+  <programme start="20261107100000 +0200" stop="20261107220000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107210000 +0200" stop="20261108030000 +0200" channel="mtv-classic-ca">
+  <programme start="20261107220000 +0200" stop="20261108040000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261105210000 +0200" stop="20261106013000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261105220000 +0200" stop="20261106023000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106013000 +0200" stop="20261106020000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
-  </programme>
-  <programme start="20261106020000 +0200" stop="20261106023000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
   <programme start="20261106023000 +0200" stop="20261106030000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
@@ -740,15 +744,31 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
-  <programme start="20261107023000 +0200" stop="20261107090000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261107023000 +0200" stop="20261107030000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261107030000 +0200" stop="20261107033000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261107033000 +0200" stop="20261107040000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261107040000 +0200" stop="20261107043000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261107043000 +0200" stop="20261107100000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107090000 +0200" stop="20261107210000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261107100000 +0200" stop="20261107220000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107210000 +0200" stop="20261108030000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261107220000 +0200" stop="20261108040000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
