@@ -8,17 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261106030000 +0200" stop="20261106075300 +0200" channel="mtv-rocks-br">
+  <programme start="20261106040000 +0200" stop="20261106084500 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106075300 +0200" stop="20261106082000 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Shoot The Runner (Kasabian) / No One Knows (Queens Of The Stone Age) / Hysteria (Muse) / Pork And Beans (Weezer) / Believer (Imagine Dragons) / Use Somebody (Kings Of Leon)</desc>
-  </programme>
-  <programme start="20261106082000 +0200" stop="20261106084500 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Jump (Van Halen) / Master Of Puppets (Metallica) / Welcome To The Jungle (Guns N' Roses) / Bad Medicine (Bon Jovi)</desc>
   </programme>
   <programme start="20261106084500 +0200" stop="20261106091200 +0200" channel="mtv-rocks-br">
     <title lang="en">90s Rock Anthems</title>
@@ -248,33 +240,33 @@
     <title lang="en">90s Rock Anthems: Nirvana / Soundgarden / Alanis Morissette / Smashing Pumpkins / Blur</title>
     <desc lang="en">Smells Like Teen Spirit (Nirvana) / Black Hole Sun (Soundgarden) / Head Over Feet (Alanis Morissette) / Tonight, Tonight (Smashing Pumpkins) / Girls and Boys (Blur)</desc>
   </programme>
-  <programme start="20261107090600 +0200" stop="20261107150000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107090600 +0200" stop="20261107093200 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">The Day We Caught The Train (Ocean Colour Scene) / She Said (Longpigs) / Breakfast At Tiffany's (Deep Blue Something) / Innuendo (Queen) / Spiderwebs (No Doubt)</desc>
+  </programme>
+  <programme start="20261107093200 +0200" stop="20261107095600 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">Two Princes (Spin Doctors) / Ironic (Alanis Morissette) / Even Flow (Pearl Jam) / Come As You Are (Nirvana) / Celebrity Skin (Hole)</desc>
+  </programme>
+  <programme start="20261107095600 +0200" stop="20261107102400 +0200" channel="mtv-rocks-br">
+    <title lang="en">80s Rock Anthems</title>
+    <desc lang="en">Pride (U2) / Brass In Pocket (The Pretenders) / Beds Are Burning (Midnight Oil) / Living After Midnight (Judas Priest) / Looks That Kill (Mötley Crüe) / Animal (Def Leppard)</desc>
+  </programme>
+  <programme start="20261107102400 +0200" stop="20261107160000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107150000 +0200" stop="20261108030000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107160000 +0200" stop="20261108040000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108030000 +0200" stop="20261108090000 +0200" channel="mtv-rocks-br">
+  <programme start="20261108040000 +0200" stop="20261108100000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106030000 +0200" stop="20261106075000 +0200" channel="mtv-classic-br">
+  <programme start="20261106040000 +0200" stop="20261106085700 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106075000 +0200" stop="20261106081200 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">My Name Is (Eminem) / I'll Be There For You (The Rembrandts) / Man! I Feel Like A Woman (Shania Twain) / Barbie Girl (Aqua) / Angels (Robbie Williams)</desc>
-  </programme>
-  <programme start="20261106081200 +0200" stop="20261106083500 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
-  </programme>
-  <programme start="20261106083500 +0200" stop="20261106085700 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
   </programme>
   <programme start="20261106085700 +0200" stop="20261106091900 +0200" channel="mtv-classic-br">
     <title lang="en">00s Hits</title>
@@ -512,15 +504,23 @@
     <title lang="en">10's Hits</title>
     <desc lang="en">Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
   </programme>
-  <programme start="20261107092300 +0200" stop="20261107150000 +0200" channel="mtv-classic-br">
+  <programme start="20261107092300 +0200" stop="20261107095000 +0200" channel="mtv-classic-br">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Just Can't Get Enough (Depeche Mode) / When Doves Cry (Prince) / Eternal Flame (The Bangles) / Living On A Prayer (Bon Jovi) / In The Air Tonight (Phil Collins)</desc>
+  </programme>
+  <programme start="20261107095000 +0200" stop="20261107101200 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
+  </programme>
+  <programme start="20261107101200 +0200" stop="20261107160000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107150000 +0200" stop="20261108030000 +0200" channel="mtv-classic-br">
+  <programme start="20261107160000 +0200" stop="20261108040000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108030000 +0200" stop="20261108090000 +0200" channel="mtv-classic-br">
+  <programme start="20261108040000 +0200" stop="20261108100000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
