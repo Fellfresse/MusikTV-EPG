@@ -168,17 +168,9 @@
     <display-name>Rock TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" />
   </channel>
-  <programme start="20261106100000 +0200" stop="20261106143000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261106110000 +0200" stop="20261106153000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106143000 +0200" stop="20261106150000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
-  </programme>
-  <programme start="20261106150000 +0200" stop="20261106153000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
   <programme start="20261106153000 +0200" stop="20261106160000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
@@ -380,33 +372,29 @@
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
-  <programme start="20261107163000 +0200" stop="20261107220000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261107163000 +0200" stop="20261107170000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261107170000 +0200" stop="20261107173000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261107173000 +0200" stop="20261107230000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106144808 +0200" channel="mtv-classic-ca">
+  <programme start="20261106110000 +0200" stop="20261106155108 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106144808 +0200" stop="20261106151008 +0200" channel="mtv-classic-ca">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">I Want To Know What Love Is (Foreigner) / With Or Without You (U2) / Under Pressure (Queen Ft. David Bowie) / Jump (For My Love) (The Pointer Sisters)</desc>
-  </programme>
-  <programme start="20261106151008 +0200" stop="20261106152708 +0200" channel="mtv-classic-ca">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Sweet Child O' Mine (Guns N' Roses) / Blue Monday 1988 (New Order) / Need You Tonight (Inxs) / Uptown Girl (Billy Joel)</desc>
-  </programme>
-  <programme start="20261106152708 +0200" stop="20261106155108 +0200" channel="mtv-classic-ca">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Ride On Time (Black Box) / Sexual Healing (Marvin Gaye) / Girls Just Want To Have Fun (Cyndi Lauper) / Ghostbusters (Ray Parker Jr.) / Everywhere (Fleetwood Mac)</desc>
   </programme>
   <programme start="20261106155108 +0200" stop="20261106161308 +0200" channel="mtv-classic-ca">
     <title lang="en">80s Hits</title>
@@ -696,29 +684,37 @@
     <title lang="en">90s Hits</title>
     <desc lang="en">The Rembrandts / Shania Twain.</desc>
   </programme>
-  <programme start="20261107160408 +0200" stop="20261107220000 +0200" channel="mtv-classic-ca">
+  <programme start="20261107160408 +0200" stop="20261107161608 +0200" channel="mtv-classic-ca">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Puff Daddy With Faith Evans &amp; 112 / Blur / Run D.M.C. Vs. Jason Nevins</desc>
+  </programme>
+  <programme start="20261107161608 +0200" stop="20261107163608 +0200" channel="mtv-classic-ca">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Vanilla Ice / Mariah Carey / Backstreet Boys / The Verve.</desc>
+  </programme>
+  <programme start="20261107163608 +0200" stop="20261107165108 +0200" channel="mtv-classic-ca">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Deee-Lite / TLC / Leann Rimes.</desc>
+  </programme>
+  <programme start="20261107165108 +0200" stop="20261107171508 +0200" channel="mtv-classic-ca">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Deep Blue Something / Ronan Keating / Montell Jordan / Gabrielle / Celine Dion.</desc>
+  </programme>
+  <programme start="20261107171508 +0200" stop="20261107230000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-classic-ca">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-classic-ca">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106143000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261106110000 +0200" stop="20261106153000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106143000 +0200" stop="20261106150000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
-  </programme>
-  <programme start="20261106150000 +0200" stop="20261106153000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
   <programme start="20261106153000 +0200" stop="20261106160000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
@@ -920,33 +916,29 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
-  <programme start="20261107163000 +0200" stop="20261107220000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261107163000 +0200" stop="20261107170000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261107170000 +0200" stop="20261107173000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261107173000 +0200" stop="20261107230000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106144300 +0200" channel="mtv-rocks-br">
+  <programme start="20261106110000 +0200" stop="20261106155600 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106144300 +0200" stop="20261106150800 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Walk This Way (Aerosmith Ft. Run D.M.C.) / Bark At The Moon (Ozzy Osbourne) / Crash (The Primitives) / Need You Tonight (INXS) / Paradise City (Guns N' Roses)</desc>
-  </programme>
-  <programme start="20261106150800 +0200" stop="20261106153200 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Pour Some Sugar On Me (Def Leppard) / Crazy Crazy Nights (Kiss) / Free Fallin' (Tom Petty) / Under Pressure (Queen Ft. David Bowie) / Dear Prudence (Siouxsie &amp; The Banshees)</desc>
-  </programme>
-  <programme start="20261106153200 +0200" stop="20261106155600 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Rockstar (Nickelback) / My Way (Limp Bizkit) / Go With The Flow (Queens Of The Stone Age) / Club Foot (Kasabian) / Paradise (Coldplay)</desc>
   </programme>
   <programme start="20261106155600 +0200" stop="20261106162200 +0200" channel="mtv-rocks-br">
     <title lang="en">80s Rock Anthems</title>
@@ -1176,29 +1168,29 @@
     <title lang="en">Rock Anthems of the Century</title>
     <desc lang="en">Gives You Hell (The All American Rejects) / Little Sister (Queens Of The Stone Age) / High Hopes (Panic! At The Disco) / Toxicity (System Of A Down) / First Date (Blink-182) / Heathens (Twenty One Pilots)</desc>
   </programme>
-  <programme start="20261107161300 +0200" stop="20261107220000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107161300 +0200" stop="20261107164100 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">Peaches (Presidents Of The U.S.A.) / November Rain (Guns N' Roses) / 1979 (Smashing Pumpkins) / Nothing Else Matters (Metallica)</desc>
+  </programme>
+  <programme start="20261107164100 +0200" stop="20261107170500 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">When I Come Around (Green Day) / Pretty Fly (For A White Guy) (The Offspring) / Connection (Elastica) / Lithium (Nirvana) / Buddy Holly (Weezer) / Boy (Placebo)</desc>
+  </programme>
+  <programme start="20261107170500 +0200" stop="20261107230000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-rocks-br">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-rocks-br">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106145400 +0200" channel="mtv-classic-br">
+  <programme start="20261106110000 +0200" stop="20261106154200 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106145400 +0200" stop="20261106151700 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
-  </programme>
-  <programme start="20261106151700 +0200" stop="20261106154200 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">In Da Club (50 Cent) / Halo (Beyonce) / How You Remind Me (Nickelback) / Hot N Cold (Katy Perry) / One More Time (Daft Punk)</desc>
   </programme>
   <programme start="20261106154200 +0200" stop="20261106160700 +0200" channel="mtv-classic-br">
     <title lang="en">Kim Carnes / Culture Club / Erasure / Queen / Madonna</title>
@@ -1436,29 +1428,33 @@
     <title lang="en">10's Hits</title>
     <desc lang="en">What's My Name (Rihanna Ft. Drake), Clarity (Zedd Ft. Foxes), I Love It (Icona Pop Ft. Charli XCX), Closer (The Chainsmokers ft. Halsey), Échame La Culpa (Luis Fonsi &amp; Demi Lovato)</desc>
   </programme>
-  <programme start="20261107160900 +0200" stop="20261107220000 +0200" channel="mtv-classic-br">
+  <programme start="20261107160900 +0200" stop="20261107163200 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">Black Magic (Little Mix) / Prayer In C (Robin Schulz &amp; Lilly Wood) / 7 Years (Lukas Graham) / Royals (Lorde) / Scream &amp; Shout (Will.i.am Ft.Britney Spears )</desc>
+  </programme>
+  <programme start="20261107163200 +0200" stop="20261107165700 +0200" channel="mtv-classic-br">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">In Da Club (50 Cent) / Halo (Beyonce) / How You Remind Me (Nickelback) / Hot N Cold (Katy Perry) / One More Time (Daft Punk)</desc>
+  </programme>
+  <programme start="20261107165700 +0200" stop="20261107172200 +0200" channel="mtv-classic-br">
+    <title lang="en">Kim Carnes / Culture Club / Erasure / Queen / Madonna</title>
+    <desc lang="en">Bette Davis Eyes (Kim Carnes) / Karma Chameleon (Culture Club) / A Little Respect (Erasure) / I Want To Break Free (Queen) / Like A Prayer (Madonna)</desc>
+  </programme>
+  <programme start="20261107172200 +0200" stop="20261107230000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-classic-br">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-classic-br">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106143000 +0200" channel="that-s-60s">
+  <programme start="20261106110000 +0200" stop="20261106153000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106143000 +0200" stop="20261106150000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
-  </programme>
-  <programme start="20261106150000 +0200" stop="20261106153000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
   <programme start="20261106153000 +0200" stop="20261106160000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
@@ -1660,25 +1656,29 @@
     <title lang="en">That's 60s</title>
     <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
-  <programme start="20261107163000 +0200" stop="20261107220000 +0200" channel="that-s-60s">
+  <programme start="20261107163000 +0200" stop="20261107170000 +0200" channel="that-s-60s">
+    <title lang="en">That's 60s</title>
+    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+  </programme>
+  <programme start="20261107170000 +0200" stop="20261107173000 +0200" channel="that-s-60s">
+    <title lang="en">That's 60s</title>
+    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+  </programme>
+  <programme start="20261107173000 +0200" stop="20261107230000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="that-s-60s">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="that-s-60s">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106140000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261106110000 +0200" stop="20261106150000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106140000 +0200" stop="20261106150000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261106150000 +0200" stop="20261106160000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -1780,25 +1780,29 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261107160000 +0200" stop="20261107220000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261107160000 +0200" stop="20261107170000 +0200" channel="mtv-flow-latino-us">
+    <title lang="en">MTV Flow Latino</title>
+    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
+  </programme>
+  <programme start="20261107170000 +0200" stop="20261107180000 +0200" channel="mtv-flow-latino-us">
+    <title lang="en">MTV Flow Latino</title>
+    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
+  </programme>
+  <programme start="20261107180000 +0200" stop="20261107230000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261106100000 +0200" stop="20261106140000 +0200" channel="mtv-yo!-us">
+  <programme start="20261106110000 +0200" stop="20261106150000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261106140000 +0200" stop="20261106150000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261106150000 +0200" stop="20261106160000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -1900,15 +1904,23 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261107160000 +0200" stop="20261107220000 +0200" channel="mtv-yo!-us">
+  <programme start="20261107160000 +0200" stop="20261107170000 +0200" channel="mtv-yo!-us">
+    <title lang="en">Yo! MTV</title>
+    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
+  </programme>
+  <programme start="20261107170000 +0200" stop="20261107180000 +0200" channel="mtv-yo!-us">
+    <title lang="en">Yo! MTV</title>
+    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
+  </programme>
+  <programme start="20261107180000 +0200" stop="20261107230000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261107220000 +0200" stop="20261108100000 +0200" channel="mtv-yo!-us">
+  <programme start="20261107230000 +0200" stop="20261108110000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261108100000 +0200" stop="20261108160000 +0200" channel="mtv-yo!-us">
+  <programme start="20261108110000 +0200" stop="20261108170000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -2516,14 +2528,6 @@
     <title>Evening R&amp;B Delight</title>
     <desc>A collection of R&amp;B beats to ignite your evening groove.</desc>
   </programme>
-  <programme channel="Cool Summer Channel" start="20261106125052 +0000" stop="20261106132020 +0000">
-    <title>Trending Now Vol.1</title>
-    <desc>The hottest tracks right now from Taylor Swift, Olivia Dean, ADELA and more</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2124799159_8_20260821T171327733Z_124_imageprocessorclient-tvplus-linear-b5879c6c6-5g9m7.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
   <programme channel="Cool Summer Channel" start="20261106132020 +0000" stop="20261106145035 +0000">
     <title>Rihanna On Repeat Vol.3</title>
     <desc>Rihanna's most iconic hits, all in one place.</desc>
@@ -2572,12 +2576,22 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="Vevo Latino [ES]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Iconos Latinos</title>
-    <desc>Vídeos de los últimos 40 años de todos tus leyendas favoritos de la música latina.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732621_0_20260903T193608607Z_117_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
+  <programme channel="Cool Summer Channel" start="20261106193642 +0000" stop="20261106201018 +0000">
+    <title>Best Of Live</title>
+    <sub-title>Billie Eilish</sub-title>
+    <desc>The most powerful live moments from Billie Eilish.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2124837806_9_20260821T171331990Z_46_imageprocessorclient-tvplus-linear-b5879c6c6-ppwdq.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="Cool Summer Channel" start="20261106201018 +0000" stop="20261106204049 +0000">
+    <title>Best Of Live</title>
+    <sub-title>Gracie Abrams</sub-title>
+    <desc>Gracie Abrams' most intimate live moments.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2326462449_0_20261028T200525048Z_95_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.jpeg" />
+    <rating>
+      <value>5</value>
     </rating>
   </programme>
   <programme channel="Vevo Latino [ES]" start="20261106140000 +0000" stop="20261106150000 +0000">
@@ -2628,10 +2642,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Retro [ES]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Éxitos Latinos</title>
-    <desc>Los mejores hits del otro lado del charco.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733051_0_20260903T193608607Z_135_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
+  <programme channel="Vevo Latino [ES]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Sonido Urbano</title>
+    <desc>Lo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732548_2_20260903T193609083Z_24_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -2684,10 +2698,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [ES]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Mood de Otoño</title>
-    <desc>Caen las hojas y nada apetece más que quedarse en casa con estos videos musicales otoñales!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2227369233_0_20260925T122219894Z_141_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
+  <programme channel="Vevo Retro [ES]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Todo Éxitos</title>
+    <desc>Hits inolvidables de los 70's a los 2000.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733123_2_20260903T193608974Z_86_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -2740,10 +2754,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [FR]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Pop Live</title>
-    <desc>Toutes les plus belles performances live de vos artistes internationaux et francophones préférés.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734081_1_20260903T193608827Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-29zn8.png" />
+  <programme channel="Vevo Pop [ES]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Happy Hour</title>
+    <desc>La música es el ingrediente secreto para disfrutar mientras cocinas o tomas algo con la familia y amigos. Dale play y disfruta!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732462_0_20260903T193612072Z_89_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -2796,14 +2810,6 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [FR]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Session Live</title>
-    <desc>Les performances live de vos artistes préférés.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734319_2_20260903T193611956Z_70_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
   <programme channel="Vevo Hip Hop-R-B [FR]" start="20261106140000 +0000" stop="20261106150000 +0000">
     <title>DSCVR Artists To Watch : Le Best of</title>
     <desc>Toutes les meilleures performances Artists To Watch au cours des années !</desc>
@@ -2844,10 +2850,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Rétro [FR]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Génération Pop</title>
-    <desc>Une sélection Pop des années 2000 à ne pas rater.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735199_3_20260903T193609045Z_115_imageprocessorclient-tvplus-linear-b5879c6c6-v2dgk.png" />
+  <programme channel="Vevo Hip Hop-R-B [FR]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Afro Hits</title>
+    <desc>De l'Afrobeat à l'Afropop, les clips les plus chauds du moment !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734320_2_20260903T193608912Z_35_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -2900,10 +2906,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [UK]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Pop Rewind</title>
-    <desc>Unforgettable hits from the past few years.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737191_2_20260903T193609210Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.png" />
+  <programme channel="Vevo Rétro [FR]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Soirée années 80</title>
+    <desc>Revivez les années 80 avec une sélection de tubes cultes.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735009_0_20260903T193609068Z_47_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -2956,10 +2962,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo 70s-80s [UK]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>I Want My '80s Videos!</title>
-    <desc>A mix of all your favorite artists from the decadent decade.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736907_1_20260903T193609186Z_15_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
+  <programme channel="Vevo Pop [UK]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Weekend Groove</title>
+    <desc>Head-bopping tunes to get ready for the night.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162750852_3_20260903T193609471Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -3012,10 +3018,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo 90s-00s [UK]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Live from the '00s</title>
-    <desc>Performances from the biggest superstars of the decade.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737203_3_20260903T193609472Z_142_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
+  <programme channel="Vevo 70s-80s [UK]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>British Legends</title>
+    <desc>The most influential music icons of the '70s &amp; '80s.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736905_4_20260903T193609544Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -3068,10 +3074,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Hip-Hop &amp; R&amp;B Live</title>
-    <desc>Live performances from your favourite artists.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162752257_4_20260903T193609545Z_30_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
+  <programme channel="Vevo 90s-00s [UK]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Y2K Party Essentials</title>
+    <desc>Party to the biggest hits of the 2000s!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162750929_2_20260903T193609210Z_50_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -3124,12 +3130,12 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Def Jam" start="20261106125744 +0000" stop="20261106135643 +0000">
-    <title>Method Man: Wu Legacy Vol.1</title>
-    <desc>Method Man, Wu-Tang Clan members, and artists influenced by the Wu's legendary sound.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2076022447_1_20260804T132951103Z_34_imageprocessorclient-tvplus-linear-648598f6b5-9g2xj.jpeg" />
+  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Party Vibes</title>
+    <desc>Get the party started with these hits.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737063_3_20260903T193613472Z_29_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
     <rating>
-      <value>5</value>
+      <value>NA</value>
     </rating>
   </programme>
   <programme channel="Def Jam" start="20261106135643 +0000" stop="20261106145801 +0000">
@@ -3186,12 +3192,13 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [IT]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Note d'Autunno</title>
-    <desc>Mettetevi comodi con questi confortevoli video autunnali.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2227380268_0_20260925T122225774Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-96l9n.png" />
+  <programme channel="Def Jam" start="20261106200134 +0000" stop="20261106210228 +0000">
+    <title>Def Jam</title>
+    <sub-title>Vol.1</sub-title>
+    <desc>The definitive collection of 2 Chainz's biggest hits, standout collaborations and career-defining anthems.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2113928867_0_20260817T184935284Z_15_imageprocessorclient-tvplus-linear-648598f6b5-n7xck.jpeg" />
     <rating>
-      <value>NA</value>
+      <value>5</value>
     </rating>
   </programme>
   <programme channel="Vevo Pop [IT]" start="20261106140000 +0000" stop="20261106150000 +0000">
@@ -3238,14 +3245,6 @@
     <title>Party Mix</title>
     <desc>Scatenati a ritmo dei video musicali dei tuoi artisti preferiti.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162782417_1_20260903T193610238Z_121_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
-    <rating>
-      <value>NA</value>
-    </rating>
-  </programme>
-  <programme channel="Vevo 70s-80s [IT]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Totale Relax</title>
-    <desc>Un viaggio rilassante tra i video musicali degli anni '70 e '80.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738507_2_20260903T193610367Z_48_imageprocessorclient-tvplus-linear-b5879c6c6-zkq88.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -3298,10 +3297,10 @@
       <value>NA</value>
     </rating>
   </programme>
-  <programme channel="Vevo 90s-00s [IT]" start="20261106130000 +0000" stop="20261106140000 +0000">
-    <title>Top Hits 2000</title>
-    <desc>I successi che hanno trionfato nelle classifiche degli anni 2000!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739871_0_20260903T193614158Z_85_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
+  <programme channel="Vevo 70s-80s [IT]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Musica &amp; Popcorn: Anni 80</title>
+    <desc>Motore, musica...azione! Le colonne sonore dei film più iconici degli anni 80 sono qui.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738512_3_20260903T193610699Z_113_imageprocessorclient-tvplus-linear-b5879c6c6-n5jz9.png" />
     <rating>
       <value>NA</value>
     </rating>
@@ -3354,6 +3353,14 @@
       <value>NA</value>
     </rating>
   </programme>
+  <programme channel="Vevo 90s-00s [IT]" start="20261106200000 +0000" stop="20261106210000 +0000">
+    <title>Party Mix</title>
+    <desc>Il party più iconico direttamente a casa tua!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739989_0_20260903T193612162Z_46_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
+    <rating>
+      <value>NA</value>
+    </rating>
+  </programme>
   <programme channel="70-80.it" start="20261106110000 +0000" stop="20261106170000 +0000">
     <title>70-80.it</title>
     <desc>70-80.it ogni giorno un nuovo ricordo, non perderlo!</desc>
@@ -3402,6 +3409,24 @@
     <sub-title>The Cure</sub-title>
     <desc>I vj più improbabili del panorama televisivo italiano, Ste, Tato, e Teo con i loro ospiti, sono i protagonisti della trasmissione più folle e irriverente.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352137A_772076900_0_20250403T204354569Z_79_imageprocessorclient-tvplus-linear-6fb5b47f79-m2jtk.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Rock TV [IT]" start="20261106193622 +0000" stop="20261106200633 +0000">
+    <title>Rock TV</title>
+    <sub-title>Thirty Seconds to Mars</sub-title>
+    <desc>L'appuntamento che racconta la vita e le opere delle più grandi band del panorama rock italiano ed internazionale.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352137A_1973589342_0_20260629T215719020Z_60_imageprocessorclient-tvplus-linear-66fc4d58c8-jc97r.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Rock TV [IT]" start="20261106200633 +0000" stop="20261106220626 +0000">
+    <title>Rock TV</title>
+    <sub-title>Hits</sub-title>
+    <desc>La rotazione video con i più grandi successi di ogni tempo e le band più famose del panorama rock italiano ed internazionale.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352137A_1938389304_0_20260616T220612022Z_86_imageprocessorclient-tvplus-linear-66fc4d58c8-z6qh7.jpeg" />
     <rating>
       <value>12</value>
     </rating>
