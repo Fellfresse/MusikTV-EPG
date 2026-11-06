@@ -427,6 +427,22 @@
     <title>Golden Oldies All Night</title>
     <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
   </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261107050000 +0000" stop="20261107110000 +0000">
+    <title>60s &amp; 70s Morning Hits</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261107110000 +0000" stop="20261107170000 +0000">
+    <title>NonStop 60s &amp; 70s Hits</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261107170000 +0000" stop="20261107230000 +0000">
+    <title>60s &amp; 70s Evergreens</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261107230000 +0000" stop="20261108050000 +0000">
+    <title>Golden Oldies All Night</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
   <programme channel="XITE Hits [US]" start="20261105230000 +0000" stop="20261106020000 +0000">
     <title>Hits Now: The Ultimate Collection</title>
     <desc>Tune in for a non-stop playlist of today's chart-topping hits!</desc>
@@ -580,6 +596,22 @@
     <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
   </programme>
   <programme channel="XITE Rap Game [US]" start="20261106230000 +0000" stop="20261107050000 +0000">
+    <title>Rap Daily Wrap-Up</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261107050000 +0000" stop="20261107110000 +0000">
+    <title>Lucid Rap Dreams</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261107110000 +0000" stop="20261107170000 +0000">
+    <title>Rap Morning Mixtape</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records!</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261107170000 +0000" stop="20261107230000 +0000">
+    <title>Afternoon Vibe &amp; Flow</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261107230000 +0000" stop="20261108050000 +0000">
     <title>Rap Daily Wrap-Up</title>
     <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
   </programme>
@@ -1074,41 +1106,5 @@
   <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261106230000 +0000" stop="20261107010000 +0000">
     <title>Evening R&amp;B Delight</title>
     <desc>A collection of R&amp;B beats to ignite your evening groove.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106000000 +0000" stop="20261106030000 +0000">
-    <title>Hits All Night</title>
-    <desc>Clock in to the night with these chart-topping hits.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106030000 +0000" stop="20261106050000 +0000">
-    <title>The Hit Mix: After Hours</title>
-    <desc>Experience the ultimate after-hours mix with these music video hits.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106050000 +0000" stop="20261106070000 +0000">
-    <title>Rise &amp; Shine Hits</title>
-    <desc>Struggling to rise and shine? Let these hits get you through the early hours.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106070000 +0000" stop="20261106100000 +0000">
-    <title>Morning Motivation Hits</title>
-    <desc>A daily dose of uplifting videos to kickstart your morning.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106100000 +0000" stop="20261106120000 +0000">
-    <title>Hits Now: The Ultimate Collection</title>
-    <desc>Tune in for a non-stop playlist of today's chart-topping hits!</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106120000 +0000" stop="20261106150000 +0000">
-    <title>Workday Hits</title>
-    <desc>Power through your 9-to-5 with the ultimate mix of today's hits to keep you focused and energised!</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106150000 +0000" stop="20261106180000 +0000">
-    <title>Non-Stop Hits</title>
-    <desc>Non-stop hits to keep the energy flowing through the late afternoon.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106180000 +0000" stop="20261106220000 +0000">
-    <title>Hits Now: The Evening Mix</title>
-    <desc>Wind down with the evening mix and enjoy these chart-topping hits.</desc>
-  </programme>
-  <programme channel="XITE Hits [UK]" start="20261106220000 +0000" stop="20261107000000 +0000">
-    <title>Friday Night Anthems</title>
-    <desc>It's Friday night! Start your evening with the biggest and best party hits.</desc>
   </programme>
 </tv>
