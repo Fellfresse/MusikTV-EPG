@@ -16,12 +16,6 @@
     <display-name>Music Box Sexy</display-name>
     <icon src="https://iptvx.one/picons/musicbox-sexy.png" />
   </channel>
-  <programme start="20261101000000 +0300" stop="20261101010000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261101010000 +0300" stop="20261101020000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
   <programme start="20261101020000 +0300" stop="20261101030000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
@@ -589,14 +583,56 @@
   <programme start="20261109010000 +0300" stop="20261109060000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
+  <programme start="20261109010000 +0300" stop="20261109020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109020000 +0300" stop="20261109030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109030000 +0300" stop="20261109040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109040000 +0300" stop="20261109050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109050000 +0300" stop="20261109060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
   <programme start="20261109060000 +0300" stop="20261109070000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
-  <programme start="20261101000000 +0300" stop="20261101010000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261109070000 +0300" stop="20261109080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261101010000 +0300" stop="20261101020000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261109080000 +0300" stop="20261109090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109090000 +0300" stop="20261109100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109100000 +0300" stop="20261109110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109110000 +0300" stop="20261109120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109120000 +0300" stop="20261109130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109130000 +0300" stop="20261109140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109140000 +0300" stop="20261109150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109150000 +0300" stop="20261109160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109160000 +0300" stop="20261109170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261109170000 +0300" stop="20261109180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
   <programme start="20261101020000 +0300" stop="20261101030000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
@@ -1165,14 +1201,56 @@
   <programme start="20261109010000 +0300" stop="20261109060000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
+  <programme start="20261109010000 +0300" stop="20261109020000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109020000 +0300" stop="20261109030000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109030000 +0300" stop="20261109040000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109040000 +0300" stop="20261109050000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109050000 +0300" stop="20261109060000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
   <programme start="20261109060000 +0300" stop="20261109070000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
-  <programme start="20261101000000 +0300" stop="20261101010000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
+  <programme start="20261109070000 +0300" stop="20261109080000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
   </programme>
-  <programme start="20261101010000 +0300" stop="20261101020000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
+  <programme start="20261109080000 +0300" stop="20261109090000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109090000 +0300" stop="20261109100000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109100000 +0300" stop="20261109110000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109110000 +0300" stop="20261109120000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109120000 +0300" stop="20261109130000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109130000 +0300" stop="20261109140000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109140000 +0300" stop="20261109150000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109150000 +0300" stop="20261109160000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109160000 +0300" stop="20261109170000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
+  </programme>
+  <programme start="20261109170000 +0300" stop="20261109180000 +0300" channel="musicbox-dance">
+    <title>Feel The Beat!</title>
   </programme>
   <programme start="20261101020000 +0300" stop="20261101030000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
@@ -1738,14 +1816,56 @@
   <programme start="20261109010000 +0300" stop="20261109060000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
+  <programme start="20261109010000 +0300" stop="20261109020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109020000 +0300" stop="20261109030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109030000 +0300" stop="20261109040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109040000 +0300" stop="20261109050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109050000 +0300" stop="20261109060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
   <programme start="20261109060000 +0300" stop="20261109070000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
-  <programme start="20261101000000 +0300" stop="20261101010000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261109070000 +0300" stop="20261109080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261101010000 +0300" stop="20261101020000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261109080000 +0300" stop="20261109090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109090000 +0300" stop="20261109100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109100000 +0300" stop="20261109110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109110000 +0300" stop="20261109120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109120000 +0300" stop="20261109130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109130000 +0300" stop="20261109140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109140000 +0300" stop="20261109150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109150000 +0300" stop="20261109160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109160000 +0300" stop="20261109170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261109170000 +0300" stop="20261109180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
   <programme start="20261101020000 +0300" stop="20261101030000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
@@ -2314,7 +2434,55 @@
   <programme start="20261109010000 +0300" stop="20261109060000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
+  <programme start="20261109010000 +0300" stop="20261109020000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109020000 +0300" stop="20261109030000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109030000 +0300" stop="20261109040000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109040000 +0300" stop="20261109050000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109050000 +0300" stop="20261109060000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
   <programme start="20261109060000 +0300" stop="20261109070000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109070000 +0300" stop="20261109080000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109080000 +0300" stop="20261109090000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109090000 +0300" stop="20261109100000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109100000 +0300" stop="20261109110000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109110000 +0300" stop="20261109120000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109120000 +0300" stop="20261109130000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109130000 +0300" stop="20261109140000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109140000 +0300" stop="20261109150000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109150000 +0300" stop="20261109160000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109160000 +0300" stop="20261109170000 +0300" channel="musicbox-sexy">
+    <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261109170000 +0300" stop="20261109180000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
 </tv>
