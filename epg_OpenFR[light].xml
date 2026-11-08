@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Fellfresse" generator-info="OpenFR[light]_epg">
+  <channel id="Stingray iConcerts">
+    <display-name>Stingray i-Concerts.fr</display-name>
+  </channel>
+  <channel id="Trace Africa">
+    <display-name>Trace Africa.fr</display-name>
+  </channel>
+  <channel id="Trace Caribbean">
+    <display-name>Trace Caribbean.fr</display-name>
+  </channel>
+  <programme start="20261107230000 +0000" stop="20261108003700 +0000" channel="Stingray iConcerts">
+    <title>Lynyrd Skynyrd: Pronounced Leh-Nerd Skin-Nerd &amp; Second Helping Live</title>
+  </programme>
+  <programme start="20261108003700 +0000" stop="20261108013000 +0000" channel="Stingray iConcerts">
+    <title>Willie Nelson - Live at iTunes Festival</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261108020000 +0000" stop="20261108031400 +0000" channel="Stingray iConcerts">
+    <title>Rod Stewart - Live at Hyde Park</title>
+  </programme>
+  <programme start="20261108031400 +0000" stop="20261108041600 +0000" channel="Stingray iConcerts">
+    <title>ELO Live at Wembley</title>
+  </programme>
+  <programme start="20261108041600 +0000" stop="20261108060100 +0000" channel="Stingray iConcerts">
+    <title>Muse - Live at Festival Rock Am Ring</title>
+  </programme>
+  <programme start="20261108060100 +0000" stop="20261108074400 +0000" channel="Stingray iConcerts">
+    <title>Céline Dion : Taking Chances World Tour</title>
+  </programme>
+  <programme start="20261108074400 +0000" stop="20261108084500 +0000" channel="Stingray iConcerts">
+    <title>Jerry Lee Lewis: Jerry Lee Lewis &amp; Friends</title>
+  </programme>
+  <programme start="20261108084500 +0000" stop="20261108090300 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261108090300 +0000" stop="20261108100900 +0000" channel="Stingray iConcerts">
+    <title>Leonard Cohen - Under Review: 1978-2006</title>
+  </programme>
+  <programme start="20261108100900 +0000" stop="20261108110200 +0000" channel="Stingray iConcerts">
+    <title>James Taylor - Austin City Limits</title>
+  </programme>
+  <programme start="20261108110200 +0000" stop="20261108125300 +0000" channel="Stingray iConcerts">
+    <title>Diana Krall : Live In Rio</title>
+  </programme>
+  <programme start="20261108125300 +0000" stop="20261108130100 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261108130100 +0000" stop="20261108141500 +0000" channel="Stingray iConcerts">
+    <title>Rod Stewart - Live at Hyde Park</title>
+  </programme>
+  <programme start="20261108141500 +0000" stop="20261108151800 +0000" channel="Stingray iConcerts">
+    <title>ELO Live at Wembley</title>
+  </programme>
+  <programme start="20261108151800 +0000" stop="20261108170200 +0000" channel="Stingray iConcerts">
+    <title>Muse - Live at Festival Rock Am Ring</title>
+  </programme>
+  <programme start="20261108170200 +0000" stop="20261108182100 +0000" channel="Stingray iConcerts">
+    <title>Carrie Underwood - Live at the Roundhouse London</title>
+  </programme>
+  <programme start="20261108182100 +0000" stop="20261108192100 +0000" channel="Stingray iConcerts">
+    <title>The Strokes - Live at Landmark Music Festival</title>
+  </programme>
+  <programme start="20261108192100 +0000" stop="20261108194600 +0000" channel="Stingray iConcerts">
+    <title>The Black Keys - Live at Austin City Limits</title>
+  </programme>
+  <programme start="20261108194600 +0000" stop="20261108220000 +0000" channel="Stingray iConcerts">
+    <title>George Michael : Live in London</title>
+  </programme>
+  <programme start="20261108220000 +0000" stop="20261108230000 +0000" channel="Stingray iConcerts">
+    <title>Jerry Lee Lewis: Jerry Lee Lewis &amp; Friends</title>
+  </programme>
+  <programme start="20261108230000 +0000" stop="20261109003700 +0000" channel="Stingray iConcerts">
+    <title>Lynyrd Skynyrd: Pronounced Leh-Nerd Skin-Nerd &amp; Second Helping Live</title>
+  </programme>
+  <programme start="20261109003700 +0000" stop="20261109013000 +0000" channel="Stingray iConcerts">
+    <title>Willie Nelson - Live at iTunes Festival</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261109020000 +0000" stop="20261109031400 +0000" channel="Stingray iConcerts">
+    <title>Rod Stewart - Live at Hyde Park</title>
+  </programme>
+  <programme start="20261109031400 +0000" stop="20261109041600 +0000" channel="Stingray iConcerts">
+    <title>ELO Live at Wembley</title>
+  </programme>
+  <programme start="20261109041600 +0000" stop="20261109060100 +0000" channel="Stingray iConcerts">
+    <title>Muse - Live at Festival Rock Am Ring</title>
+  </programme>
+  <programme start="20261109060100 +0000" stop="20261109074400 +0000" channel="Stingray iConcerts">
+    <title>Céline Dion : Taking Chances World Tour</title>
+  </programme>
+  <programme start="20261109074400 +0000" stop="20261109084500 +0000" channel="Stingray iConcerts">
+    <title>Jerry Lee Lewis: Jerry Lee Lewis &amp; Friends</title>
+  </programme>
+  <programme start="20261109084500 +0000" stop="20261109090300 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261109090300 +0000" stop="20261109100900 +0000" channel="Stingray iConcerts">
+    <title>Leonard Cohen - Under Review: 1978-2006</title>
+  </programme>
+  <programme start="20261109100900 +0000" stop="20261109110200 +0000" channel="Stingray iConcerts">
+    <title>James Taylor - Austin City Limits</title>
+  </programme>
+  <programme start="20261109110200 +0000" stop="20261109125300 +0000" channel="Stingray iConcerts">
+    <title>Diana Krall : Live In Rio</title>
+  </programme>
+  <programme start="20261109125300 +0000" stop="20261109130100 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261109130100 +0000" stop="20261109141500 +0000" channel="Stingray iConcerts">
+    <title>Rod Stewart - Live at Hyde Park</title>
+  </programme>
+  <programme start="20261109141500 +0000" stop="20261109151800 +0000" channel="Stingray iConcerts">
+    <title>ELO Live at Wembley</title>
+  </programme>
+  <programme start="20261109151800 +0000" stop="20261109170200 +0000" channel="Stingray iConcerts">
+    <title>Muse - Live at Festival Rock Am Ring</title>
+  </programme>
+  <programme start="20261109170200 +0000" stop="20261109182100 +0000" channel="Stingray iConcerts">
+    <title>Carrie Underwood - Live at the Roundhouse London</title>
+  </programme>
+  <programme start="20261109182100 +0000" stop="20261109192100 +0000" channel="Stingray iConcerts">
+    <title>The Strokes - Live at Landmark Music Festival</title>
+  </programme>
+  <programme start="20261109192100 +0000" stop="20261109194600 +0000" channel="Stingray iConcerts">
+    <title>The Black Keys - Live at Austin City Limits</title>
+  </programme>
+  <programme start="20261109194600 +0000" stop="20261109220000 +0000" channel="Stingray iConcerts">
+    <title>George Michael : Live in London</title>
+  </programme>
+  <programme start="20261109220000 +0000" stop="20261109230000 +0000" channel="Stingray iConcerts">
+    <title>Jerry Lee Lewis: Jerry Lee Lewis &amp; Friends</title>
+  </programme>
+  <programme start="20261109230000 +0000" stop="20261110002400 +0000" channel="Stingray iConcerts">
+    <title>Nazareth : Homecoming / The Greatest Hits Live from Glasgow</title>
+  </programme>
+  <programme start="20261110012900 +0000" stop="20261110020000 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261110020000 +0000" stop="20261110041300 +0000" channel="Stingray iConcerts">
+    <title>The Who: Live At the Isle Of Wight Festival 2004</title>
+  </programme>
+  <programme start="20261110041300 +0000" stop="20261110044900 +0000" channel="Stingray iConcerts">
+    <title>Charlie Puth : Live at Roundhouse London</title>
+  </programme>
+  <programme start="20261110044900 +0000" stop="20261110050200 +0000" channel="Stingray iConcerts">
+    <title>iConcerts Hits</title>
+    <episode-num system="xmltv_ns">15..</episode-num>
+  </programme>
+  <programme start="20261110050200 +0000" stop="20261110064000 +0000" channel="Stingray iConcerts">
+    <title>John Legend : Live at the iTunes Festival</title>
+  </programme>
+  <programme start="20261107230000 +0000" stop="20261108000000 +0000" channel="Trace Africa">
+    <title>Sounds of 223</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108000000 +0000" stop="20261108010000 +0000" channel="Trace Africa">
+    <title>La nuit c'est la nuit !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108010000 +0000" stop="20261108024500 +0000" channel="Trace Africa">
+    <title>Hit 30 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108024500 +0000" stop="20261108030000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108030000 +0000" stop="20261108050000 +0000" channel="Trace Africa">
+    <title>La nuit c'est la nuit !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108050000 +0000" stop="20261108070000 +0000" channel="Trace Africa">
+    <title>Good morning</title>
+  </programme>
+  <programme start="20261108070000 +0000" stop="20261108074500 +0000" channel="Trace Africa">
+    <title>Urban Hit 10 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108074500 +0000" stop="20261108080000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="Trace Africa">
+    <title>Retro</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108090000 +0000" stop="20261108110000 +0000" channel="Trace Africa">
+    <title>Ton good mood !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108110000 +0000" stop="20261108140000 +0000" channel="Trace Africa">
+    <title>On s'enjaille !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="Trace Africa">
+    <title>Trace mag</title>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20261108150000 +0000" stop="20261108154500 +0000" channel="Trace Africa">
+    <title>Urban Hit 10 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108154500 +0000" stop="20261108160000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108160000 +0000" stop="20261108180000 +0000" channel="Trace Africa">
+    <title>On s'enjaille !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108180000 +0000" stop="20261108190000 +0000" channel="Trace Africa">
+    <title>New Africa</title>
+  </programme>
+  <programme start="20261108190000 +0000" stop="20261108200000 +0000" channel="Trace Africa">
+    <title>Sounds of 226</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108200000 +0000" stop="20261108220000 +0000" channel="Trace Africa">
+    <title>On s'enjaille !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108220000 +0000" stop="20261108230000 +0000" channel="Trace Africa">
+    <title>Trace Live</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="Trace Africa">
+    <title>Sounds of 221</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109000000 +0000" stop="20261109014500 +0000" channel="Trace Africa">
+    <title>Hit 30 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109014500 +0000" stop="20261109020000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109020000 +0000" stop="20261109030000 +0000" channel="Trace Africa">
+    <title>Trace mag</title>
+    <episode-num system="xmltv_ns">0..</episode-num>
+  </programme>
+  <programme start="20261109030000 +0000" stop="20261109050000 +0000" channel="Trace Africa">
+    <title>La nuit c'est la nuit !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109050000 +0000" stop="20261109070000 +0000" channel="Trace Africa">
+    <title>Good morning</title>
+  </programme>
+  <programme start="20261109070000 +0000" stop="20261109074500 +0000" channel="Trace Africa">
+    <title>Urban Hit 10 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109074500 +0000" stop="20261109080000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109080000 +0000" stop="20261109090000 +0000" channel="Trace Africa">
+    <title>Retro</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109110000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109110000 +0000" stop="20261109124500 +0000" channel="Trace Africa">
+    <title>Hit 30 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109124500 +0000" stop="20261109130000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="Trace Africa">
+    <title>Ton good mood !</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="Trace Africa">
+    <title>Focus</title>
+    <episode-num system="xmltv_ns">20..</episode-num>
+  </programme>
+  <programme start="20261109150000 +0000" stop="20261109154500 +0000" channel="Trace Africa">
+    <title>Urban Hit 10 Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109154500 +0000" stop="20261109160000 +0000" channel="Trace Africa">
+    <title>Hits non stop Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="Trace Africa">
+    <title>Hits &amp; Lyrics Africa</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109170000 +0000" stop="20261109190000 +0000" channel="Trace Africa">
+    <title>Afro vibes</title>
+  </programme>
+  <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="Trace Africa">
+    <title>Sounds of 241</title>
+  </programme>
+  <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="Trace Africa">
+    <title>Afro vibes</title>
+  </programme>
+  <programme start="20261108000000 +0000" stop="20261108050000 +0000" channel="Trace Caribbean">
+    <title>Night session</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108050000 +0000" stop="20261108080000 +0000" channel="Trace Caribbean">
+    <title>Good Morning Trace</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="Trace Caribbean">
+    <title>Focus</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108090000 +0000" stop="20261108140000 +0000" channel="Trace Caribbean">
+    <title>Bon week-end Trace</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108140000 +0000" stop="20261108154500 +0000" channel="Trace Caribbean">
+    <title>Hit 30</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108154500 +0000" stop="20261108160000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108160000 +0000" stop="20261108190000 +0000" channel="Trace Caribbean">
+    <title>Bon week-end Trace</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108190000 +0000" stop="20261108220000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261108220000 +0000" stop="20261109000000 +0000" channel="Trace Caribbean">
+    <title>Trace classic</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109000000 +0000" stop="20261109050000 +0000" channel="Trace Caribbean">
+    <title>Night session</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109050000 +0000" stop="20261109080000 +0000" channel="Trace Caribbean">
+    <title>Good Morning Trace</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109080000 +0000" stop="20261109084500 +0000" channel="Trace Caribbean">
+    <title>Hit 10</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109084500 +0000" stop="20261109090000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109120000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109120000 +0000" stop="20261109134500 +0000" channel="Trace Caribbean">
+    <title>Hit 30</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109134500 +0000" stop="20261109140000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109170000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="Trace Caribbean">
+    <title>Focus</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109180000 +0000" stop="20261109184500 +0000" channel="Trace Caribbean">
+    <title>Hit 10</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109184500 +0000" stop="20261109190000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109190000 +0000" stop="20261109220000 +0000" channel="Trace Caribbean">
+    <title>Caribbean Vibes</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261109220000 +0000" stop="20261110000000 +0000" channel="Trace Caribbean">
+    <title>Trace classic</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261110000000 +0000" stop="20261110050000 +0000" channel="Trace Caribbean">
+    <title>Night session</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+  <programme start="20261110050000 +0000" stop="20261110080000 +0000" channel="Trace Caribbean">
+    <title>Good Morning Trace</title>
+    <episode-num system="xmltv_ns">1..</episode-num>
+  </programme>
+</tv>

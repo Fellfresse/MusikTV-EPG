@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Fellfresse" generator-info="EPG/RakutenTV-DE[light]">
+  <channel id="that-s-70s">
+    <display-name lang="de">that-s-70s</display-name>
+  </channel>
+  <channel id="that-s-80s">
+    <display-name lang="de">that-s-80s</display-name>
+  </channel>
+  <channel id="that-s-rock">
+    <display-name lang="de">that-s-rock</display-name>
+  </channel>
+  <channel id="that-s-90s00s">
+    <display-name lang="de">that-s-90s00s</display-name>
+  </channel>
+  <channel id="deluxe-deutschpop">
+    <display-name lang="de">deluxe-deutschpop</display-name>
+  </channel>
+  <channel id="vevo-pop-de">
+    <display-name lang="de">vevo-pop-de</display-name>
+  </channel>
+  <channel id="vevo-schlager-pop-de">
+    <display-name lang="de">vevo-schlager-pop-de</display-name>
+  </channel>
+  <channel id="stingray-80s-90s-pop-de">
+    <display-name lang="de">stingray-80s-90s-pop-de</display-name>
+  </channel>
+  <channel id="stingray-schlager-de">
+    <display-name lang="de">stingray-schlager-de</display-name>
+  </channel>
+</tv>

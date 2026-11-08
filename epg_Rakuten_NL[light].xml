@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Fellfresse" generator-info="EPG/RakutenTV-NL[light]">
+  <channel id="your-60-s-nl">
+    <display-name lang="nl">your-60-s-nl</display-name>
+  </channel>
+  <channel id="your-70-s-nl">
+    <display-name lang="nl">your-70-s-nl</display-name>
+  </channel>
+  <channel id="your-80-s-nl">
+    <display-name lang="nl">your-80-s-nl</display-name>
+  </channel>
+  <channel id="tmf-nl">
+    <display-name lang="nl">tmf-nl</display-name>
+  </channel>
+</tv>
