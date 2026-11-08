@@ -1,0 +1,1127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="Fellfresse" generator-info="Plex.mjh[light]_epg">
+  <channel id="Qello Concerts by Stingray">
+    <display-name>Qello Concerts</display-name>
+    <icon src="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png" />
+  </channel>
+  <channel id="XITE 80s Flashback [US]">
+    <display-name>XITE 80s Flashback</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/bf2b581f-5de1-4596-a76e-0123fb6c49b8/xite80sflashback_logo_WHT_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Rock X Metal [US]">
+    <display-name>XITE Rock x Metal</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/40b11283-ff2c-4bf3-93a0-3448e10f2b2c/xiterockxmetal_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE 90s Throwback [US]">
+    <display-name>XITE 90s Throwback</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/dede1b4c-26b6-4d1e-a057-cc3d23e5a079/xite90sthrowback_logo_light_-_Arlette_FiraRDXn.png" />
+  </channel>
+  <channel id="XITE 60s - 70s Groove [US]">
+    <display-name>XITE 60s &amp; 70s Groove</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8889551a-8796-41d0-b6b5-c7fad08fb62e/xite60s70sgroove_logo_WHT-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Hits [US]">
+    <display-name>XITE Hits</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/b79c1102-0a7d-4310-a0df-6cbe6fb660e2/xitehits_logo_WHITE_-_Arlette_FiranRDX2.png" />
+  </channel>
+  <channel id="XITE R-B Feels [US]">
+    <display-name>XITE R&amp;B Feels</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/d66df7c5-ff88-41f0-99a1-2b0e7bb1c129/xiterbfeels_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Rap Game [US]">
+    <display-name>XITE Rap Game</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/3118ea3d-f353-4096-9642-afdb2188a0b1/xiterapgame_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Hip-Hop Evolution [US]">
+    <display-name>XITE Hip-Hop Evolution</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/ded154a4-17ee-4e40-b7dc-cb3dc5696a9d/xitehiphopevolution_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Just Chill [US]">
+    <display-name>XITE Just Chill</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Celebrates [US]">
+    <display-name>XITE The Beatles</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/7a14a2b6-b69c-4609-92f0-386b6042136c/Platform_XITE_Logo_Artwork_Beatles_whiteRDX.png" />
+  </channel>
+  <channel id="XITE Siempre Latino [US]">
+    <display-name>XITE Siempre Latino</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/35a1d7e4-caa3-477a-b813-90d23a756a16/xitesiemprelatino_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Nuevo Latino [US]">
+    <display-name>XITE Nuevo Latino</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/25aac646-3806-4e44-b1aa-cd8e3407f3c3/xitenuevolatino_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="Stingray Karaoke">
+    <display-name>Stingray Karaoke</display-name>
+    <icon src="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/fa59a795c6c71d529187195b38114659.png" />
+  </channel>
+  <channel id="Movie Music by Stingray">
+    <display-name>Movie Music by Stingray</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png" />
+  </channel>
+  <channel id="XITE Country Today [CA]">
+    <display-name>XITE Country Today</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/2406e27a-3e83-407c-96e8-2426335732e8/xitecountrytoday_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Classic Country [CA]">
+    <display-name>XITE Classic Country</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/511ebc88-a7f7-4f6d-85ff-38c849bbb4a3/xiteclassiccountry_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE XITE R-B Classic Jams [CA]">
+    <display-name>XITE R&amp;B Classic Jams</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/8336dd02-409a-4917-8a7c-773494af97b6/xiterbclassicjams_logo_light_-_Arlette_FiranRDX.png" />
+  </channel>
+  <channel id="XITE Hits [UK]">
+    <display-name>XITE Hits</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/5481be7b-b11a-4e5f-b749-da4c50c93cc6/xitehits_logo_WHTArlette_FiranRDX2.png" />
+  </channel>
+  <programme channel="Qello Concerts by Stingray" start="20261107225900 +0000" stop="20261108010900 +0000">
+    <title>Diana Krall - Live In Rio</title>
+    <desc>Diana Krall has had a long-time fascination with bossa nova, a type of music which perfectly suits her sophisticated yet sensual style. This stunning concert is filmed in the home of the bossa nova, Rio de Janeiro, in November 2008.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108010900 +0000" stop="20261108023600 +0000">
+    <title>Rod Stewart - Live at Hyde Park</title>
+    <desc>Experience the legendary Rod Stewart as he closes Radio 2's Annual Festival In A Day with a memorable performance in September 2015 at London's Hyde Park.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108023600 +0000" stop="20261108050000 +0000">
+    <title>The Doobie Brothers - Live At Wolf Trap</title>
+    <desc>Filmed in high definition on 25 July 2004 at Wolf Trap National Park for the Performing Arts in Virginia, Live At Wolf Trap captures The Doobie Brothers in fine form on a set that mixes classic hits with some rarely performed tracks.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108050000 +0000" stop="20261108063800 +0000">
+    <title>Heart - Live At The Royal Albert Hall</title>
+    <desc>This film captures not only Heart's first-ever live performance at the Royal Albert Hall but is also the first concert film of Heart performing with a full orchestra.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108063800 +0000" stop="20261108081300 +0000">
+    <title>Soundgarden - Live in London 2014</title>
+    <desc>ITunes Festival, is an annual music festival that takes place over a month in London. Sponsored by Apple Inc., it had its first edition in 2007.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108081300 +0000" stop="20261108083000 +0000">
+    <title>Qello Concerts' Best</title>
+    <desc>The best of Qello Concerts.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108083000 +0000" stop="20261108102700 +0000">
+    <title>Muse: Live at Festival Rock Am Ring</title>
+    <desc>Rock Am Ring in Nürburgring and Rock Im Park in Nuremberg are music festivals that take place annually at the Nürburgring Race Track in Western Germany, featuring Muse.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108102700 +0000" stop="20261108114600 +0000">
+    <title>Annie Lennox - An Evening of Nostalgia</title>
+    <desc>An Evening Of Nostalgia with Annie Lennox captures one of music's most popular and acclaimed artists in her only full concert performance of songs from her Grammy-nominated Nostalgia album.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108114600 +0000" stop="20261108124800 +0000">
+    <title>James Taylor - Austin City Limits</title>
+    <desc>The Austin City Limits Music Festival is an annual music festival that takes place at Zilker Park in Austin, Texas; the festival features more than 130 bands on eight stages for three days.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108124800 +0000" stop="20261108141100 +0000">
+    <title>Maroon 5 -- Live in London 2014</title>
+    <desc>Filmed at Roundhouse, London, this Maroon 5 concert features songs such as "Moves Like Jagger," "Daylight," "This Love" and many more.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108141100 +0000" stop="20261108150800 +0000">
+    <title>The 1975: Rock Am Ring 2019</title>
+    <desc>Rock im Park is a music festival that takes place in Nuremberg, Germany, lasting three days; featuring: The 1975.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108150800 +0000" stop="20261108164600 +0000">
+    <title>BLACKPINK - The Show</title>
+    <desc>The Show opened with Kill This Love, following a video featuring sights of dark and empty cities around the world.[9] Apart from live performances it also included several pre-recorded tracks.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108164600 +0000" stop="20261108183400 +0000">
+    <title>Genesis: Sum of the Parts</title>
+    <desc>The history of the British rock group Genesis includes members Phil Collins, Peter Gabriel, Tony Banks, Mike Rutherford, Steve Hackett and Anthony Phillips.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108183400 +0000" stop="20261108204800 +0000">
+    <title>The Moody Blues - Days of Future Passed Live</title>
+    <desc>This film, capturing an electric evening at The Sony Centre, Toronto, where the band was joined on stage by a full orchestra for the first time ever, is the definitive performance the album Days of Future Passed.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108204800 +0000" stop="20261108215800 +0000">
+    <title>The Clash - Rebel Truce: The history of The Clash</title>
+    <desc>The Clash were one of the most influential bands to blow up from the Punk rock scene of 1977, with the late Joe Strummer revered as one of the greatest frontmen in rock'n'Roll music history.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108215800 +0000" stop="20261108234900 +0000">
+    <title>Alabama &amp; Friends - Live at the Ryman</title>
+    <desc>Join superstar band Alabama, recorded at the historic Ryman Auditorium, featuring on stage collaborations with country's biggest stars: Luke Bryan, Jason Aldean, Trisha Yearwood, Florida Georgia Line, Jamey Johnson and the Eli Young Band.</desc>
+  </programme>
+  <programme channel="Qello Concerts by Stingray" start="20261108234900 +0000" stop="20261109010100 +0000">
+    <title>Electric Light Orchestra - Live at Wembley 1978</title>
+    <desc>Captured live at London's Wembley Arena and directed by Mike Mansfield this space-age show will live forever in rock history as, quite literally, out of this world.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Ultimate 80s Mixtape</title>
+    <desc>Simply the best 80s music video hits.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>We Love The 80s!</title>
+    <desc>The biggest 80s hits we all know and love.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Up Late With The 80s</title>
+    <desc>Stay up late with these 80s retro classics.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>All Night 80s</title>
+    <desc>All-out 80s music videos at midnight.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>Nighttime 80s</title>
+    <desc>80s music videos all night long.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Wide Awake 80s</title>
+    <desc>Get your day started with these 80s music videos.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Wake Up And Go-Go</title>
+    <desc>Let these 80s hits be your morning motivation.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Totally Awesome 80s</title>
+    <desc>Fuel your afternoon with a powerhouse of 80s music video hits.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>80s Afternoon Anthems</title>
+    <desc>Let these 80s hits be the soundtrack to your afternoon.</desc>
+  </programme>
+  <programme channel="XITE 80s Flashback [US]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Ultimate 80s Mixtape</title>
+    <desc>Simply the best 80s music video hits.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Amplified Anthems</title>
+    <desc>Crank up the volume on these Rock and Metal bangers.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Rockin' Into The Night</title>
+    <desc>Kick off the night with the greatest Rock hits from past and present.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Howlin' At The Moon</title>
+    <desc>Brace yourself for an eruption of Rock and Metal videos that will electrify your night.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Lucid Rock Dreams</title>
+    <desc>Watch your favorite Rock videos through the witching hour.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>Rock All Night</title>
+    <desc>Let these headbangers Rock your night away.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Rise &amp; Rock</title>
+    <desc>Embrace the power of Rock and Metal as daybreak ignites your fierce spirit.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Full Throttle Rock</title>
+    <desc>Take charge of your day with these absolute Rock gems.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Rock Out At Noon</title>
+    <desc>These electrifying Rock anthems will keep you energized throughout the day.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>Rock Unstoppable</title>
+    <desc>Tune in for non-stop Rock and Metal hits.</desc>
+  </programme>
+  <programme channel="XITE Rock X Metal [US]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Amplified Anthems</title>
+    <desc>Crank up the volume on these Rock and Metal bangers.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>90s 4 Ever</title>
+    <desc>Don't miss these 90s bangers!</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Back 2 The 90s</title>
+    <desc>All out 90s, all evening long.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Nighttime 90s</title>
+    <desc>Embark on a nighttime journey with these unforgettable '90s hits.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108050000 +0000" stop="20261108080000 +0000">
+    <title>All Night 90s</title>
+    <desc>90s throwbacks after midnight.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108080000 +0000" stop="20261108110000 +0000">
+    <title>90s Nightshift</title>
+    <desc>Punch your timecard with the 90s nightshift.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>90s Mornings</title>
+    <desc>Rise and shine with these 90s music videos.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Wake Up With The 90s</title>
+    <desc>Fuel up your morning with these 90s hits.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>You Go 90s!</title>
+    <desc>90s music video hits to help you power through the afternoon.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>Fly 90s Afternoon</title>
+    <desc>Nostalgia filled 90s music video hits.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>90s 4 Ever</title>
+    <desc>Don't miss these 90s bangers!</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109010000 +0000" stop="20261109030000 +0000">
+    <title>Back 2 The 90s</title>
+    <desc>All out 90s, all evening long.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109030000 +0000" stop="20261109050000 +0000">
+    <title>Nighttime 90s</title>
+    <desc>Embark on a nighttime journey with these unforgettable '90s hits.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109050000 +0000" stop="20261109070000 +0000">
+    <title>All Night 90s</title>
+    <desc>90s throwbacks after midnight.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109070000 +0000" stop="20261109110000 +0000">
+    <title>90s Nightshift</title>
+    <desc>Punch your timecard with the 90s nightshift.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109110000 +0000" stop="20261109130000 +0000">
+    <title>90s Mornings</title>
+    <desc>Rise and shine with these 90s music videos.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109130000 +0000" stop="20261109170000 +0000">
+    <title>Wake Up With The 90s</title>
+    <desc>Fuel up your morning with these 90s hits.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109170000 +0000" stop="20261109190000 +0000">
+    <title>You Go 90s!</title>
+    <desc>90s music video hits to help you power through the afternoon.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109190000 +0000" stop="20261109230000 +0000">
+    <title>Fly 90s Afternoon</title>
+    <desc>Nostalgia filled 90s music video hits.</desc>
+  </programme>
+  <programme channel="XITE 90s Throwback [US]" start="20261109230000 +0000" stop="20261110010000 +0000">
+    <title>90s 4 Ever</title>
+    <desc>Don't miss these 90s bangers!</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261107230000 +0000" stop="20261108050000 +0000">
+    <title>Golden Oldies All Night</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261108050000 +0000" stop="20261108110000 +0000">
+    <title>60s &amp; 70s Morning Hits</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261108110000 +0000" stop="20261108170000 +0000">
+    <title>NonStop 60s &amp; 70s Hits</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261108170000 +0000" stop="20261108230000 +0000">
+    <title>60s &amp; 70s Evergreens</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE 60s - 70s Groove [US]" start="20261108230000 +0000" stop="20261109050000 +0000">
+    <title>Golden Oldies All Night</title>
+    <desc>An eclectic mix of classic music videos by artists who changed the face of music.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261107230000 +0000" stop="20261108030000 +0000">
+    <title>Hits Now: The Ultimate Collection</title>
+    <desc>Tune in for a non-stop playlist of today's chart-topping hits!</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Saturday Night Anthems</title>
+    <desc>It's Saturday night! Start your evening with the biggest and best party hits.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108050000 +0000" stop="20261108080000 +0000">
+    <title>Hits All Night</title>
+    <desc>Clock in to the night with these chart-topping hits.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108080000 +0000" stop="20261108110000 +0000">
+    <title>The Hit Mix: After Hours</title>
+    <desc>Experience the ultimate after-hours mix with these music video hits.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108110000 +0000" stop="20261108140000 +0000">
+    <title>Rise &amp; Shine Hits</title>
+    <desc>Struggling to rise and shine? Let these hits get you through the early hours.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108140000 +0000" stop="20261108170000 +0000">
+    <title>Morning Hits</title>
+    <desc>Start your morning with the best hits of the moment!</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108170000 +0000" stop="20261108200000 +0000">
+    <title>Nonstop Hits</title>
+    <desc>Check out the hottest music videos of the moment.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108200000 +0000" stop="20261108230000 +0000">
+    <title>Hits All Afternoon</title>
+    <desc>Need a pick me up? Here are some uplifting music videos that will give you energy for the hardest part of the day.</desc>
+  </programme>
+  <programme channel="XITE Hits [US]" start="20261108230000 +0000" stop="20261109020000 +0000">
+    <title>Hits Now: The Ultimate Collection</title>
+    <desc>Tune in for a non-stop playlist of today's chart-topping hits!</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261107230000 +0000" stop="20261108020000 +0000">
+    <title>Smooth Dinner Jams</title>
+    <desc>Set the scene with smooth R&amp;B music videos, adding a touch of soul to your dinner or evening gathering.</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108020000 +0000" stop="20261108050000 +0000">
+    <title>We Love R&amp;B Evenings</title>
+    <desc>Wind down with R&amp;B music videos that bring warmth to your evening.</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108050000 +0000" stop="20261108080000 +0000">
+    <title>R&amp;B Pillow Talk</title>
+    <desc>Get cozy with the best R&amp;B music videos, perfect for winding down and setting a calm, dreamy atmosphere.</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108080000 +0000" stop="20261108110000 +0000">
+    <title>Night Rhythms</title>
+    <desc>The best R&amp;B hits on rotation all night long!</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108110000 +0000" stop="20261108140000 +0000">
+    <title>R&amp;B Bliss</title>
+    <desc>Enjoy a soothing collection of R&amp;B music videos, mixing soulful sounds and visuals.</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108140000 +0000" stop="20261108170000 +0000">
+    <title>Morning R&amp;B Vibes</title>
+    <desc>Rise and shine with your favorite dose of R&amp;B jams!</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108170000 +0000" stop="20261108200000 +0000">
+    <title>R&amp;B Essence</title>
+    <desc>A selection of essential R&amp;B music videos capturing the genre’s smooth sounds and soulful energy.</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108200000 +0000" stop="20261108230000 +0000">
+    <title>R&amp;B And Chill</title>
+    <desc>Relax with the best R&amp;B hits, creating a cozy vibe that’s perfect anytime you want to unwind.</desc>
+  </programme>
+  <programme channel="XITE R-B Feels [US]" start="20261108230000 +0000" stop="20261109020000 +0000">
+    <title>Smooth Dinner Jams</title>
+    <desc>Set the scene with smooth R&amp;B music videos, adding a touch of soul to your dinner or evening gathering.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261107230000 +0000" stop="20261108050000 +0000">
+    <title>Rap Daily Wrap-Up</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261108050000 +0000" stop="20261108110000 +0000">
+    <title>Lucid Rap Dreams</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261108110000 +0000" stop="20261108170000 +0000">
+    <title>Rap Morning Mixtape</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records!</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261108170000 +0000" stop="20261108230000 +0000">
+    <title>Afternoon Vibe &amp; Flow</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Rap Game [US]" start="20261108230000 +0000" stop="20261109050000 +0000">
+    <title>Rap Daily Wrap-Up</title>
+    <desc>The hottest Hip-Hop music videos driving the culture and breaking records.</desc>
+  </programme>
+  <programme channel="XITE Hip-Hop Evolution [US]" start="20261107230000 +0000" stop="20261108050000 +0000">
+    <title>Old School Evenings</title>
+    <desc>Iconic Hip-Hop music videos from the pioneers up to today's biggest stars.</desc>
+  </programme>
+  <programme channel="XITE Hip-Hop Evolution [US]" start="20261108050000 +0000" stop="20261108110000 +0000">
+    <title>Hip-Hop Nighttime Rewind</title>
+    <desc>Iconic Hip-Hop music videos from the pioneers up to today's biggest stars.</desc>
+  </programme>
+  <programme channel="XITE Hip-Hop Evolution [US]" start="20261108110000 +0000" stop="20261108170000 +0000">
+    <title>Golden Age Mornings</title>
+    <desc>Iconic Hip-Hop music videos from the pioneers up to today's biggest stars.</desc>
+  </programme>
+  <programme channel="XITE Hip-Hop Evolution [US]" start="20261108170000 +0000" stop="20261108230000 +0000">
+    <title>Back In The Hip-Hop Day</title>
+    <desc>Iconic Hip-Hop music videos from the pioneers up to today's biggest stars.</desc>
+  </programme>
+  <programme channel="XITE Hip-Hop Evolution [US]" start="20261108230000 +0000" stop="20261109050000 +0000">
+    <title>Old School Evenings</title>
+    <desc>Iconic Hip-Hop music videos from the pioneers up to today's biggest stars.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Lean Back Hits</title>
+    <desc>Collect yourself with these sweet-sounding melodies.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Evening Chillout</title>
+    <desc>Get cushy while watching this easygoing flow of music videos.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Cozy Night Hits</title>
+    <desc>Let yourself be swept away by these sweet nighttime melodies.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Nighttime Unwind</title>
+    <desc>Wind down with these relaxed music videos.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>Late Night Chill</title>
+    <desc>Drift into the night on the sound of these chilled-out slow melodies.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Mellow Music Sunrise</title>
+    <desc>Start the day in harmony with these serene music videos.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Easy Morning Vibes</title>
+    <desc>Welcome the sun with these mellow music videos.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Laidback Lounge</title>
+    <desc>Unwind with these laidback music videos, live performances, and acoustic sessions.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>Blissful Break</title>
+    <desc>Take a break and let yourself enjoy these easy tunes.</desc>
+  </programme>
+  <programme channel="XITE Just Chill [US]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Lean Back Hits</title>
+    <desc>Collect yourself with these sweet-sounding melodies.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Christmas Jukebox</title>
+    <desc>Christmas hits on repeat, from timeless classics to new favorites.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Top Holiday Hits</title>
+    <desc>The Christmas songs that never go out of style.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Nighttime Noel</title>
+    <desc>Cozy Christmas music videos to wind down the night.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Nighttime Noel</title>
+    <desc>Cozy Christmas music videos to wind down the night.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108070000 +0000" stop="20261108090000 +0000">
+    <title>Jingle Jams</title>
+    <desc>Groove through the night with these festive favorites.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108090000 +0000" stop="20261108110000 +0000">
+    <title>Santa's Sleighlist</title>
+    <desc>Ease into the early hours with a sleighload of Christmas tunes.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Merry &amp; Bright Hits</title>
+    <desc>Keep your day merry and bright with these Christmas hits.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108130000 +0000" stop="20261108150000 +0000">
+    <title>Jingle Bell Breakfast</title>
+    <desc>Start the day on a festive note with these Christmas hits.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108150000 +0000" stop="20261108170000 +0000">
+    <title>Christmas Morning Hits</title>
+    <desc>A jolly mix of Christmas favorites to brighten your morning.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Holiday Hit Parade</title>
+    <desc>Take a festive lunch break with the biggest holiday hits.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108190000 +0000" stop="20261108210000 +0000">
+    <title>Festive Favorites</title>
+    <desc>Your favorite Christmas songs, old and new, in one festive mix.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108210000 +0000" stop="20261108230000 +0000">
+    <title>Underneath The Tree</title>
+    <desc>Christmas hits wrapped and waiting under the tree.</desc>
+  </programme>
+  <programme channel="XITE Celebrates [US]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Christmas Jukebox</title>
+    <desc>Christmas hits on repeat, from timeless classics to new favorites.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Leyendas Latinas</title>
+    <desc>Los boleros de Luis Miguel, el son de Celia Cruz y el merengue de Elvis Crespo. Legends live forever.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108010000 +0000" stop="20261108020000 +0000">
+    <title>Latin Music Evolution</title>
+    <desc>From Reggaeton to Bachata and everything in between, enjoy these memorable Latin hits all in one place.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108020000 +0000" stop="20261108030000 +0000">
+    <title>Nostalgia Latina</title>
+    <desc>Journey back in time to relive the golden moments of Latin music till the present.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Noche Latina</title>
+    <desc>Celebrating timeless Latin music videos into the night.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Iconic Latin Throwbacks</title>
+    <desc>Take a nostalgic trip through the eras of Latin music with this collection of all-time hits.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>Latin Toda la Noche</title>
+    <desc>Let's rewind and groove to the timeless hits that shaped Latin music history.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Esencia Latina</title>
+    <desc>Step through the eras with these nostalgic Latin hits.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Latin Morning Vibes</title>
+    <desc>Memorable Latin hits from Reggaeton to Bachata, and everything in between.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Latin Icons At Noon</title>
+    <desc>Travel through time and relive these iconic Latin music moments.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>Clásicos Latinos</title>
+    <desc>The evolution of Latin music until now.</desc>
+  </programme>
+  <programme channel="XITE Siempre Latino [US]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Leyendas Latinas</title>
+    <desc>Los boleros de Luis Miguel, el son de Celia Cruz y el merengue de Elvis Crespo. Legends live forever.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261107210000 +0000" stop="20261108010000 +0000">
+    <title>Latin Hits Mega-Mix</title>
+    <desc>Immerse yourself in a blend of Latin music videos.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Baile Latino</title>
+    <desc>Dive into the rhythm and enjoy this mix of Latin music video hits.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Ritmo Latino</title>
+    <desc>Start the night with the best Latin hits of the moment.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Sangre Latina Videos</title>
+    <desc>Enjoy these Latin music videos celebrated around the world.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108070000 +0000" stop="20261108090000 +0000">
+    <title>Fiesta Latina</title>
+    <desc>Que no pare la fiesta, get your party started with the biggest Latin party hits.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108090000 +0000" stop="20261108130000 +0000">
+    <title>Latin Night Hits</title>
+    <desc>Ignite your late-night vibes with these Latin hits.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108130000 +0000" stop="20261108150000 +0000">
+    <title>Latin Sunrise</title>
+    <desc>Wake up and groove to these infectious Latin rhythms.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108150000 +0000" stop="20261108190000 +0000">
+    <title>Nonstop Latin Hits</title>
+    <desc>Tune in for a rhythm-packed midday fiesta that'll have you moving and grooving.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108190000 +0000" stop="20261108210000 +0000">
+    <title>Todo Latin Hits</title>
+    <desc>Feel the never-ending Latin heatwave with these hot hits.</desc>
+  </programme>
+  <programme channel="XITE Nuevo Latino [US]" start="20261108210000 +0000" stop="20261109010000 +0000">
+    <title>Latin Hits Mega-Mix</title>
+    <desc>Immerse yourself in a blend of Latin music videos.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108000000 +0000" stop="20261108010000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108010000 +0000" stop="20261108020000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108020000 +0000" stop="20261108030000 +0000">
+    <title>Karaoke Party</title>
+    <desc>Push the furniture back, crank up the volume and let the singing fun begin with these hot songs for the ultimate karaoke party.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108030000 +0000" stop="20261108040000 +0000">
+    <title>Karaoke Party</title>
+    <desc>Push the furniture back, crank up the volume and let the singing fun begin with these hot songs for the ultimate karaoke party.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108040000 +0000" stop="20261108050000 +0000">
+    <title>Late Night Karaoke Party</title>
+    <desc>A hip-hop and R&amp;B-heavy mix is for adults only, with hits from the '80s to 2010s.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108050000 +0000" stop="20261108060000 +0000">
+    <title>Late Night Karaoke Party</title>
+    <desc>A hip-hop and R&amp;B-heavy mix is for adults only, with hits from the '80s to 2010s.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108060000 +0000" stop="20261108070000 +0000">
+    <title>Late Night Karaoke Party</title>
+    <desc>A hip-hop and R&amp;B-heavy mix is for adults only, with hits from the '80s to 2010s.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108070000 +0000" stop="20261108080000 +0000">
+    <title>Late Night Karaoke Party</title>
+    <desc>A hip-hop and R&amp;B-heavy mix is for adults only, with hits from the '80s to 2010s.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108080000 +0000" stop="20261108090000 +0000">
+    <title>Late Night Karaoke Party</title>
+    <desc>A hip-hop and R&amp;B-heavy mix is for adults only, with hits from the '80s to 2010s.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108090000 +0000" stop="20261108100000 +0000">
+    <title>Late Night Karaoke Party</title>
+    <desc>A hip-hop and R&amp;B-heavy mix is for adults only, with hits from the '80s to 2010s.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108100000 +0000" stop="20261108110000 +0000">
+    <title>Karaoke Party</title>
+    <desc>Push the furniture back, crank up the volume and let the singing fun begin with these hot songs for the ultimate karaoke party.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108110000 +0000" stop="20261108120000 +0000">
+    <title>Kids' Sing-Along</title>
+    <desc>Give the kids the stage with this collection of tunes that's perfect for family sing-alongs.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108120000 +0000" stop="20261108130000 +0000">
+    <title>Kids' Sing-Along</title>
+    <desc>Give the kids the stage with this collection of tunes that's perfect for family sing-alongs.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108130000 +0000" stop="20261108140000 +0000">
+    <title>Kids' Sing-Along</title>
+    <desc>Give the kids the stage with this collection of tunes that's perfect for family sing-alongs.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108140000 +0000" stop="20261108150000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108150000 +0000" stop="20261108160000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108160000 +0000" stop="20261108170000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108170000 +0000" stop="20261108180000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108180000 +0000" stop="20261108190000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108190000 +0000" stop="20261108200000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108200000 +0000" stop="20261108210000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108210000 +0000" stop="20261108220000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108220000 +0000" stop="20261108230000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Stingray Karaoke" start="20261108230000 +0000" stop="20261109000000 +0000">
+    <title>Family Party</title>
+    <desc>This mix features mostly upbeat classic songs and new releases, fun for the whole family.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108000000 +0000" stop="20261108010000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108010000 +0000" stop="20261108020000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108020000 +0000" stop="20261108030000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108030000 +0000" stop="20261108040000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108040000 +0000" stop="20261108050000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108050000 +0000" stop="20261108060000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108060000 +0000" stop="20261108070000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108070000 +0000" stop="20261108080000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108080000 +0000" stop="20261108090000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108090000 +0000" stop="20261108100000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108100000 +0000" stop="20261108110000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108110000 +0000" stop="20261108120000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108120000 +0000" stop="20261108130000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108130000 +0000" stop="20261108140000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108140000 +0000" stop="20261108150000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108150000 +0000" stop="20261108160000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108160000 +0000" stop="20261108170000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108170000 +0000" stop="20261108180000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108180000 +0000" stop="20261108190000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108190000 +0000" stop="20261108200000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108200000 +0000" stop="20261108210000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108210000 +0000" stop="20261108220000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108220000 +0000" stop="20261108230000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261108230000 +0000" stop="20261109000000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109000000 +0000" stop="20261109010000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109010000 +0000" stop="20261109020000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109020000 +0000" stop="20261109030000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109030000 +0000" stop="20261109040000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109040000 +0000" stop="20261109050000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109050000 +0000" stop="20261109060000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109060000 +0000" stop="20261109070000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109070000 +0000" stop="20261109080000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109080000 +0000" stop="20261109090000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109090000 +0000" stop="20261109100000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109100000 +0000" stop="20261109110000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109110000 +0000" stop="20261109120000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109120000 +0000" stop="20261109130000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109130000 +0000" stop="20261109140000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109140000 +0000" stop="20261109150000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109150000 +0000" stop="20261109160000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109160000 +0000" stop="20261109170000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109170000 +0000" stop="20261109180000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109180000 +0000" stop="20261109190000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109190000 +0000" stop="20261109200000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109200000 +0000" stop="20261109210000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109210000 +0000" stop="20261109220000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109220000 +0000" stop="20261109230000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="Movie Music by Stingray" start="20261109230000 +0000" stop="20261110000000 +0000">
+    <title>Movie Music by Stingray</title>
+    <desc>Movie Music is your gateway to epic film scores set to unforgettable cinematic moments.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Evening Country Hits</title>
+    <desc>Kick off the evening with the best Country music videos.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Primetime Country</title>
+    <desc>Check out these top-notch music videos from Country's leading artists.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Country Into the Night</title>
+    <desc>As night descends, indulge in the finest Country music videos of moment.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Country After Dark</title>
+    <desc>Stay up late and spend the night with the greatest Country hits.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>Country Overnight</title>
+    <desc>Nonstop Country music during the small hours of the night.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Early Riser Country</title>
+    <desc>Start your morning right with the best Country videos.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Country Hits Till Noon</title>
+    <desc>Start your day on the right note with some of Country music's biggest hits.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Top Notch Country</title>
+    <desc>Take a break with the biggest Country music videos of the moment.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>Nonstop Country</title>
+    <desc>The best music videos by the chart-topping modern voices in Country music.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Evening Country Hits</title>
+    <desc>Kick off the evening with the best Country music videos.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109010000 +0000" stop="20261109030000 +0000">
+    <title>Primetime Country</title>
+    <desc>Check out these top-notch music videos from Country's leading artists.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109030000 +0000" stop="20261109050000 +0000">
+    <title>Country Into the Night</title>
+    <desc>As night descends, indulge in the finest Country music videos of moment.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109050000 +0000" stop="20261109070000 +0000">
+    <title>Country After Dark</title>
+    <desc>Stay up late and spend the night with the greatest Country hits.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109070000 +0000" stop="20261109110000 +0000">
+    <title>Country Overnight</title>
+    <desc>Nonstop Country music during the small hours of the night.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109110000 +0000" stop="20261109130000 +0000">
+    <title>Early Riser Country</title>
+    <desc>Start your morning right with the best Country videos.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109130000 +0000" stop="20261109170000 +0000">
+    <title>Country Hits Till Noon</title>
+    <desc>Start your day on the right note with some of Country music's biggest hits.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109170000 +0000" stop="20261109190000 +0000">
+    <title>Top Notch Country</title>
+    <desc>Take a break with the biggest Country music videos of the moment.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109190000 +0000" stop="20261109230000 +0000">
+    <title>Nonstop Country</title>
+    <desc>The best music videos by the chart-topping modern voices in Country music.</desc>
+  </programme>
+  <programme channel="XITE Country Today [CA]" start="20261109230000 +0000" stop="20261110010000 +0000">
+    <title>Evening Country Hits</title>
+    <desc>Kick off the evening with the best Country music videos.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Essential Country Evenings</title>
+    <desc>Enjoy the best classic music videos Country has to offer.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>Country Icons At Night</title>
+    <desc>Watch the best music videos from the biggest Country stars of all time.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>Country Legends Till Midnight</title>
+    <desc>End your day with the best Country music videos ever made.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>Country All Night'er</title>
+    <desc>Kick off the night with some of Country's greatest hits from past and present.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>Genuine Country Classics</title>
+    <desc>The most essential Country music videos, all night long.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>A-1 Country Mornings</title>
+    <desc>Start your day right with these memorable Country music videos.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>Country Gems All Day</title>
+    <desc>Step into a time machine with these bona fide Country classics.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>High Noon Country</title>
+    <desc>Country music videos to brighten up your day.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>Strictly Country Classics</title>
+    <desc>The most memorable Country music videos from yesterday to today.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Essential Country Evenings</title>
+    <desc>Enjoy the best classic music videos Country has to offer.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109010000 +0000" stop="20261109030000 +0000">
+    <title>Country Icons At Night</title>
+    <desc>Watch the best music videos from the biggest Country stars of all time.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109030000 +0000" stop="20261109050000 +0000">
+    <title>Country Legends Till Midnight</title>
+    <desc>End your day with the best Country music videos ever made.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109050000 +0000" stop="20261109070000 +0000">
+    <title>Country All Night'er</title>
+    <desc>Kick off the night with some of Country's greatest hits from past and present.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109070000 +0000" stop="20261109110000 +0000">
+    <title>Genuine Country Classics</title>
+    <desc>The most essential Country music videos, all night long.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109110000 +0000" stop="20261109130000 +0000">
+    <title>A-1 Country Mornings</title>
+    <desc>Start your day right with these memorable Country music videos.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109130000 +0000" stop="20261109170000 +0000">
+    <title>Country Gems All Day</title>
+    <desc>Step into a time machine with these bona fide Country classics.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109170000 +0000" stop="20261109190000 +0000">
+    <title>High Noon Country</title>
+    <desc>Country music videos to brighten up your day.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109190000 +0000" stop="20261109230000 +0000">
+    <title>Strictly Country Classics</title>
+    <desc>The most memorable Country music videos from yesterday to today.</desc>
+  </programme>
+  <programme channel="XITE Classic Country [CA]" start="20261109230000 +0000" stop="20261110010000 +0000">
+    <title>Essential Country Evenings</title>
+    <desc>Enjoy the best classic music videos Country has to offer.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261107230000 +0000" stop="20261108010000 +0000">
+    <title>Evening R&amp;B Delight</title>
+    <desc>A collection of R&amp;B beats to ignite your evening groove.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108010000 +0000" stop="20261108030000 +0000">
+    <title>R&amp;B Nightfall</title>
+    <desc>Indulge in these R&amp;B melodies into the night.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108030000 +0000" stop="20261108050000 +0000">
+    <title>R&amp;B Nostalgic Nights</title>
+    <desc>Let these smooth R&amp;B melodies serenade you after dark.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108050000 +0000" stop="20261108070000 +0000">
+    <title>R&amp;B Midnight Melodies</title>
+    <desc>Relax into the night with this collection of soulful R&amp;B classics.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108070000 +0000" stop="20261108110000 +0000">
+    <title>R&amp;B Nightshift Classics</title>
+    <desc>R&amp;B music videos all night long.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108110000 +0000" stop="20261108130000 +0000">
+    <title>Morning Rhythm</title>
+    <desc>Wake up and vibe out to these iconic R&amp;B anthems.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108130000 +0000" stop="20261108170000 +0000">
+    <title>All About R&amp;B Mornings</title>
+    <desc>Set the rhythm for a smooth and soulful day with these R&amp;B hits.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108170000 +0000" stop="20261108190000 +0000">
+    <title>Smooth R&amp;B Jams At Noon</title>
+    <desc>Vibe through the afternoon with these R&amp;B jams.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108190000 +0000" stop="20261108230000 +0000">
+    <title>R&amp;B Golden Hours</title>
+    <desc>From classic to current hits, spend your late afternoon with these R&amp;B music videos.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261108230000 +0000" stop="20261109010000 +0000">
+    <title>Evening R&amp;B Delight</title>
+    <desc>A collection of R&amp;B beats to ignite your evening groove.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109010000 +0000" stop="20261109030000 +0000">
+    <title>R&amp;B Nightfall</title>
+    <desc>Indulge in these R&amp;B melodies into the night.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109030000 +0000" stop="20261109050000 +0000">
+    <title>R&amp;B Nostalgic Nights</title>
+    <desc>Let these smooth R&amp;B melodies serenade you after dark.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109050000 +0000" stop="20261109070000 +0000">
+    <title>R&amp;B Midnight Melodies</title>
+    <desc>Relax into the night with this collection of soulful R&amp;B classics.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109070000 +0000" stop="20261109110000 +0000">
+    <title>R&amp;B Nightshift Classics</title>
+    <desc>R&amp;B music videos all night long.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109110000 +0000" stop="20261109130000 +0000">
+    <title>Morning Rhythm</title>
+    <desc>Wake up and vibe out to these iconic R&amp;B anthems.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109130000 +0000" stop="20261109170000 +0000">
+    <title>All About R&amp;B Mornings</title>
+    <desc>Set the rhythm for a smooth and soulful day with these R&amp;B hits.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109170000 +0000" stop="20261109190000 +0000">
+    <title>Smooth R&amp;B Jams At Noon</title>
+    <desc>Vibe through the afternoon with these R&amp;B jams.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109190000 +0000" stop="20261109230000 +0000">
+    <title>R&amp;B Golden Hours</title>
+    <desc>From classic to current hits, spend your late afternoon with these R&amp;B music videos.</desc>
+  </programme>
+  <programme channel="XITE XITE R-B Classic Jams [CA]" start="20261109230000 +0000" stop="20261110010000 +0000">
+    <title>Evening R&amp;B Delight</title>
+    <desc>A collection of R&amp;B beats to ignite your evening groove.</desc>
+  </programme>
+</tv>
