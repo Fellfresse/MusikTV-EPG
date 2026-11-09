@@ -3494,7 +3494,7 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retromix.png" />
   </programme>
-  <programme start="20261109180000 +0000" stop="20261109200000 +0000" channel="vantage-classic">
+  <programme start="20261109180000 +0000" stop="20261109190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
     <sub-title lang="en">Year of 1980</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
@@ -3502,7 +3502,7 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
     <previously-shown />
   </programme>
-  <programme start="20261109200000 +0000" stop="20261110190000 +0000" channel="vantage-classic">
+  <programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="vantage-classic">
     <title>Retro Chart Mix</title>
     <sub-title lang="en">9th November 1992</sub-title>
     <desc>A mix of classic chart hits from the current week of a specific year.</desc>
@@ -3510,7 +3510,7 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
     <new />
   </programme>
-  <programme start="20261109190000 +0000" stop="20261109210000 +0000" channel="vantage-classic">
+  <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="vantage-classic">
     <title>Retro Chart Mix</title>
     <sub-title lang="en">2nd November 1991</sub-title>
     <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
@@ -4190,7 +4190,7 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retromix.png" />
   </programme>
-  <programme start="20261116180000 +0000" stop="20261116200000 +0000" channel="vantage-classic">
+  <programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
     <sub-title lang="en">Year of 1985</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
@@ -4198,7 +4198,7 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
     <previously-shown />
   </programme>
-  <programme start="20261116200000 +0000" stop="20261117190000 +0000" channel="vantage-classic">
+  <programme start="20261116190000 +0000" stop="20261116200000 +0000" channel="vantage-classic">
     <title>Retro Chart Mix</title>
     <sub-title lang="en">16th November 1993</sub-title>
     <desc>A mix of classic chart hits from the current week of a specific year.</desc>
@@ -4206,7 +4206,7 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
     <new />
   </programme>
-  <programme start="20261116190000 +0000" stop="20261116210000 +0000" channel="vantage-classic">
+  <programme start="20261116200000 +0000" stop="20261116210000 +0000" channel="vantage-classic">
     <title>Retro Chart Mix</title>
     <sub-title lang="en">8th November 1992</sub-title>
     <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
