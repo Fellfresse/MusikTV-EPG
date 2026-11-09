@@ -624,10 +624,11 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
   </programme>
   <programme start="20261114123000 +0000" stop="20261114134500 +0000" channel="vantage-music">
-    <title>European Top 20</title>
-    <desc>A rundown of the top playing hits across the EU, compiled by our partners at top40-charts.com</desc>
+    <title>Retro Charts</title>
+    <sub-title lang="en">6th November 2004</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/eurotop20.png" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <previously-shown />
   </programme>
   <programme start="20261114134500 +0000" stop="20261114140000 +0000" channel="vantage-music">
@@ -1420,10 +1421,11 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
   </programme>
   <programme start="20261121123000 +0000" stop="20261121134500 +0000" channel="vantage-music">
-    <title>European Top 20</title>
-    <desc>A rundown of the top playing hits across the EU, compiled by our partners at top40-charts.com</desc>
+    <title>Retro Charts</title>
+    <sub-title lang="en">16th November 2005</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/eurotop20.png" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <previously-shown />
   </programme>
   <programme start="20261121134500 +0000" stop="20261121140000 +0000" channel="vantage-music">
@@ -1448,17 +1450,9 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
     <new />
   </programme>
-  <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="vantage-music">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">TBA</sub-title>
-    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <new />
-  </programme>
-  <programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="vantage-music">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">TBA</sub-title>
+  <programme start="20261121170000 +0000" stop="20261121190000 +0000" channel="vantage-music">
+    <title>Vantage Collection XL</title>
+    <sub-title lang="en">H.I.M.</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
@@ -2216,10 +2210,11 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
   </programme>
   <programme start="20261128123000 +0000" stop="20261128134500 +0000" channel="vantage-music">
-    <title>European Top 20</title>
-    <desc>A rundown of the top playing hits across the EU, compiled by our partners at top40-charts.com</desc>
+    <title>Retro Charts</title>
+    <sub-title lang="en">23rd November 2006</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/eurotop20.png" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <previously-shown />
   </programme>
   <programme start="20261128134500 +0000" stop="20261128140000 +0000" channel="vantage-music">
@@ -2244,17 +2239,9 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
     <new />
   </programme>
-  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="vantage-music">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">TBA</sub-title>
-    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <new />
-  </programme>
-  <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="vantage-music">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">TBA</sub-title>
+  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="vantage-music">
+    <title>Vantage Collection XL</title>
+    <sub-title lang="en">Genesis</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
