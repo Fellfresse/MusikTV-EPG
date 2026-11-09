@@ -36,62 +36,6 @@
     <display-name lang="de">Stingray Schlager</display-name>
     <icon src="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0ccef8aa-d9ff-418a-8c9a-aad477561e72.png"></icon>
   </channel>
-  <programme start="20261107230001 +0100" stop="20261108010000 +0100" channel="that-s-70s">
-    <title lang="de">Magical Xmas Hits!</title>
-    <desc lang="de">Timeless festive favourites to soundtrack your perfect Christmas!</desc>
-  </programme>
-  <programme start="20261108010001 +0100" stop="20261108020000 +0100" channel="that-s-70s">
-    <title lang="de">The Ultimate Xmas Mix!</title>
-    <desc lang="de">A collection of festive classics and cheesy favourites! The perfect Christmas soundtrack!</desc>
-  </programme>
-  <programme start="20261108020001 +0100" stop="20261108030000 +0100" channel="that-s-70s">
-    <title lang="de">Throwback Xmas Party!</title>
-    <desc lang="de">Rewind back in time for the ultimate throwback Christmas Party!</desc>
-  </programme>
-  <programme start="20261108030001 +0100" stop="20261108050000 +0100" channel="that-s-70s">
-    <title lang="de">Xmas Jukebox!</title>
-    <desc lang="de">The ultimate festive jukebox spinning classics and cheesy hits to get you in the holiday spirit!</desc>
-  </programme>
-  <programme start="20261108050001 +0100" stop="20261108070000 +0100" channel="that-s-70s">
-    <title lang="de">Massive Xmas Hits!</title>
-    <desc lang="de">Your favourite Christmas anthems for the perfect holiday playlist!</desc>
-  </programme>
-  <programme start="20261108070001 +0100" stop="20261108090000 +0100" channel="that-s-70s">
-    <title lang="de">Xmas Hits!</title>
-    <desc lang="de">Step into Christmas with this playlist packed full of nostalgia and feel-good festive hits!</desc>
-  </programme>
-  <programme start="20261108090001 +0100" stop="20261108110000 +0100" channel="that-s-70s">
-    <title lang="de">Magical Xmas Hits!</title>
-    <desc lang="de">Timeless festive favourites to soundtrack your perfect Christmas!</desc>
-  </programme>
-  <programme start="20261108110001 +0100" stop="20261108130000 +0100" channel="that-s-70s">
-    <title lang="de">Xmas Mixtape!</title>
-    <desc lang="de">Cosy classics, party anthems and festive hits! Our mixtape has got you covered this Christmas!</desc>
-  </programme>
-  <programme start="20261108130001 +0100" stop="20261108150000 +0100" channel="that-s-70s">
-    <title lang="de">100% Xmas Classics!</title>
-    <desc lang="de">Nothing but iconic Christmas hits that make the holidays magical!</desc>
-  </programme>
-  <programme start="20261108150001 +0100" stop="20261108170000 +0100" channel="that-s-70s">
-    <title lang="de">Cosy Xmas Hits!</title>
-    <desc lang="de">Snuggle up and feel the magic with these cosy Christmas hits!</desc>
-  </programme>
-  <programme start="20261108170001 +0100" stop="20261108180000 +0100" channel="that-s-70s">
-    <title lang="de">Biggest Xmas Songs Ever!</title>
-    <desc lang="de">The most iconic Christmas hits for your perfect festive playlist!</desc>
-  </programme>
-  <programme start="20261108180001 +0100" stop="20261108190000 +0100" channel="that-s-70s">
-    <title lang="de">Jingle Bell Rock! Party Hits!</title>
-    <desc lang="de">A festive feast of upbeat Christmas hits to keep your party rocking all night long!</desc>
-  </programme>
-  <programme start="20261108190001 +0100" stop="20261108210000 +0100" channel="that-s-70s">
-    <title lang="de">I'm Dreaming of Xmas Hits!</title>
-    <desc lang="de">The biggest anthems and feel-good hits to soundtrack your Christmas!</desc>
-  </programme>
-  <programme start="20261108210001 +0100" stop="20261108230000 +0100" channel="that-s-70s">
-    <title lang="de">Xmas Karaoke Classics!</title>
-    <desc lang="de">Sing your heart out to our playlist packed with the biggest festive hits!</desc>
-  </programme>
   <programme start="20261108230001 +0100" stop="20261109010000 +0100" channel="that-s-70s">
     <title lang="de">All I Want for Xmas Is Hits!</title>
     <desc lang="de">The soundtrack to your Christmas starts right here with these massive festive hits!</desc>
@@ -200,57 +144,61 @@
     <title lang="de">Magical Xmas Hits!</title>
     <desc lang="de">Timeless festive favourites to soundtrack your perfect Christmas!</desc>
   </programme>
-  <programme start="20261107230001 +0100" stop="20261108010000 +0100" channel="that-s-80s">
-    <title lang="de">Biggest 80s Songs Ever!</title>
-    <desc lang="de">All time hits that defined the decade! This is your playlist of the biggest sounds from the 80s!</desc>
+  <programme start="20261111010001 +0100" stop="20261111020000 +0100" channel="that-s-70s">
+    <title lang="de">The Ultimate Xmas Mix!</title>
+    <desc lang="de">A collection of festive classics and cheesy favourites! The perfect Christmas soundtrack!</desc>
   </programme>
-  <programme start="20261108010001 +0100" stop="20261108030000 +0100" channel="that-s-80s">
-    <title lang="de">Super Freaky 80s Floorfillers!</title>
-    <desc lang="de">It's time to get your groove on &amp; bust out the moves as we play you the biggest 80s floor fillers!</desc>
+  <programme start="20261111020001 +0100" stop="20261111030000 +0100" channel="that-s-70s">
+    <title lang="de">Throwback Xmas Party!</title>
+    <desc lang="de">Rewind back in time for the ultimate throwback Christmas Party!</desc>
   </programme>
-  <programme start="20261108030001 +0100" stop="20261108050000 +0100" channel="that-s-80s">
-    <title lang="de">80s Pop Queens!</title>
-    <desc lang="de">Big hair, big style and big tunes. Check out the hottest pop queens from the 80s</desc>
+  <programme start="20261111030001 +0100" stop="20261111050000 +0100" channel="that-s-70s">
+    <title lang="de">Xmas Jukebox!</title>
+    <desc lang="de">The ultimate festive jukebox spinning classics and cheesy hits to get you in the holiday spirit!</desc>
   </programme>
-  <programme start="20261108050001 +0100" stop="20261108070000 +0100" channel="that-s-80s">
-    <title lang="de">80s Hottest Hits!</title>
-    <desc lang="de">Chart toppers, dance floor fillers and guitar anthems, this chart has it all! Stay with us to find out who makes it to the top.</desc>
+  <programme start="20261111050001 +0100" stop="20261111070000 +0100" channel="that-s-70s">
+    <title lang="de">Massive Xmas Hits!</title>
+    <desc lang="de">Your favourite Christmas anthems for the perfect holiday playlist!</desc>
   </programme>
-  <programme start="20261108070001 +0100" stop="20261108090000 +0100" channel="that-s-80s">
-    <title lang="de">80s A-List Hits!</title>
-    <desc lang="de">A-List hits only! These are the big ones of the decade!</desc>
+  <programme start="20261111070001 +0100" stop="20261111090000 +0100" channel="that-s-70s">
+    <title lang="de">Xmas Hits!</title>
+    <desc lang="de">Step into Christmas with this playlist packed full of nostalgia and feel-good festive hits!</desc>
   </programme>
-  <programme start="20261108090001 +0100" stop="20261108110000 +0100" channel="that-s-80s">
-    <title lang="de">80s Workout Anthems!</title>
-    <desc lang="de">Legwarmers and headbands at the ready! It's time for non stop 80s hits that will work up a sweat!</desc>
+  <programme start="20261111090001 +0100" stop="20261111110000 +0100" channel="that-s-70s">
+    <title lang="de">Massive Xmas Hits!</title>
+    <desc lang="de">Pure Christmas pop perfection! These are the biggest festive hits through the decades!</desc>
   </programme>
-  <programme start="20261108110001 +0100" stop="20261108130000 +0100" channel="that-s-80s">
-    <title lang="de">Biggest 80s Pop Stars Ever!</title>
-    <desc lang="de">Icons Only! Check out the hottest tunes from the biggest pop stars of the decade!</desc>
+  <programme start="20261111110001 +0100" stop="20261111130000 +0100" channel="that-s-70s">
+    <title lang="de">Xmas Mixtape!</title>
+    <desc lang="de">Cosy classics, party anthems and festive hits! Our mixtape has got you covered this Christmas!</desc>
   </programme>
-  <programme start="20261108130001 +0100" stop="20261108140000 +0100" channel="that-s-80s">
-    <title lang="de">Soft 80s Essentials!</title>
-    <desc lang="de">Relax &amp; unwind to these smooth grooves &amp; feelgood classics!</desc>
+  <programme start="20261111130001 +0100" stop="20261111150000 +0100" channel="that-s-70s">
+    <title lang="de">100% Xmas Classics!</title>
+    <desc lang="de">Nothing but iconic Christmas hits that make the holidays magical!</desc>
   </programme>
-  <programme start="20261108140001 +0100" stop="20261108160000 +0100" channel="that-s-80s">
-    <title lang="de">Hot In The 80s!</title>
-    <desc lang="de">All the pop stars &amp; anthems that we loved in the 80s!</desc>
+  <programme start="20261111150001 +0100" stop="20261111170000 +0100" channel="that-s-70s">
+    <title lang="de">Cosy Xmas Hits!</title>
+    <desc lang="de">Snuggle up and feel the magic with these cosy Christmas hits!</desc>
   </programme>
-  <programme start="20261108160001 +0100" stop="20261108180000 +0100" channel="that-s-80s">
-    <title lang="de">What A Feeling! 80s Chart Hits!</title>
-    <desc lang="de">The biggest chart hits to transport you right back to the 80s!</desc>
+  <programme start="20261111170001 +0100" stop="20261111180000 +0100" channel="that-s-70s">
+    <title lang="de">Biggest Xmas Songs Ever!</title>
+    <desc lang="de">The most iconic Christmas hits for your perfect festive playlist!</desc>
   </programme>
-  <programme start="20261108180001 +0100" stop="20261108200000 +0100" channel="that-s-80s">
-    <title lang="de">Ultimate 80s Classics!</title>
-    <desc lang="de">A playlist packed with 'remember when' moments! These are the biggest 80s hits we all know &amp; love!</desc>
+  <programme start="20261111180001 +0100" stop="20261111190000 +0100" channel="that-s-70s">
+    <title lang="de">Jingle Bell Rock! Party Hits!</title>
+    <desc lang="de">A festive feast of upbeat Christmas hits to keep your party rocking all night long!</desc>
   </programme>
-  <programme start="20261108200001 +0100" stop="20261108220000 +0100" channel="that-s-80s">
-    <title lang="de">Rhythm Nation: 80s Dance!</title>
-    <desc lang="de">Pump up the volume &amp; get ready to hit the dancefloor with our huge 80s dance hits!</desc>
+  <programme start="20261111190001 +0100" stop="20261111210000 +0100" channel="that-s-70s">
+    <title lang="de">I'm Dreaming of Xmas Hits!</title>
+    <desc lang="de">The biggest anthems and feel-good hits to soundtrack your Christmas!</desc>
   </programme>
-  <programme start="20261108220001 +0100" stop="20261109000000 +0100" channel="that-s-80s">
-    <title lang="de">Songs That Ruled The 80s!</title>
-    <desc lang="de">These are the songs that defined the decade and are still on everyones playlists!</desc>
+  <programme start="20261111210001 +0100" stop="20261111230000 +0100" channel="that-s-70s">
+    <title lang="de">Xmas Karaoke Classics!</title>
+    <desc lang="de">Sing your heart out to our playlist packed with the biggest festive hits!</desc>
+  </programme>
+  <programme start="20261111230001 +0100" stop="20261112010000 +0100" channel="that-s-70s">
+    <title lang="de">All I Want for Xmas Is Hits!</title>
+    <desc lang="de">The soundtrack to your Christmas starts right here with these massive festive hits!</desc>
   </programme>
   <programme start="20261109000001 +0100" stop="20261109020000 +0100" channel="that-s-80s">
     <title lang="de">80s Pop Gems!</title>
@@ -360,65 +308,65 @@
     <title lang="de">Supermassive 80s Pop Hits!</title>
     <desc lang="de">This is the ultimate collection of 80s pop hits!</desc>
   </programme>
-  <programme start="20261108000001 +0100" stop="20261108020000 +0100" channel="that-s-rock">
-    <title lang="de">Mosh Mayhem!</title>
-    <desc lang="de">High energy &amp; huge hits that will get the rock party started!</desc>
+  <programme start="20261111020001 +0100" stop="20261111040000 +0100" channel="that-s-80s">
+    <title lang="de">You Spin Me Round: Throwback Party!</title>
+    <desc lang="de">Bust out the legwarmers and hit the 80s disco of dreams, as we bring you the perfect throwback party playlist</desc>
   </programme>
-  <programme start="20261108020001 +0100" stop="20261108030000 +0100" channel="that-s-rock">
-    <title lang="de">90s Monster Rock Hits!</title>
-    <desc lang="de">The biggest Rock hits that defined the 90s</desc>
+  <programme start="20261111040001 +0100" stop="20261111050000 +0100" channel="that-s-80s">
+    <title lang="de">80s Movie Hits!</title>
+    <desc lang="de">The 80s brought us some of the biggest movies ever! Stay tuned for blockbuster hits!</desc>
   </programme>
-  <programme start="20261108030001 +0100" stop="20261108050000 +0100" channel="that-s-rock">
-    <title lang="de">Epic Rock Hits: 1970 - 2005!</title>
-    <desc lang="de">The biggest rock hits that were on everyone's playlists from 1970 to 2005!</desc>
+  <programme start="20261111050001 +0100" stop="20261111070000 +0100" channel="that-s-80s">
+    <title lang="de">80s Power Anthems!</title>
+    <desc lang="de">Huge vocals, Check! Huge guitars, Check! Huge attitude, Check! These are the biggest power anthems of the decade</desc>
   </programme>
-  <programme start="20261108050001 +0100" stop="20261108070000 +0100" channel="that-s-rock">
-    <title lang="de">A-List Anthems!</title>
-    <desc lang="de">A-List only! Nothing but the very best rock anthems from the 70s to the 00s. Turn it up!</desc>
+  <programme start="20261111070001 +0100" stop="20261111090000 +0100" channel="that-s-80s">
+    <title lang="de">We Love The 80s!</title>
+    <desc lang="de">Pop, rock, dancefloor beats &amp; catchy choruses, the 80s were iconic, &amp; that's why we loved it!</desc>
   </programme>
-  <programme start="20261108070001 +0100" stop="20261108090000 +0100" channel="that-s-rock">
-    <title lang="de">Biggest Rock Hits Ever!</title>
-    <desc lang="de">The biggest hits that have stood the test of time! Check out the hottest hits through the decades!</desc>
+  <programme start="20261111090001 +0100" stop="20261111100000 +0100" channel="that-s-80s">
+    <title lang="de">80s Rock Pin Ups!</title>
+    <desc lang="de">The biggest hits from the acts that were plastered over everyones bedroom walls in th 80s!</desc>
   </programme>
-  <programme start="20261108090001 +0100" stop="20261108100000 +0100" channel="that-s-rock">
-    <title lang="de">80s Defining Rock Hits!</title>
-    <desc lang="de">Big riffs, big hair &amp; huge hits! These are the very best rock tracks of the 80s!</desc>
+  <programme start="20261111100001 +0100" stop="20261111120000 +0100" channel="that-s-80s">
+    <title lang="de">Relax: Chilled 80s Vibes!</title>
+    <desc lang="de">Kick back, relax &amp; enjoy these chilled vibes from the 1980s!</desc>
   </programme>
-  <programme start="20261108100001 +0100" stop="20261108120000 +0100" channel="that-s-rock">
-    <title lang="de">Rock All Stars!</title>
-    <desc lang="de">The biggest names &amp; the greatest hits in rock 'n' roll through the decades!</desc>
+  <programme start="20261111120001 +0100" stop="20261111130000 +0100" channel="that-s-80s">
+    <title lang="de">80s Happy Hour!</title>
+    <desc lang="de">Hits to make you happy is all you will hear for the next hour, so stay tuned!</desc>
   </programme>
-  <programme start="20261108120001 +0100" stop="20261108130000 +0100" channel="that-s-rock">
-    <title lang="de">Movie Hits That Rock!</title>
-    <desc lang="de">Grab the popcorn! It's time for huge hits from the most inconic movies ever!</desc>
+  <programme start="20261111130001 +0100" stop="20261111140000 +0100" channel="that-s-80s">
+    <title lang="de">Ladies Of The 80s!</title>
+    <desc lang="de">Celebrate the ladies who defined the decade with pure style, huge vocals &amp; chart-topping attitude!</desc>
   </programme>
-  <programme start="20261108130001 +0100" stop="20261108150000 +0100" channel="that-s-rock">
-    <title lang="de">Rock! The Anthems!</title>
-    <desc lang="de">Nothing but huge rock anthems from the 80s, 90s &amp; 00s that will have your speakers shaking!</desc>
+  <programme start="20261111140001 +0100" stop="20261111150000 +0100" channel="that-s-80s">
+    <title lang="de">Kings &amp; Queens Of The 80s!</title>
+    <desc lang="de">This is your pure pop royalty playlist right now, as we bring you the Kings and Queens of the 80s!</desc>
   </programme>
-  <programme start="20261108150001 +0100" stop="20261108170000 +0100" channel="that-s-rock">
-    <title lang="de">High Voltage Hits!</title>
-    <desc lang="de">Big ones only! Crank it up to the max for the biggest hits ever!</desc>
+  <programme start="20261111150001 +0100" stop="20261111170000 +0100" channel="that-s-80s">
+    <title lang="de">Addicted To 80s Love Songs!</title>
+    <desc lang="de">Get lost in love right now with a huge mix of tracks that will take you back in time.</desc>
   </programme>
-  <programme start="20261108170001 +0100" stop="20261108180000 +0100" channel="that-s-rock">
-    <title lang="de">Guitar Heroes: 1970 - 2005!</title>
-    <desc lang="de">Air guitars at the ready as we celebrate the finest guitar heroes through the decades!</desc>
+  <programme start="20261111170001 +0100" stop="20261111180000 +0100" channel="that-s-80s">
+    <title lang="de">Hits From The 80s Flicks!</title>
+    <desc lang="de">It's 80s Move Magic right now as we bring you the hits from iconic movies from Top Gun to Ghostbusters!</desc>
   </programme>
-  <programme start="20261108180001 +0100" stop="20261108200000 +0100" channel="that-s-rock">
-    <title lang="de">Supermassive Rock Hits!</title>
-    <desc lang="de">Big ones only! Crank it up to the max for the biggest Rock n Roll hits ever!</desc>
+  <programme start="20261111180001 +0100" stop="20261111200000 +0100" channel="that-s-80s">
+    <title lang="de">Lets Hear It For The 80s Boys!</title>
+    <desc lang="de">Non stop swagger from all the boys that ruled the hearts and the charts in the 80s</desc>
   </programme>
-  <programme start="20261108200001 +0100" stop="20261108210000 +0100" channel="that-s-rock">
-    <title lang="de">90s Epic Rock Hits!</title>
-    <desc lang="de">Huge 90s rock anthems &amp; power riffs to blow your speakers!</desc>
+  <programme start="20261111200001 +0100" stop="20261111220000 +0100" channel="that-s-80s">
+    <title lang="de">All Night Long: 80s Party!</title>
+    <desc lang="de">Bring your party to life with these hot dance hits &amp; feelgood favourites!</desc>
   </programme>
-  <programme start="20261108210001 +0100" stop="20261108230000 +0100" channel="that-s-rock">
-    <title lang="de">Karaoke Crushers!</title>
-    <desc lang="de">Grab your mic and get ready to belt out your best vocals! You better warn the neighbours!</desc>
+  <programme start="20261111220001 +0100" stop="20261112000000 +0100" channel="that-s-80s">
+    <title lang="de">Non-Stop 80s Party!</title>
+    <desc lang="de">You are invited to the biggest 80s party ever! Join us for high energy nostalgia bangers</desc>
   </programme>
-  <programme start="20261108230001 +0100" stop="20261109000000 +0100" channel="that-s-rock">
-    <title lang="de">80s Rock Megastars!</title>
-    <desc lang="de">The biggest rock stars to storm the charts &amp; stadiums in the 80s!</desc>
+  <programme start="20261112000001 +0100" stop="20261112020000 +0100" channel="that-s-80s">
+    <title lang="de">Catchiest 80s Hits!</title>
+    <desc lang="de">Non-stop pure pop! These are the sing-along songs that will stick in your head all day!</desc>
   </programme>
   <programme start="20261109000001 +0100" stop="20261109020000 +0100" channel="that-s-rock">
     <title lang="de">Anthems That Rock!</title>
@@ -532,57 +480,57 @@
     <title lang="de">Rock Time Machine!</title>
     <desc lang="de">Travel back through the decades for the very best hits &amp; anthems!</desc>
   </programme>
-  <programme start="20261108000001 +0100" stop="20261108010000 +0100" channel="that-s-90s00s">
-    <title lang="de">Songs That Ruled The 90s!</title>
-    <desc lang="de">Dance anthems to guitar gods, these are the songs that ruled the decade!</desc>
+  <programme start="20261111010001 +0100" stop="20261111030000 +0100" channel="that-s-rock">
+    <title lang="de">Killer Rock Floorfillers!</title>
+    <desc lang="de">All the hits from all the decades that got us dancing, moshing and singing our hearts out.</desc>
   </programme>
-  <programme start="20261108010001 +0100" stop="20261108030000 +0100" channel="that-s-90s00s">
-    <title lang="de">90s &amp; 00s Monster Hits!</title>
-    <desc lang="de">Nothing but the biggest hits from the 90s &amp; 00s, back-to-back!</desc>
+  <programme start="20261111030001 +0100" stop="20261111050000 +0100" channel="that-s-rock">
+    <title lang="de">Global Rock Anthems!</title>
+    <desc lang="de">A powerhouse collection of the biggest Rock songs from around the world.</desc>
   </programme>
-  <programme start="20261108030001 +0100" stop="20261108050000 +0100" channel="that-s-90s00s">
-    <title lang="de">We Like To Party!</title>
-    <desc lang="de">It's time to turn it up for one huge party as we bring you the hottest dance hits of the 90s &amp; 00s!</desc>
+  <programme start="20261111050001 +0100" stop="20261111070000 +0100" channel="that-s-rock">
+    <title lang="de">Monster Rock Hits!</title>
+    <desc lang="de">Get ready for the biggest rock hits from the 70s &amp; 80s!</desc>
   </programme>
-  <programme start="20261108050001 +0100" stop="20261108070000 +0100" channel="that-s-90s00s">
-    <title lang="de">Hottest World Wide Hits!</title>
-    <desc lang="de">These are the tracks that ruled the world in the 90s &amp; 00s!</desc>
+  <programme start="20261111070001 +0100" stop="20261111090000 +0100" channel="that-s-rock">
+    <title lang="de">Rock All Stars: Thru The Years!</title>
+    <desc lang="de">Timeless classics from all your favorite Rock n Roll stars through the decades.</desc>
   </programme>
-  <programme start="20261108070001 +0100" stop="20261108090000 +0100" channel="that-s-90s00s">
-    <title lang="de">Killer 90s Hits!</title>
-    <desc lang="de">Indie anthems, r&amp;b jams &amp; dance bangers, these are the killer hits of the 90s!</desc>
+  <programme start="20261111090001 +0100" stop="20261111110000 +0100" channel="that-s-rock">
+    <title lang="de">Born to Rock! 80s Anthems!</title>
+    <desc lang="de">Big hair, Big Riffs! Check out the hottest Rock hits of the 80s</desc>
   </programme>
-  <programme start="20261108090001 +0100" stop="20261108110000 +0100" channel="that-s-90s00s">
-    <title lang="de">90s &amp; 00s Slay Queens!</title>
-    <desc lang="de">Girl power is where it's at right now, as we play the hottest hits from the ladies!</desc>
+  <programme start="20261111110001 +0100" stop="20261111130000 +0100" channel="that-s-rock">
+    <title lang="de">Rock Domination!</title>
+    <desc lang="de">The anthems &amp; rock stars that took over the world! VIPs only!</desc>
   </programme>
-  <programme start="20261108110001 +0100" stop="20261108130000 +0100" channel="that-s-90s00s">
-    <title lang="de">Don't Stop Movin! Mega Pop Hits!</title>
-    <desc lang="de">You won't stop movin' when you hear our huge playlist of pop hits from the 90s and 00s</desc>
+  <programme start="20261111130001 +0100" stop="20261111150000 +0100" channel="that-s-rock">
+    <title lang="de">Chilled Rock Sessions!</title>
+    <desc lang="de">Timeless tracks &amp; smooth riffs, this is your perfectly chilled rock playlist!</desc>
   </programme>
-  <programme start="20261108130001 +0100" stop="20261108150000 +0100" channel="that-s-90s00s">
-    <title lang="de">The Sound Of The 90s!</title>
-    <desc lang="de">The decade's biggest anthems all in one place! Turn it up for the biggest sounds of the 90s!</desc>
+  <programme start="20261111150001 +0100" stop="20261111170000 +0100" channel="that-s-rock">
+    <title lang="de">Whole Lotta Anthems!</title>
+    <desc lang="de">No filler, just huge Rock anthems from the very best!</desc>
   </programme>
-  <programme start="20261108150001 +0100" stop="20261108170000 +0100" channel="that-s-90s00s">
-    <title lang="de">Ultimate Old Skool Jamz!</title>
-    <desc lang="de">Feel the Flava of the old skool with our R&amp;B party jamz from the 90s and 00s</desc>
+  <programme start="20261111170001 +0100" stop="20261111190000 +0100" channel="that-s-rock">
+    <title lang="de">Legends Of Rock: 1970 - 2005!</title>
+    <desc lang="de">These are the acts that shaped the sound of rock music forever! Legends only!</desc>
   </programme>
-  <programme start="20261108170001 +0100" stop="20261108180000 +0100" channel="that-s-90s00s">
-    <title lang="de">Collabs Of The 90s &amp; 00s!</title>
-    <desc lang="de">The artists who joined forces to bring you iconic collabs over 2 decades!</desc>
+  <programme start="20261111190001 +0100" stop="20261111200000 +0100" channel="that-s-rock">
+    <title lang="de">Supermassive 90s Rock Hits!</title>
+    <desc lang="de">Huge hits &amp; huge attitude! These are the very best rock tracks from the 90s!</desc>
   </programme>
-  <programme start="20261108180001 +0100" stop="20261108200000 +0100" channel="that-s-90s00s">
-    <title lang="de">Blazin' 00s Party Beats!</title>
-    <desc lang="de">Get your party started with these huge anthems from the 00s!</desc>
+  <programme start="20261111200001 +0100" stop="20261111220000 +0100" channel="that-s-rock">
+    <title lang="de">You Shook Me All Night Long!</title>
+    <desc lang="de">Pure rock power anthems that will have you moving &amp; shaking all night long!</desc>
   </programme>
-  <programme start="20261108200001 +0100" stop="20261108220000 +0100" channel="that-s-90s00s">
-    <title lang="de">90s &amp; 00s Rock Royalty!</title>
-    <desc lang="de">Iconic riffs &amp; legendary vocals! Turn it up for the rock kings &amp; queens of the 90s &amp; 00s!</desc>
+  <programme start="20261111220001 +0100" stop="20261112000000 +0100" channel="that-s-rock">
+    <title lang="de">Rock Royalty!</title>
+    <desc lang="de">Get ready for the Kings and Queens of Rock! This is your perfect playist packed full of timeless anthems.</desc>
   </programme>
-  <programme start="20261108220001 +0100" stop="20261109000000 +0100" channel="that-s-90s00s">
-    <title lang="de">Biggest Girls Of The 00s!</title>
-    <desc lang="de">Girl Power is where it's at right now! This playlist is packed with the biggest females of the 00s!</desc>
+  <programme start="20261112000001 +0100" stop="20261112020000 +0100" channel="that-s-rock">
+    <title lang="de">Mosh Pit Madness!</title>
+    <desc lang="de">Huge riffs &amp; high energy! Non-stop huge hits to get you moshing!</desc>
   </programme>
   <programme start="20261109000001 +0100" stop="20261109020000 +0100" channel="that-s-90s00s">
     <title lang="de">Chilled Anthems 1990 - 2009!</title>
@@ -696,77 +644,57 @@
     <title lang="de">Songs That Ruled The 90s!</title>
     <desc lang="de">Dance anthems to guitar gods, these are the songs that ruled the decade!</desc>
   </programme>
-  <programme start="20261108010000 +0100" stop="20261108015959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111010001 +0100" stop="20261111030000 +0100" channel="that-s-90s00s">
+    <title lang="de">90s &amp; 00s Monster Hits!</title>
+    <desc lang="de">Nothing but the biggest hits from the 90s &amp; 00s, back-to-back!</desc>
   </programme>
-  <programme start="20261108020000 +0100" stop="20261108025959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111030001 +0100" stop="20261111050000 +0100" channel="that-s-90s00s">
+    <title lang="de">We Like To Party!</title>
+    <desc lang="de">It's time to turn it up for one huge party as we bring you the hottest dance hits of the 90s &amp; 00s!</desc>
   </programme>
-  <programme start="20261108030000 +0100" stop="20261108035959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111050001 +0100" stop="20261111070000 +0100" channel="that-s-90s00s">
+    <title lang="de">Hottest World Wide Hits!</title>
+    <desc lang="de">These are the tracks that ruled the world in the 90s &amp; 00s!</desc>
   </programme>
-  <programme start="20261108040000 +0100" stop="20261108045959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111070001 +0100" stop="20261111090000 +0100" channel="that-s-90s00s">
+    <title lang="de">Big Fat 00s Hits!</title>
+    <desc lang="de">Non stop, huge anthems from the 00s</desc>
   </programme>
-  <programme start="20261108050000 +0100" stop="20261108055959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111090001 +0100" stop="20261111110000 +0100" channel="that-s-90s00s">
+    <title lang="de">Love In The 90s!</title>
+    <desc lang="de">Fall in love with our playlist full of the sweetest sounds of the 90s!</desc>
   </programme>
-  <programme start="20261108060000 +0100" stop="20261108065959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111110001 +0100" stop="20261111130000 +0100" channel="that-s-90s00s">
+    <title lang="de">Pure Pop Perfection!</title>
+    <desc lang="de">Huge pop Hits from your favourite pop stars of the 90s and 00s</desc>
   </programme>
-  <programme start="20261108070000 +0100" stop="20261108075959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111130001 +0100" stop="20261111150000 +0100" channel="that-s-90s00s">
+    <title lang="de">90s &amp; 00s Bangers!</title>
+    <desc lang="de">No fillers, just huge bangers from the acts who owned the 90s &amp; 00s!</desc>
   </programme>
-  <programme start="20261108080000 +0100" stop="20261108085959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111150001 +0100" stop="20261111170000 +0100" channel="that-s-90s00s">
+    <title lang="de">Girl Power Anthems!</title>
+    <desc lang="de">Big attitude, big hooks and big enery. These are the most empowering anthems from your fave females</desc>
   </programme>
-  <programme start="20261108090000 +0100" stop="20261108095959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111170001 +0100" stop="20261111180000 +0100" channel="that-s-90s00s">
+    <title lang="de">Boyband Fever!</title>
+    <desc lang="de">It's all about the swagger right now as we play the biggest boy bands from the 90s and 00s</desc>
   </programme>
-  <programme start="20261108100000 +0100" stop="20261108105959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111180001 +0100" stop="20261111200000 +0100" channel="that-s-90s00s">
+    <title lang="de">Pure &amp; Simple 00s Hits!</title>
+    <desc lang="de">Non stop pop hits from the 00s to give you all the nostalgia feels!</desc>
   </programme>
-  <programme start="20261108110000 +0100" stop="20261108115959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111200001 +0100" stop="20261111220000 +0100" channel="that-s-90s00s">
+    <title lang="de">Crazy In Love!</title>
+    <desc lang="de">It's time to turn up the love with these timeless hits &amp; anthems from the 90s &amp; 00s!</desc>
   </programme>
-  <programme start="20261108120000 +0100" stop="20261108125959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261111220001 +0100" stop="20261112000000 +0100" channel="that-s-90s00s">
+    <title lang="de">Club Classics: 1990 - 2009!</title>
+    <desc lang="de">We are taking you on a journey back to the 90s and 00s for pure club bangers</desc>
   </programme>
-  <programme start="20261108130000 +0100" stop="20261108135959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108140000 +0100" stop="20261108145959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108150000 +0100" stop="20261108155959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108160000 +0100" stop="20261108165959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108170000 +0100" stop="20261108175959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108180000 +0100" stop="20261108185959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108190000 +0100" stop="20261108195959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108200000 +0100" stop="20261108205959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108210000 +0100" stop="20261108215959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108220000 +0100" stop="20261108225959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261108230000 +0100" stop="20261108235959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
-  </programme>
-  <programme start="20261109000000 +0100" stop="20261109005959 +0100" channel="deluxe-deutschpop">
-    <title lang="de">Deluxe Deutschpop</title>
+  <programme start="20261112000001 +0100" stop="20261112020000 +0100" channel="that-s-90s00s">
+    <title lang="de">00s Flashback Party!</title>
+    <desc lang="de">Let's rewind back to the 00s for a playlist packed with club bangers!</desc>
   </programme>
   <programme start="20261109010000 +0100" stop="20261109015959 +0100" channel="deluxe-deutschpop">
     <title lang="de">Deluxe Deutschpop</title>
@@ -912,77 +840,77 @@
   <programme start="20261111000000 +0100" stop="20261111005959 +0100" channel="deluxe-deutschpop">
     <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108010000 +0100" stop="20261108015959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111010000 +0100" stop="20261111015959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108020000 +0100" stop="20261108025959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111020000 +0100" stop="20261111025959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108030000 +0100" stop="20261108035959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111030000 +0100" stop="20261111035959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108040000 +0100" stop="20261108045959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111040000 +0100" stop="20261111045959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108050000 +0100" stop="20261108055959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111050000 +0100" stop="20261111055959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108060000 +0100" stop="20261108065959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111060000 +0100" stop="20261111065959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108070000 +0100" stop="20261108075959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111070000 +0100" stop="20261111075959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108080000 +0100" stop="20261108085959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111080000 +0100" stop="20261111085959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108090000 +0100" stop="20261108095959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111090000 +0100" stop="20261111095959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108100000 +0100" stop="20261108105959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111100000 +0100" stop="20261111105959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108110000 +0100" stop="20261108115959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111110000 +0100" stop="20261111115959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108120000 +0100" stop="20261108125959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111120000 +0100" stop="20261111125959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108130000 +0100" stop="20261108135959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111130000 +0100" stop="20261111135959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108140000 +0100" stop="20261108145959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111140000 +0100" stop="20261111145959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108150000 +0100" stop="20261108155959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111150000 +0100" stop="20261111155959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108160000 +0100" stop="20261108165959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111160000 +0100" stop="20261111165959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108170000 +0100" stop="20261108175959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111170000 +0100" stop="20261111175959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108180000 +0100" stop="20261108185959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111180000 +0100" stop="20261111185959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108190000 +0100" stop="20261108195959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108200000 +0100" stop="20261108205959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111200000 +0100" stop="20261111205959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108210000 +0100" stop="20261108215959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111210000 +0100" stop="20261111215959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108220000 +0100" stop="20261108225959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261108230000 +0100" stop="20261108235959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
-  <programme start="20261109000000 +0100" stop="20261109005959 +0100" channel="vevo-pop-de">
-    <title lang="de">Vevo Pop</title>
+  <programme start="20261112000000 +0100" stop="20261112005959 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Deluxe Deutschpop</title>
   </programme>
   <programme start="20261109010000 +0100" stop="20261109015959 +0100" channel="vevo-pop-de">
     <title lang="de">Vevo Pop</title>
@@ -1128,77 +1056,77 @@
   <programme start="20261111000000 +0100" stop="20261111005959 +0100" channel="vevo-pop-de">
     <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108010000 +0100" stop="20261108015959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111010000 +0100" stop="20261111015959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108020000 +0100" stop="20261108025959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111020000 +0100" stop="20261111025959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108030000 +0100" stop="20261108035959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111030000 +0100" stop="20261111035959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108040000 +0100" stop="20261108045959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111040000 +0100" stop="20261111045959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108050000 +0100" stop="20261108055959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111050000 +0100" stop="20261111055959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108060000 +0100" stop="20261108065959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111060000 +0100" stop="20261111065959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108070000 +0100" stop="20261108075959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111070000 +0100" stop="20261111075959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108080000 +0100" stop="20261108085959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111080000 +0100" stop="20261111085959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108090000 +0100" stop="20261108095959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111090000 +0100" stop="20261111095959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108100000 +0100" stop="20261108105959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111100000 +0100" stop="20261111105959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108110000 +0100" stop="20261108115959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111110000 +0100" stop="20261111115959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108120000 +0100" stop="20261108125959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111120000 +0100" stop="20261111125959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108130000 +0100" stop="20261108135959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111130000 +0100" stop="20261111135959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108140000 +0100" stop="20261108145959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111140000 +0100" stop="20261111145959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108150000 +0100" stop="20261108155959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111150000 +0100" stop="20261111155959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108160000 +0100" stop="20261108165959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111160000 +0100" stop="20261111165959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108170000 +0100" stop="20261108175959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111170000 +0100" stop="20261111175959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108180000 +0100" stop="20261108185959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111180000 +0100" stop="20261111185959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108190000 +0100" stop="20261108195959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108200000 +0100" stop="20261108205959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111200000 +0100" stop="20261111205959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108210000 +0100" stop="20261108215959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111210000 +0100" stop="20261111215959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108220000 +0100" stop="20261108225959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261108230000 +0100" stop="20261108235959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
-  <programme start="20261109000000 +0100" stop="20261109005959 +0100" channel="vevo-schlager-pop-de">
-    <title lang="de">Vevo Schlager Pop</title>
+  <programme start="20261112000000 +0100" stop="20261112005959 +0100" channel="vevo-pop-de">
+    <title lang="de">Vevo Pop</title>
   </programme>
   <programme start="20261109010000 +0100" stop="20261109015959 +0100" channel="vevo-schlager-pop-de">
     <title lang="de">Vevo Schlager Pop</title>
@@ -1344,53 +1272,77 @@
   <programme start="20261111000000 +0100" stop="20261111005959 +0100" channel="vevo-schlager-pop-de">
     <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108000001 +0100" stop="20261108020000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111010000 +0100" stop="20261111015959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108020001 +0100" stop="20261108040000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111020000 +0100" stop="20261111025959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108040001 +0100" stop="20261108060000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111030000 +0100" stop="20261111035959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108060001 +0100" stop="20261108080000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111040000 +0100" stop="20261111045959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108080001 +0100" stop="20261108100000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111050000 +0100" stop="20261111055959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108100001 +0100" stop="20261108120000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111060000 +0100" stop="20261111065959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108120001 +0100" stop="20261108140000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111070000 +0100" stop="20261111075959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108140001 +0100" stop="20261108160000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111080000 +0100" stop="20261111085959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108160001 +0100" stop="20261108180000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111090000 +0100" stop="20261111095959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108180001 +0100" stop="20261108200000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111100000 +0100" stop="20261111105959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108200001 +0100" stop="20261108220000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111110000 +0100" stop="20261111115959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
-  <programme start="20261108220001 +0100" stop="20261109000000 +0100" channel="stingray-80s-90s-pop-de">
-    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
-    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
+  <programme start="20261111120000 +0100" stop="20261111125959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111130000 +0100" stop="20261111135959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111140000 +0100" stop="20261111145959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111150000 +0100" stop="20261111155959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111160000 +0100" stop="20261111165959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111170000 +0100" stop="20261111175959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111180000 +0100" stop="20261111185959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111200000 +0100" stop="20261111205959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111210000 +0100" stop="20261111215959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
+  </programme>
+  <programme start="20261112000000 +0100" stop="20261112005959 +0100" channel="vevo-schlager-pop-de">
+    <title lang="de">Vevo Schlager Pop</title>
   </programme>
   <programme start="20261109000001 +0100" stop="20261109020000 +0100" channel="stingray-80s-90s-pop-de">
     <title lang="de">Stingray 80's &amp; 90's German Pop</title>
@@ -1492,53 +1444,53 @@
     <title lang="de">Stingray 80's &amp; 90's German Pop</title>
     <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108000001 +0100" stop="20261108020000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111020001 +0100" stop="20261111040000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108020001 +0100" stop="20261108040000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111040001 +0100" stop="20261111060000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108040001 +0100" stop="20261108060000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111060001 +0100" stop="20261111080000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108060001 +0100" stop="20261108080000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111080001 +0100" stop="20261111100000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108080001 +0100" stop="20261108100000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111100001 +0100" stop="20261111120000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108100001 +0100" stop="20261108120000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111120001 +0100" stop="20261111140000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108120001 +0100" stop="20261108140000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111140001 +0100" stop="20261111160000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108140001 +0100" stop="20261108160000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111160001 +0100" stop="20261111180000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108160001 +0100" stop="20261108180000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111180001 +0100" stop="20261111200000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108180001 +0100" stop="20261108200000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111200001 +0100" stop="20261111220000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108200001 +0100" stop="20261108220000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261111220001 +0100" stop="20261112000000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
-  <programme start="20261108220001 +0100" stop="20261109000000 +0100" channel="stingray-schlager-de">
-    <title lang="de">Stingray Schlager</title>
-    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  <programme start="20261112000001 +0100" stop="20261112020000 +0100" channel="stingray-80s-90s-pop-de">
+    <title lang="de">Stingray 80's &amp; 90's German Pop</title>
+    <desc lang="de">Hier gibt's die größten Hits der 80er und 90er Jahre.</desc>
   </programme>
   <programme start="20261109000001 +0100" stop="20261109020000 +0100" channel="stingray-schlager-de">
     <title lang="de">Stingray Schlager</title>
@@ -1637,6 +1589,54 @@
     <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
   </programme>
   <programme start="20261111000001 +0100" stop="20261111020000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111020001 +0100" stop="20261111040000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111040001 +0100" stop="20261111060000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111060001 +0100" stop="20261111080000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111080001 +0100" stop="20261111100000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111100001 +0100" stop="20261111120000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111120001 +0100" stop="20261111140000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111140001 +0100" stop="20261111160000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111160001 +0100" stop="20261111180000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111180001 +0100" stop="20261111200000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111200001 +0100" stop="20261111220000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261111220001 +0100" stop="20261112000000 +0100" channel="stingray-schlager-de">
+    <title lang="de">Stingray Schlager</title>
+    <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
+  </programme>
+  <programme start="20261112000001 +0100" stop="20261112020000 +0100" channel="stingray-schlager-de">
     <title lang="de">Stingray Schlager</title>
     <desc lang="de">Die neuesten Schlager, die besten deutschen Hits in einer Playlist. Helene Fischer, Matthias Reim, Andrea Berg, Andreas Gabalier, Maite Kelly, alle sind dabei. Gemischt wird dieser Sound mit den größten Hits früherer Zeiten aus den 70er und 80er und 90er Jahren von Udo Jürgens, Claudia Jung, Roland Kaiser, Katja Ebstein, Marianne Rosenberg, Howard Carpendale, Nicole und allen Ihren Lieblingsstars.</desc>
   </programme>
