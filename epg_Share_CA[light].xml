@@ -1,10 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="Fellfresse" generator-info="epg_Share_CA[light]_epg">
-  <channel id="Stingray Franco Retro">
-    <icon src="http://dtil.tmsimg.com/assets/s45246_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45246_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Stingray Jukebox Oldies">
+    <icon src="http://dtil.tmsimg.com/assets/s21625_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s21625_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Stingray Franco Retro</display-name>
+    <display-name lang="en">Stingray Jukebox Oldies</display-name>
+  </channel>
+  <channel id="Stingray le Palmares">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ6L.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ6L.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Stingray Le Palmarès</display-name>
   </channel>
   <channel id="Stingray TikTok Radio">
     <icon src="http://dtil.tmsimg.com/assets/s122943_ll_h15_aa.png?w=360&amp;h=270" />
@@ -12,11 +18,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">TikTok Radio on Stingray</display-name>
   </channel>
-  <channel id="Stingray Jukebox Oldies">
-    <icon src="http://dtil.tmsimg.com/assets/s21625_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s21625_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Stingray Franco Retro">
+    <icon src="http://dtil.tmsimg.com/assets/s45246_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45246_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Stingray Jukebox Oldies</display-name>
+    <display-name lang="en">Stingray Franco Retro</display-name>
   </channel>
   <channel id="Stingray Souvenirs">
     <icon src="http://dtil.tmsimg.com/assets/s21615_ll_h15_ab.png?w=360&amp;h=270" />
@@ -30,11 +36,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Stingray Franco Pop</display-name>
   </channel>
-  <channel id="Stingray le Palmares">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ6L.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ6L.png?w=360&amp;h=270" />
+  <channel id="Stingray Nostalgie">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ5V.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ5V.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Stingray Le Palmarès</display-name>
+    <display-name lang="en">Stingray Nostalgie</display-name>
   </channel>
   <channel id="Stingray Franco Country">
     <icon src="http://dtil.tmsimg.com/assets/s21613_ll_h15_aa.png?w=360&amp;h=270" />
@@ -42,66 +48,6 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Stingray Franco Country</display-name>
   </channel>
-  <channel id="Stingray Nostalgie">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ5V.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002BDZ5V.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Stingray Nostalgie</display-name>
-  </channel>
-  <programme channel="Stingray Jukebox Oldies" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="en">Stingray Jukebox Oldies</title>
-    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="Stingray Jukebox Oldies" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="en">Stingray Jukebox Oldies</title>
-    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="Stingray Jukebox Oldies" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="en">Stingray Jukebox Oldies</title>
-    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="Stingray Jukebox Oldies" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="en">Stingray Jukebox Oldies</title>
-    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="Stingray Jukebox Oldies" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="en">Stingray Jukebox Oldies</title>
-    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
-  <programme channel="Stingray Jukebox Oldies" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="en">Stingray Jukebox Oldies</title>
-    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
-    <date>2015</date>
-    <category lang="en">Special</category>
-    <category lang="en">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
-    <previously-shown />
-  </programme>
   <programme channel="Stingray Jukebox Oldies" start="20261110030000 +0000" stop="20261110070000 +0000">
     <title lang="en">Stingray Jukebox Oldies</title>
     <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
@@ -273,52 +219,58 @@
     <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray TikTok Radio" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="en">TikTok Radio on Stingray</title>
-    <desc lang="en">Trending songs straight from the tastemakers.</desc>
-    <date>2022</date>
+  <programme channel="Stingray Jukebox Oldies" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="en">Stingray Jukebox Oldies</title>
+    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
+    <date>2015</date>
     <category lang="en">Special</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray TikTok Radio" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="en">TikTok Radio on Stingray</title>
-    <desc lang="en">Trending songs straight from the tastemakers.</desc>
-    <date>2022</date>
+  <programme channel="Stingray Jukebox Oldies" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="en">Stingray Jukebox Oldies</title>
+    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
+    <date>2015</date>
     <category lang="en">Special</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray TikTok Radio" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="en">TikTok Radio on Stingray</title>
-    <desc lang="en">Trending songs straight from the tastemakers.</desc>
-    <date>2022</date>
+  <programme channel="Stingray Jukebox Oldies" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="en">Stingray Jukebox Oldies</title>
+    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
+    <date>2015</date>
     <category lang="en">Special</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray TikTok Radio" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="en">TikTok Radio on Stingray</title>
-    <desc lang="en">Trending songs straight from the tastemakers.</desc>
-    <date>2022</date>
+  <programme channel="Stingray Jukebox Oldies" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="en">Stingray Jukebox Oldies</title>
+    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
+    <date>2015</date>
     <category lang="en">Special</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray TikTok Radio" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="en">TikTok Radio on Stingray</title>
-    <desc lang="en">Trending songs straight from the tastemakers.</desc>
-    <date>2022</date>
+  <programme channel="Stingray Jukebox Oldies" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="en">Stingray Jukebox Oldies</title>
+    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
+    <date>2015</date>
     <category lang="en">Special</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray TikTok Radio" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="en">TikTok Radio on Stingray</title>
-    <desc lang="en">Trending songs straight from the tastemakers.</desc>
-    <date>2022</date>
+  <programme channel="Stingray Jukebox Oldies" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="en">Stingray Jukebox Oldies</title>
+    <desc lang="en">The days of early rock and roll from the 50s - 60s.</desc>
+    <date>2015</date>
     <category lang="en">Special</category>
-    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
+    <category lang="en">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11753443_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray TikTok Radio" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -473,58 +425,52 @@
     <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray le Palmares" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="en">Stingray Le Palmarès</title>
-    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
-    <date>2020</date>
+  <programme channel="Stingray TikTok Radio" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="en">TikTok Radio on Stingray</title>
+    <desc lang="en">Trending songs straight from the tastemakers.</desc>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray le Palmares" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="en">Stingray Le Palmarès</title>
-    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
-    <date>2020</date>
+  <programme channel="Stingray TikTok Radio" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="en">TikTok Radio on Stingray</title>
+    <desc lang="en">Trending songs straight from the tastemakers.</desc>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray le Palmares" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="en">Stingray Le Palmarès</title>
-    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
-    <date>2020</date>
+  <programme channel="Stingray TikTok Radio" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="en">TikTok Radio on Stingray</title>
+    <desc lang="en">Trending songs straight from the tastemakers.</desc>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray le Palmares" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="en">Stingray Le Palmarès</title>
-    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
-    <date>2020</date>
+  <programme channel="Stingray TikTok Radio" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="en">TikTok Radio on Stingray</title>
+    <desc lang="en">Trending songs straight from the tastemakers.</desc>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray le Palmares" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="en">Stingray Le Palmarès</title>
-    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
-    <date>2020</date>
+  <programme channel="Stingray TikTok Radio" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="en">TikTok Radio on Stingray</title>
+    <desc lang="en">Trending songs straight from the tastemakers.</desc>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray le Palmares" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="en">Stingray Le Palmarès</title>
-    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
-    <date>2020</date>
+  <programme channel="Stingray TikTok Radio" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="en">TikTok Radio on Stingray</title>
+    <desc lang="en">Trending songs straight from the tastemakers.</desc>
+    <date>2022</date>
     <category lang="en">Special</category>
-    <category lang="en">Musical</category>
-    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p21674577_b_h8_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray le Palmares" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -698,58 +644,58 @@
     <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Pop" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="fr">Stingray Franco Pop</title>
-    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
-    <date>2015</date>
-    <category lang="fr">Special</category>
-    <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="Stingray le Palmares" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="en">Stingray Le Palmarès</title>
+    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Pop" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="fr">Stingray Franco Pop</title>
-    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
-    <date>2015</date>
-    <category lang="fr">Special</category>
-    <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="Stingray le Palmares" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="en">Stingray Le Palmarès</title>
+    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Pop" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="fr">Stingray Franco Pop</title>
-    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
-    <date>2015</date>
-    <category lang="fr">Special</category>
-    <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="Stingray le Palmares" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="en">Stingray Le Palmarès</title>
+    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Pop" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="fr">Stingray Franco Pop</title>
-    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
-    <date>2015</date>
-    <category lang="fr">Special</category>
-    <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="Stingray le Palmares" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="en">Stingray Le Palmarès</title>
+    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Pop" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="fr">Stingray Franco Pop</title>
-    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
-    <date>2015</date>
-    <category lang="fr">Special</category>
-    <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="Stingray le Palmares" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="en">Stingray Le Palmarès</title>
+    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Pop" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="fr">Stingray Franco Pop</title>
-    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
-    <date>2015</date>
-    <category lang="fr">Special</category>
-    <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
+  <programme channel="Stingray le Palmares" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="en">Stingray Le Palmarès</title>
+    <desc lang="en">A bilingual mix of today's best music for adults and a strong showing of yesterday's favorites will have you smiling as this flow of music washes over you.</desc>
+    <date>2020</date>
+    <category lang="en">Special</category>
+    <category lang="en">Musical</category>
+    <icon src="http://dtil.tmsimg.com/assets/p18577246_b_h8_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray Franco Pop" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -923,52 +869,58 @@
     <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Country" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="fr">Stingray Franco Country</title>
-    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
+  <programme channel="Stingray Franco Pop" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="fr">Stingray Franco Pop</title>
+    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
     <date>2015</date>
+    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Country" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="fr">Stingray Franco Country</title>
-    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
+  <programme channel="Stingray Franco Pop" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="fr">Stingray Franco Pop</title>
+    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
     <date>2015</date>
+    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Country" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="fr">Stingray Franco Country</title>
-    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
+  <programme channel="Stingray Franco Pop" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="fr">Stingray Franco Pop</title>
+    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
     <date>2015</date>
+    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Country" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="fr">Stingray Franco Country</title>
-    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
+  <programme channel="Stingray Franco Pop" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="fr">Stingray Franco Pop</title>
+    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
     <date>2015</date>
+    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Country" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="fr">Stingray Franco Country</title>
-    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
+  <programme channel="Stingray Franco Pop" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="fr">Stingray Franco Pop</title>
+    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
     <date>2015</date>
+    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Country" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="fr">Stingray Franco Country</title>
-    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
+  <programme channel="Stingray Franco Pop" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="fr">Stingray Franco Pop</title>
+    <desc lang="fr">Les succès pop des années 90 et plus. JR Lefebvre. Les succès pop des années 90 et plus. Pop hits of the 90s in French. JR Lefebvre.</desc>
     <date>2015</date>
+    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11766878_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray Franco Country" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -1123,58 +1075,52 @@
     <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Souvenirs" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="fr">Stingray Souvenirs</title>
-    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
+  <programme channel="Stingray Franco Country" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="fr">Stingray Franco Country</title>
+    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
     <date>2015</date>
-    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Souvenirs" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="fr">Stingray Souvenirs</title>
-    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
+  <programme channel="Stingray Franco Country" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="fr">Stingray Franco Country</title>
+    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
     <date>2015</date>
-    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Souvenirs" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="fr">Stingray Souvenirs</title>
-    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
+  <programme channel="Stingray Franco Country" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="fr">Stingray Franco Country</title>
+    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
     <date>2015</date>
-    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Souvenirs" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="fr">Stingray Souvenirs</title>
-    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
+  <programme channel="Stingray Franco Country" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="fr">Stingray Franco Country</title>
+    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
     <date>2015</date>
-    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Souvenirs" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="fr">Stingray Souvenirs</title>
-    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
+  <programme channel="Stingray Franco Country" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="fr">Stingray Franco Country</title>
+    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
     <date>2015</date>
-    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Souvenirs" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="fr">Stingray Souvenirs</title>
-    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
+  <programme channel="Stingray Franco Country" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="fr">Stingray Franco Country</title>
+    <desc lang="fr">Du country, nouveau et traditionnel, en français.</desc>
     <date>2015</date>
-    <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11752926_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray Souvenirs" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -1348,58 +1294,58 @@
     <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Nostalgie" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="fr">Stingray Nostalgie</title>
-    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
+  <programme channel="Stingray Souvenirs" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="fr">Stingray Souvenirs</title>
+    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Nostalgie" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="fr">Stingray Nostalgie</title>
-    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
+  <programme channel="Stingray Souvenirs" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="fr">Stingray Souvenirs</title>
+    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Nostalgie" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="fr">Stingray Nostalgie</title>
-    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
+  <programme channel="Stingray Souvenirs" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="fr">Stingray Souvenirs</title>
+    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Nostalgie" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="fr">Stingray Nostalgie</title>
-    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
+  <programme channel="Stingray Souvenirs" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="fr">Stingray Souvenirs</title>
+    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Nostalgie" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="fr">Stingray Nostalgie</title>
-    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
+  <programme channel="Stingray Souvenirs" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="fr">Stingray Souvenirs</title>
+    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Nostalgie" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="fr">Stingray Nostalgie</title>
-    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
+  <programme channel="Stingray Souvenirs" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="fr">Stingray Souvenirs</title>
+    <desc lang="fr">Les meilleures chansons souvenirs des années 75 à 90.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755009_b_h10_aa.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray Nostalgie" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -1573,58 +1519,58 @@
     <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Retro" start="20261109030000 +0000" stop="20261109070000 +0000">
-    <title lang="fr">Stingray franco rétro</title>
-    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+  <programme channel="Stingray Nostalgie" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="fr">Stingray Nostalgie</title>
+    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Retro" start="20261109070000 +0000" stop="20261109110000 +0000">
-    <title lang="fr">Stingray franco rétro</title>
-    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+  <programme channel="Stingray Nostalgie" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="fr">Stingray Nostalgie</title>
+    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Retro" start="20261109110000 +0000" stop="20261109150000 +0000">
-    <title lang="fr">Stingray franco rétro</title>
-    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+  <programme channel="Stingray Nostalgie" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="fr">Stingray Nostalgie</title>
+    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Retro" start="20261109150000 +0000" stop="20261109190000 +0000">
-    <title lang="fr">Stingray franco rétro</title>
-    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+  <programme channel="Stingray Nostalgie" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="fr">Stingray Nostalgie</title>
+    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Retro" start="20261109190000 +0000" stop="20261109230000 +0000">
-    <title lang="fr">Stingray franco rétro</title>
-    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+  <programme channel="Stingray Nostalgie" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="fr">Stingray Nostalgie</title>
+    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
-  <programme channel="Stingray Franco Retro" start="20261109230000 +0000" stop="20261110030000 +0000">
-    <title lang="fr">Stingray franco rétro</title>
-    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+  <programme channel="Stingray Nostalgie" start="20261114030000 +0000" stop="20261114070000 +0000">
+    <title lang="fr">Stingray Nostalgie</title>
+    <desc lang="fr">Les chansons françaises des années 50, 60 et 70.</desc>
     <date>2015</date>
     <category lang="fr">Special</category>
     <category lang="fr">Music</category>
-    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <icon src="http://dtil.tmsimg.com/assets/p11755029_b_h10_ab.jpg?w=960&amp;h=540" />
     <previously-shown />
   </programme>
   <programme channel="Stingray Franco Retro" start="20261110030000 +0000" stop="20261110070000 +0000">
@@ -1790,6 +1736,60 @@
     <previously-shown />
   </programme>
   <programme channel="Stingray Franco Retro" start="20261113030000 +0000" stop="20261113070000 +0000">
+    <title lang="fr">Stingray franco rétro</title>
+    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+    <date>2015</date>
+    <category lang="fr">Special</category>
+    <category lang="fr">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="Stingray Franco Retro" start="20261113070000 +0000" stop="20261113110000 +0000">
+    <title lang="fr">Stingray franco rétro</title>
+    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+    <date>2015</date>
+    <category lang="fr">Special</category>
+    <category lang="fr">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="Stingray Franco Retro" start="20261113110000 +0000" stop="20261113150000 +0000">
+    <title lang="fr">Stingray franco rétro</title>
+    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+    <date>2015</date>
+    <category lang="fr">Special</category>
+    <category lang="fr">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="Stingray Franco Retro" start="20261113150000 +0000" stop="20261113190000 +0000">
+    <title lang="fr">Stingray franco rétro</title>
+    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+    <date>2015</date>
+    <category lang="fr">Special</category>
+    <category lang="fr">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="Stingray Franco Retro" start="20261113190000 +0000" stop="20261113230000 +0000">
+    <title lang="fr">Stingray franco rétro</title>
+    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+    <date>2015</date>
+    <category lang="fr">Special</category>
+    <category lang="fr">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="Stingray Franco Retro" start="20261113230000 +0000" stop="20261114030000 +0000">
+    <title lang="fr">Stingray franco rétro</title>
+    <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
+    <date>2015</date>
+    <category lang="fr">Special</category>
+    <category lang="fr">Music</category>
+    <icon src="http://dtil.tmsimg.com/assets/p11764052_b_h10_ab.jpg?w=960&amp;h=540" />
+    <previously-shown />
+  </programme>
+  <programme channel="Stingray Franco Retro" start="20261114030000 +0000" stop="20261114070000 +0000">
     <title lang="fr">Stingray franco rétro</title>
     <desc lang="fr">Retrouvez immédiatement la bonne humeur grâce à ces chansons francophones enjouées et frivoles issues du courant yéyé des années 60.</desc>
     <date>2015</date>
