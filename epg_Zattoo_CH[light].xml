@@ -12,136 +12,6 @@
     <display-name lang="de">DLX Rap HD</display-name>
     <icon src="https://logos.zattic.com/logos/2d0bd62791fa4016f3a4/black/210x120.png" />
   </channel>
-  <programme start="20261110060000 +0200" stop="20261110080000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Morning Show</title>
-    <sub-title lang="de">Sean Paul - Lola Young</sub-title>
-    <icon src="https://images.zattic.com/cms/fb5f48ff022fde0a99fe/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110080000 +0200" stop="20261110100000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">YOU DELUXE</title>
-    <sub-title lang="de">Onerepublic - Christina Aguilera</sub-title>
-    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110100000 +0200" stop="20261110110000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Countdown Deluxe</title>
-    <sub-title lang="de">Jürgen Drews - Ben Zucker</sub-title>
-    <icon src="https://images.zattic.com/cms/221d99b372c2f956b6ac/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110110000 +0200" stop="20261110140000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Hits Only</title>
-    <icon src="https://images.zattic.com/cms/f4de966ee87e3eb7f155/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110060000 +0200" stop="20261110120000 +0200" channel="DLX Dance">
-    <title lang="de">Get Going</title>
-    <icon src="https://images.zattic.com/cms/2fb19190c63a90e37389/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110060000 +0200" stop="20261110120000 +0200" channel="DLX Rap">
-    <title lang="de">Get Up</title>
-    <icon src="https://images.zattic.com/cms/53002cca932810c23a65/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110110000 +0200" stop="20261110140000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Hits Only</title>
-    <icon src="https://images.zattic.com/cms/f4de966ee87e3eb7f155/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110140000 +0200" stop="20261110160000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Album Charts Top 25</title>
-    <icon src="https://images.zattic.com/cms/9e528dc24577e73a40d9/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110160000 +0200" stop="20261110170000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Update Deluxe Classics</title>
-    <sub-title lang="de">Nick Jonas - Joris</sub-title>
-    <icon src="https://images.zattic.com/cms/8183c16ec0b31fd9a8d0/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110170000 +0200" stop="20261110190000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">YOU DELUXE</title>
-    <sub-title lang="de">Clockclock - Giant Rooks</sub-title>
-    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110120000 +0200" stop="20261110180000 +0200" channel="DLX Dance">
-    <title lang="de">Just Dance</title>
-    <icon src="https://images.zattic.com/cms/dfead70f8d40d9362db6/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110120000 +0200" stop="20261110180000 +0200" channel="DLX Rap">
-    <title lang="de">All 4 Rap</title>
-    <icon src="https://images.zattic.com/cms/b9fce1663cdaa0e0ade7/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110170000 +0200" stop="20261110190000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">YOU DELUXE</title>
-    <sub-title lang="de">Clockclock - Giant Rooks</sub-title>
-    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110190000 +0200" stop="20261110200000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Countdown Deluxe</title>
-    <sub-title lang="de">Jürgen Drews - Ben Zucker</sub-title>
-    <icon src="https://images.zattic.com/cms/221d99b372c2f956b6ac/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110200000 +0200" stop="20261110220000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">US Top 25</title>
-    <sub-title lang="de">Offset - Gunna</sub-title>
-    <icon src="https://images.zattic.com/cms/03c754dc916f717eb31c/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110220000 +0200" stop="20261110230000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">WILD 90S SPECIAL</title>
-    <icon src="https://images.zattic.com/cms/711201b581a6cce97ee9/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110230000 +0200" stop="20261111000000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Made in Germany</title>
-    <icon src="https://images.zattic.com/cms/08292551d49930c29387/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110180000 +0200" stop="20261111000000 +0200" channel="DLX Dance">
-    <title lang="de">Club Power</title>
-    <icon src="https://images.zattic.com/cms/a4f6ab3cd160cf0dd006/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261110180000 +0200" stop="20261111000000 +0200" channel="DLX Rap">
-    <title lang="de">Total Rap</title>
-    <icon src="https://images.zattic.com/cms/4df46d712688d630533e/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111000000 +0200" stop="20261111010000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Made in Germany</title>
-    <icon src="https://images.zattic.com/cms/08292551d49930c29387/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111010000 +0200" stop="20261111030000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Sexy Hits Only</title>
-    <sub-title lang="de">Younotus - Amber Van Day</sub-title>
-    <icon src="https://images.zattic.com/cms/5ddd9e1a37edb6063ba2/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111030000 +0200" stop="20261111060000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Good Night Deluxe</title>
-    <sub-title lang="de">Teddy Swims - N'sync</sub-title>
-    <icon src="https://images.zattic.com/cms/369e23617f517105aab6/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111000000 +0200" stop="20261111060000 +0200" channel="DLX Dance">
-    <title lang="de">Dance Night</title>
-    <icon src="https://images.zattic.com/cms/e7738a510bccd5df74c3/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111000000 +0200" stop="20261111060000 +0200" channel="DLX Rap">
-    <title lang="de">Rap Night</title>
-    <icon src="https://images.zattic.com/cms/522e83466905a0f1a2f8/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
   <programme start="20261111060000 +0200" stop="20261111080000 +0200" channel="DELUXE MUSIC">
     <title lang="de">Morning Show</title>
     <sub-title lang="de">Sean Paul - Lola Young</sub-title>
@@ -1649,8 +1519,10 @@
     <category lang="de">Musik</category>
   </programme>
   <programme start="20261123030000 +0200" stop="20261123060000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Sendepause</title>
-    <icon src="https://images.zattic.com/cms/3970112693ab94a0cb17/original.jpg" />
+    <title lang="de">Good Night Deluxe</title>
+    <sub-title lang="de">Kamrad - Mark Ambor</sub-title>
+    <icon src="https://images.zattic.com/cms/369e23617f517105aab6/original.jpg" />
+    <category lang="de">Musik</category>
   </programme>
   <programme start="20261123000000 +0200" stop="20261123060000 +0200" channel="DLX Dance">
     <title lang="de">Dance Night</title>
@@ -1666,6 +1538,12 @@
     <title lang="de">Morning Show</title>
     <sub-title lang="de">Sean Paul - Lola Young</sub-title>
     <icon src="https://images.zattic.com/cms/fb5f48ff022fde0a99fe/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261123080000 +0200" stop="20261123100000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">YOU DELUXE</title>
+    <sub-title lang="de">Nico Santos - Maria Mena</sub-title>
+    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
     <category lang="de">Musik</category>
   </programme>
   <programme start="20261123100000 +0200" stop="20261123110000 +0200" channel="DELUXE MUSIC">
@@ -1706,6 +1584,12 @@
     <icon src="https://images.zattic.com/cms/8183c16ec0b31fd9a8d0/original.jpg" />
     <category lang="de">Musik</category>
   </programme>
+  <programme start="20261123170000 +0200" stop="20261123190000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">YOU DELUXE</title>
+    <sub-title lang="de">Jamie Miller - Sido</sub-title>
+    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
   <programme start="20261123120000 +0200" stop="20261123180000 +0200" channel="DLX Dance">
     <title lang="de">Just Dance</title>
     <icon src="https://images.zattic.com/cms/dfead70f8d40d9362db6/original.jpg" />
@@ -1714,6 +1598,12 @@
   <programme start="20261123120000 +0200" stop="20261123180000 +0200" channel="DLX Rap">
     <title lang="de">All 4 Rap</title>
     <icon src="https://images.zattic.com/cms/b9fce1663cdaa0e0ade7/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261123170000 +0200" stop="20261123190000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">YOU DELUXE</title>
+    <sub-title lang="de">Jamie Miller - Sido</sub-title>
+    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
     <category lang="de">Musik</category>
   </programme>
   <programme start="20261123190000 +0200" stop="20261123200000 +0200" channel="DELUXE MUSIC">
@@ -1732,7 +1622,7 @@
     <icon src="https://images.zattic.com/cms/0b035c3620c0747da2cd/original.jpg" />
     <category lang="de">Musik</category>
   </programme>
-  <programme start="20261123230000 +0200" stop="20261124030000 +0200" channel="DELUXE MUSIC">
+  <programme start="20261123230000 +0200" stop="20261124000000 +0200" channel="DELUXE MUSIC">
     <title lang="de">HipHop Deluxe</title>
     <sub-title lang="de">Jazeek X Lune - Mero</sub-title>
     <icon src="https://images.zattic.com/cms/1060aa1b5831e922740c/original.jpg" />
@@ -1748,15 +1638,23 @@
     <icon src="https://images.zattic.com/cms/4df46d712688d630533e/original.jpg" />
     <category lang="de">Musik</category>
   </programme>
-  <programme start="20261123230000 +0200" stop="20261124030000 +0200" channel="DELUXE MUSIC">
+  <programme start="20261124000000 +0200" stop="20261124010000 +0200" channel="DELUXE MUSIC">
     <title lang="de">HipHop Deluxe</title>
     <sub-title lang="de">Jazeek X Lune - Mero</sub-title>
     <icon src="https://images.zattic.com/cms/1060aa1b5831e922740c/original.jpg" />
     <category lang="de">Musik</category>
   </programme>
+  <programme start="20261124010000 +0200" stop="20261124030000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Sexy Hits Only</title>
+    <sub-title lang="de">Younotus - Amber Van Day</sub-title>
+    <icon src="https://images.zattic.com/cms/5ddd9e1a37edb6063ba2/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
   <programme start="20261124030000 +0200" stop="20261124060000 +0200" channel="DELUXE MUSIC">
-    <title lang="de">Sendepause</title>
-    <icon src="https://images.zattic.com/cms/3970112693ab94a0cb17/original.jpg" />
+    <title lang="de">Good Night Deluxe</title>
+    <sub-title lang="de">Meduza - James Carter Feat. Elley Duhé</sub-title>
+    <icon src="https://images.zattic.com/cms/369e23617f517105aab6/original.jpg" />
+    <category lang="de">Musik</category>
   </programme>
   <programme start="20261124000000 +0200" stop="20261124060000 +0200" channel="DLX Dance">
     <title lang="de">Dance Night</title>
@@ -1764,6 +1662,128 @@
     <category lang="de">Musik</category>
   </programme>
   <programme start="20261124000000 +0200" stop="20261124060000 +0200" channel="DLX Rap">
+    <title lang="de">Rap Night</title>
+    <icon src="https://images.zattic.com/cms/522e83466905a0f1a2f8/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124060000 +0200" stop="20261124080000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Morning Show</title>
+    <sub-title lang="de">Sean Paul - Lola Young</sub-title>
+    <icon src="https://images.zattic.com/cms/fb5f48ff022fde0a99fe/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124080000 +0200" stop="20261124100000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">YOU DELUXE</title>
+    <sub-title lang="de">Nelly Furtado - Linkin Park</sub-title>
+    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124100000 +0200" stop="20261124110000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Countdown Deluxe</title>
+    <sub-title lang="de">Jürgen Drews - Ben Zucker</sub-title>
+    <icon src="https://images.zattic.com/cms/221d99b372c2f956b6ac/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124110000 +0200" stop="20261124140000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Hits Only</title>
+    <icon src="https://images.zattic.com/cms/f4de966ee87e3eb7f155/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124060000 +0200" stop="20261124120000 +0200" channel="DLX Dance">
+    <title lang="de">Get Going</title>
+    <icon src="https://images.zattic.com/cms/2fb19190c63a90e37389/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124060000 +0200" stop="20261124120000 +0200" channel="DLX Rap">
+    <title lang="de">Get Up</title>
+    <icon src="https://images.zattic.com/cms/53002cca932810c23a65/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124110000 +0200" stop="20261124140000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Hits Only</title>
+    <icon src="https://images.zattic.com/cms/f4de966ee87e3eb7f155/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124140000 +0200" stop="20261124160000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Album Charts Top 25</title>
+    <icon src="https://images.zattic.com/cms/9e528dc24577e73a40d9/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124160000 +0200" stop="20261124170000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Update Deluxe Classics</title>
+    <sub-title lang="de">Nick Jonas - Joris</sub-title>
+    <icon src="https://images.zattic.com/cms/8183c16ec0b31fd9a8d0/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124170000 +0200" stop="20261124190000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">YOU DELUXE</title>
+    <sub-title lang="de">Capital Cities - Blue</sub-title>
+    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124120000 +0200" stop="20261124180000 +0200" channel="DLX Dance">
+    <title lang="de">Just Dance</title>
+    <icon src="https://images.zattic.com/cms/dfead70f8d40d9362db6/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124120000 +0200" stop="20261124180000 +0200" channel="DLX Rap">
+    <title lang="de">All 4 Rap</title>
+    <icon src="https://images.zattic.com/cms/b9fce1663cdaa0e0ade7/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124170000 +0200" stop="20261124190000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">YOU DELUXE</title>
+    <sub-title lang="de">Capital Cities - Blue</sub-title>
+    <icon src="https://images.zattic.com/cms/7622e7f7a5630b2f3dae/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124190000 +0200" stop="20261124200000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Countdown Deluxe</title>
+    <sub-title lang="de">Jürgen Drews - Ben Zucker</sub-title>
+    <icon src="https://images.zattic.com/cms/221d99b372c2f956b6ac/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124200000 +0200" stop="20261124220000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">US Top 25</title>
+    <sub-title lang="de">Offset - Gunna</sub-title>
+    <icon src="https://images.zattic.com/cms/03c754dc916f717eb31c/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124220000 +0200" stop="20261124230000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">WILD 90S SPECIAL</title>
+    <icon src="https://images.zattic.com/cms/711201b581a6cce97ee9/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124230000 +0200" stop="20261125030000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Made in Germany</title>
+    <icon src="https://images.zattic.com/cms/08292551d49930c29387/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124180000 +0200" stop="20261125000000 +0200" channel="DLX Dance">
+    <title lang="de">Club Power</title>
+    <icon src="https://images.zattic.com/cms/a4f6ab3cd160cf0dd006/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124180000 +0200" stop="20261125000000 +0200" channel="DLX Rap">
+    <title lang="de">Total Rap</title>
+    <icon src="https://images.zattic.com/cms/4df46d712688d630533e/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261124230000 +0200" stop="20261125030000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Made in Germany</title>
+    <icon src="https://images.zattic.com/cms/08292551d49930c29387/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125030000 +0200" stop="20261125060000 +0200" channel="DELUXE MUSIC">
+    <title lang="de">Sendepause</title>
+    <icon src="https://images.zattic.com/cms/3970112693ab94a0cb17/original.jpg" />
+  </programme>
+  <programme start="20261125000000 +0200" stop="20261125060000 +0200" channel="DLX Dance">
+    <title lang="de">Dance Night</title>
+    <icon src="https://images.zattic.com/cms/e7738a510bccd5df74c3/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125000000 +0200" stop="20261125060000 +0200" channel="DLX Rap">
     <title lang="de">Rap Night</title>
     <icon src="https://images.zattic.com/cms/522e83466905a0f1a2f8/original.jpg" />
     <category lang="de">Musik</category>
