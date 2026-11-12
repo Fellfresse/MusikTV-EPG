@@ -4,46 +4,6 @@
     <display-name lang="de">Kronehit TV HD</display-name>
     <icon src="https://logos.zattic.com/logos/8c354ca57cdad85cbc0a/black/210x120.png" />
   </channel>
-  <programme start="20261111020000 +0200" stop="20261111070000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Night</title>
-    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111070000 +0200" stop="20261111100000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Morning</title>
-    <icon src="https://images.zattic.com/cms/39ed604ed2462d5f522f/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111100000 +0200" stop="20261111180000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Daytime</title>
-    <icon src="https://images.zattic.com/cms/ee75e40cf7009bd63d90/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111100000 +0200" stop="20261111180000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Daytime</title>
-    <icon src="https://images.zattic.com/cms/ee75e40cf7009bd63d90/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111180000 +0200" stop="20261111220000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Evening</title>
-    <icon src="https://images.zattic.com/cms/da520783aaa852764b81/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111220000 +0200" stop="20261112020000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Night</title>
-    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261111220000 +0200" stop="20261112020000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Night</title>
-    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
-  <programme start="20261112020000 +0200" stop="20261112070000 +0200" channel="Kronehit TV">
-    <title lang="de">Kronehit Night</title>
-    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
-    <category lang="de">Musik</category>
-  </programme>
   <programme start="20261112020000 +0200" stop="20261112070000 +0200" channel="Kronehit TV">
     <title lang="de">Kronehit Night</title>
     <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
@@ -560,6 +520,46 @@
     <category lang="de">Musik</category>
   </programme>
   <programme start="20261125020000 +0200" stop="20261125070000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Night</title>
+    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125020000 +0200" stop="20261125070000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Night</title>
+    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125070000 +0200" stop="20261125100000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Morning</title>
+    <icon src="https://images.zattic.com/cms/39ed604ed2462d5f522f/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125100000 +0200" stop="20261125180000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Daytime</title>
+    <icon src="https://images.zattic.com/cms/ee75e40cf7009bd63d90/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125100000 +0200" stop="20261125180000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Daytime</title>
+    <icon src="https://images.zattic.com/cms/ee75e40cf7009bd63d90/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125180000 +0200" stop="20261125220000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Evening</title>
+    <icon src="https://images.zattic.com/cms/da520783aaa852764b81/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125220000 +0200" stop="20261126020000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Night</title>
+    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261125220000 +0200" stop="20261126020000 +0200" channel="Kronehit TV">
+    <title lang="de">Kronehit Night</title>
+    <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
+    <category lang="de">Musik</category>
+  </programme>
+  <programme start="20261126020000 +0200" stop="20261126070000 +0200" channel="Kronehit TV">
     <title lang="de">Kronehit Night</title>
     <icon src="https://images.zattic.com/cms/8eefe6457330ac10fc90/original.jpg" />
     <category lang="de">Musik</category>
