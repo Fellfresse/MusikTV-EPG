@@ -807,11 +807,25 @@
     <category lang="en">Music</category>
     <new />
   </programme>
-  <programme start="20261115230000 +0000" stop="20261116040000 +0000" channel="vantage-music">
+  <programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="vantage-music">
     <title>Night Videos</title>
     <desc>Whether you can't sleep, doing the night shift, or just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116034500 +0000" channel="vantage-music">
+    <title>Retro Charts</title>
+    <sub-title lang="en">14th November 1992</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261116034500 +0000" stop="20261116040000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
   </programme>
   <programme start="20261116040000 +0000" stop="20261116080000 +0000" channel="vantage-music">
     <title>Breakfast with Vantage Music</title>

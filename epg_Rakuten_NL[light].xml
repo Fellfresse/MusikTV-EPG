@@ -16,58 +16,6 @@
     <display-name lang="nl">TMF</display-name>
     <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/51bd1977-d9d0-42ab-bc0e-5fd1743302a6.jpeg"></icon>
   </channel>
-  <programme start="20261111000000 +0100" stop="20261111055959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Hello Darkness</title>
-    <desc lang="nl">The greatest hits accompany you in the night.</desc>
-  </programme>
-  <programme start="20261111060000 +0100" stop="20261111085959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Morning Glory</title>
-    <desc lang="nl">Wake up with the greatest hits of Your channel</desc>
-  </programme>
-  <programme start="20261111090000 +0100" stop="20261111095959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Good Vibrations</title>
-    <desc lang="nl">The best hits to start your workday.</desc>
-  </programme>
-  <programme start="20261111100000 +0100" stop="20261111115959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Coffee Tunes</title>
-    <desc lang="nl">The greatest hits during your morning coffee.</desc>
-  </programme>
-  <programme start="20261111120000 +0100" stop="20261111135959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Lunch Time</title>
-    <desc lang="nl">Time for the best hits during your lunchbreak.</desc>
-  </programme>
-  <programme start="20261111140000 +0100" stop="20261111155959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Hits Offshore</title>
-    <desc lang="nl">Remember those hits that came from the pirate stations.</desc>
-  </programme>
-  <programme start="20261111160000 +0100" stop="20261111175959 +0100" channel="your-60-s-nl">
-    <title lang="nl">On The Road Again</title>
-    <desc lang="nl">While everyone's on the road, your hits keep coming.</desc>
-  </programme>
-  <programme start="20261111180000 +0100" stop="20261111185959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Jukebox</title>
-    <desc lang="nl">The best clips from our Jukebox.</desc>
-  </programme>
-  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="your-60-s-nl">
-    <title lang="nl">LX Classics</title>
-    <desc lang="nl">An hour with the favorites of the most populair DJ in Holland since the 60's, Lex Harding.</desc>
-  </programme>
-  <programme start="20261111200000 +0100" stop="20261111205959 +0100" channel="your-60-s-nl">
-    <title lang="nl">ABTT</title>
-    <desc lang="nl">The only technician who has is own program since the 60's, the Master, Ad Bouman.</desc>
-  </programme>
-  <programme start="20261111210000 +0100" stop="20261111215959 +0100" channel="your-60-s-nl">
-    <title lang="nl">FreakOlympics</title>
-    <desc lang="nl">The biggest hits according to the Netherland's best DJ, Rob Stenders.</desc>
-  </programme>
-  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Thanks for the Memories</title>
-    <desc lang="nl">The best one hit wonders and then some, chosen by music historian Bert van Breda.</desc>
-  </programme>
-  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="your-60-s-nl">
-    <title lang="nl">Night Watch</title>
-    <desc lang="nl">The best ballads before you go to sleep.</desc>
-  </programme>
   <programme start="20261112000000 +0100" stop="20261112055959 +0100" channel="your-60-s-nl">
     <title lang="nl">Hello Darkness</title>
     <desc lang="nl">The greatest hits accompany you in the night.</desc>
@@ -172,57 +120,53 @@
     <title lang="nl">Hello Darkness</title>
     <desc lang="nl">The greatest hits accompany you in the night.</desc>
   </programme>
-  <programme start="20261111000000 +0100" stop="20261111055959 +0100" channel="your-70-s-nl">
-    <title lang="nl">Sharing The Night Together</title>
-    <desc lang="nl">The greatest hits accompany you in the night</desc>
-  </programme>
-  <programme start="20261111060000 +0100" stop="20261111085959 +0100" channel="your-70-s-nl">
+  <programme start="20261114060000 +0100" stop="20261114085959 +0100" channel="your-60-s-nl">
     <title lang="nl">Morning Glory</title>
     <desc lang="nl">Wake up with the greatest hits of Your channel</desc>
   </programme>
-  <programme start="20261111090000 +0100" stop="20261111095959 +0100" channel="your-70-s-nl">
-    <title lang="nl">Hits A Go Go</title>
-    <desc lang="nl">The best hits to start your workday</desc>
+  <programme start="20261114090000 +0100" stop="20261114095959 +0100" channel="your-60-s-nl">
+    <title lang="nl">Weekend Surprises</title>
+    <desc lang="nl">The best surprises in your weekend.</desc>
   </programme>
-  <programme start="20261111100000 +0100" stop="20261111115959 +0100" channel="your-70-s-nl">
-    <title lang="nl">Morning Brew</title>
-    <desc lang="nl">The greatest hits during your morning coffee</desc>
+  <programme start="20261114100000 +0100" stop="20261114115959 +0100" channel="your-60-s-nl">
+    <title lang="nl">Coffee Tunes</title>
+    <desc lang="nl">The greatest hits during your morning coffee.</desc>
   </programme>
-  <programme start="20261111120000 +0100" stop="20261111135959 +0100" channel="your-70-s-nl">
-    <title lang="nl">Midday Melodies</title>
-    <desc lang="nl">Time for the best hits during your lunchbreak</desc>
+  <programme start="20261114120000 +0100" stop="20261114135959 +0100" channel="your-60-s-nl">
+    <title lang="nl">Lunch Time</title>
+    <desc lang="nl">Time for the best hits during your lunchbreak.</desc>
   </programme>
-  <programme start="20261111140000 +0100" stop="20261111155959 +0100" channel="your-70-s-nl">
+  <programme start="20261114140000 +0100" stop="20261114155959 +0100" channel="your-60-s-nl">
     <title lang="nl">Hits Offshore</title>
-    <desc lang="nl">Remember those hits that came from the piratestations</desc>
+    <desc lang="nl">Remember those hits that came from the pirate stations.</desc>
   </programme>
-  <programme start="20261111160000 +0100" stop="20261111175959 +0100" channel="your-70-s-nl">
-    <title lang="nl">On The Road Again</title>
-    <desc lang="nl">While everyone's on the road, your hits keep coming</desc>
+  <programme start="20261114160000 +0100" stop="20261114175959 +0100" channel="your-60-s-nl">
+    <title lang="nl">Feelin' Groovy</title>
+    <desc lang="nl">Feelin' groovy on a weekend afternoon.</desc>
   </programme>
-  <programme start="20261111180000 +0100" stop="20261111185959 +0100" channel="your-70-s-nl">
+  <programme start="20261114180000 +0100" stop="20261114185959 +0100" channel="your-60-s-nl">
     <title lang="nl">Jukebox</title>
-    <desc lang="nl">The best clips from our Jukebox</desc>
+    <desc lang="nl">The best clips from our Jukebox.</desc>
   </programme>
-  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="your-70-s-nl">
+  <programme start="20261114190000 +0100" stop="20261114195959 +0100" channel="your-60-s-nl">
     <title lang="nl">LX Classics</title>
     <desc lang="nl">An hour with the favorites of the most populair DJ in Holland since the 60's, Lex Harding.</desc>
   </programme>
-  <programme start="20261111200000 +0100" stop="20261111205959 +0100" channel="your-70-s-nl">
+  <programme start="20261114200000 +0100" stop="20261114205959 +0100" channel="your-60-s-nl">
     <title lang="nl">ABTT</title>
     <desc lang="nl">The only technician who has is own program since the 60's, the Master, Ad Bouman.</desc>
   </programme>
-  <programme start="20261111210000 +0100" stop="20261111215959 +0100" channel="your-70-s-nl">
+  <programme start="20261114210000 +0100" stop="20261114215959 +0100" channel="your-60-s-nl">
     <title lang="nl">FreakOlympics</title>
     <desc lang="nl">The biggest hits according to the Netherland's best DJ, Rob Stenders.</desc>
   </programme>
-  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="your-70-s-nl">
-    <title lang="nl">Pinestreet Journal</title>
-    <desc lang="nl">The best one hit wonders and then some, chosen by music historian Bert van Breda</desc>
+  <programme start="20261114220000 +0100" stop="20261114235959 +0100" channel="your-60-s-nl">
+    <title lang="nl">It's My Party</title>
+    <desc lang="nl">It's Party time with the greatest party hits from the 60's.</desc>
   </programme>
-  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="your-70-s-nl">
-    <title lang="nl">Into The Night</title>
-    <desc lang="nl">The best ballads before you go to sleep</desc>
+  <programme start="20261115000000 +0100" stop="20261115055959 +0100" channel="your-60-s-nl">
+    <title lang="nl">Hello Darkness</title>
+    <desc lang="nl">The greatest hits accompany you in the night.</desc>
   </programme>
   <programme start="20261112000000 +0100" stop="20261112055959 +0100" channel="your-70-s-nl">
     <title lang="nl">Sharing The Night Together</title>
@@ -328,57 +272,53 @@
     <title lang="nl">Sharing The Night Together</title>
     <desc lang="nl">The greatest hits accompany you in the night</desc>
   </programme>
-  <programme start="20261111000000 +0100" stop="20261111055959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Music In The Night</title>
-    <desc lang="nl">The greatest hits accompany you in the night</desc>
-  </programme>
-  <programme start="20261111060000 +0100" stop="20261111085959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Rise And Shine</title>
+  <programme start="20261114060000 +0100" stop="20261114085959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Morning Glory</title>
     <desc lang="nl">Wake up with the greatest hits of Your channel</desc>
   </programme>
-  <programme start="20261111090000 +0100" stop="20261111095959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Work Grooves</title>
-    <desc lang="nl">The best hits to start your workday</desc>
+  <programme start="20261114090000 +0100" stop="20261114095959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Weekend Surprises</title>
+    <desc lang="nl">The best surprises in your weekend</desc>
   </programme>
-  <programme start="20261111100000 +0100" stop="20261111115959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Coffee Break</title>
+  <programme start="20261114100000 +0100" stop="20261114115959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Morning Brew</title>
     <desc lang="nl">The greatest hits during your morning coffee</desc>
   </programme>
-  <programme start="20261111120000 +0100" stop="20261111135959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Noon Beats</title>
+  <programme start="20261114120000 +0100" stop="20261114135959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Midday Melodies</title>
     <desc lang="nl">Time for the best hits during your lunchbreak</desc>
   </programme>
-  <programme start="20261111140000 +0100" stop="20261111155959 +0100" channel="your-80-s-nl">
+  <programme start="20261114140000 +0100" stop="20261114155959 +0100" channel="your-70-s-nl">
     <title lang="nl">Hits Offshore</title>
     <desc lang="nl">Remember those hits that came from the piratestations</desc>
   </programme>
-  <programme start="20261111160000 +0100" stop="20261111175959 +0100" channel="your-80-s-nl">
-    <title lang="nl">On The Road Again</title>
-    <desc lang="nl">While everyone's on the road, your hits keep coming</desc>
+  <programme start="20261114160000 +0100" stop="20261114175959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Golden Classics</title>
+    <desc lang="nl">Experience the best old hits on a Sunday afternoon</desc>
   </programme>
-  <programme start="20261111180000 +0100" stop="20261111185959 +0100" channel="your-80-s-nl">
+  <programme start="20261114180000 +0100" stop="20261114185959 +0100" channel="your-70-s-nl">
     <title lang="nl">Jukebox</title>
     <desc lang="nl">The best clips from our Jukebox</desc>
   </programme>
-  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="your-80-s-nl">
+  <programme start="20261114190000 +0100" stop="20261114195959 +0100" channel="your-70-s-nl">
     <title lang="nl">LX Classics</title>
     <desc lang="nl">An hour with the favorites of the most populair DJ in Holland since the 60's, Lex Harding.</desc>
   </programme>
-  <programme start="20261111200000 +0100" stop="20261111212959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Back to Vice City</title>
-    <desc lang="nl">This month, we’re heading back to Vice City, where the nights glow neon and the good times never know when to quit. Cruise palm-lined streets and relive the glamour, temptation and unforgettable music of the eighties. From after-dark grooves to sun-soaked classics, this sinful city still knows how to make us dance.</desc>
+  <programme start="20261114200000 +0100" stop="20261114205959 +0100" channel="your-70-s-nl">
+    <title lang="nl">ABTT</title>
+    <desc lang="nl">The only technician who has is own program since the 60's, the Master, Ad Bouman.</desc>
   </programme>
-  <programme start="20261111213000 +0100" stop="20261111215959 +0100" channel="your-80-s-nl">
+  <programme start="20261114210000 +0100" stop="20261114215959 +0100" channel="your-70-s-nl">
     <title lang="nl">FreakOlympics</title>
-    <desc lang="nl">We stayed in Vice City a little longer than planned. Can you blame us? Rob Stenders takes the wheel for the next half hour with the biggest hits, handpicked by the Netherlands’ best DJ.</desc>
+    <desc lang="nl">The biggest hits according to the Netherland's best DJ, Rob Stenders.</desc>
   </programme>
-  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Music On My Mind</title>
-    <desc lang="nl">The best one hit wonders and then some, chosen by music historian Bert van Breda</desc>
+  <programme start="20261114220000 +0100" stop="20261114235959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Happy Hour</title>
+    <desc lang="nl">It's Party time, the best party clips from the 70's</desc>
   </programme>
-  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="your-80-s-nl">
-    <title lang="nl">Night Patrol</title>
-    <desc lang="nl">The best ballads before you go to sleep</desc>
+  <programme start="20261115000000 +0100" stop="20261115055959 +0100" channel="your-70-s-nl">
+    <title lang="nl">Sharing The Night Together</title>
+    <desc lang="nl">The greatest hits accompany you in the night</desc>
   </programme>
   <programme start="20261112000000 +0100" stop="20261112055959 +0100" channel="your-80-s-nl">
     <title lang="nl">Music In The Night</title>
@@ -484,49 +424,53 @@
     <title lang="nl">Music In The Night</title>
     <desc lang="nl">The greatest hits accompany you in the night</desc>
   </programme>
-  <programme start="20261111000000 +0100" stop="20261111065959 +0100" channel="tmf-nl">
-    <title lang="nl">Clip Gallery</title>
-    <desc lang="nl">Non-stop nachttracks met een perfecte late-night vibe. Een behang  van relaxte en dromerige clips die je nacht vullen met sfeer en emoties. Voor wie herinneringen wil ophalen aan nachten vol muziek.</desc>
+  <programme start="20261114060000 +0100" stop="20261114085959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Rise And Shine</title>
+    <desc lang="nl">Wake up with the greatest hits of Your channel</desc>
   </programme>
-  <programme start="20261111070000 +0100" stop="20261111105959 +0100" channel="tmf-nl">
-    <title lang="nl">Get Up &amp; Dance</title>
-    <desc lang="nl">Begin de dag vol energie met de krachtigste danceclips en beats die je wakker schudden. Perfect voor een ochtendboost, met een vleugje nostalgie naar dansvloeren en festivalmomenten van vroeger.</desc>
+  <programme start="20261114090000 +0100" stop="20261114095959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Weekend Surprises</title>
+    <desc lang="nl">The best surprises in your weekend</desc>
   </programme>
-  <programme start="20261111110000 +0100" stop="20261111135959 +0100" channel="tmf-nl">
-    <title lang="nl">Clip Classics</title>
-    <desc lang="nl">De grootste iconen uit de jaren ’80 en ’90 komen weer tot leven. Legendarische clips die een generatie vormden en nostalgische herinneringen oproepen aan een gouden muziekperiode.</desc>
+  <programme start="20261114100000 +0100" stop="20261114115959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Coffee Break</title>
+    <desc lang="nl">The greatest hits during your morning coffee</desc>
   </programme>
-  <programme start="20261111140000 +0100" stop="20261111155959 +0100" channel="tmf-nl">
-    <title lang="nl">Clip Gallery</title>
-    <desc lang="nl">Non-stop nachttracks met een perfecte late-night vibe. Een behang  van relaxte en dromerige clips die je nacht vullen met sfeer en emoties. Voor wie herinneringen wil ophalen aan nachten vol muziek.</desc>
+  <programme start="20261114120000 +0100" stop="20261114135959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Noon Beats</title>
+    <desc lang="nl">Time for the best hits during your lunchbreak</desc>
   </programme>
-  <programme start="20261111160000 +0100" stop="20261111165959 +0100" channel="tmf-nl">
-    <title lang="nl">Rock Zone</title>
-    <desc lang="nl">Van klassiekers tot moderne rock – de vetste gitaarriffs en rauwe vocals komen voorbij. Een mix van rocklegendes en nieuwe bands.</desc>
+  <programme start="20261114140000 +0100" stop="20261114155959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Hits Offshore</title>
+    <desc lang="nl">Remember those hits that came from the piratestations</desc>
   </programme>
-  <programme start="20261111170000 +0100" stop="20261111185959 +0100" channel="tmf-nl">
-    <title lang="nl">Mega Dance</title>
-    <desc lang="nl">Het beste van Eurodance – het Europese antwoord op house en techno uit de US. Een explosie van jaren ’90 nostalgie, met tracks die nog steeds de dansvloer domineren.</desc>
+  <programme start="20261114160000 +0100" stop="20261114175959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Deja Vu</title>
+    <desc lang="nl">Experience the best old hits on a Sunday afternoon</desc>
   </programme>
-  <programme start="20261111190000 +0100" stop="20261111195959 +0100" channel="tmf-nl">
-    <title lang="nl">Soul Factory</title>
-    <desc lang="nl">Smooth Soul, klassieke Soul en R&amp;B. Tijdloze stemmen en warme grooves brengen je terug naar de sfeer van iconische soulmomenten uit het verleden.</desc>
+  <programme start="20261114180000 +0100" stop="20261114185959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Jukebox</title>
+    <desc lang="nl">The best clips from our Jukebox</desc>
   </programme>
-  <programme start="20261111200000 +0100" stop="20261111205959 +0100" channel="tmf-nl">
-    <title lang="nl">Made in NL</title>
-    <desc lang="nl">Een ode aan Nederlandse muziek. Van iconische artiesten en gouden hits uit het verleden tot nieuw talent van nu: clips die laten zien wat ons eigen land te bieden heeft.</desc>
+  <programme start="20261114190000 +0100" stop="20261114195959 +0100" channel="your-80-s-nl">
+    <title lang="nl">LX Classics</title>
+    <desc lang="nl">An hour with the favorites of the most populair DJ in Holland since the 60's, Lex Harding.</desc>
   </programme>
-  <programme start="20261111210000 +0100" stop="20261111215959 +0100" channel="tmf-nl">
-    <title lang="nl">Mega Dance</title>
-    <desc lang="nl">Het beste van Eurodance – het Europese antwoord op house en techno uit de US. Een explosie van jaren ’90 nostalgie, met tracks die nog steeds de dansvloer domineren.</desc>
+  <programme start="20261114200000 +0100" stop="20261114212959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Back to Vice City</title>
+    <desc lang="nl">This month, we’re heading back to Vice City, where the nights glow neon and the good times never know when to quit. Cruise palm-lined streets and relive the glamour, temptation and unforgettable music of the eighties. From after-dark grooves to sun-soaked classics, this sinful city still knows how to make us dance.</desc>
   </programme>
-  <programme start="20261111220000 +0100" stop="20261111225959 +0100" channel="tmf-nl">
-    <title lang="nl">Rock Zone</title>
-    <desc lang="nl">Van klassiekers tot moderne rock – de vetste gitaarriffs en rauwe vocals komen voorbij. Een mix van rocklegendes en nieuwe bands.</desc>
+  <programme start="20261114213000 +0100" stop="20261114215959 +0100" channel="your-80-s-nl">
+    <title lang="nl">FreakOlympics</title>
+    <desc lang="nl">We stayed in Vice City a little longer than planned. Can you blame us? Rob Stenders takes the wheel for the next half hour with the biggest hits, handpicked by the Netherlands’ best DJ.</desc>
   </programme>
-  <programme start="20261111230000 +0100" stop="20261111235959 +0100" channel="tmf-nl">
-    <title lang="nl">Till Midnight</title>
-    <desc lang="nl">De soundtrack van de late avond – sfeervol, relaxed en vol momenten die doen denken aan intieme avonden met onvergetelijke muziek.</desc>
+  <programme start="20261114220000 +0100" stop="20261114235959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Happy Hour</title>
+    <desc lang="nl">It's Party time, the best party clips from the 80's</desc>
+  </programme>
+  <programme start="20261115000000 +0100" stop="20261115055959 +0100" channel="your-80-s-nl">
+    <title lang="nl">Music In The Night</title>
+    <desc lang="nl">The greatest hits accompany you in the night</desc>
   </programme>
   <programme start="20261112000000 +0100" stop="20261112065959 +0100" channel="tmf-nl">
     <title lang="nl">Clip Gallery</title>
@@ -609,6 +553,54 @@
     <desc lang="nl">Een mix van dance- en clubclips met een vleugje soulful house. De sfeer van clubs en feesten van vroeger en nu, allemaal in één dansbare uitzending.</desc>
   </programme>
   <programme start="20261114000000 +0100" stop="20261114025959 +0100" channel="tmf-nl">
+    <title lang="nl">Clubzone</title>
+    <desc lang="nl">Een mix van dance- en clubclips met een vleugje soulful house. De sfeer van clubs en feesten van vroeger en nu, allemaal in één dansbare uitzending.</desc>
+  </programme>
+  <programme start="20261114030000 +0100" stop="20261114045959 +0100" channel="tmf-nl">
+    <title lang="nl">TMF: Back on Air</title>
+    <desc lang="nl">TMF is back! Kijk naar non-stop videoclips, iconische throwbacks en het onvervalste TMF-gevoel. Binnenkort met nog meer klassieke TMF-programma’s.</desc>
+  </programme>
+  <programme start="20261114050000 +0100" stop="20261114065959 +0100" channel="tmf-nl">
+    <title lang="nl">Till Midnight</title>
+    <desc lang="nl">De soundtrack van de late avond – sfeervol, relaxed en vol momenten die doen denken aan intieme avonden met onvergetelijke muziek.</desc>
+  </programme>
+  <programme start="20261114070000 +0100" stop="20261114105959 +0100" channel="tmf-nl">
+    <title lang="nl">Get Up &amp; Dance</title>
+    <desc lang="nl">Begin de dag vol energie met de krachtigste danceclips en beats die je wakker schudden. Perfect voor een ochtendboost, met een vleugje nostalgie naar dansvloeren en festivalmomenten van vroeger.</desc>
+  </programme>
+  <programme start="20261114110000 +0100" stop="20261114135959 +0100" channel="tmf-nl">
+    <title lang="nl">Clip Classics</title>
+    <desc lang="nl">De grootste iconen uit de jaren ’80 en ’90 komen weer tot leven. Legendarische clips die een generatie vormden en nostalgische herinneringen oproepen aan een gouden muziekperiode.</desc>
+  </programme>
+  <programme start="20261114140000 +0100" stop="20261114155959 +0100" channel="tmf-nl">
+    <title lang="nl">Clip Gallery</title>
+    <desc lang="nl">Non-stop nachttracks met een perfecte late-night vibe. Een behang  van relaxte en dromerige clips die je nacht vullen met sfeer en emoties. Voor wie herinneringen wil ophalen aan nachten vol muziek.</desc>
+  </programme>
+  <programme start="20261114160000 +0100" stop="20261114165959 +0100" channel="tmf-nl">
+    <title lang="nl">Rock Zone</title>
+    <desc lang="nl">Van klassiekers tot moderne rock – de vetste gitaarriffs en rauwe vocals komen voorbij. Een mix van rocklegendes en nieuwe bands.</desc>
+  </programme>
+  <programme start="20261114170000 +0100" stop="20261114185959 +0100" channel="tmf-nl">
+    <title lang="nl">Mega Dance</title>
+    <desc lang="nl">Het beste van Eurodance – het Europese antwoord op house en techno uit de US. Een explosie van jaren ’90 nostalgie, met tracks die nog steeds de dansvloer domineren.</desc>
+  </programme>
+  <programme start="20261114190000 +0100" stop="20261114195959 +0100" channel="tmf-nl">
+    <title lang="nl">@LTER 8</title>
+    <desc lang="nl">Rock en alternative videoclips, van grunge en punk uit de jaren ’90 tot de moderne alternatieve helden. Muziek die altijd een link legt naar rebelse tijden.</desc>
+  </programme>
+  <programme start="20261114200000 +0100" stop="20261114205959 +0100" channel="tmf-nl">
+    <title lang="nl">The Pitch</title>
+    <desc lang="nl">De nieuwste Hip-Hop en Urban vibes, met een knipoog naar de pioniers van het genre. Beats en flows die de geschiedenis van urban culture levend houden.</desc>
+  </programme>
+  <programme start="20261114210000 +0100" stop="20261114215959 +0100" channel="tmf-nl">
+    <title lang="nl">Mega Dance</title>
+    <desc lang="nl">Het beste van Eurodance – het Europese antwoord op house en techno uit de US. Een explosie van jaren ’90 nostalgie, met tracks die nog steeds de dansvloer domineren.</desc>
+  </programme>
+  <programme start="20261114220000 +0100" stop="20261114235959 +0100" channel="tmf-nl">
+    <title lang="nl">Clubzone</title>
+    <desc lang="nl">Een mix van dance- en clubclips met een vleugje soulful house. De sfeer van clubs en feesten van vroeger en nu, allemaal in één dansbare uitzending.</desc>
+  </programme>
+  <programme start="20261115000000 +0100" stop="20261115025959 +0100" channel="tmf-nl">
     <title lang="nl">Clubzone</title>
     <desc lang="nl">Een mix van dance- en clubclips met een vleugje soulful house. De sfeer van clubs en feesten van vroeger en nu, allemaal in één dansbare uitzending.</desc>
   </programme>
