@@ -381,6 +381,11 @@
     <display-name>Music Box Sexy</display-name>
     <icon src="https://iptvx.one/picons/musicbox-sexy.png" />
   </channel>
+  <channel id="retro-music-tv">
+    <display-name>Retro Music</display-name>
+    <display-name>Retro Music TV</display-name>
+    <icon src="https://iptvx.one/picons/retro-music-cz.png" />
+  </channel>
   <channel id="Cool Summer Channel">
     <display-name>Cool Summer Channel</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2500001DO_20250107T024819SQUARE.png" />
@@ -37306,18 +37311,6 @@
     <title>Beatz</title>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20261104180000 +0300" stop="20261104190000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261104190000 +0300" stop="20261104200000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261104200000 +0300" stop="20261104210000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261104210000 +0300" stop="20261104220000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
   <programme start="20261104220000 +0300" stop="20261104230000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
@@ -38127,18 +38120,6 @@
   </programme>
   <programme start="20261116060000 +0300" stop="20261115070000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261104180000 +0300" stop="20261104190000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261104190000 +0300" stop="20261104200000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261104200000 +0300" stop="20261104210000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261104210000 +0300" stop="20261104220000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
   </programme>
   <programme start="20261104220000 +0300" stop="20261104230000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
@@ -38950,18 +38931,6 @@
   <programme start="20261116060000 +0300" stop="20261115070000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
-  <programme start="20261104180000 +0300" stop="20261104190000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261104190000 +0300" stop="20261104200000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261104200000 +0300" stop="20261104210000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261104210000 +0300" stop="20261104220000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
   <programme start="20261104220000 +0300" stop="20261104230000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
@@ -39772,18 +39741,6 @@
   <programme start="20261116060000 +0300" stop="20261115070000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
-  <programme start="20261104180000 +0300" stop="20261104190000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261104190000 +0300" stop="20261104200000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261104200000 +0300" stop="20261104210000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261104210000 +0300" stop="20261104220000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
   <programme start="20261104220000 +0300" stop="20261104230000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
@@ -40593,6 +40550,628 @@
   </programme>
   <programme start="20261116060000 +0300" stop="20261115070000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
+  </programme>
+  <programme start="20261104215900 +0300" stop="20261105022900 +0300" channel="retro-music-tv">
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261105022900 +0300" stop="20261105065900 +0300" channel="retro-music-tv">
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261105065900 +0300" stop="20261105095900 +0300" channel="retro-music-tv">
+    <title>Restart</title>
+  </programme>
+  <programme start="20261105095900 +0300" stop="20261105110000 +0300" channel="retro-music-tv">
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261105110000 +0300" stop="20261105120000 +0300" channel="retro-music-tv">
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261105120000 +0300" stop="20261105125900 +0300" channel="retro-music-tv">
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261105125900 +0300" stop="20261105150000 +0300" channel="retro-music-tv">
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261105150000 +0300" stop="20261105163000 +0300" channel="retro-music-tv">
+    <title>Republika</title>
+  </programme>
+  <programme start="20261105163000 +0300" stop="20261105180000 +0300" channel="retro-music-tv">
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261105180000 +0300" stop="20261105185900 +0300" channel="retro-music-tv">
+    <title>Repete</title>
+  </programme>
+  <programme start="20261105185900 +0300" stop="20261105193000 +0300" channel="retro-music-tv">
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261105193000 +0300" stop="20261105200000 +0300" channel="retro-music-tv">
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261105200000 +0300" stop="20261105213000 +0300" channel="retro-music-tv">
+    <title>Republika</title>
+  </programme>
+  <programme start="20261105213000 +0300" stop="20261105215900 +0300" channel="retro-music-tv">
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261105215900 +0300" stop="20261106022900 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261106022900 +0300" stop="20261106065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261106065900 +0300" stop="20261106095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261106095900 +0300" stop="20261106110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261106110000 +0300" stop="20261106120000 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261106120000 +0300" stop="20261106125900 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261106125900 +0300" stop="20261106150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261106150000 +0300" stop="20261106163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261106163000 +0300" stop="20261106180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261106180000 +0300" stop="20261106185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261106185900 +0300" stop="20261106193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Tears for Fears</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261106193000 +0300" stop="20261106200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261106200000 +0300" stop="20261106213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261106213000 +0300" stop="20261106215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261106215900 +0300" stop="20261107033000 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261107033000 +0300" stop="20261107065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261107065900 +0300" stop="20261107095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261107095900 +0300" stop="20261107110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261107110000 +0300" stop="20261107120000 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261107120000 +0300" stop="20261107125900 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261107125900 +0300" stop="20261107150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261107150000 +0300" stop="20261107163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261107163000 +0300" stop="20261107180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261107180000 +0300" stop="20261107185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261107185900 +0300" stop="20261107193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Smokie</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261107193000 +0300" stop="20261107200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261107200000 +0300" stop="20261107213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261107213000 +0300" stop="20261107215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261107215900 +0300" stop="20261108033000 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261108033000 +0300" stop="20261108065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261108065900 +0300" stop="20261108095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261108095900 +0300" stop="20261108110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261108110000 +0300" stop="20261108120000 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261108120000 +0300" stop="20261108125900 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261108125900 +0300" stop="20261108150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261108150000 +0300" stop="20261108163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261108163000 +0300" stop="20261108180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261108180000 +0300" stop="20261108185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261108185900 +0300" stop="20261108193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Čechomor</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261108193000 +0300" stop="20261108200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261108200000 +0300" stop="20261108213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261108213000 +0300" stop="20261108215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261108215900 +0300" stop="20261109005900 +0300" channel="retro-music-tv">
+    <desc>Hity zlatých šedesátých – vzpomínky zůstanou</desc>
+    <title>Regenerace</title>
+  </programme>
+  <programme start="20261109005900 +0300" stop="20261109020000 +0300" channel="retro-music-tv">
+    <desc>Láska hraje prim</desc>
+    <title>Retro love</title>
+  </programme>
+  <programme start="20261109020000 +0300" stop="20261109030000 +0300" channel="retro-music-tv">
+    <desc>Láska hraje prim</desc>
+    <title>Retro love</title>
+  </programme>
+  <programme start="20261109030000 +0300" stop="20261109065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261109065900 +0300" stop="20261109095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261109095900 +0300" stop="20261109110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261109110000 +0300" stop="20261109120000 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261109120000 +0300" stop="20261109125900 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261109125900 +0300" stop="20261109150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261109150000 +0300" stop="20261109163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261109163000 +0300" stop="20261109180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261109180000 +0300" stop="20261109185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261109185900 +0300" stop="20261109200000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: The Police</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261109200000 +0300" stop="20261109213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261109213000 +0300" stop="20261109215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261109215900 +0300" stop="20261110000000 +0300" channel="retro-music-tv">
+    <desc>Noc je ještě mladá. Chytněte druhý dech s osmdesátkami</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261110000000 +0300" stop="20261110020000 +0300" channel="retro-music-tv">
+    <desc>Láska hraje prim</desc>
+    <title>Retro love</title>
+  </programme>
+  <programme start="20261110020000 +0300" stop="20261110065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261110065900 +0300" stop="20261110095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261110095900 +0300" stop="20261110110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261110120000 +0300" stop="20261110125900 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261110125900 +0300" stop="20261110150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261110150000 +0300" stop="20261110163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261110163000 +0300" stop="20261110180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261110180000 +0300" stop="20261110185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261110185900 +0300" stop="20261110193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Shania Twain</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261110193000 +0300" stop="20261110200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261110200000 +0300" stop="20261110213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261110213000 +0300" stop="20261110215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261110215900 +0300" stop="20261111000000 +0300" channel="retro-music-tv">
+    <desc>Hudební devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261111000000 +0300" stop="20261111020000 +0300" channel="retro-music-tv">
+    <desc>Láska hraje prim</desc>
+    <title>Retro love</title>
+  </programme>
+  <programme start="20261111020000 +0300" stop="20261111065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261111065900 +0300" stop="20261111095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261111095900 +0300" stop="20261111110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261111110000 +0300" stop="20261111120000 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261111120000 +0300" stop="20261111125900 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261111125900 +0300" stop="20261111150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261111150000 +0300" stop="20261111163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261111163000 +0300" stop="20261111180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261111180000 +0300" stop="20261111185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261111185900 +0300" stop="20261111193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Bon Jovi</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261111193000 +0300" stop="20261111200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261111200000 +0300" stop="20261111213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261111213000 +0300" stop="20261111215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261111215900 +0300" stop="20261112022900 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261112022900 +0300" stop="20261112065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261112065900 +0300" stop="20261112095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261112095900 +0300" stop="20261112110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261112110000 +0300" stop="20261112120000 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261112120000 +0300" stop="20261112125900 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261112125900 +0300" stop="20261112150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261112150000 +0300" stop="20261112163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261112163000 +0300" stop="20261112180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261112180000 +0300" stop="20261112185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261112185900 +0300" stop="20261112193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Britney Spears</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261112193000 +0300" stop="20261112200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261112200000 +0300" stop="20261112213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261112213000 +0300" stop="20261112215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261112215900 +0300" stop="20261113022900 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261113022900 +0300" stop="20261113065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261113065900 +0300" stop="20261113095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261113095900 +0300" stop="20261113110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261113110000 +0300" stop="20261113120000 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261113120000 +0300" stop="20261113125900 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261113125900 +0300" stop="20261113150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261113150000 +0300" stop="20261113163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261113163000 +0300" stop="20261113180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261113180000 +0300" stop="20261113185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261113185900 +0300" stop="20261113193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: A-ha</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261113193000 +0300" stop="20261113200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261113200000 +0300" stop="20261113213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261113213000 +0300" stop="20261113215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261113215900 +0300" stop="20261114033000 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261114033000 +0300" stop="20261114065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261114065900 +0300" stop="20261114095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261114095900 +0300" stop="20261114110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261114110000 +0300" stop="20261114120000 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261114120000 +0300" stop="20261114125900 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261114125900 +0300" stop="20261114150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261114150000 +0300" stop="20261114163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261114163000 +0300" stop="20261114180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261114180000 +0300" stop="20261114185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261114185900 +0300" stop="20261114193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Jan Kalousek</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261114193000 +0300" stop="20261114200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261114200000 +0300" stop="20261114213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261114213000 +0300" stop="20261114215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261114215900 +0300" stop="20261115033000 +0300" channel="retro-music-tv">
+    <desc>Buďte hvězdou parketu. Taneční hity vám vlijí novou krev do žil</desc>
+    <title>Retro party</title>
+  </programme>
+  <programme start="20261115033000 +0300" stop="20261115065900 +0300" channel="retro-music-tv">
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <title>Revolution</title>
+  </programme>
+  <programme start="20261115065900 +0300" stop="20261115095900 +0300" channel="retro-music-tv">
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <title>Restart</title>
+  </programme>
+  <programme start="20261115095900 +0300" stop="20261115110000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="retro-music-tv">
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <title>Replay 80'</title>
+  </programme>
+  <programme start="20261115120000 +0300" stop="20261115125900 +0300" channel="retro-music-tv">
+    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
+    <title>Replay 90'</title>
+  </programme>
+  <programme start="20261115125900 +0300" stop="20261115150000 +0300" channel="retro-music-tv">
+    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
+    <title>Refresh</title>
+  </programme>
+  <programme start="20261115150000 +0300" stop="20261115163000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261115163000 +0300" stop="20261115180000 +0300" channel="retro-music-tv">
+    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
+    <title>Rekreace</title>
+  </programme>
+  <programme start="20261115180000 +0300" stop="20261115185900 +0300" channel="retro-music-tv">
+    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
+    <title>Repete</title>
+  </programme>
+  <programme start="20261115185900 +0300" stop="20261115193000 +0300" channel="retro-music-tv">
+    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Taylor Swift</desc>
+    <title>Rentgen</title>
+  </programme>
+  <programme start="20261115193000 +0300" stop="20261115200000 +0300" channel="retro-music-tv">
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <title>Retrománie</title>
+  </programme>
+  <programme start="20261115200000 +0300" stop="20261115213000 +0300" channel="retro-music-tv">
+    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
+    <title>Republika</title>
+  </programme>
+  <programme start="20261115213000 +0300" stop="20261115215900 +0300" channel="retro-music-tv">
+    <desc>Nad dopisy diváků… Hrajeme, jak vy pískáte</desc>
+    <title>Reproduktor</title>
+  </programme>
+  <programme start="20261115215900 +0300" stop="20261116005900 +0300" channel="retro-music-tv">
+    <desc>Hity zlatých šedesátých – vzpomínky zůstanou</desc>
+    <title>Regenerace</title>
+  </programme>
+  <programme start="20261116005900 +0300" stop="20261116015900 +0300" channel="retro-music-tv">
+    <desc>Láska hraje prim</desc>
+    <title>Retro love</title>
   </programme>
   <programme channel="Cool Summer Channel" start="20261112183800 +0000" stop="20261112193549 +0000">
     <title>Olivia Dean X SIENNA SPIRO Vol.2</title>
