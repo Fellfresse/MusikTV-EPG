@@ -13,6 +13,7 @@ ID_TRANSLATION = {
     "musicbox-dance": "musicbox-dance",
     "musicbox-hits": "musicbox-hits",
     "musicbox-sexy": "musicbox-sexy",
+    "retro-music-cz": "retro-music-tv",
 }
 
 HEADERS = {
