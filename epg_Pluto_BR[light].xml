@@ -8,33 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261113010000 +0200" stop="20261113045400 +0200" channel="mtv-rocks-br">
+  <programme start="20261113030000 +0200" stop="20261113073300 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261113045400 +0200" stop="20261113052100 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">Unskinny Bop (Poison) / Place Your Hands (Reef) / Freak On A Leash (Korn) / Be Quiet And Drive (Deftones) / You Could Be Mine (Guns N' Roses)</desc>
-  </programme>
-  <programme start="20261113052100 +0200" stop="20261113054800 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems: Nirvana / Soundgarden / Alanis Morissette / Smashing Pumpkins / Blur</title>
-    <desc lang="en">Smells Like Teen Spirit (Nirvana) / Black Hole Sun (Soundgarden) / Head Over Feet (Alanis Morissette) / Tonight, Tonight (Smashing Pumpkins) / Girls and Boys (Blur)</desc>
-  </programme>
-  <programme start="20261113054800 +0200" stop="20261113061400 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">The Day We Caught The Train (Ocean Colour Scene) / She Said (Longpigs) / Breakfast At Tiffany's (Deep Blue Something) / Innuendo (Queen) / Spiderwebs (No Doubt)</desc>
-  </programme>
-  <programme start="20261113061400 +0200" stop="20261113063800 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">Two Princes (Spin Doctors) / Ironic (Alanis Morissette) / Even Flow (Pearl Jam) / Come As You Are (Nirvana) / Celebrity Skin (Hole)</desc>
-  </programme>
-  <programme start="20261113063800 +0200" stop="20261113070600 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Pride (U2) / Brass In Pocket (The Pretenders) / Beds Are Burning (Midnight Oil) / Living After Midnight (Judas Priest) / Looks That Kill (Mötley Crüe) / Animal (Def Leppard)</desc>
-  </programme>
-  <programme start="20261113070600 +0200" stop="20261113073300 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Girl All The Bad Guys Want (Bowling For Soup) / Still Into You (Paramore) / I Write Sins Not Tragedies (Panic At The Disco) / Show Me How To Live (Audioslave) / Wait And Bleed (Slipknot) / Out Of The Black (Royal Blood)</desc>
   </programme>
   <programme start="20261113073300 +0200" stop="20261113080000 +0200" channel="mtv-rocks-br">
     <title lang="en">90s Rock Anthems</title>
@@ -248,49 +224,49 @@
     <title lang="en">90s Rock Anthems</title>
     <desc lang="en">Two Princes (Spin Doctors) / Ironic (Alanis Morissette) / Even Flow (Pearl Jam) / Come As You Are (Nirvana) / Celebrity Skin (Hole)</desc>
   </programme>
-  <programme start="20261114060500 +0200" stop="20261114130000 +0200" channel="mtv-rocks-br">
+  <programme start="20261114060500 +0200" stop="20261114063300 +0200" channel="mtv-rocks-br">
+    <title lang="en">80s Rock Anthems</title>
+    <desc lang="en">Pride (U2) / Brass In Pocket (The Pretenders) / Beds Are Burning (Midnight Oil) / Living After Midnight (Judas Priest) / Looks That Kill (Mötley Crüe) / Animal (Def Leppard)</desc>
+  </programme>
+  <programme start="20261114063300 +0200" stop="20261114070000 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Girl All The Bad Guys Want (Bowling For Soup) / Still Into You (Paramore) / I Write Sins Not Tragedies (Panic At The Disco) / Show Me How To Live (Audioslave) / Wait And Bleed (Slipknot) / Out Of The Black (Royal Blood)</desc>
+  </programme>
+  <programme start="20261114070000 +0200" stop="20261114072700 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">All Star (Smash Mouth) / Losing My Religion (R.E.M.) / Stupid Girl (Garbage) / Everlong (Foo Fighters) / Thunderstruck (AC/DC)</desc>
+  </programme>
+  <programme start="20261114072700 +0200" stop="20261114075000 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Figure It Out (Royal Blood) / All The Small Things (Blink 182) / I Want You So Hard (Bad Boy's News) (Eagles Of Death Metal) / Tribute (Tenacious D) / Stressed Out (Twenty One Pilots) / The Middle (Jimmy Eat World)</desc>
+  </programme>
+  <programme start="20261114075000 +0200" stop="20261114081800 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Mountains (Biffy Clyro) / Lights Out (Royal Blood) / Hash Pipe (Weezer) / Like A Stone (Audioslave) / Hurt (Johnny Cash) / The Kill (30 Seconds To Mars)</desc>
+  </programme>
+  <programme start="20261114081800 +0200" stop="20261114084100 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Radioactive (Imagine Dragons) / Thks Fr Th Mmrs (Fall Out Boy) / Dani California (Red Hot Chili Peppers) / Chop Suey (System Of A Down) / Before I Forget (Slipknot)</desc>
+  </programme>
+  <programme start="20261114084100 +0200" stop="20261114090600 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Waste A Moment (Kings Of Leon) / Yellow (Coldplay) / Cochise (Audioslave) / Drown (Bring Me The Horizon) / I'm Not Ok (I Promise) (My Chemical Romance) / Misery Business (Paramore)</desc>
+  </programme>
+  <programme start="20261114090600 +0200" stop="20261114150000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261114130000 +0200" stop="20261115010000 +0200" channel="mtv-rocks-br">
+  <programme start="20261114150000 +0200" stop="20261115030000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115010000 +0200" stop="20261115070000 +0200" channel="mtv-rocks-br">
+  <programme start="20261115030000 +0200" stop="20261115090000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261113010000 +0200" stop="20261113044600 +0200" channel="mtv-classic-br">
+  <programme start="20261113030000 +0200" stop="20261113075300 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261113044600 +0200" stop="20261113050600 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">Return Of The Mack (Mark Morrison) / Unbreak My Heart (Toni Braxton) / Believe (Cher) / U Can't Touch This (MC Hammer)</desc>
-  </programme>
-  <programme start="20261113050600 +0200" stop="20261113053100 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Total Eclipse Of The Heart (Bonnie Tyler) / Take On Me (A-Ha) / I Think We're Alone Now (Tiffany) / West End Girls (Pet Shop Boys) / You Spin Me Round (Like A Record ) (Dead Or Alive)</desc>
-  </programme>
-  <programme start="20261113053100 +0200" stop="20261113055600 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">Push The Feeling On (Nightcrawlers) / Love Shack (B-52's) / Killing Me Softly (Fugees) / Nothing Compares 2 U (Sinéad O'Connor) / Rhythm Is A Dancer (Snap!)</desc>
-  </programme>
-  <programme start="20261113055600 +0200" stop="20261113062400 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Dancing In The Dark (Bruce Springsteen) / Wake Me Up Before You Go Go (Wham) / The Final Countdown (Europe) / Push It (Salt-N-Pepa) / Don't Leave Me This Way (The Communards)</desc>
-  </programme>
-  <programme start="20261113062400 +0200" stop="20261113064500 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
-  </programme>
-  <programme start="20261113064500 +0200" stop="20261113071000 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Hero (Enrique Iglesias) / Bring Me To Life (Evanescence Ft. Paul McCoy) / Promiscuous (Nelly Furtado Ft. Timbaland) / Cry Me A River (Justin Timberlake) / Empire State Of Mind (Jay-Z ft. Alicia Keys)</desc>
-  </programme>
-  <programme start="20261113071000 +0200" stop="20261113075300 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">Ironic (Alanis Morissette) / Blue (Da Ba Dee) (Eiffel 65) / Truly, Madly, Deeply (Savage Garden) / I Will Always Love You (Whitney Houston) / Baby One More Time (Britney Spears) / Song 2 (Blur) / Wannabe (Spice Girls) / It's Like That (Run D.M.C....)</desc>
   </programme>
   <programme start="20261113075300 +0200" stop="20261113081500 +0200" channel="mtv-classic-br">
     <title lang="en">10's Hits</title>
@@ -508,15 +484,47 @@
     <title lang="en">80s Hits</title>
     <desc lang="en">Just Can't Get Enough (Depeche Mode) / When Doves Cry (Prince) / Eternal Flame (The Bangles) / Living On A Prayer (Bon Jovi) / In The Air Tonight (Phil Collins)</desc>
   </programme>
-  <programme start="20261114061400 +0200" stop="20261114130000 +0200" channel="mtv-classic-br">
+  <programme start="20261114061400 +0200" stop="20261114063600 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
+  </programme>
+  <programme start="20261114063600 +0200" stop="20261114065800 +0200" channel="mtv-classic-br">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Feel Good Inc (Gorillaz) / So What (P!nk) / Beggin (Madcon) / You're Beautiful (James Blunt) / Poker Face (Lady Gaga)</desc>
+  </programme>
+  <programme start="20261114065800 +0200" stop="20261114072400 +0200" channel="mtv-classic-br">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Jump (Van Halen) / What's Love Got To Do With It (Tina Turner) / Africa (Toto) / Purple Rain (Prince &amp; The Revolution) / Pump Up The Jam (Technotronic)</desc>
+  </programme>
+  <programme start="20261114072400 +0200" stop="20261114074800 +0200" channel="mtv-classic-br">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Umbrella (Rihanna Ft. Jay-Z) / The Man Who Can't Be Moved (The Script) / I Got A Feeling (The Black Eyed Peas) / Chasing Cars (Snow Patrol) / Jenny From The Block (Jennifer Lopez Ft. Jadakiss &amp; Styles)</desc>
+  </programme>
+  <programme start="20261114074800 +0200" stop="20261114081000 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
+  </programme>
+  <programme start="20261114081000 +0200" stop="20261114083000 +0200" channel="mtv-classic-br">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Return Of The Mack (Mark Morrison) / Unbreak My Heart (Toni Braxton) / Believe (Cher) / U Can't Touch This (MC Hammer)</desc>
+  </programme>
+  <programme start="20261114083000 +0200" stop="20261114085500 +0200" channel="mtv-classic-br">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Total Eclipse Of The Heart (Bonnie Tyler) / Take On Me (A-Ha) / I Think We're Alone Now (Tiffany) / West End Girls (Pet Shop Boys) / You Spin Me Round (Like A Record ) (Dead Or Alive)</desc>
+  </programme>
+  <programme start="20261114085500 +0200" stop="20261114092000 +0200" channel="mtv-classic-br">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Push The Feeling On (Nightcrawlers) / Love Shack (B-52's) / Killing Me Softly (Fugees) / Nothing Compares 2 U (Sinéad O'Connor) / Rhythm Is A Dancer (Snap!)</desc>
+  </programme>
+  <programme start="20261114092000 +0200" stop="20261114150000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261114130000 +0200" stop="20261115010000 +0200" channel="mtv-classic-br">
+  <programme start="20261114150000 +0200" stop="20261115030000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115010000 +0200" stop="20261115070000 +0200" channel="mtv-classic-br">
+  <programme start="20261115030000 +0200" stop="20261115090000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
