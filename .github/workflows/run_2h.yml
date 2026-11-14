@@ -41,7 +41,7 @@ jobs:
         run: python generate_plex.mjh[light].py --out epg_Plex.mjh[light].xml
 
       - name: generate Dummy EPG
-        run: python generate_dummy_epg.py --out epg_dummy.xml
+        run: python generate_dummy_epg.py
 
       - name: commit files
         run: |
