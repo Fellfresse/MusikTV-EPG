@@ -13,7 +13,7 @@ def generate_dummy_channel_epg():
         {"id": "Lolla 2026", "name": "Lollapalooza Berlin 2026", "desc": "Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an."},
     ]
     
-    filename = "epg_dummy.xml"
+    filename = "epg_Dummy.xml"
     
     # Create XML Root
     tv = ET.Element('tv', {"generator-info-name": "Fellfresse", "generator-info": "dummy_epg"})
