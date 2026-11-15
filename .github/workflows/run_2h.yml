@@ -37,8 +37,8 @@ jobs:
       - name: generate Pluto US[light] EPG
         run: python generate_pluto_us[light].py --hours 48 --out epg_Pluto_US[light].xml
  
-      - name: generate Plex.mjh[light] EPG
-        run: python generate_plex.mjh[light].py --out epg_Plex.mjh[light].xml
+      - name: generate Plex.buddy_chew_chew[light] EPG
+        run: python generate_plex.buddy_chew_chew[light].py --out epg_Plex.buddy_chew_chew[light].xml
 
       - name: generate Dummy EPG
         run: python generate_dummy_epg.py
