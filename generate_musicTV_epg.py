@@ -108,7 +108,7 @@ def main():
     parser.add_argument("--pluto_br", default="epg_Pluto_BR[light].xml")
     parser.add_argument("--pluto_gb", default="epg_Pluto_GB[light].xml")
     parser.add_argument("--pluto_us", default="epg_Pluto_US[light].xml")
-    parser.add_argument("--plex_mjh", default="epg_Plex.mjh[light].xml")
+    parser.add_argument("--plex_buddy_chew_chew", default="epg_Plex.buddy_chew_chew[light].xml")
     parser.add_argument("--plex_fell", default="epg_Plex.fellfresse[light].xml")
     parser.add_argument("--rakuten_de", default="epg_Rakuten_DE[light].xml")
     parser.add_argument("--rakuten_nl", default="epg_Rakuten_NL[light].xml")
@@ -119,6 +119,7 @@ def main():
     parser.add_argument("--open_fr", default="epg_OpenFR[light].xml")
     parser.add_argument("--vantage", default="epg_Vantage[light].xml")
     parser.add_argument("--musikbox", default="epg_Musikbox[light].xml")
+    parser.add_argument("--dummy", default="epg_Dummy.xml")
 
     parser.add_argument("--skip-sam", action="store_true")
     parser.add_argument("--out", default="EPG_MusikTV.xml")
@@ -133,7 +134,7 @@ def main():
     ("Pluto_BR", args.pluto_br), 
     ("Pluto_GB", args.pluto_gb), 
     ("Pluto_US", args.pluto_us), 
-    ("Plex_MJH", args.plex_mjh),
+    ("Plex_BuddyChewChew", args.plex_buddy_chew_chew),
     ("Plex_Fell", args.plex_fell),
     ("Rakuten_DE", args.rakuten_de),
     ("Rakuten_NL", args.rakuten_nl),
@@ -143,7 +144,8 @@ def main():
     ("OpenDE", args.open_de),
     ("OpenFR", args.open_fr),
     ("Vantage", args.vantage),
-    ("MusikBox", args.musikbox)
+    ("MusikBox", args.musikbox),
+    ("Dummy", args.dummy)
     ]:
         ch, pr = parse_local_xmltv(path)
         all_channels.extend(ch)
