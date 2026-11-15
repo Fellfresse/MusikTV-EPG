@@ -476,17 +476,9 @@
     <display-name>Rock TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" />
   </channel>
-  <programme start="20261115153000 +0200" stop="20261115193000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261115160000 +0200" stop="20261115203000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115193000 +0200" stop="20261115200000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
-  </programme>
-  <programme start="20261115200000 +0200" stop="20261115203000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
   <programme start="20261115203000 +0200" stop="20261115210000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
@@ -688,37 +680,29 @@
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
-  <programme start="20261116213000 +0200" stop="20261117033000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261116213000 +0200" stop="20261116220000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261116220000 +0200" stop="20261116223000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261116223000 +0200" stop="20261117040000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115195508 +0200" channel="mtv-classic-ca">
+  <programme start="20261115160000 +0200" stop="20261115205108 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115195508 +0200" stop="20261115201508 +0200" channel="mtv-classic-ca">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">TLC / Bryan Adams / CeCe Peniston / Roxette.</desc>
-  </programme>
-  <programme start="20261115201508 +0200" stop="20261115203108 +0200" channel="mtv-classic-ca">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">The Notorious B.I.G. Ft. Puff Daddy / Alanis Morissette / Savage Garden</desc>
-  </programme>
-  <programme start="20261115203108 +0200" stop="20261115203908 +0200" channel="mtv-classic-ca">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">The Rembrandts / Shania Twain.</desc>
-  </programme>
-  <programme start="20261115203908 +0200" stop="20261115205108 +0200" channel="mtv-classic-ca">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">Puff Daddy With Faith Evans &amp; 112 / Blur / Run D.M.C. Vs. Jason Nevins</desc>
   </programme>
   <programme start="20261115205108 +0200" stop="20261115211108 +0200" channel="mtv-classic-ca">
     <title lang="en">90s Hits</title>
@@ -1008,29 +992,37 @@
     <title lang="en">90s Hits</title>
     <desc lang="en">Blackstreet / DJ Jurgen Ft. Alice Deejay / Red Hot Chili Peppers / R.E.M..</desc>
   </programme>
-  <programme start="20261116210008 +0200" stop="20261117033000 +0200" channel="mtv-classic-ca">
+  <programme start="20261116210008 +0200" stop="20261116211908 +0200" channel="mtv-classic-ca">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Sheryl Crow / Hanson / Usher / UB40.</desc>
+  </programme>
+  <programme start="20261116211908 +0200" stop="20261116213708 +0200" channel="mtv-classic-ca">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Gold (Spandau Ballet) / All Night Long (Lionel Richie) / Never Gonna Give You Up (Rick Astley) / I Wanna Dance With Somebody (Whitney Houston).</desc>
+  </programme>
+  <programme start="20261116213708 +0200" stop="20261116215008 +0200" channel="mtv-classic-ca">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">I Think We're Alone Now (Tiffany) / West End Girls (Pet Shop Boys) / You Spin Me Round (Like A Record ) (Dead Or Alive)</desc>
+  </programme>
+  <programme start="20261116215008 +0200" stop="20261116221608 +0200" channel="mtv-classic-ca">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Red Red Wine (UB40) / Running Up That Hill (Kate Bush) / Tainted Love (Soft Cell) / Walk This Way (Aerosmith Ft. Run-D.M.C.) / Tell It To My Heart (Taylor Dayne) / Don't You Want Me (Human League)</desc>
+  </programme>
+  <programme start="20261116221608 +0200" stop="20261117040000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-classic-ca">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-classic-ca">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115193000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261115160000 +0200" stop="20261115203000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115193000 +0200" stop="20261115200000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
-  </programme>
-  <programme start="20261115200000 +0200" stop="20261115203000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
   <programme start="20261115203000 +0200" stop="20261115210000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
@@ -1232,29 +1224,29 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
-  <programme start="20261116213000 +0200" stop="20261117033000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261116213000 +0200" stop="20261116220000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261116220000 +0200" stop="20261116223000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261116223000 +0200" stop="20261117040000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115195200 +0200" channel="mtv-rocks-br">
+  <programme start="20261115160000 +0200" stop="20261115204700 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115195200 +0200" stop="20261115202000 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">Keep The Faith (Bon Jovi) / The Bartender And The Thief (Stereophonics) / Under The Bridge (Red Hot Chili Peppers) / Motorcycle Emptiness (Manic Street Preachers) / My Favourite Game (The Cardigans)</desc>
-  </programme>
-  <programme start="20261115202000 +0200" stop="20261115204700 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">You Give Love A Bad Name (Bon Jovi) / Heaven (Bryan Adams) / The Final Countdown (Europe) / Run To The Hills (Iron Maiden) / For Those About To Rock (We Salute You) (AC/DC)</desc>
   </programme>
   <programme start="20261115204700 +0200" stop="20261115211200 +0200" channel="mtv-rocks-br">
     <title lang="en">Rock Anthems of the Century</title>
@@ -1484,29 +1476,29 @@
     <title lang="en">80s Rock Anthems</title>
     <desc lang="en">Let's Go Crazy (Prince &amp; The Revolution) / Love In An Elevator (Aerosmith) / Reason To Live (Kiss) / I Love Rock 'N' Roll (Joan Jett) / Still Haven't Found What I'm Looking For (U2)</desc>
   </programme>
-  <programme start="20261116211300 +0200" stop="20261117033000 +0200" channel="mtv-rocks-br">
+  <programme start="20261116211300 +0200" stop="20261116213800 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Beverley Hills (Weezer) / Way Down We Go (Kaleo) / My Immortal (Evanescence) / Thunder (Imagine Dragons) / Kings And Queens (30 Seconds To Mars)</desc>
+  </programme>
+  <programme start="20261116213800 +0200" stop="20261116220300 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Woman (Wolfmother) / Ain't No Rest For The Wicked (Cage The Elephant) / Beautiful Day (U2) / Black Chandelier (Biffy Clyro) / Dirty Little Secrets (Cleaner Version) (The All American Rejects) / I Believe In A Thing Called Love (The Darkness)</desc>
+  </programme>
+  <programme start="20261116220300 +0200" stop="20261117040000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-rocks-br">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-rocks-br">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115194600 +0200" channel="mtv-classic-br">
+  <programme start="20261115160000 +0200" stop="20261115203600 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115194600 +0200" stop="20261115201000 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">God's Plan (Drake), Breathin' (Ariana Grande), 24K Magic (Bruno Mars), Girls Like You (Maroon 5 ft. Cardi B), What Do You Mean (Justin Bieber)</desc>
-  </programme>
-  <programme start="20261115201000 +0200" stop="20261115203600 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">La Isla Bonita (Madonna) / Careless Whisper (George Michael) / Fast Car (Tracy Chapman) / Everybody Wants To Rule The World (Tears For Fears) / Hungry Like The Wolf (Duran Duran)</desc>
   </programme>
   <programme start="20261115203600 +0200" stop="20261115210700 +0200" channel="mtv-classic-br">
     <title lang="en">10's Hits</title>
@@ -1744,29 +1736,29 @@
     <title lang="en">10's Hits</title>
     <desc lang="en">How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
   </programme>
-  <programme start="20261116211800 +0200" stop="20261117033000 +0200" channel="mtv-classic-br">
+  <programme start="20261116211800 +0200" stop="20261116215400 +0200" channel="mtv-classic-br">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Come On Eileen (Dexys) / I Just Called To Say I Love You (Stevie Wonder) / The Power Of Love (Jennifer Rush) / Relax (Frankie Goes To Hollywood) / Hello (Lionel Richie) / Sledgehammer (Peter Gabriel) / Teardrops (Womack &amp; Womack)</desc>
+  </programme>
+  <programme start="20261116215400 +0200" stop="20261116221700 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">All Of Me (John Legend)</desc>
+  </programme>
+  <programme start="20261116221700 +0200" stop="20261117040000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-classic-br">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-classic-br">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115193000 +0200" channel="that-s-60s">
+  <programme start="20261115160000 +0200" stop="20261115203000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115193000 +0200" stop="20261115200000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
-  </programme>
-  <programme start="20261115200000 +0200" stop="20261115203000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
   <programme start="20261115203000 +0200" stop="20261115210000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
@@ -1968,25 +1960,29 @@
     <title lang="en">That's 60s</title>
     <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
-  <programme start="20261116213000 +0200" stop="20261117033000 +0200" channel="that-s-60s">
+  <programme start="20261116213000 +0200" stop="20261116220000 +0200" channel="that-s-60s">
+    <title lang="en">That's 60s</title>
+    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+  </programme>
+  <programme start="20261116220000 +0200" stop="20261116223000 +0200" channel="that-s-60s">
+    <title lang="en">That's 60s</title>
+    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+  </programme>
+  <programme start="20261116223000 +0200" stop="20261117040000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="that-s-60s">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="that-s-60s">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115190000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261115160000 +0200" stop="20261115200000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115190000 +0200" stop="20261115200000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261115200000 +0200" stop="20261115210000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -2092,25 +2088,25 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261116220000 +0200" stop="20261117033000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261116220000 +0200" stop="20261116230000 +0200" channel="mtv-flow-latino-us">
+    <title lang="en">MTV Flow Latino</title>
+    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
+  </programme>
+  <programme start="20261116230000 +0200" stop="20261117040000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261115153000 +0200" stop="20261115190000 +0200" channel="mtv-yo!-us">
+  <programme start="20261115160000 +0200" stop="20261115200000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261115190000 +0200" stop="20261115200000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261115200000 +0200" stop="20261115210000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -2216,15 +2212,19 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261116220000 +0200" stop="20261117033000 +0200" channel="mtv-yo!-us">
+  <programme start="20261116220000 +0200" stop="20261116230000 +0200" channel="mtv-yo!-us">
+    <title lang="en">Yo! MTV</title>
+    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
+  </programme>
+  <programme start="20261116230000 +0200" stop="20261117040000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117033000 +0200" stop="20261117153000 +0200" channel="mtv-yo!-us">
+  <programme start="20261117040000 +0200" stop="20261117160000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261117153000 +0200" stop="20261117213000 +0200" channel="mtv-yo!-us">
+  <programme start="20261117160000 +0200" stop="20261117220000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -48627,10 +48627,6 @@
     <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
     <title>Rekreace</title>
   </programme>
-  <programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="WOA">
-    <title lang="de">W:O:A History</title>
-    <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
-  </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="WOA">
     <title lang="de">W:O:A History</title>
     <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
@@ -48819,9 +48815,9 @@
     <title lang="de">W:O:A History</title>
     <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
   </programme>
-  <programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="WOA HN 2025">
-    <title lang="de">W:O:A Holy Night 2025</title>
-    <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="WOA">
+    <title lang="de">W:O:A History</title>
+    <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
   </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="WOA HN 2025">
     <title lang="de">W:O:A Holy Night 2025</title>
@@ -49011,9 +49007,9 @@
     <title lang="de">W:O:A Holy Night 2025</title>
     <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
   </programme>
-  <programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="WOA 2026">
-    <title lang="de">Wacken Open Air 2026</title>
-    <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="WOA HN 2025">
+    <title lang="de">W:O:A Holy Night 2025</title>
+    <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
   </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="WOA 2026">
     <title lang="de">Wacken Open Air 2026</title>
@@ -49203,9 +49199,9 @@
     <title lang="de">Wacken Open Air 2026</title>
     <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
   </programme>
-  <programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="RAR 2026">
-    <title lang="de">Rock am Ring 2026</title>
-    <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="WOA 2026">
+    <title lang="de">Wacken Open Air 2026</title>
+    <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
   </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="RAR 2026">
     <title lang="de">Rock am Ring 2026</title>
@@ -49395,9 +49391,9 @@
     <title lang="de">Rock am Ring 2026</title>
     <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
   </programme>
-  <programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="Huri 2026">
-    <title lang="de">Hurricane 2026</title>
-    <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="RAR 2026">
+    <title lang="de">Rock am Ring 2026</title>
+    <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
   </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="Huri 2026">
     <title lang="de">Hurricane 2026</title>
@@ -49587,9 +49583,9 @@
     <title lang="de">Hurricane 2026</title>
     <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
   </programme>
-  <programme start="20261115190000 +0000" stop="20261115200000 +0000" channel="Lolla 2026">
-    <title lang="de">Lollapalooza Berlin 2026</title>
-    <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="Huri 2026">
+    <title lang="de">Hurricane 2026</title>
+    <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
   </programme>
   <programme start="20261115200000 +0000" stop="20261115210000 +0000" channel="Lolla 2026">
     <title lang="de">Lollapalooza Berlin 2026</title>
@@ -49776,6 +49772,10 @@
     <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
   </programme>
   <programme start="20261117180000 +0000" stop="20261117190000 +0000" channel="Lolla 2026">
+    <title lang="de">Lollapalooza Berlin 2026</title>
+    <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
+  </programme>
+  <programme start="20261117190000 +0000" stop="20261117200000 +0000" channel="Lolla 2026">
     <title lang="de">Lollapalooza Berlin 2026</title>
     <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
   </programme>
