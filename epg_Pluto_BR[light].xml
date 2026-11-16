@@ -8,17 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261116123000 +0200" stop="20261116165300 +0200" channel="mtv-rocks-br">
+  <programme start="20261116130000 +0200" stop="20261116175000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261116165300 +0200" stop="20261116171800 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">The Funeral (Yungblud) / Helena (My Chemical Romance) / Mantra (Bring Me The Horizon) / Numb (Linkin Park) / She Hates Me (Puddle Of Mudd) / Original Prankster (The Offspring Ft. Redman)</desc>
-  </programme>
-  <programme start="20261116171800 +0200" stop="20261116175000 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Boulevard Of Broken Dreams (Green Day) / Many Of Horror (Biffy Clyro) / Mountain At My Gates (Foals) / Sugar We're Going Down (Fall Out Boy) / Youth Of The Nation (P.O.D) / Last Resort (Papa Roach) / The Bitter End (Placebo)</desc>
   </programme>
   <programme start="20261116175000 +0200" stop="20261116181500 +0200" channel="mtv-rocks-br">
     <title lang="en">80s Rock Anthems</title>
@@ -248,33 +240,21 @@
     <title lang="en">80s Rock Anthems</title>
     <desc lang="en">Never Tear Us Apart (INXS) / Love Will Tear Us Apart (Joy Division) / Don't Get Me Wrong (The Pretenders) / Every Rose Has It's Thorn (Poison) / Don't Stand So Close To Me (The Police)</desc>
   </programme>
-  <programme start="20261117180600 +0200" stop="20261118003000 +0200" channel="mtv-rocks-br">
+  <programme start="20261117180600 +0200" stop="20261118010000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118003000 +0200" stop="20261118123000 +0200" channel="mtv-rocks-br">
+  <programme start="20261118010000 +0200" stop="20261118130000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118123000 +0200" stop="20261118183000 +0200" channel="mtv-rocks-br">
+  <programme start="20261118130000 +0200" stop="20261118190000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261116123000 +0200" stop="20261116164400 +0200" channel="mtv-classic-br">
+  <programme start="20261116130000 +0200" stop="20261116175600 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261116164400 +0200" stop="20261116170800 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Gold (Spandau Ballet)</desc>
-  </programme>
-  <programme start="20261116170800 +0200" stop="20261116173100 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
-  </programme>
-  <programme start="20261116173100 +0200" stop="20261116175600 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">All Of Me (John Legend) / Diamonds (Rihanna) / Moves Like Jagger (Maroon 5 Ft. Christina Aguilera) / Thank u, next (Ariana Grande) / Baby (Justin Bieber Ft. Ludacris)</desc>
   </programme>
   <programme start="20261116175600 +0200" stop="20261116182400 +0200" channel="mtv-classic-br">
     <title lang="en">00s Hits</title>
@@ -508,15 +488,15 @@
     <title lang="en">00s Hits</title>
     <desc lang="en">Bad Romance (Lady Gaga) / Lady Marmalade (Christina Aguilera, Lil' Kim, Mya &amp; Pink) / Beautiful (Snoop Dogg ft. Pharrell) / Sex On Fire (Kings Of Leon) / Dilemma (Nelly Ft. Kelly Rowland)</desc>
   </programme>
-  <programme start="20261117180100 +0200" stop="20261118003000 +0200" channel="mtv-classic-br">
+  <programme start="20261117180100 +0200" stop="20261118010000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118003000 +0200" stop="20261118123000 +0200" channel="mtv-classic-br">
+  <programme start="20261118010000 +0200" stop="20261118130000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118123000 +0200" stop="20261118183000 +0200" channel="mtv-classic-br">
+  <programme start="20261118130000 +0200" stop="20261118190000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
