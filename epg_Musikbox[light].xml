@@ -25,9 +25,6 @@
     <display-name>Retro Music TV</display-name>
     <icon src="https://iptvx.one/picons/retro-music-cz.png" />
   </channel>
-  <programme start="20261108180000 +0300" stop="20261108200000 +0300" channel="deejay-tv">
-    <title>La musica di Radio Deejay</title>
-  </programme>
   <programme start="20261108200000 +0300" stop="20261108220000 +0300" channel="deejay-tv">
     <title>Deejay Good Times</title>
   </programme>
@@ -56,7 +53,6 @@
     <title>Summer Camp</title>
   </programme>
   <programme start="20261109180000 +0300" stop="20261109190000 +0300" channel="deejay-tv">
-    <desc>Con Gianluca Gazzoli</desc>
     <title>Gazzology</title>
   </programme>
   <programme start="20261109190000 +0300" stop="20261109200000 +0300" channel="deejay-tv">
@@ -606,12 +602,6 @@
   <programme start="20261123020000 +0300" stop="20261123030000 +0300" channel="deejay-tv">
     <desc>I videoclip piu' belli, 100% Radio Deejay</desc>
     <title>La musica di Radio Deejay</title>
-  </programme>
-  <programme start="20261108170000 +0300" stop="20261108180000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261108180000 +0300" stop="20261108190000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
   </programme>
   <programme start="20261108190000 +0300" stop="20261108200000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
@@ -1648,12 +1638,6 @@
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
-  <programme start="20261108170000 +0300" stop="20261108180000 +0300" channel="musicbox-dance">
-    <title>Top Dance Chart</title>
-  </programme>
-  <programme start="20261108180000 +0300" stop="20261108190000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
   <programme start="20261108190000 +0300" stop="20261108200000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
@@ -2688,12 +2672,6 @@
   </programme>
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261108170000 +0300" stop="20261108180000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261108180000 +0300" stop="20261108190000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
   </programme>
   <programme start="20261108190000 +0300" stop="20261108200000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
@@ -3730,12 +3708,6 @@
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
-  <programme start="20261108170000 +0300" stop="20261108180000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261108180000 +0300" stop="20261108190000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
   <programme start="20261108190000 +0300" stop="20261108200000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
@@ -4771,12 +4743,6 @@
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
-  <programme start="20261108163000 +0300" stop="20261108180000 +0300" channel="retro-music-tv">
-    <title>Rekreace</title>
-  </programme>
-  <programme start="20261108180000 +0300" stop="20261108185900 +0300" channel="retro-music-tv">
-    <title>Repete</title>
-  </programme>
   <programme start="20261108185900 +0300" stop="20261108193000 +0300" channel="retro-music-tv">
     <title>Rentgen</title>
   </programme>
@@ -4820,11 +4786,9 @@
     <title>Republika</title>
   </programme>
   <programme start="20261109163000 +0300" stop="20261109180000 +0300" channel="retro-music-tv">
-    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
     <title>Rekreace</title>
   </programme>
   <programme start="20261109180000 +0300" stop="20261109185900 +0300" channel="retro-music-tv">
-    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
     <title>Repete</title>
   </programme>
   <programme start="20261109185900 +0300" stop="20261109200000 +0300" channel="retro-music-tv">
