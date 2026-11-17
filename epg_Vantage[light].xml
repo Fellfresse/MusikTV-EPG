@@ -364,18 +364,18 @@
     <desc>Celebrate the launch of one of the worlds most anticipated video game with a mix of songs from the previous games. *THIS IS NOT A PAID PROMOTION AND IS NOT AFFILIATED WITH ROCKSTAR GAMES IN ANY WAY*</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="vantage-music">
-    <title>music</title>
-    <sub-title lang="en">Episode #0003</sub-title>
-    <desc>Exploring "music" and their videos.</desc>
+  <programme start="20261119010000 +0000" stop="20261119011500 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <sub-title lang="en">GTA Inspired Videos</sub-title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
     <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/uktop20.jpg" />
     <new />
   </programme>
-  <programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="vantage-music">
-    <title>Night Videos</title>
-    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+  <programme start="20261119011500 +0000" stop="20261119040000 +0000" channel="vantage-music">
+    <title>The Sounds of Grand Theft Auto</title>
+    <desc>Celebrate the launch of one of the worlds most anticipated video game with a mix of songs from the previous games. *THIS IS NOT A PAID PROMOTION AND IS NOT AFFILIATED WITH ROCKSTAR GAMES IN ANY WAY*</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
   </programme>
   <programme start="20261119040000 +0000" stop="20261119080000 +0000" channel="vantage-music">
     <title>Breakfast with Vantage Music</title>
@@ -1155,7 +1155,7 @@
   </programme>
   <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="vantage-music">
     <title>music</title>
-    <sub-title lang="en">Episode #0004</sub-title>
+    <sub-title lang="en">Episode #0003</sub-title>
     <desc>Exploring "music" and their videos.</desc>
     <category lang="en">Music</category>
     <new />
@@ -1935,7 +1935,7 @@
   </programme>
   <programme start="20261203010000 +0000" stop="20261203020000 +0000" channel="vantage-music">
     <title>music</title>
-    <sub-title lang="en">Episode #0005</sub-title>
+    <sub-title lang="en">Episode #0004</sub-title>
     <desc>Exploring "music" and their videos.</desc>
     <category lang="en">Music</category>
     <new />
@@ -3151,7 +3151,7 @@
   </programme>
   <programme start="20261116190000 +0000" stop="20261116203000 +0000" channel="vantage-classic">
     <title>Retro Charts</title>
-    <sub-title lang="en">16th November 1993</sub-title>
+    <sub-title lang="en">16th November 1992</sub-title>
     <desc>A mix of classic chart hits from the current week of a specific year.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
