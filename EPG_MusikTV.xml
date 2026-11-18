@@ -476,17 +476,9 @@
     <display-name>Rock TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" />
   </channel>
-  <programme start="20261118050000 +0200" stop="20261118093000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261118070000 +0200" stop="20261118103000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118093000 +0200" stop="20261118100000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
-  </programme>
-  <programme start="20261118100000 +0200" stop="20261118103000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
   <programme start="20261118103000 +0200" stop="20261118110000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
@@ -688,33 +680,29 @@
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
-  <programme start="20261119113000 +0200" stop="20261119170000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261119113000 +0200" stop="20261119120000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261119120000 +0200" stop="20261119123000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261119123000 +0200" stop="20261119190000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118094108 +0200" channel="mtv-classic-ca">
+  <programme start="20261118070000 +0200" stop="20261118104608 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118094108 +0200" stop="20261118100308 +0200" channel="mtv-classic-ca">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">All Of Me (John Legend)</desc>
-  </programme>
-  <programme start="20261118100308 +0200" stop="20261118102508 +0200" channel="mtv-classic-ca">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
-  </programme>
-  <programme start="20261118102508 +0200" stop="20261118104608 +0200" channel="mtv-classic-ca">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Grenade (Bruno Mars) / New Rules (Dua Lipa) / Roar (Katy Perry) / Waves (Robin Schulz Remix) (MR. PROBZ) / Drag Me Down (One Direction )</desc>
   </programme>
   <programme start="20261118104608 +0200" stop="20261118110808 +0200" channel="mtv-classic-ca">
     <title lang="en">10's Hits</title>
@@ -1008,29 +996,37 @@
     <title lang="en">00s Hits</title>
     <desc lang="en">It Wasn't Me (Shaggy ft. Rik Rok) / Hollaback Girl (Gwen Stefani) / Where Is The Love (The Black Eyed Peas).</desc>
   </programme>
-  <programme start="20261119110908 +0200" stop="20261119170000 +0200" channel="mtv-classic-ca">
+  <programme start="20261119110908 +0200" stop="20261119111908 +0200" channel="mtv-classic-ca">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Hips Don't Lie (Shakira Ft. Wyclef Jean) / The Scientist (Coldplay)</desc>
+  </programme>
+  <programme start="20261119111908 +0200" stop="20261119114008 +0200" channel="mtv-classic-ca">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Beyonce / Nickelback / Katy Perry / Daft Punk.</desc>
+  </programme>
+  <programme start="20261119114008 +0200" stop="20261119115408 +0200" channel="mtv-classic-ca">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Evanescence Ft. Paul McCoy / Nelly Furtado Ft. Timbaland / Jay-Z ft. Alicia Keys.</desc>
+  </programme>
+  <programme start="20261119115408 +0200" stop="20261119121608 +0200" channel="mtv-classic-ca">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Lady Gaga / Christina Aguilera, Lil' Kim, Mya &amp; Pink / Kings Of Leon / Nelly Ft. Kelly Rowland.</desc>
+  </programme>
+  <programme start="20261119121608 +0200" stop="20261119190000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-classic-ca">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-classic-ca">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118093000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261118070000 +0200" stop="20261118103000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118093000 +0200" stop="20261118100000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
-  </programme>
-  <programme start="20261118100000 +0200" stop="20261118103000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
   <programme start="20261118103000 +0200" stop="20261118110000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
@@ -1232,41 +1228,29 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
-  <programme start="20261119113000 +0200" stop="20261119170000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261119113000 +0200" stop="20261119120000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261119120000 +0200" stop="20261119123000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261119123000 +0200" stop="20261119190000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118094600 +0200" channel="mtv-rocks-br">
+  <programme start="20261118070000 +0200" stop="20261118115500 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118094600 +0200" stop="20261118101200 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">One (U2) / Zombie (The Cranberries) / Killing In The Name (Rage Against The Machine) / Muscle Museum (Muse) / Disco 2000 (Pulp)</desc>
-  </programme>
-  <programme start="20261118101200 +0200" stop="20261118103900 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">When You Were Young (The Killers) / Living Is A Problem Because Everything Dies (Biffy Clyro) / Fat Lip (Sum 41) / Centuries (Fall Out Boy) / Buck Rogers (Feeder) / Wish you were here (Incubus)</desc>
-  </programme>
-  <programme start="20261118103900 +0200" stop="20261118110200 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Number Of The Beast (Iron Maiden) / Living On A Prayer (Bon Jovi) / Kayleigh (Marillion) / Youth Gone Wild (Skid Row) / Summer of '69 (Bryan Adams)</desc>
-  </programme>
-  <programme start="20261118110200 +0200" stop="20261118113000 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Girls And Boys (Good Charlotte) / I Feel Like Dancin (All Time Low) / Stacy's Mom (Fountains Of Wayne) / Fire (Kasabian) / Hard Times (Paramore) / Fix You (Coldplay)</desc>
-  </programme>
-  <programme start="20261118113000 +0200" stop="20261118115500 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">What's Up? (4 Non Blondes) / Disappear (INXS) / Are You Gonna Go My Way (Lenny Kravitz) / Beetlebum (Blur) / Common People (Pulp)</desc>
   </programme>
   <programme start="20261118115500 +0200" stop="20261118122000 +0200" channel="mtv-rocks-br">
     <title lang="en">80s Rock Anthems</title>
@@ -1488,37 +1472,29 @@
     <title lang="en">90s Rock Anthems</title>
     <desc lang="en">What's Up? (4 Non Blondes) / Disappear (INXS) / Are You Gonna Go My Way (Lenny Kravitz) / Beetlebum (Blur) / Common People (Pulp)</desc>
   </programme>
-  <programme start="20261119112200 +0200" stop="20261119170000 +0200" channel="mtv-rocks-br">
+  <programme start="20261119112200 +0200" stop="20261119114700 +0200" channel="mtv-rocks-br">
+    <title lang="en">80s Rock Anthems</title>
+    <desc lang="en">Run To You (Bryan Adams) / White Wedding (Billy Idol) / This Charming Man (The Smiths) / Atomic (Blondie) / Going Underground (The Jam) / You Shook Me All Night Long (AC/DC)</desc>
+  </programme>
+  <programme start="20261119114700 +0200" stop="20261119121000 +0200" channel="mtv-rocks-br">
+    <title lang="en">80s Rock Anthems</title>
+    <desc lang="en">Town Called Malice (Jam) / Jessie's Girl (Rick Springfield) / Don't Stop Believing (Journey) / Can't Fight This Feeling (Reo Speedwagon) / Rooms On Fire (Stevie Nicks)</desc>
+  </programme>
+  <programme start="20261119121000 +0200" stop="20261119190000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-rocks-br">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-rocks-br">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118094400 +0200" channel="mtv-classic-br">
+  <programme start="20261118070000 +0200" stop="20261118114100 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118094400 +0200" stop="20261118101200 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Dancing In The Dark (Bruce Springsteen) / Wake Me Up Before You Go Go (Wham) / The Final Countdown (Europe) / Push It (Salt-N-Pepa) / Don't Leave Me This Way (The Communards)</desc>
-  </programme>
-  <programme start="20261118101200 +0200" stop="20261118103300 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">What Makes You Beautiful (One Direction ) / Boom Clap (Charli XCX) / Wild Thoughts (DJ Khaled ft. Rihanna &amp; Bryson Tiller) / FRIENDS (Marshmello &amp; Anne Marie) / Work From Home (Fifth Harmony Ft. Ty Dolla $ign)</desc>
-  </programme>
-  <programme start="20261118103300 +0200" stop="20261118105800 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Hero (Enrique Iglesias) / Bring Me To Life (Evanescence Ft. Paul McCoy) / Promiscuous (Nelly Furtado Ft. Timbaland) / Cry Me A River (Justin Timberlake) / Empire State Of Mind (Jay-Z ft. Alicia Keys)</desc>
-  </programme>
-  <programme start="20261118105800 +0200" stop="20261118114100 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">Ironic (Alanis Morissette) / Blue (Da Ba Dee) (Eiffel 65) / Truly, Madly, Deeply (Savage Garden) / I Will Always Love You (Whitney Houston) / Baby One More Time (Britney Spears) / Song 2 (Blur) / Wannabe (Spice Girls) / It's Like That (Run D.M.C....)</desc>
   </programme>
   <programme start="20261118114100 +0200" stop="20261118120300 +0200" channel="mtv-classic-br">
     <title lang="en">10's Hits</title>
@@ -1748,29 +1724,33 @@
     <title lang="en">00s Hits</title>
     <desc lang="en">Umbrella (Rihanna Ft. Jay-Z) / The Man Who Can't Be Moved (The Script) / I Got A Feeling (The Black Eyed Peas) / Chasing Cars (Snow Patrol) / Jenny From The Block (Jennifer Lopez Ft. Jadakiss &amp; Styles)</desc>
   </programme>
-  <programme start="20261119110900 +0200" stop="20261119170000 +0200" channel="mtv-classic-br">
+  <programme start="20261119110900 +0200" stop="20261119113100 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">Firestone (Kygo Ft. Conrad Sewell), This is Me (The Greatest Showman), Chandelier (Sia), Cool Kids (Echosmith), Lush Life (Zara Larsson)</desc>
+  </programme>
+  <programme start="20261119113100 +0200" stop="20261119115100 +0200" channel="mtv-classic-br">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Return Of The Mack (Mark Morrison) / Unbreak My Heart (Toni Braxton) / Believe (Cher) / U Can't Touch This (MC Hammer)</desc>
+  </programme>
+  <programme start="20261119115100 +0200" stop="20261119121600 +0200" channel="mtv-classic-br">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Total Eclipse Of The Heart (Bonnie Tyler) / Take On Me (A-Ha) / I Think We're Alone Now (Tiffany) / West End Girls (Pet Shop Boys) / You Spin Me Round (Like A Record ) (Dead Or Alive)</desc>
+  </programme>
+  <programme start="20261119121600 +0200" stop="20261119190000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-classic-br">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-classic-br">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118093000 +0200" channel="that-s-60s">
+  <programme start="20261118070000 +0200" stop="20261118103000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118093000 +0200" stop="20261118100000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
-  </programme>
-  <programme start="20261118100000 +0200" stop="20261118103000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
   <programme start="20261118103000 +0200" stop="20261118110000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
@@ -1972,25 +1952,29 @@
     <title lang="en">That's 60s</title>
     <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
-  <programme start="20261119113000 +0200" stop="20261119170000 +0200" channel="that-s-60s">
+  <programme start="20261119113000 +0200" stop="20261119120000 +0200" channel="that-s-60s">
+    <title lang="en">That's 60s</title>
+    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+  </programme>
+  <programme start="20261119120000 +0200" stop="20261119123000 +0200" channel="that-s-60s">
+    <title lang="en">That's 60s</title>
+    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
+  </programme>
+  <programme start="20261119123000 +0200" stop="20261119190000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="that-s-60s">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="that-s-60s">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118090000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261118070000 +0200" stop="20261118100000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118090000 +0200" stop="20261118100000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261118100000 +0200" stop="20261118110000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -2096,25 +2080,25 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261119120000 +0200" stop="20261119170000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261119120000 +0200" stop="20261119130000 +0200" channel="mtv-flow-latino-us">
+    <title lang="en">MTV Flow Latino</title>
+    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
+  </programme>
+  <programme start="20261119130000 +0200" stop="20261119190000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261118050000 +0200" stop="20261118090000 +0200" channel="mtv-yo!-us">
+  <programme start="20261118070000 +0200" stop="20261118100000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261118090000 +0200" stop="20261118100000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261118100000 +0200" stop="20261118110000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -2220,15 +2204,19 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261119120000 +0200" stop="20261119170000 +0200" channel="mtv-yo!-us">
+  <programme start="20261119120000 +0200" stop="20261119130000 +0200" channel="mtv-yo!-us">
+    <title lang="en">Yo! MTV</title>
+    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
+  </programme>
+  <programme start="20261119130000 +0200" stop="20261119190000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261119170000 +0200" stop="20261120050000 +0200" channel="mtv-yo!-us">
+  <programme start="20261119190000 +0200" stop="20261120070000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261120050000 +0200" stop="20261120110000 +0200" channel="mtv-yo!-us">
+  <programme start="20261120070000 +0200" stop="20261120130000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -49191,14 +49179,6 @@
     <desc>Láska hraje prim</desc>
     <title>Retro love</title>
   </programme>
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="WOA">
-    <title lang="de">W:O:A History</title>
-    <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
-  </programme>
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="WOA">
-    <title lang="de">W:O:A History</title>
-    <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
-  </programme>
   <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="WOA">
     <title lang="de">W:O:A History</title>
     <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
@@ -49383,13 +49363,13 @@
     <title lang="de">W:O:A History</title>
     <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
   </programme>
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="WOA HN 2025">
-    <title lang="de">W:O:A Holy Night 2025</title>
-    <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="WOA">
+    <title lang="de">W:O:A History</title>
+    <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
   </programme>
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="WOA HN 2025">
-    <title lang="de">W:O:A Holy Night 2025</title>
-    <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="WOA">
+    <title lang="de">W:O:A History</title>
+    <desc lang="de">Metal ist mehr als nur Musik – Metal ist eine Lebenseinstellung! Mit schwarzen Kutten, langen Haaren und Rhythmus im Blut prägte das Genre in den 70er-Jahren seinen unverwechselbaren Charakter. Diese Musikrichtung pulsiert mit energiegeladenen Gitarrenriffs und donnernden Schlagzeugbeats, die zum ultimativen Headbangen einladen.</desc>
   </programme>
   <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="WOA HN 2025">
     <title lang="de">W:O:A Holy Night 2025</title>
@@ -49575,13 +49555,13 @@
     <title lang="de">W:O:A Holy Night 2025</title>
     <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
   </programme>
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="WOA 2026">
-    <title lang="de">Wacken Open Air 2026</title>
-    <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="WOA HN 2025">
+    <title lang="de">W:O:A Holy Night 2025</title>
+    <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
   </programme>
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="WOA 2026">
-    <title lang="de">Wacken Open Air 2026</title>
-    <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="WOA HN 2025">
+    <title lang="de">W:O:A Holy Night 2025</title>
+    <desc lang="de">Was für ein Fest! Die Weltpremiere der W:O:A Holy Night mag vorbei sein, doch ihr könnt die einzigartige Metal-Weihnachtsstimmung erneut erleben. Scrollt einfach nach unten, wählt euer Lieblingsvideo aus und genießt die Show noch einmal in voller Lautstärke!</desc>
   </programme>
   <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="WOA 2026">
     <title lang="de">Wacken Open Air 2026</title>
@@ -49767,13 +49747,13 @@
     <title lang="de">Wacken Open Air 2026</title>
     <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
   </programme>
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="RAR 2026">
-    <title lang="de">Rock am Ring 2026</title>
-    <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="WOA 2026">
+    <title lang="de">Wacken Open Air 2026</title>
+    <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
   </programme>
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="RAR 2026">
-    <title lang="de">Rock am Ring 2026</title>
-    <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="WOA 2026">
+    <title lang="de">Wacken Open Air 2026</title>
+    <desc lang="de">Das Wacken Open Air ist mehr als ein Festival - es ist ein Lebensgefühl. Seit 1990 färbt das Metal-Event die beschauliche Gemeinde Wacken in Schleswig-Holstein schwarz und lädt jährlich Tausende Fans zum Headbangen ein. Was mit sechs Bands auf einem Acker begann, ist nun das größte Heavy-Metal-Festival der Welt, das Fans aus dem ganzen Land und darüber hinaus anlockt.</desc>
   </programme>
   <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="RAR 2026">
     <title lang="de">Rock am Ring 2026</title>
@@ -49959,13 +49939,13 @@
     <title lang="de">Rock am Ring 2026</title>
     <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
   </programme>
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="Huri 2026">
-    <title lang="de">Hurricane 2026</title>
-    <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="RAR 2026">
+    <title lang="de">Rock am Ring 2026</title>
+    <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
   </programme>
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="Huri 2026">
-    <title lang="de">Hurricane 2026</title>
-    <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="RAR 2026">
+    <title lang="de">Rock am Ring 2026</title>
+    <desc lang="de">Das Rock am Ring ist mehr als ein Festival, es ist pure Energie. Seit 1985 verwandelt das legendäre Kultevent die Eifel rund um den Nürburgring in ein Mekka für Rock- und Metal-Fans. Was einst als einmaliges Ereignis geplant war, ist längst zu einem der traditionsreichsten und größten Rockfestivals Europas herangewachsen. Hier findet ihr eine Auswahl packender Inhalte vom Nürburgring.</desc>
   </programme>
   <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="Huri 2026">
     <title lang="de">Hurricane 2026</title>
@@ -50151,13 +50131,13 @@
     <title lang="de">Hurricane 2026</title>
     <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
   </programme>
-  <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="Lolla 2026">
-    <title lang="de">Lollapalooza Berlin 2026</title>
-    <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="Huri 2026">
+    <title lang="de">Hurricane 2026</title>
+    <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
   </programme>
-  <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="Lolla 2026">
-    <title lang="de">Lollapalooza Berlin 2026</title>
-    <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="Huri 2026">
+    <title lang="de">Hurricane 2026</title>
+    <desc lang="de">Das Hurricane Festival hat sich als eine der festen Größen in der europäischen Festivalszene etabliert. Seit seiner Gründung im Jahr 1997 zieht es jährlich Zehntausende von Musikfans nach Scheeßel, Niedersachsen. Mit einem vielfältigen Line-up aus Rock, Indie und elektronischer Musik bot das Festival 2026 erneut ein beeindruckendes Programm, das die Besucher begeistert hat. Die Mischung aus etablierten Künstlern und aufstrebenden Talenten sorgte für unvergessliche Momente und eine ausgelassene Festivalatmosphäre.</desc>
   </programme>
   <programme start="20261118110000 +0000" stop="20261118120000 +0000" channel="Lolla 2026">
     <title lang="de">Lollapalooza Berlin 2026</title>
@@ -50343,13 +50323,13 @@
     <title lang="de">Lollapalooza Berlin 2026</title>
     <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
   </programme>
-  <programme channel="Cool Summer Channel" start="20261118085239 +0000" stop="20261118095436 +0000">
-    <title>Sabrina Station Vol.2</title>
-    <desc>Sabrina Carpenter's iconic hits, all in one place</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2081460641_0_20260806T114537543Z_52_imageprocessorclient-tvplus-linear-648598f6b5-lxd9l.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="Lolla 2026">
+    <title lang="de">Lollapalooza Berlin 2026</title>
+    <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
+  </programme>
+  <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="Lolla 2026">
+    <title lang="de">Lollapalooza Berlin 2026</title>
+    <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
   </programme>
   <programme channel="Cool Summer Channel" start="20261118095436 +0000" stop="20261118102627 +0000">
     <title>Remi Wolf: Spotlight Vol.1</title>
@@ -50423,10 +50403,13 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="Vevo Latino [ES]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Café con Leche</title>
-    <desc>Los mejores vídeos para empezar el día.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732552_1_20260903T193608687Z_133_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
+  <programme channel="Cool Summer Channel" start="20261118160424 +0000" stop="20261118171419 +0000">
+    <title>Christmas Classics Vol.1</title>
+    <desc>The Christmas songs you know and love, all in one place from Paul McCartney, Jackson 5, Ella Fitzgerald and more</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2366880115_0_20261111T203003629Z_53_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.jpeg" />
+    <rating>
+      <value>5</value>
+    </rating>
   </programme>
   <programme channel="Vevo Latino [ES]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>DSCVR New Music Latino</title>
@@ -50458,10 +50441,10 @@
     <desc>España y Latinoamérica siempre conectadas por la música: no te pierdas las mejores colaboraciones entre artistas de ambos lados del charco.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732538_0_20260903T193612073Z_77_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
   </programme>
-  <programme channel="Vevo Retro [ES]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Vevo en Vivo</title>
-    <desc>Disfruta con los artistas legendarios dándolo todo en el escenario en su momento más hot.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732975_1_20260903T193608687Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
+  <programme channel="Vevo Latino [ES]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Vevo Studios Live</title>
+    <desc>Contenido exclusivo desde los estudios de Vevo.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732539_1_20260903T193608687Z_45_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
   </programme>
   <programme channel="Vevo Retro [ES]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Generación Pop</title>
@@ -50493,10 +50476,10 @@
     <desc>Un mix de lo bueno y mejor de los 80!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733057_0_20260903T193608607Z_84_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
   </programme>
-  <programme channel="Vevo Pop [ES]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>De Buena Mañana</title>
-    <desc>¡Los temas pop más animados para empezar en día con ganas de comerse el mundo!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732391_1_20260903T193608689Z_117_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
+  <programme channel="Vevo Retro [ES]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Baladas de Siempre</title>
+    <desc>Las baladas clásicas más poderosas y emotivas, para relajarte, sentir y dejarte llevar.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733044_2_20260903T193612817Z_132_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
   </programme>
   <programme channel="Vevo Pop [ES]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Live From Vevo Studios</title>
@@ -50528,10 +50511,10 @@
     <desc>Un viaje en el tiempo a través de los grandes éxitos de tus artistas favoritos!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732476_0_20260903T193608606Z_138_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
   </programme>
-  <programme channel="Vevo Pop [FR]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>100% Pop Française</title>
-    <desc>La crème de la pop made in France.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734160_3_20260903T193609045Z_96_imageprocessorclient-tvplus-linear-b5879c6c6-v2dgk.png" />
+  <programme channel="Vevo Pop [ES]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Made In Spain</title>
+    <desc>¡La mejor música hecha en España! Disfruta de las mejores voces del país de la mano de decenas de artistas nacionales.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732458_2_20260903T193611826Z_18_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
   </programme>
   <programme channel="Vevo Pop [FR]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Essentiels Pop</title>
@@ -50563,10 +50546,10 @@
     <desc>Un concentré de good vibes pour booster ta journée !</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734228_2_20260903T193610964Z_93_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [FR]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Rap &amp; R&amp;B Automnal</title>
-    <desc>Une sélection Rap et R&amp;B moody et automnal pour les jours gris.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2227349210_10_20260925T122220670Z_36_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
+  <programme channel="Vevo Pop [FR]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Essentiels Pop</title>
+    <desc>Le meilleur de la pop sur la dernière décennie.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734075_2_20260903T193609037Z_105_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
   </programme>
   <programme channel="Vevo Hip Hop-R-B [FR]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>100% Pop Urbaine</title>
@@ -50598,10 +50581,10 @@
     <desc>Ctrl, c'est la série live de Vevo qui met en lumière les meilleurs talents issus de l'univers Rap, Trap, Drill, Jersey, Afrobeats, et bien d'autres encore.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162778850_3_20260903T193609039Z_71_imageprocessorclient-tvplus-linear-b5879c6c6-v2dgk.png" />
   </programme>
-  <programme channel="Vevo Rétro [FR]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Années 2000</title>
-    <desc>Le meilleur des années 2000 !</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735093_4_20260903T193609072Z_100_imageprocessorclient-tvplus-linear-b5879c6c6-626r6.png" />
+  <programme channel="Vevo Hip Hop-R-B [FR]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>100% Hits</title>
+    <desc>Les hits incontournables des années 2000 et 2010.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162749469_0_20260903T193608826Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
   </programme>
   <programme channel="Vevo Rétro [FR]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Hits Incontournables</title>
@@ -50633,10 +50616,10 @@
     <desc>Le meilleur des années 90 !</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735013_0_20260903T193614515Z_142_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
   </programme>
-  <programme channel="Vevo Pop [UK]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Easy Morning Pop</title>
-    <desc>Laid back sounds to help kick-start your day.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737031_3_20260903T193609471Z_85_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
+  <programme channel="Vevo Rétro [FR]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Années 2000</title>
+    <desc>Le meilleur des années 2000 !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735093_4_20260903T193609072Z_100_imageprocessorclient-tvplus-linear-b5879c6c6-626r6.png" />
   </programme>
   <programme channel="Vevo Pop [UK]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Love it Live</title>
@@ -50668,10 +50651,10 @@
     <desc>Videos from emerging artists on the rise!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737112_1_20260903T193609184Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
   </programme>
-  <programme channel="Vevo 70s-80s [UK]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>British Legends</title>
-    <desc>The most influential music icons of the '70s &amp; '80s.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736905_4_20260903T193609544Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
+  <programme channel="Vevo Pop [UK]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Live From Vevo Studios</title>
+    <desc>Live performances straight from Vevo Studios.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737104_1_20260903T193609185Z_53_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
   </programme>
   <programme channel="Vevo 70s-80s [UK]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Love it Live: '70s &amp; '80s</title>
@@ -50703,10 +50686,10 @@
     <desc>From funk to punk, the Me Decade had a song for everyone.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736912_0_20260903T193610450Z_84_imageprocessorclient-tvplus-linear-b5879c6c6-pm2wd.png" />
   </programme>
-  <programme channel="Vevo 90s-00s [UK]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>'90s UK Number Ones</title>
-    <desc>Every UK Number 1 from the '90s.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162735984_4_20260903T193609544Z_96_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
+  <programme channel="Vevo 70s-80s [UK]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Soul City</title>
+    <desc>Artists that had everyone movin' and groovin' in the '70s &amp; '80s.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736916_1_20260903T193609184Z_77_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
   </programme>
   <programme channel="Vevo 90s-00s [UK]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>'00s UK Number Ones</title>
@@ -50738,10 +50721,10 @@
     <desc>Your favourites tracks stripped back and intimate.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2236148274_0_20260928T142446678Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-5w9tj.png" />
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Morning Vibes</title>
-    <desc>Videos to get your day going.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737064_1_20260903T193609186Z_43_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
+  <programme channel="Vevo 90s-00s [UK]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>R&amp;B Throwback</title>
+    <desc>Your finest R&amp;B videos.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162735982_1_20260903T193609186Z_75_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
   </programme>
   <programme channel="Vevo Hip Hop-R-B [UK]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Soulful Energy</title>
@@ -50773,14 +50756,10 @@
     <desc>The biggest videos from the 2010's until now</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162752182_4_20260903T193611814Z_54_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
   </programme>
-  <programme channel="Def Jam" start="20261118084955 +0000" stop="20261118095308 +0000">
-    <title>Def Jam</title>
-    <sub-title>Latin</sub-title>
-    <desc>Def Jam Latin</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2079106198_7_20260805T145118916Z_42_imageprocessorclient-tvplus-linear-648598f6b5-kjdt2.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
+  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Good Vibes</title>
+    <desc>Your feel good soundtrack.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737136_1_20260903T193609185Z_83_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
   </programme>
   <programme channel="Def Jam" start="20261118095308 +0000" stop="20261118105551 +0000">
     <title>Hip Hop Vaults Vol.2</title>
@@ -50833,10 +50812,14 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [IT]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Pop Hits Italia</title>
-    <desc>I video ufficiali delle canzoni pop italiane sono qui.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739689_0_20260903T193614158Z_115_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
+  <programme channel="Def Jam" start="20261118160438 +0000" stop="20261118170830 +0000">
+    <title>Def Jam</title>
+    <sub-title>Vol.2</sub-title>
+    <desc>The definitive collection of LL Cool J's most iconic tracks, celebrating the legacy of a hip-hop pioneer.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2076012799_1_20260804T132951103Z_74_imageprocessorclient-tvplus-linear-648598f6b5-9g2xj.jpeg" />
+    <rating>
+      <value>5</value>
+    </rating>
   </programme>
   <programme channel="Vevo Pop [IT]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Top Hits</title>
@@ -50868,10 +50851,10 @@
     <desc>I video ufficiali delle canzoni pop italiane sono qui.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739689_0_20260903T193614158Z_115_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
   </programme>
-  <programme channel="Vevo 70s-80s [IT]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Amore Settanta Ottanta</title>
-    <desc>I video musicali che fanno battere il cuore.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738600_1_20260903T193610240Z_53_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
+  <programme channel="Vevo Pop [IT]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Top Hits</title>
+    <desc>Scopri i video ufficiali delle hit pop del momento!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739769_0_20260903T193614158Z_28_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
   </programme>
   <programme channel="Vevo 70s-80s [IT]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Leggende del Rock</title>
@@ -50903,10 +50886,10 @@
     <desc>Fai un tuffo nel passato a ritmo di Lucio Dalla, Franco Battiato e molti altri.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738522_1_20260903T193610239Z_31_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
   </programme>
-  <programme channel="Vevo 90s-00s [IT]" start="20261118090000 +0000" stop="20261118100000 +0000">
-    <title>Musica &amp; Popcorn</title>
-    <desc>Motore, musica...azione! Le colonne sonore dei film più iconici degli anni 90 e 2000.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162782694_2_20260903T193610581Z_69_imageprocessorclient-tvplus-linear-b5879c6c6-zkq88.png" />
+  <programme channel="Vevo 70s-80s [IT]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Classici del Buonumore</title>
+    <desc>I migliori video musicali per migliore il tuo umore!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738616_1_20260903T193610239Z_59_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
   </programme>
   <programme channel="Vevo 90s-00s [IT]" start="20261118100000 +0000" stop="20261118110000 +0000">
     <title>Rock Italiano</title>
@@ -50937,6 +50920,11 @@
     <title>Classici del Buonumore</title>
     <desc>Solo energie positive con i video dei tuoi artisti preferiti!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739889_1_20260903T193610238Z_41_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
+  </programme>
+  <programme channel="Vevo 90s-00s [IT]" start="20261118160000 +0000" stop="20261118170000 +0000">
+    <title>Alt &amp; Rock Hits</title>
+    <desc>Alza il volume e scatenati con le hit delle leggende del rock.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739789_1_20260903T193610239Z_103_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
   </programme>
   <programme channel="70-80.it" start="20261118050000 +0000" stop="20261118110000 +0000">
     <title>70-80.it</title>
