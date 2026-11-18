@@ -1716,10 +1716,10 @@
     <new />
   </programme>
   <programme start="20261130230000 +0000" stop="20261201040000 +0000" channel="vantage-music">
-    <title>Night Videos</title>
-    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <title>Vantage Special</title>
+    <sub-title lang="en">A Year Of Music</sub-title>
+    <desc>A celebration of a year of Vantage Music, going back to the roots, and a thank you to everyone who's contributed to make the channel what it is</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
   </programme>
   <programme start="20261201040000 +0000" stop="20261201080000 +0000" channel="vantage-music">
     <title>Breakfast with Vantage Music</title>
@@ -1819,11 +1819,18 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
     <new />
   </programme>
-  <programme start="20261201230000 +0000" stop="20261202040000 +0000" channel="vantage-music">
+  <programme start="20261201230000 +0000" stop="20261202000000 +0000" channel="vantage-music">
     <title>Night Videos</title>
     <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261201000000 +0000" stop="20261201040000 +0000" channel="vantage-music">
+    <title>Vantage Collection</title>
+    <sub-title lang="en">The Art Of Music Video #1</sub-title>
+    <desc>A reair of our special dedicated to the art of music video</desc>
+    <category lang="en">Music</category>
+    <previously-shown />
   </programme>
   <programme start="20261202040000 +0000" stop="20261202080000 +0000" channel="vantage-music">
     <title>Breakfast with Vantage Music</title>
@@ -2240,15 +2247,15 @@
   </programme>
   <programme start="20261205170000 +0000" stop="20261205190000 +0000" channel="vantage-music">
     <title>Vantage Collection XL</title>
-    <sub-title lang="en">Genesis</sub-title>
+    <sub-title lang="en">U2</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <new />
+    <previously-shown />
   </programme>
   <programme start="20261205190000 +0000" stop="20261205210000 +0000" channel="vantage-music">
     <title>Retro Charts</title>
-    <sub-title lang="en">28th November 1994</sub-title>
+    <sub-title lang="en">5th December 1995</sub-title>
     <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
@@ -2256,7 +2263,7 @@
   </programme>
   <programme start="20261205210000 +0000" stop="20261205230000 +0000" channel="vantage-music">
     <title>Clubzone</title>
-    <sub-title lang="en">Episode #0056</sub-title>
+    <sub-title lang="en">Episode #0057</sub-title>
     <desc>Two hours of club music to get your night going</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
@@ -2264,7 +2271,7 @@
   </programme>
   <programme start="20261205230000 +0000" stop="20261206010000 +0000" channel="vantage-music">
     <title>Partyzone</title>
-    <sub-title lang="en">Episode #0054</sub-title>
+    <sub-title lang="en">Episode #0055</sub-title>
     <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.jpg" />
@@ -2314,7 +2321,7 @@
   </programme>
   <programme start="20261206123000 +0000" stop="20261206134500 +0000" channel="vantage-music">
     <title>Retro Charts</title>
-    <sub-title lang="en">28th November 1994</sub-title>
+    <sub-title lang="en">5th December 1995</sub-title>
     <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
@@ -2328,7 +2335,7 @@
   </programme>
   <programme start="20261206140000 +0000" stop="20261206150000 +0000" channel="vantage-music">
     <title>brand:new</title>
-    <sub-title lang="en">Episode #0037</sub-title>
+    <sub-title lang="en">Episode #0038</sub-title>
     <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/brandnew.png" />
@@ -2336,7 +2343,7 @@
   </programme>
   <programme start="20261206150000 +0000" stop="20261206170000 +0000" channel="vantage-music">
     <title>Alternative Classics</title>
-    <sub-title lang="en">Episode #0010</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
@@ -2344,7 +2351,7 @@
   </programme>
   <programme start="20261206170000 +0000" stop="20261206180000 +0000" channel="vantage-music">
     <title>Alternative Planet</title>
-    <sub-title lang="en">Episode #0026</sub-title>
+    <sub-title lang="en">Episode #0027</sub-title>
     <desc>Two hours dedicated to new and old alternative music.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
@@ -2364,14 +2371,14 @@
   </programme>
   <programme start="20261206200000 +0000" stop="20261206210000 +0000" channel="vantage-music">
     <title>Vantage Romance</title>
-    <sub-title lang="en">Episode #0010</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>Get in the evening mood with relaxing soft love songs.</desc>
     <category lang="en">Music</category>
     <new />
   </programme>
   <programme start="20261206210000 +0000" stop="20261206220000 +0000" channel="vantage-music">
     <title>Vantage Velvet</title>
-    <sub-title lang="en">Episode #0033</sub-title>
+    <sub-title lang="en">Episode #0034</sub-title>
     <desc>Smooth slow jams, R&amp;B and sexy videos to finalise your evening.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vvelvet.png" />
@@ -2379,12 +2386,792 @@
   </programme>
   <programme start="20261206220000 +0000" stop="20261206230000 +0000" channel="vantage-music">
     <title>Made In...</title>
+    <sub-title lang="en">Norway</sub-title>
+    <desc>Exploring the planet of music, here's a look at some music videos made in a specific country.</desc>
+    <category lang="en">Music</category>
+    <new />
+  </programme>
+  <programme start="20261206230000 +0000" stop="20261207040000 +0000" channel="vantage-music">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261207040000 +0000" stop="20261207080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261207080000 +0000" stop="20261207090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261207090000 +0000" stop="20261207100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261207100000 +0000" stop="20261207110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261207110000 +0000" stop="20261207120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261207120000 +0000" stop="20261207123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261207123000 +0000" stop="20261207134500 +0000" channel="vantage-music">
+    <title>Retro Charts</title>
+    <sub-title lang="en">7th December 2008</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
+    <new />
+  </programme>
+  <programme start="20261207134500 +0000" stop="20261207140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261207140000 +0000" stop="20261207150000 +0000" channel="vantage-music">
+    <title>Vantage Rocks</title>
+    <desc>The best rock hits from the past to today.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagerocks.png" />
+  </programme>
+  <programme start="20261207150000 +0000" stop="20261207160000 +0000" channel="vantage-music">
+    <title>Dance With Vantage</title>
+    <desc>One hour of non-stop dance to end your work day.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dancewithvantage.png" />
+  </programme>
+  <programme start="20261207160000 +0000" stop="20261207170000 +0000" channel="vantage-music">
+    <title>Vantage beatz</title>
+    <category lang="en">Music</category>
+    <new />
+  </programme>
+  <programme start="20261207170000 +0000" stop="20261207180000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261207180000 +0000" stop="20261207190000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261207190000 +0000" stop="20261207200000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261207200000 +0000" stop="20261207210000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261207210000 +0000" stop="20261207220000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261207220000 +0000" stop="20261207230000 +0000" channel="vantage-music">
+    <title>brand:new</title>
+    <sub-title lang="en">Episode #0039</sub-title>
+    <desc>A look at this weeks latest music video releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/brandnew.png" />
+    <new />
+  </programme>
+  <programme start="20261207230000 +0000" stop="20261208040000 +0000" channel="vantage-music">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261208040000 +0000" stop="20261208080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261208080000 +0000" stop="20261208090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261208090000 +0000" stop="20261208100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261208100000 +0000" stop="20261208110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261208110000 +0000" stop="20261208120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261208120000 +0000" stop="20261208123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261208123000 +0000" stop="20261208134500 +0000" channel="vantage-music">
+    <title>European Top 20</title>
+    <desc>A rundown of the top playing hits across the EU, compiled by our partners at top40-charts.com</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/eurotop20.png" />
+  </programme>
+  <programme start="20261208134500 +0000" stop="20261208140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261208140000 +0000" stop="20261208150000 +0000" channel="vantage-music">
+    <title>Vantage Rocks</title>
+    <desc>The best rock hits from the past to today.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagerocks.png" />
+  </programme>
+  <programme start="20261208150000 +0000" stop="20261208160000 +0000" channel="vantage-music">
+    <title>Dance With Vantage</title>
+    <desc>One hour of non-stop dance to end your work day.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dancewithvantage.png" />
+  </programme>
+  <programme start="20261208160000 +0000" stop="20261208170000 +0000" channel="vantage-music">
+    <title>Vantage beatz</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261208170000 +0000" stop="20261208180000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261208180000 +0000" stop="20261208190000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261208190000 +0000" stop="20261208200000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261208200000 +0000" stop="20261208210000 +0000" channel="vantage-music">
+    <title>Vantage Yearbook</title>
+    <sub-title lang="en">Year of 2003</sub-title>
+    <desc>See the the most common faces in music from a specific year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261208210000 +0000" stop="20261208230000 +0000" channel="vantage-music">
+    <title>Alternative Planet</title>
+    <sub-title lang="en">Episode #0028</sub-title>
+    <desc>Two hours dedicated to new and old alternative music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
+    <new />
+  </programme>
+  <programme start="20261208230000 +0000" stop="20261209040000 +0000" channel="vantage-music">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261209040000 +0000" stop="20261209080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261209080000 +0000" stop="20261209090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261209090000 +0000" stop="20261209100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261209100000 +0000" stop="20261209110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261209110000 +0000" stop="20261209120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261209120000 +0000" stop="20261209123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261209123000 +0000" stop="20261209134500 +0000" channel="vantage-music">
+    <title>US Top 20</title>
+    <desc>A dive in to the top 20 songs playing in the United States, Compiled by our partners at top40-charts.com</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ustop20.jpg" />
+  </programme>
+  <programme start="20261209134500 +0000" stop="20261209140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme caconnected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261209140000 +0000" stop="20261209150000 +0000" channel="vantage-music">
+    <title>Vantage Rocks</title>
+    <desc>The best rock hits from the past to today.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagerocks.png" />
+  </programme>
+  <programme start="20261209150000 +0000" stop="20261209160000 +0000" channel="vantage-music">
+    <title>Dance With Vantage</title>
+    <desc>One hour of non-stop dance to end your work day.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dancewithvantage.png" />
+  </programme>
+  <programme start="20261209160000 +0000" stop="20261209170000 +0000" channel="vantage-music">
+    <title>Vantage beatz</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261209170000 +0000" stop="20261209180000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261209180000 +0000" stop="20261209190000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261209190000 +0000" stop="20261209200000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261209200000 +0000" stop="20261209210000 +0000" channel="vantage-music">
+    <title>Vantage Romance</title>
+    <sub-title lang="en">Episode #0012</sub-title>
+    <desc>Get in the evening mood with relaxing soft love songs.</desc>
+    <category lang="en">Music</category>
+    <previously-shown />
+  </programme>
+  <programme start="20261209210000 +0000" stop="20261209220000 +0000" channel="vantage-music">
+    <title>Vantage Raps</title>
+    <sub-title lang="en">Episode #0031</sub-title>
+    <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantageraps.png" />
+    <new />
+  </programme>
+  <programme start="20261209220000 +0000" stop="20261209230000 +0000" channel="vantage-music">
+    <title>Vantage Raps</title>
+    <sub-title lang="en">Episode #0030</sub-title>
+    <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vvelvet.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261209230000 +0000" stop="20261210010000 +0000" channel="vantage-music">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261210010000 +0000" stop="20261210020000 +0000" channel="vantage-music">
+    <title>music</title>
+    <sub-title lang="en">Episode #0005</sub-title>
+    <desc>Exploring "music" and their videos.</desc>
+    <category lang="en">Music</category>
+    <new />
+  </programme>
+  <programme start="20261210020000 +0000" stop="20261210040000 +0000" channel="vantage-music">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261210040000 +0000" stop="20261210080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261210080000 +0000" stop="20261210090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261210090000 +0000" stop="20261210100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261210100000 +0000" stop="20261210110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261210110000 +0000" stop="20261210120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261210120000 +0000" stop="20261210123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261210123000 +0000" stop="20261210134500 +0000" channel="vantage-music">
+    <title>UK Top 20</title>
+    <desc>Check in with the latest in the charts from the UK, Compiled by our partners at top40-charts.com</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/uktop20.jpg" />
+  </programme>
+  <programme start="20261210134500 +0000" stop="20261210140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261210140000 +0000" stop="20261210150000 +0000" channel="vantage-music">
+    <title>Vantage Rocks</title>
+    <desc>The best rock hits from the past to today.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagerocks.png" />
+  </programme>
+  <programme start="20261210150000 +0000" stop="20261210160000 +0000" channel="vantage-music">
+    <title>Dance With Vantage</title>
+    <desc>One hour of non-stop dance to end your work day.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dancewithvantage.png" />
+  </programme>
+  <programme start="20261210160000 +0000" stop="20261210170000 +0000" channel="vantage-music">
+    <title>Vantage beatz</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261210170000 +0000" stop="20261210180000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261210180000 +0000" stop="20261210190000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261210190000 +0000" stop="20261210200000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261210200000 +0000" stop="20261210210000 +0000" channel="vantage-music">
+    <title>Vantage Jukebox</title>
+    <sub-title lang="en">Episode #0040</sub-title>
+    <desc>Drop a coin in the slot, it's your turn on the Vantage jukebox. Playing your requests from the week + live via vantagetv.eu</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_jukebox.jpg" />
+    <new />
+  </programme>
+  <programme start="20261210210000 +0000" stop="20261210230000 +0000" channel="vantage-music">
+    <title>Rockzone</title>
+    <sub-title lang="en">Episode #0045</sub-title>
+    <desc>Your place for new rock videos, classic rock, heavy metal screamers and hard rock anthems.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockzone.png" />
+    <new />
+  </programme>
+  <programme start="20261210230000 +0000" stop="20261211040000 +0000" channel="vantage-music">
+    <title>Night Videos</title>
+    <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
+  </programme>
+  <programme start="20261211040000 +0000" stop="20261211080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261211080000 +0000" stop="20261211090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261211090000 +0000" stop="20261211100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261211100000 +0000" stop="20261211110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261211110000 +0000" stop="20261211120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261211120000 +0000" stop="20261211123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261211123000 +0000" stop="20261211134500 +0000" channel="vantage-music">
+    <title>Australian Top 20</title>
+    <desc>The most played songs from the land down under.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261211134500 +0000" stop="20261211140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261211140000 +0000" stop="20261211150000 +0000" channel="vantage-music">
+    <title>Vantage Rocks</title>
+    <desc>The best rock hits from the past to today.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagerocks.png" />
+  </programme>
+  <programme start="20261211150000 +0000" stop="20261211160000 +0000" channel="vantage-music">
+    <title>Dance With Vantage</title>
+    <desc>One hour of non-stop dance to end your work day.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dancewithvantage.png" />
+  </programme>
+  <programme start="20261211160000 +0000" stop="20261211170000 +0000" channel="vantage-music">
+    <title>Vantage beatz</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261211170000 +0000" stop="20261211180000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261211180000 +0000" stop="20261211190000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261211190000 +0000" stop="20261211200000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261211200000 +0000" stop="20261211210000 +0000" channel="vantage-music">
+    <title>brand:new</title>
+    <sub-title lang="en">Episode #0039</sub-title>
+    <desc>A look at this weeks latest music video releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/brandnew.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261211210000 +0000" stop="20261211230000 +0000" channel="vantage-music">
+    <title>Clubzone</title>
+    <sub-title lang="en">Episode #0059</sub-title>
+    <desc>Two hours of club music to get your night going</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
+    <new />
+  </programme>
+  <programme start="20261211230000 +0000" stop="20261212010000 +0000" channel="vantage-music">
+    <title>Partyzone</title>
+    <sub-title lang="en">Episode #0057</sub-title>
+    <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.jpg" />
+    <new />
+  </programme>
+  <programme start="20261212010000 +0000" stop="20261212020000 +0000" channel="vantage-music">
+    <title>Chillout Zone</title>
+    <sub-title lang="en">Episode #0034</sub-title>
+    <desc>It's time to deleve into the underground world of electronic music and bizzare, chill videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/chillout.png" />
+    <new />
+  </programme>
+  <programme start="20261212020000 +0000" stop="20261212040000 +0000" channel="vantage-music">
+    <title>Dance With Vantage</title>
+    <desc>Two hours of non-stop dance to end your night.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dancewithvantage.png" />
+  </programme>
+  <programme start="20261212040000 +0000" stop="20261212080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261212080000 +0000" stop="20261212090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261212090000 +0000" stop="20261212100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261212100000 +0000" stop="20261212110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261212110000 +0000" stop="20261212120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261212120000 +0000" stop="20261212123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261212123000 +0000" stop="20261212134500 +0000" channel="vantage-music">
+    <title>Retro Charts</title>
+    <sub-title lang="en">7th December 2008</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212134500 +0000" stop="20261212140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261212140000 +0000" stop="20261212160000 +0000" channel="vantage-music">
+    <title>Rockzone</title>
+    <sub-title lang="en">Episode #0044</sub-title>
+    <desc>Your place for new rock videos, classic rock, heavy metal screamers and hard rock anthems.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockzone.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212160000 +0000" stop="20261212170000 +0000" channel="vantage-music">
+    <title>Vantage Yearbook</title>
+    <sub-title lang="en">Year of 2003</sub-title>
+    <desc>See the the most common faces in music from a specific year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
+    <new />
+  </programme>
+  <programme start="20261212170000 +0000" stop="20261212190000 +0000" channel="vantage-music">
+    <title>Vantage Collection XL</title>
+    <sub-title lang="en">Genesis</sub-title>
+    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
+    <new />
+  </programme>
+  <programme start="20261212190000 +0000" stop="20261212210000 +0000" channel="vantage-music">
+    <title>Retro Charts</title>
+    <sub-title lang="en">28th November 1994</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
+    <new />
+  </programme>
+  <programme start="20261212210000 +0000" stop="20261212230000 +0000" channel="vantage-music">
+    <title>Clubzone</title>
+    <sub-title lang="en">Episode #0056</sub-title>
+    <desc>Two hours of club music to get your night going</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212230000 +0000" stop="20261213010000 +0000" channel="vantage-music">
+    <title>Partyzone</title>
+    <sub-title lang="en">Episode #0054</sub-title>
+    <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213010000 +0000" stop="20261213040000 +0000" channel="vantage-music">
+    <title>The Afterparty</title>
+    <desc>The night's young! We got your dance music needs covered all night long on the afterparty.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
+  </programme>
+  <programme start="20261213040000 +0000" stop="20261213080000 +0000" channel="vantage-music">
+    <title>Breakfast with Vantage Music</title>
+    <desc>Get ready for your day with Vantage Music</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/breakfast.png" />
+  </programme>
+  <programme start="20261213080000 +0000" stop="20261213090000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261213090000 +0000" stop="20261213100000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261213100000 +0000" stop="20261213110000 +0000" channel="vantage-music">
+    <title>The 00's</title>
+    <desc>A mix of the hits of 2000's along with some more lesser known artists.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
+  </programme>
+  <programme start="20261213110000 +0000" stop="20261213120000 +0000" channel="vantage-music">
+    <title>The 10's</title>
+    <desc>The decade of an explosive rise in EDM and viral streaming videos, we explore what the 2010 decade offered in music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nothingbut10s.png" />
+  </programme>
+  <programme start="20261213120000 +0000" stop="20261213123000 +0000" channel="vantage-music">
+    <title>The 20's</title>
+    <desc>Playing nothing but songs from the current decade and fresh releases.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the20s.png" />
+  </programme>
+  <programme start="20261213123000 +0000" stop="20261213134500 +0000" channel="vantage-music">
+    <title>Retro Charts</title>
+    <sub-title lang="en">28th November 1994</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213134500 +0000" stop="20261213140000 +0000" channel="vantage-music">
+    <title>3 From 1</title>
+    <desc>Featuring three theme connected tracks or three from one artist.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/3from1.png" />
+  </programme>
+  <programme start="20261213140000 +0000" stop="20261213150000 +0000" channel="vantage-music">
+    <title>brand:new</title>
+    <sub-title lang="en">Episode #0037</sub-title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/brandnew.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213150000 +0000" stop="20261213170000 +0000" channel="vantage-music">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Episode #0010</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <new />
+  </programme>
+  <programme start="20261213170000 +0000" stop="20261213180000 +0000" channel="vantage-music">
+    <title>Alternative Planet</title>
+    <sub-title lang="en">Episode #0026</sub-title>
+    <desc>Two hours dedicated to new and old alternative music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213180000 +0000" stop="20261213190000 +0000" channel="vantage-music">
+    <title>The 80's</title>
+    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+  </programme>
+  <programme start="20261213190000 +0000" stop="20261213200000 +0000" channel="vantage-music">
+    <title>The 90's</title>
+    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+  </programme>
+  <programme start="20261213200000 +0000" stop="20261213210000 +0000" channel="vantage-music">
+    <title>Vantage Romance</title>
+    <sub-title lang="en">Episode #0010</sub-title>
+    <desc>Get in the evening mood with relaxing soft love songs.</desc>
+    <category lang="en">Music</category>
+    <new />
+  </programme>
+  <programme start="20261213210000 +0000" stop="20261213220000 +0000" channel="vantage-music">
+    <title>Vantage Velvet</title>
+    <sub-title lang="en">Episode #0033</sub-title>
+    <desc>Smooth slow jams, R&amp;B and sexy videos to finalise your evening.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vvelvet.png" />
+    <new />
+  </programme>
+  <programme start="20261213220000 +0000" stop="20261213230000 +0000" channel="vantage-music">
+    <title>Made In...</title>
     <sub-title lang="en">France</sub-title>
     <desc>Exploring the planet of music, here's a look at some music videos made in a specific country.</desc>
     <category lang="en">Music</category>
     <new />
   </programme>
-  <programme start="20261206230000 +0000" stop="20261207000000 +0000" channel="vantage-music">
+  <programme start="20261213230000 +0000" stop="20261214000000 +0000" channel="vantage-music">
     <title>Night Videos</title>
     <desc>Whether you can't sleep, doing the night shift, or just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
     <category lang="en">Music</category>
@@ -2742,7 +3529,365 @@
     <desc>A selection of electronic dance music from the Partyzone show</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20261129230000 +0000" stop="20261130000000 +0000" channel="vantage-dance">
+  <programme start="20261129230000 +0000" stop="20261130010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261130210000 +0000" stop="20261130230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261130230000 +0000" stop="20261201010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261201210000 +0000" stop="20261201230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261201230000 +0000" stop="20261202010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261202010000 +0000" stop="20261202210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261202210000 +0000" stop="20261202230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261202230000 +0000" stop="20261203010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261203010000 +0000" stop="20261203210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261203210000 +0000" stop="20261203230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261203230000 +0000" stop="20261204010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261204010000 +0000" stop="20261204190000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261204190000 +0000" stop="20261204210000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <new />
+  </programme>
+  <programme start="20261204210000 +0000" stop="20261204230000 +0000" channel="vantage-dance">
+    <title>Clubzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Two hours of club music to get your night going</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
+    <new />
+  </programme>
+  <programme start="20261204230000 +0000" stop="20261205010000 +0000" channel="vantage-dance">
+    <title>Partyzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.png" />
+    <new />
+  </programme>
+  <programme start="20261205010000 +0000" stop="20261205040000 +0000" channel="vantage-dance">
+    <title>The Afterparty</title>
+    <desc>The night's young! We got your dance music needs covered all night long on the afterparty.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
+  </programme>
+  <programme start="20261205040000 +0000" stop="20261205170000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261205170000 +0000" stop="20261205190000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205190000 +0000" stop="20261205210000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205210000 +0000" stop="20261205230000 +0000" channel="vantage-dance">
+    <title>Clubzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Two hours of club music to get your night going</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205230000 +0000" stop="20261206010000 +0000" channel="vantage-dance">
+    <title>Partyzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261206010000 +0000" stop="20261206040000 +0000" channel="vantage-dance">
+    <title>The Afterparty</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>The night's young! We got your dance music needs covered all night long on the afterparty.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
+  </programme>
+  <programme start="20261206040000 +0000" stop="20261206090000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261206090000 +0000" stop="20261206110000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261206110000 +0000" stop="20261206210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261206210000 +0000" stop="20261206230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261206230000 +0000" stop="20261207010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261207010000 +0000" stop="20261207210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261207210000 +0000" stop="20261207230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261207230000 +0000" stop="20261208010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261208010000 +0000" stop="20261208210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261208210000 +0000" stop="20261208230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261208230000 +0000" stop="20261209010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261209010000 +0000" stop="20261209210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261209210000 +0000" stop="20261209230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261209230000 +0000" stop="20261210010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261210010000 +0000" stop="20261210210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261210210000 +0000" stop="20261210230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261210230000 +0000" stop="20261211010000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261211010000 +0000" stop="20261211190000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261211190000 +0000" stop="20261211210000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <new />
+  </programme>
+  <programme start="20261211210000 +0000" stop="20261211230000 +0000" channel="vantage-dance">
+    <title>Clubzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Two hours of club music to get your night going</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
+    <new />
+  </programme>
+  <programme start="20261211230000 +0000" stop="20261212010000 +0000" channel="vantage-dance">
+    <title>Partyzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.png" />
+    <new />
+  </programme>
+  <programme start="20261212010000 +0000" stop="20261212040000 +0000" channel="vantage-dance">
+    <title>The Afterparty</title>
+    <desc>The night's young! We got your dance music needs covered all night long on the afterparty.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
+  </programme>
+  <programme start="20261212040000 +0000" stop="20261212170000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261212170000 +0000" stop="20261212190000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212190000 +0000" stop="20261212210000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212210000 +0000" stop="20261212230000 +0000" channel="vantage-dance">
+    <title>Clubzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Two hours of club music to get your night going</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212230000 +0000" stop="20261213010000 +0000" channel="vantage-dance">
+    <title>Partyzone</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>Party all night long with two hours of new and old dance, electronic and trance</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/partyzone.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213010000 +0000" stop="20261213040000 +0000" channel="vantage-dance">
+    <title>The Afterparty</title>
+    <sub-title lang="en">Simulcast from Vantage Music</sub-title>
+    <desc>The night's young! We got your dance music needs covered all night long on the afterparty.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
+  </programme>
+  <programme start="20261213040000 +0000" stop="20261213090000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261213090000 +0000" stop="20261213110000 +0000" channel="vantage-dance">
+    <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
+    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213110000 +0000" stop="20261213210000 +0000" channel="vantage-dance">
+    <title>Don't Stop The Dance</title>
+    <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
+  </programme>
+  <programme start="20261213210000 +0000" stop="20261213230000 +0000" channel="vantage-dance">
+    <title>The Partyzone Collection</title>
+    <desc>A selection of electronic dance music from the Partyzone show</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261213230000 +0000" stop="20261214000000 +0000" channel="vantage-dance">
     <title>Don't Stop The Dance</title>
     <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
     <category lang="en">Music</category>
@@ -3082,7 +4227,347 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
     <previously-shown />
   </programme>
-  <programme start="20261129180000 +0000" stop="20261130000000 +0000" channel="vantage-rock">
+  <programme start="20261129180000 +0000" stop="20261130010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261130010000 +0000" stop="20261130130000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261130130000 +0000" stop="20261201010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201190000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261201190000 +0000" stop="20261201210000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <new />
+  </programme>
+  <programme start="20261201210000 +0000" stop="20261201230000 +0000" channel="vantage-rock">
+    <title>Alternative Planet</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Two hours dedicated to new and old alternative music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
+    <new />
+  </programme>
+  <programme start="20261201230000 +0000" stop="20261202010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261202010000 +0000" stop="20261202130000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261202130000 +0000" stop="20261203010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261203010000 +0000" stop="20261203190000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261203190000 +0000" stop="20261203210000 +0000" channel="vantage-rock">
+    <title>Vantage Rock Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
+    <new />
+  </programme>
+  <programme start="20261203210000 +0000" stop="20261203230000 +0000" channel="vantage-rock">
+    <title>Rockzone</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Your place for rock classics, heavy metal screamers and hard rock anthems.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockzone.png" />
+    <new />
+  </programme>
+  <programme start="20261203230000 +0000" stop="20261204010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261204010000 +0000" stop="20261204130000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261204130000 +0000" stop="20261205010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261205010000 +0000" stop="20261205140000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261205140000 +0000" stop="20261205160000 +0000" channel="vantage-rock">
+    <title>Rockzone</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205160000 +0000" stop="20261205190000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261205190000 +0000" stop="20261205210000 +0000" channel="vantage-rock">
+    <title>Vantage Rock Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205210000 +0000" stop="20261205220000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205220000 +0000" stop="20261205230000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261205230000 +0000" stop="20261206010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261206010000 +0000" stop="20261206150000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261206150000 +0000" stop="20261206160000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261206160000 +0000" stop="20261206180000 +0000" channel="vantage-rock">
+    <title>Alternative Planet</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Two hours dedicated to new and old alternative music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261206180000 +0000" stop="20261207010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261207010000 +0000" stop="20261207130000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261207130000 +0000" stop="20261208010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261208010000 +0000" stop="20261208190000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261208190000 +0000" stop="20261208210000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <new />
+  </programme>
+  <programme start="20261208210000 +0000" stop="20261208230000 +0000" channel="vantage-rock">
+    <title>Alternative Planet</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Two hours dedicated to new and old alternative music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
+    <new />
+  </programme>
+  <programme start="20261208230000 +0000" stop="20261209010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261209010000 +0000" stop="20261209130000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261209130000 +0000" stop="20261210010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261210010000 +0000" stop="20261210190000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261210190000 +0000" stop="20261210210000 +0000" channel="vantage-rock">
+    <title>Vantage Rock Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
+    <new />
+  </programme>
+  <programme start="20261210210000 +0000" stop="20261210230000 +0000" channel="vantage-rock">
+    <title>Rockzone</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Your place for rock classics, heavy metal screamers and hard rock anthems.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockzone.png" />
+    <new />
+  </programme>
+  <programme start="20261210230000 +0000" stop="20261211010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261211010000 +0000" stop="20261211130000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261211130000 +0000" stop="20261212010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261212010000 +0000" stop="20261212140000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261212140000 +0000" stop="20261212160000 +0000" channel="vantage-rock">
+    <title>Rockzone</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212160000 +0000" stop="20261212190000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261212190000 +0000" stop="20261212210000 +0000" channel="vantage-rock">
+    <title>Vantage Rock Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212210000 +0000" stop="20261212220000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212220000 +0000" stop="20261212230000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Classic</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261212230000 +0000" stop="20261213010000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261213010000 +0000" stop="20261213150000 +0000" channel="vantage-rock">
+    <title>Don't Stop The Rock</title>
+    <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstoptherock.jpg" />
+  </programme>
+  <programme start="20261213150000 +0000" stop="20261213160000 +0000" channel="vantage-rock">
+    <title>Alternative Classics</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213160000 +0000" stop="20261213180000 +0000" channel="vantage-rock">
+    <title>Alternative Planet</title>
+    <sub-title lang="en">Simulcast with Vantage Music</sub-title>
+    <desc>Two hours dedicated to new and old alternative music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261213180000 +0000" stop="20261214000000 +0000" channel="vantage-rock">
     <title>Don't Stop The Rock</title>
     <desc>Non-stop, commercial free rock to keep your day rocking.</desc>
     <category lang="en">Music</category>
@@ -3155,9 +4640,9 @@
   <programme start="20261116190000 +0000" stop="20261116203000 +0000" channel="vantage-classic">
     <title>Retro Charts</title>
     <sub-title lang="en">16th November 1992</sub-title>
-    <desc>A mix of classic chart hits from the current week of a specific year.</desc>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <new />
   </programme>
   <programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="vantage-classic">
@@ -3585,7 +5070,7 @@
   </programme>
   <programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1998</sub-title>
+    <sub-title lang="en">Year of 1980</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -3609,7 +5094,7 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the00s.png" />
   </programme>
-  <programme start="20261121160000 +0000" stop="20261121180000 +0000" channel="vantage-classic">
+  <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="vantage-classic">
     <title>Vantage Collection</title>
     <sub-title lang="en">Erasure</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
@@ -3617,12 +5102,20 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
     <new />
   </programme>
+  <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="vantage-classic">
+    <title>Vantage Collection</title>
+    <sub-title lang="en">a-ha</sub-title>
+    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
+    <new />
+  </programme>
   <programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="vantage-classic">
     <title>Retro Charts</title>
-    <sub-title lang="en">16th November 1993</sub-title>
-    <desc>A mix of classic chart hits from the current week of a specific year.</desc>
+    <sub-title lang="en">14th November 1992</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <previously-shown />
   </programme>
   <programme start="20261121190000 +0000" stop="20261121210000 +0000" channel="vantage-classic">
@@ -3684,13 +5177,14 @@
   <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="vantage-classic">
     <title>Vantage Collection</title>
     <sub-title lang="en">a-ha</sub-title>
+    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
     <previously-shown />
   </programme>
   <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1997</sub-title>
+    <sub-title lang="en">Year of 1980</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -3716,7 +5210,7 @@
   </programme>
   <programme start="20261122090000 +0000" stop="20261122110000 +0000" channel="vantage-classic">
     <title>Vantage Club Classics</title>
-    <sub-title lang="en">Episode #0007</sub-title>
+    <sub-title lang="en">Episode #0008</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -3742,7 +5236,7 @@
   </programme>
   <programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1998</sub-title>
+    <sub-title lang="en">Year of 1999</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -3750,7 +5244,7 @@
   </programme>
   <programme start="20261122180000 +0000" stop="20261122190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1985</sub-title>
+    <sub-title lang="en">Year of 1989</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -3758,7 +5252,7 @@
   </programme>
   <programme start="20261122190000 +0000" stop="20261122200000 +0000" channel="vantage-classic">
     <title>Vantage Chillout Classics</title>
-    <sub-title lang="en">Episode #0009</sub-title>
+    <sub-title lang="en">Episode #0010</sub-title>
     <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicschilled.png" />
@@ -3766,7 +5260,7 @@
   </programme>
   <programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="vantage-classic">
     <title>Vantage Chillout Classics</title>
-    <sub-title lang="en">Episode #0007</sub-title>
+    <sub-title lang="en">Episode #0008</sub-title>
     <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicschilled.png" />
@@ -3816,7 +5310,7 @@
   </programme>
   <programme start="20261123090000 +0000" stop="20261123100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1985</sub-title>
+    <sub-title lang="en">Year of 1990</sub-title>
     <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
@@ -3848,27 +5342,19 @@
   </programme>
   <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1985</sub-title>
+    <sub-title lang="en">Year of 1990</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
     <previously-shown />
   </programme>
-  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="vantage-classic">
-    <title>Retro Chart Mix</title>
-    <sub-title lang="en">16th November 1993</sub-title>
-    <desc>A mix of classic chart hits from the current week of a specific year.</desc>
+  <programme start="20261123190000 +0000" stop="20261123210000 +0000" channel="vantage-classic">
+    <title>Retro Charts</title>
+    <sub-title lang="en">21st November 1993</sub-title>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <new />
-  </programme>
-  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="vantage-classic">
-    <title>Retro Chart Mix</title>
-    <sub-title lang="en">8th November 1992</sub-title>
-    <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
-    <previously-shown />
   </programme>
   <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="vantage-classic">
     <title>The 80's</title>
@@ -3914,7 +5400,7 @@
   </programme>
   <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1986</sub-title>
+    <sub-title lang="en">Year of 1991</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -3946,7 +5432,7 @@
   </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1986</sub-title>
+    <sub-title lang="en">Year of 1991</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -3954,7 +5440,7 @@
   </programme>
   <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="vantage-classic">
     <title>Alternative Classics</title>
-    <sub-title lang="en">Episode #0010</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
@@ -3962,7 +5448,7 @@
   </programme>
   <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="vantage-classic">
     <title>Alternative Classics</title>
-    <sub-title lang="en">Episode #0008</sub-title>
+    <sub-title lang="en">Episode #0009</sub-title>
     <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
@@ -4012,7 +5498,7 @@
   </programme>
   <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1987</sub-title>
+    <sub-title lang="en">Year of 1992</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4043,7 +5529,7 @@
   </programme>
   <programme start="20261125180000 +0000" stop="20261125190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1987</sub-title>
+    <sub-title lang="en">Year of 1992</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4051,7 +5537,7 @@
   </programme>
   <programme start="20261125190000 +0000" stop="20261125200000 +0000" channel="vantage-classic">
     <title>Vantage Rap Classics</title>
-    <sub-title lang="en">Episode #0010</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>A blast of classic hip-hop from the 80's &amp; 90s.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicraps.png" />
@@ -4059,7 +5545,7 @@
   </programme>
   <programme start="20261125200000 +0000" stop="20261125210000 +0000" channel="vantage-classic">
     <title>Vantage Rap Classics</title>
-    <sub-title lang="en">Episode #0008</sub-title>
+    <sub-title lang="en">Episode #0009</sub-title>
     <desc>A blast of classic hip-hop from the 80's &amp; 90s.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicraps.png" />
@@ -4109,7 +5595,7 @@
   </programme>
   <programme start="20261126090000 +0000" stop="20261126100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1988</sub-title>
+    <sub-title lang="en">Year of 1993</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4141,7 +5627,7 @@
   </programme>
   <programme start="20261126180000 +0000" stop="20261126190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1988</sub-title>
+    <sub-title lang="en">Year of 1993</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4149,7 +5635,7 @@
   </programme>
   <programme start="20261126190000 +0000" stop="20261126210000 +0000" channel="vantage-classic">
     <title>Vantage Rock Classics</title>
-    <sub-title lang="en">Episode #0008</sub-title>
+    <sub-title lang="en">Episode #0009</sub-title>
     <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
@@ -4199,7 +5685,7 @@
   </programme>
   <programme start="20261127090000 +0000" stop="20261127100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1989</sub-title>
+    <sub-title lang="en">Year of 1994</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4231,7 +5717,7 @@
   </programme>
   <programme start="20261127180000 +0000" stop="20261127190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1989</sub-title>
+    <sub-title lang="en">Year of 1994</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4239,7 +5725,7 @@
   </programme>
   <programme start="20261127190000 +0000" stop="20261127210000 +0000" channel="vantage-classic">
     <title>Vantage Club Classics</title>
-    <sub-title lang="en">Episode #0009</sub-title>
+    <sub-title lang="en">Episode #0010</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -4289,7 +5775,7 @@
   </programme>
   <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1998</sub-title>
+    <sub-title lang="en">Year of 1981</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4313,33 +5799,25 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the00s.png" />
   </programme>
-  <programme start="20261128160000 +0000" stop="20261128170000 +0000" channel="vantage-classic">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">Erasure</sub-title>
-    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <new />
-  </programme>
-  <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="vantage-classic">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">a-ha</sub-title>
+  <programme start="20261128160000 +0000" stop="20261128180000 +0000" channel="vantage-classic">
+    <title>Vantage Collection XL</title>
+    <sub-title lang="en">U2</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
     <new />
   </programme>
   <programme start="20261128180000 +0000" stop="20261128190000 +0000" channel="vantage-classic">
-    <title>Retro Chart Mix</title>
+    <title>Retro Charts</title>
     <sub-title lang="en">16th November 1993</sub-title>
-    <desc>A mix of classic chart hits from the current week of a specific year.</desc>
+    <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <previously-shown />
   </programme>
   <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="vantage-classic">
     <title>Vantage Club Classics</title>
-    <sub-title lang="en">Episode #0008</sub-title>
+    <sub-title lang="en">Episode #0009</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -4347,7 +5825,7 @@
   </programme>
   <programme start="20261128210000 +0000" stop="20261128230000 +0000" channel="vantage-classic">
     <title>Vantage Rock Classics</title>
-    <sub-title lang="en">Episode #0008</sub-title>
+    <sub-title lang="en">Episode #0009</sub-title>
     <desc>Exploring the great classics of rock thoughout the 70s, 80s, 90s and 2000's.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/rockclassics.png" />
@@ -4355,7 +5833,7 @@
   </programme>
   <programme start="20261128230000 +0000" stop="20261129000000 +0000" channel="vantage-classic">
     <title>Alternative Classics</title>
-    <sub-title lang="en">Episode #0010</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>A collection of iconic alternative, indie, and grunge music videos.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alternativeclassics.png" />
@@ -4363,7 +5841,7 @@
   </programme>
   <programme start="20261129000000 +0000" stop="20261129010000 +0000" channel="vantage-classic">
     <title>Vantage Rap Classics</title>
-    <sub-title lang="en">Episode #0010</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>A blast of classic hip-hop from the 80's &amp; 90s.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicraps.png" />
@@ -4371,7 +5849,7 @@
   </programme>
   <programme start="20261129010000 +0000" stop="20261129020000 +0000" channel="vantage-classic">
     <title>Vantage Chillout Classics</title>
-    <sub-title lang="en">Episode #0009</sub-title>
+    <sub-title lang="en">Episode #0010</sub-title>
     <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicschilled.png" />
@@ -4379,30 +5857,23 @@
   </programme>
   <programme start="20261129020000 +0000" stop="20261129030000 +0000" channel="vantage-classic">
     <title>Vantage Chillout Classics</title>
-    <sub-title lang="en">Episode #0002</sub-title>
+    <sub-title lang="en">Episode #0003</sub-title>
     <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicschilled.png" />
     <previously-shown />
   </programme>
-  <programme start="20261129030000 +0000" stop="20261129040000 +0000" channel="vantage-classic">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">Erasure</sub-title>
+  <programme start="20261129030000 +0000" stop="20261129050000 +0000" channel="vantage-classic">
+    <title>Vantage Collection XL</title>
+    <sub-title lang="en">U2</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <previously-shown />
-  </programme>
-  <programme start="20261129040000 +0000" stop="20261129050000 +0000" channel="vantage-classic">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">a-ha</sub-title>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
     <previously-shown />
   </programme>
   <programme start="20261129050000 +0000" stop="20261129060000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1997</sub-title>
+    <sub-title lang="en">Year of 1981</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4428,7 +5899,7 @@
   </programme>
   <programme start="20261129090000 +0000" stop="20261129110000 +0000" channel="vantage-classic">
     <title>Vantage Club Classics</title>
-    <sub-title lang="en">Episode #0007</sub-title>
+    <sub-title lang="en">Episode #0008</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -4454,7 +5925,7 @@
   </programme>
   <programme start="20261129170000 +0000" stop="20261129180000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1998</sub-title>
+    <sub-title lang="en">Year of 2000</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4462,7 +5933,7 @@
   </programme>
   <programme start="20261129180000 +0000" stop="20261129190000 +0000" channel="vantage-classic">
     <title>Vantage Yearbook</title>
-    <sub-title lang="en">Year of 1985</sub-title>
+    <sub-title lang="en">Year of 1990</sub-title>
     <desc>See the the most common faces in music from a specific year with some lesser known classics you might have forgotten.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_yearbook.png" />
@@ -4470,7 +5941,7 @@
   </programme>
   <programme start="20261129190000 +0000" stop="20261129200000 +0000" channel="vantage-classic">
     <title>Vantage Chillout Classics</title>
-    <sub-title lang="en">Episode #0009</sub-title>
+    <sub-title lang="en">Episode #0011</sub-title>
     <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicschilled.png" />
@@ -4478,7 +5949,7 @@
   </programme>
   <programme start="20261129200000 +0000" stop="20261129210000 +0000" channel="vantage-classic">
     <title>Vantage Chillout Classics</title>
-    <sub-title lang="en">Episode #0007</sub-title>
+    <sub-title lang="en">Episode #0009</sub-title>
     <desc>Relax and unwind with a chill mix of timeless ambient, lounge, and downtempo classics.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/classicschilled.png" />
