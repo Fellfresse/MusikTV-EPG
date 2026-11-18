@@ -25,30 +25,6 @@
     <display-name>Retro Music TV</display-name>
     <icon src="https://iptvx.one/picons/retro-music-cz.png" />
   </channel>
-  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="deejay-tv">
-    <title>Playlist Radio Linetti</title>
-  </programme>
-  <programme start="20261110120000 +0300" stop="20261110140000 +0300" channel="deejay-tv">
-    <title>Deejay Chiama Italia</title>
-  </programme>
-  <programme start="20261110140000 +0300" stop="20261110150000 +0300" channel="deejay-tv">
-    <title>50 Songs</title>
-  </programme>
-  <programme start="20261110150000 +0300" stop="20261110160000 +0300" channel="deejay-tv">
-    <title>Deejay Time</title>
-  </programme>
-  <programme start="20261110160000 +0300" stop="20261110180000 +0300" channel="deejay-tv">
-    <title>Summer Camp</title>
-  </programme>
-  <programme start="20261110180000 +0300" stop="20261110190000 +0300" channel="deejay-tv">
-    <title>Gazzology</title>
-  </programme>
-  <programme start="20261110190000 +0300" stop="20261110200000 +0300" channel="deejay-tv">
-    <title>Playlist Pinocchio</title>
-  </programme>
-  <programme start="20261110200000 +0300" stop="20261110220000 +0300" channel="deejay-tv">
-    <title>50 Songs</title>
-  </programme>
   <programme start="20261110220000 +0300" stop="20261110230000 +0300" channel="deejay-tv">
     <title>Deejay Good Times</title>
   </programme>
@@ -65,29 +41,24 @@
     <title>Playlist Radio Linetti</title>
   </programme>
   <programme start="20261111120000 +0300" stop="20261111140000 +0300" channel="deejay-tv">
-    <desc>Il morning show di Radio DEEJAY con Linus e Nicola Savino</desc>
     <title>Deejay Chiama Italia</title>
   </programme>
   <programme start="20261111140000 +0300" stop="20261111150000 +0300" channel="deejay-tv">
-    <desc>Le 50 canzoni piu' suonate da Radio DEEJAY</desc>
     <title>50 Songs</title>
   </programme>
   <programme start="20261111150000 +0300" stop="20261111160000 +0300" channel="deejay-tv">
     <title>Deejay Time</title>
   </programme>
   <programme start="20261111160000 +0300" stop="20261111180000 +0300" channel="deejay-tv">
-    <desc>Il pomeriggio di Radio Deejay con Nikki, Federico Russo e Francesco Quarna</desc>
     <title>Summer Camp</title>
   </programme>
   <programme start="20261111180000 +0300" stop="20261111190000 +0300" channel="deejay-tv">
-    <desc>Con Gianluca Gazzoli</desc>
     <title>Gazzology</title>
   </programme>
   <programme start="20261111190000 +0300" stop="20261111200000 +0300" channel="deejay-tv">
     <title>Playlist Pinocchio</title>
   </programme>
   <programme start="20261111200000 +0300" stop="20261111220000 +0300" channel="deejay-tv">
-    <desc>Le 50 canzoni piu' suonate da Radio DEEJAY</desc>
     <title>50 Songs</title>
   </programme>
   <programme start="20261111220000 +0300" stop="20261111230000 +0300" channel="deejay-tv">
@@ -540,39 +511,6 @@
   <programme start="20261123020000 +0300" stop="20261123030000 +0300" channel="deejay-tv">
     <desc>I videoclip piu' belli, 100% Radio Deejay</desc>
     <title>La musica di Radio Deejay</title>
-  </programme>
-  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110120000 +0300" stop="20261110130000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110130000 +0300" stop="20261110140000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110140000 +0300" stop="20261110150000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110150000 +0300" stop="20261110160000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110160000 +0300" stop="20261110170000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110170000 +0300" stop="20261110180000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110180000 +0300" stop="20261110190000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110190000 +0300" stop="20261110200000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110200000 +0300" stop="20261110210000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261110210000 +0300" stop="20261110220000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
   </programme>
   <programme start="20261110220000 +0300" stop="20261110230000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
@@ -1453,39 +1391,6 @@
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
-  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110120000 +0300" stop="20261110130000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110130000 +0300" stop="20261110140000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110140000 +0300" stop="20261110150000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110150000 +0300" stop="20261110160000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110160000 +0300" stop="20261110170000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110170000 +0300" stop="20261110180000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110180000 +0300" stop="20261110190000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110190000 +0300" stop="20261110200000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110200000 +0300" stop="20261110210000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110210000 +0300" stop="20261110220000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
   <programme start="20261110220000 +0300" stop="20261110230000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
@@ -2364,39 +2269,6 @@
   </programme>
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110120000 +0300" stop="20261110130000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110130000 +0300" stop="20261110140000 +0300" channel="musicbox-hits">
-    <title>Euro Top 20</title>
-  </programme>
-  <programme start="20261110140000 +0300" stop="20261110150000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110150000 +0300" stop="20261110160000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110160000 +0300" stop="20261110170000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110170000 +0300" stop="20261110180000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110180000 +0300" stop="20261110190000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110190000 +0300" stop="20261110200000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110200000 +0300" stop="20261110210000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261110210000 +0300" stop="20261110220000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
   </programme>
   <programme start="20261110220000 +0300" stop="20261110230000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
@@ -3277,39 +3149,6 @@
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
-  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110120000 +0300" stop="20261110130000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110130000 +0300" stop="20261110140000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110140000 +0300" stop="20261110150000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110150000 +0300" stop="20261110160000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110160000 +0300" stop="20261110170000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110170000 +0300" stop="20261110180000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110180000 +0300" stop="20261110190000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110190000 +0300" stop="20261110200000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110200000 +0300" stop="20261110210000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261110210000 +0300" stop="20261110220000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
   <programme start="20261110220000 +0300" stop="20261110230000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
@@ -4189,33 +4028,6 @@
   <programme start="20261123060000 +0300" stop="20261122070000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
-  <programme start="20261110110000 +0300" stop="20261110120000 +0300" channel="retro-music-tv">
-    <title>Replay 90'</title>
-  </programme>
-  <programme start="20261110120000 +0300" stop="20261110125900 +0300" channel="retro-music-tv">
-    <title>Replay 80'</title>
-  </programme>
-  <programme start="20261110125900 +0300" stop="20261110150000 +0300" channel="retro-music-tv">
-    <title>Refresh</title>
-  </programme>
-  <programme start="20261110150000 +0300" stop="20261110163000 +0300" channel="retro-music-tv">
-    <title>Republika</title>
-  </programme>
-  <programme start="20261110163000 +0300" stop="20261110180000 +0300" channel="retro-music-tv">
-    <title>Rekreace</title>
-  </programme>
-  <programme start="20261110180000 +0300" stop="20261110185900 +0300" channel="retro-music-tv">
-    <title>Repete</title>
-  </programme>
-  <programme start="20261110185900 +0300" stop="20261110193000 +0300" channel="retro-music-tv">
-    <title>Rentgen</title>
-  </programme>
-  <programme start="20261110193000 +0300" stop="20261110200000 +0300" channel="retro-music-tv">
-    <title>Retrománie</title>
-  </programme>
-  <programme start="20261110200000 +0300" stop="20261110213000 +0300" channel="retro-music-tv">
-    <title>Republika</title>
-  </programme>
   <programme start="20261110213000 +0300" stop="20261110215900 +0300" channel="retro-music-tv">
     <title>Reproduktor</title>
   </programme>
@@ -4235,39 +4047,30 @@
     <title>Retrománie</title>
   </programme>
   <programme start="20261111110000 +0300" stop="20261111120000 +0300" channel="retro-music-tv">
-    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
     <title>Replay 80'</title>
   </programme>
   <programme start="20261111120000 +0300" stop="20261111125900 +0300" channel="retro-music-tv">
-    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
     <title>Replay 90'</title>
   </programme>
   <programme start="20261111125900 +0300" stop="20261111150000 +0300" channel="retro-music-tv">
-    <desc>Dopolední proud klipů z let 60. 70. 80. 90. a nového milénia</desc>
     <title>Refresh</title>
   </programme>
   <programme start="20261111150000 +0300" stop="20261111163000 +0300" channel="retro-music-tv">
-    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
     <title>Republika</title>
   </programme>
   <programme start="20261111163000 +0300" stop="20261111180000 +0300" channel="retro-music-tv">
-    <desc>Dopřejte si odpočinek u hudebního mixu, který vám udělá dobře</desc>
     <title>Rekreace</title>
   </programme>
   <programme start="20261111180000 +0300" stop="20261111185900 +0300" channel="retro-music-tv">
-    <desc>2 je víc než 1. Dvojitá porce vaší oblíbené muziky</desc>
     <title>Repete</title>
   </programme>
   <programme start="20261111185900 +0300" stop="20261111193000 +0300" channel="retro-music-tv">
-    <desc>Klipový speciál. Rezervováno pro jednoho interpreta, dnes zaostřujeme na: Bon Jovi</desc>
     <title>Rentgen</title>
   </programme>
   <programme start="20261111193000 +0300" stop="20261111200000 +0300" channel="retro-music-tv">
-    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
     <title>Retrománie</title>
   </programme>
   <programme start="20261111200000 +0300" stop="20261111213000 +0300" channel="retro-music-tv">
-    <desc>České a slovenské klipy. Zadáno pro česko-slovenské umělce</desc>
     <title>Republika</title>
   </programme>
   <programme start="20261111213000 +0300" stop="20261111215900 +0300" channel="retro-music-tv">
@@ -4905,9 +4708,5 @@
   <programme start="20261122215900 +0300" stop="20261123005900 +0300" channel="retro-music-tv">
     <desc>Hity zlatých šedesátých – vzpomínky zůstanou</desc>
     <title>Regenerace</title>
-  </programme>
-  <programme start="20261123005900 +0300" stop="20261123015900 +0300" channel="retro-music-tv">
-    <desc>Láska hraje prim</desc>
-    <title>Retro love</title>
   </programme>
 </tv>
