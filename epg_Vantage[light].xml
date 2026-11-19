@@ -1715,11 +1715,18 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/brandnew.png" />
     <new />
   </programme>
-  <programme start="20261130230000 +0000" stop="20261201040000 +0000" channel="vantage-music">
+  <programme start="20261130230000 +0000" stop="20261201000000 +0000" channel="vantage-music">
     <title>Vantage Special</title>
     <sub-title lang="en">A Year Of Music</sub-title>
     <desc>A celebration of a year of Vantage Music, going back to the roots, and a thank you to everyone who's contributed to make the channel what it is</desc>
     <category lang="en">Music</category>
+  </programme>
+  <programme start="20261201000000 +0000" stop="20261201040000 +0000" channel="vantage-music">
+    <title>Vantage Collection</title>
+    <sub-title lang="en">The Art Of Music Video #1</sub-title>
+    <desc>A reair of our special dedicated to the art of music video</desc>
+    <category lang="en">Music</category>
+    <previously-shown />
   </programme>
   <programme start="20261201040000 +0000" stop="20261201080000 +0000" channel="vantage-music">
     <title>Breakfast with Vantage Music</title>
@@ -1819,18 +1826,11 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
     <new />
   </programme>
-  <programme start="20261201230000 +0000" stop="20261202000000 +0000" channel="vantage-music">
+  <programme start="20261201230000 +0000" stop="20261202040000 +0000" channel="vantage-music">
     <title>Night Videos</title>
     <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/nightvideos.png" />
-  </programme>
-  <programme start="20261201000000 +0000" stop="20261201040000 +0000" channel="vantage-music">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">The Art Of Music Video #1</sub-title>
-    <desc>A reair of our special dedicated to the art of music video</desc>
-    <category lang="en">Music</category>
-    <previously-shown />
   </programme>
   <programme start="20261202040000 +0000" stop="20261202080000 +0000" channel="vantage-music">
     <title>Breakfast with Vantage Music</title>
