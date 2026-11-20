@@ -458,13 +458,20 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/ultimate2k.png" />
   </programme>
-  <programme start="20261119190000 +0000" stop="20261119210000 +0000" channel="vantage-music">
+  <programme start="20261119190000 +0000" stop="20261119200000 +0000" channel="vantage-music">
     <title>Vantage Jukebox</title>
     <sub-title lang="en">Episode #0037</sub-title>
     <desc>Drop a coin in the slot, it's your turn on the Vantage jukebox. Playing your requests from the week + live via vantagetv.eu</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantage_jukebox.jpg" />
     <new />
+  </programme>
+  <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="vantage-music">
+    <title>Vantage Special</title>
+    <sub-title lang="en">The Sounds of Grand Theft Auto</sub-title>
+    <desc>Celebrate the launch of one of the worlds most anticipated video game with a mix of songs from the previous games. *THIS IS NOT A PAID PROMOTION AND IS NOT AFFILIATED WITH ROCKSTAR GAMES IN ANY WAY*</desc>
+    <category lang="en">Music</category>
+    <previously-shown />
   </programme>
   <programme start="20261119210000 +0000" stop="20261119230000 +0000" channel="vantage-music">
     <title>Rockzone</title>
