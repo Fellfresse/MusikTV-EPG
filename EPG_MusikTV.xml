@@ -50156,22 +50156,6 @@
     <title lang="de">Lollapalooza Berlin 2026</title>
     <desc lang="de">Lollapalooza Berlin hat sich seit seiner Premiere 2015 als eines der aufregendsten Festivals in Deutschland etabliert. Im Jahr 2026 verwandelte es die Hauptstadt erneut in einen Hotspot für Musik und Kultur. Das Festival präsentierte ein breites Spektrum an internationalen Künstlern und bot den Besuchern ein einzigartiges Erlebnis mit Kunstinstallationen und nachhaltigen Initiativen. Lollapalooza Berlin bleibt ein Highlight im Veranstaltungskalender und zieht weiterhin ein internationales Publikum an.</desc>
   </programme>
-  <programme channel="Cool Summer Channel" start="20261121135558 +0000" stop="20261121142745 +0000">
-    <title>Sabrina Station Vol.3</title>
-    <desc>Sabrina Carpenter's iconic hits, all in one place</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2105069573_1_20260814T160525618Z_87_imageprocessorclient-tvplus-linear-648598f6b5-nsp2b.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="Cool Summer Channel" start="20261121142745 +0000" stop="20261121150000 +0000">
-    <title>Selena Gomez &amp; Gracie Abrams Vol.3</title>
-    <desc>The defining tracks of Selena Gomez and Gracie Abrams, back to back</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2105095737_0_20260814T160528156Z_83_imageprocessorclient-tvplus-linear-648598f6b5-jpz4z.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
   <programme channel="Cool Summer Channel" start="20261121150000 +0000" stop="20261121160536 +0000">
     <title>Saturday's Sounds</title>
     <desc>Set the tone for Saturday with feel-good sounds from Sabrina Carpenter, Dua Lipa, SIENNA SPIRO and more.</desc>
@@ -50213,17 +50197,30 @@
     </rating>
   </programme>
   <programme channel="Cool Summer Channel" start="20261121200000 +0000" stop="20261121203018 +0000">
-    <title>Best Of Live: Dua Lipa Vol.2</title>
+    <title>Best Of Live</title>
+    <sub-title>Dua Lipa Vol.2</sub-title>
     <desc>Dua Lipa's most intimate live moments.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2365993174_0_20261111T133331475Z_56_imageprocessorclient-tvplus-linear-b5879c6c6-q5mpw.jpeg" />
     <rating>
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="Vevo Latino [ES]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Buena Onda</title>
-    <desc>La música es el ingrediente secreto para una comida deliciosa. Dale play a las mejores canciones para escuchar mientras cocinas!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732624_0_20260903T193608606Z_139_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
+  <programme channel="Cool Summer Channel" start="20261121203018 +0000" stop="20261121210555 +0000">
+    <title>Best Of Live</title>
+    <sub-title>Billie Eilish</sub-title>
+    <desc>The most powerful live moments from Billie Eilish.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2124837806_9_20260821T171331990Z_46_imageprocessorclient-tvplus-linear-b5879c6c6-ppwdq.jpeg" />
+    <rating>
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme channel="Cool Summer Channel" start="20261121210555 +0000" stop="20261121225258 +0000">
+    <title>Chappell Roan X Lana Del Rey</title>
+    <desc>Discover all the defining tracks of Chappell Roan and Lana Del Rey. Who takes the spotlight?</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/DE_USQT620324A_2093568517_0_20260810T160755746Z_80_imageprocessorclient-tvplus-linear-648598f6b5-jn6tj.jpeg" />
+    <rating>
+      <value>18</value>
+    </rating>
   </programme>
   <programme channel="Vevo Latino [ES]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Conexión España-Latam</title>
@@ -50255,10 +50252,10 @@
     <desc>Lo más duro de la escena en dos horas de puro sonido urbano. ¡Calienta motores!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732548_2_20260903T193609083Z_24_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
   </programme>
-  <programme channel="Vevo Retro [ES]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Leyendas Británicas</title>
-    <desc>Los iconos de la música británica de los 70 y los 80</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732974_1_20260903T193608688Z_98_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
+  <programme channel="Vevo Latino [ES]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Hora del Jangueo</title>
+    <desc>Los mejores vídeos para disfrutar bailando al beat del mejor reggaetón.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162746502_2_20260903T193612817Z_74_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
   </programme>
   <programme channel="Vevo Retro [ES]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Lo Mejor de los 80</title>
@@ -50290,10 +50287,10 @@
     <desc>Hits inolvidables de los 70's a los 2000.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733123_2_20260903T193608974Z_86_imageprocessorclient-tvplus-linear-b5879c6c6-k4qt8.png" />
   </programme>
-  <programme channel="Vevo Pop [ES]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Buenas Vibras</title>
-    <desc>¡Videoclips con buen rollo para subirte el ánimo!</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732466_1_20260903T193608689Z_86_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
+  <programme channel="Vevo Retro [ES]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Éxitos Latinos</title>
+    <desc>Los mejores hits del otro lado del charco.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162733051_0_20260903T193608607Z_135_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
   </programme>
   <programme channel="Vevo Pop [ES]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Éxitos de siempre</title>
@@ -50325,10 +50322,10 @@
     <desc>La música es el ingrediente secreto para disfrutar mientras cocinas o tomas algo con la familia y amigos. Dale play y disfruta!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162732462_0_20260903T193612072Z_89_imageprocessorclient-tvplus-linear-b5879c6c6-ldnh6.png" />
   </programme>
-  <programme channel="Vevo Pop [FR]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>DSCVR Artists To Watch 2027</title>
-    <desc>Découvrez notre sélection des artistes DSCVR Artists To Watch 2027 !</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2350439294_1_20261105T160056104Z_56_imageprocessorclient-tvplus-linear-b5879c6c6-ntrtq.png" />
+  <programme channel="Vevo Pop [ES]" start="20261121210000 +0000" stop="20261121230000 +0000">
+    <title>Pura Fiesta</title>
+    <desc>¡Cae la noche y el cuerpo pide pura fiesta! No te pierdas todos los éxitos que rompen en la pista de baile.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/ES_USQT620324A_2162746411_1_20260903T193613226Z_134_imageprocessorclient-tvplus-linear-b5879c6c6-mlmfp.png" />
   </programme>
   <programme channel="Vevo Pop [FR]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Bonnes Vibes</title>
@@ -50355,10 +50352,10 @@
     <desc>Des clips qui vont te faire danser toute la nuit !</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734146_1_20260903T193608837Z_62_imageprocessorclient-tvplus-linear-b5879c6c6-29zn8.png" />
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [FR]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>DSCVR New Music</title>
-    <desc>Découvrez tous les nouveaux talents de la scène Hip-Hop &amp; R&amp;B francophone.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734311_0_20260903T193612697Z_139_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
+  <programme channel="Vevo Pop [FR]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Tubes Incontournables</title>
+    <desc>Le meilleur de la pop des années 90 et 2000 !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734147_1_20260903T193608827Z_76_imageprocessorclient-tvplus-linear-b5879c6c6-29zn8.png" />
   </programme>
   <programme channel="Vevo Hip Hop-R-B [FR]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>UK Represent</title>
@@ -50385,10 +50382,10 @@
     <desc>De l'Afrobeat à l'Afropop, les clips les plus chauds du moment !</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734320_2_20260903T193608912Z_35_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
   </programme>
-  <programme channel="Vevo Rétro [FR]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Après-midi d'Automne</title>
-    <desc>Cocooning à la maison avec des vidéos qui réchauffent les journées d'automne.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2227348817_35_20260925T122222435Z_28_imageprocessorclient-tvplus-linear-b5879c6c6-zvcv6.png" />
+  <programme channel="Vevo Hip Hop-R-B [FR]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Rap International</title>
+    <desc>Le meilleur du rap à l'international.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162734314_2_20260903T193612124Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
   </programme>
   <programme channel="Vevo Rétro [FR]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Années 90</title>
@@ -50420,10 +50417,10 @@
     <desc>Revivez les années 80 avec une sélection de tubes cultes.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735009_0_20260903T193609068Z_47_imageprocessorclient-tvplus-linear-b5879c6c6-tnmp9.png" />
   </programme>
-  <programme channel="Vevo Pop [UK]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Ultimate Covers</title>
-    <desc>All your favourite hits, reimagined.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737107_3_20260903T193609472Z_143_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
+  <programme channel="Vevo Rétro [FR]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Session Karaoké</title>
+    <desc>Les meilleurs hits pour pousser la chansonnette !</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/FR_USQT620324A_2162735098_2_20260903T193609227Z_111_imageprocessorclient-tvplus-linear-b5879c6c6-9dm2m.png" />
   </programme>
   <programme channel="Vevo Pop [UK]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>DSCVR Pop</title>
@@ -50455,10 +50452,10 @@
     <desc>The leaves are falling and it's time to get ready for sweater weather with these cozy videos.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2215545699_0_20260921T123147900Z_90_imageprocessorclient-tvplus-linear-b5879c6c6-t9tkk.png" />
   </programme>
-  <programme channel="Vevo 70s-80s [UK]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Rock Gods</title>
-    <desc>Punk, Power Pop, Prog and everything in between.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736908_1_20260903T193609184Z_89_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
+  <programme channel="Vevo Pop [UK]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Party Anthems</title>
+    <desc>Videos that'll keep you dancing!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162750854_0_20260903T193609171Z_71_imageprocessorclient-tvplus-linear-b5879c6c6-pm2wd.png" />
   </programme>
   <programme channel="Vevo 70s-80s [UK]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Sounds of the Seventies</title>
@@ -50490,10 +50487,10 @@
     <desc>The most influential music icons of the '70s &amp; '80s.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736905_4_20260903T193609544Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-sldrc.png" />
   </programme>
-  <programme channel="Vevo 90s-00s [UK]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Boy vs Girl Bands</title>
-    <desc>We're going toe-to-toe with the top boy &amp; girl bands of both decades.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162735967_1_20260903T193609184Z_128_imageprocessorclient-tvplus-linear-b5879c6c6-75n7d.png" />
+  <programme channel="Vevo 70s-80s [UK]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>'80s Party</title>
+    <desc>The biggest party hits of the decade.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162736898_2_20260903T193613641Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.png" />
   </programme>
   <programme channel="Vevo 90s-00s [UK]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Feel Good Favourites</title>
@@ -50525,10 +50522,10 @@
     <desc>Party to the biggest hits of the 2000s!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162750929_2_20260903T193609210Z_50_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.png" />
   </programme>
-  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Throwback Hits</title>
-    <desc>Throwback R&amp;B and Hip-Hop videos from the 90s, 2000s &amp; 2010s.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737066_2_20260903T193609490Z_44_imageprocessorclient-tvplus-linear-b5879c6c6-d8qch.png" />
+  <programme channel="Vevo 90s-00s [UK]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>'90s Party Hits</title>
+    <desc>All your favourite party anthems from the '90s</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737200_0_20260903T193610450Z_18_imageprocessorclient-tvplus-linear-b5879c6c6-pm2wd.png" />
   </programme>
   <programme channel="Vevo Hip Hop-R-B [UK]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Hip-Hop Essentials</title>
@@ -50560,23 +50557,10 @@
     <desc>Get the party started with these hits.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737063_3_20260903T193613472Z_29_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
   </programme>
-  <programme channel="Def Jam" start="20261121131352 +0000" stop="20261121141539 +0000">
-    <title>Def Jam</title>
-    <sub-title>Throwback</sub-title>
-    <desc>Def Jam's throwback tunes</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2079066263_7_20260805T145118916Z_84_imageprocessorclient-tvplus-linear-648598f6b5-kjdt2.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme channel="Def Jam" start="20261121141539 +0000" stop="20261121151441 +0000">
-    <title>Def Jam</title>
-    <sub-title>Pioneers Vol.2</sub-title>
-    <desc>Def Jam Pioneers Vol.2</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2079146646_3_20260805T145118632Z_144_imageprocessorclient-tvplus-linear-648598f6b5-jn6tj.jpeg" />
-    <rating>
-      <value>5</value>
-    </rating>
+  <programme channel="Vevo Hip Hop-R-B [UK]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Party Vibes</title>
+    <desc>Get the party started with these hits.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2162737063_3_20260903T193613472Z_29_imageprocessorclient-tvplus-linear-b5879c6c6-rgz62.png" />
   </programme>
   <programme channel="Def Jam" start="20261121151441 +0000" stop="20261121161606 +0000">
     <title>Def Jam</title>
@@ -50622,10 +50606,13 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme channel="Vevo Pop [IT]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>DSCVR Artists To Watch 2027</title>
-    <desc>La classe Vevo DSCVR Artists To Watch 2027.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2350491786_0_20261105T160059729Z_1_imageprocessorclient-tvplus-linear-b5879c6c6-dkdgw.png" />
+  <programme channel="Def Jam" start="20261121202444 +0000" stop="20261121212408 +0000">
+    <title>Justin Bieber X Big Sean Vol.2</title>
+    <desc>Pop and Hip-Pop collide with Justin Bieber and Big Sean's standout tracks.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/GB_USQT620324A_2266264494_2_20261008T164229185Z_151_imageprocessorclient-tvplus-linear-b5879c6c6-5w9tj.jpeg" />
+    <rating>
+      <value>5</value>
+    </rating>
   </programme>
   <programme channel="Vevo Pop [IT]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Pop Hits Italia</title>
@@ -50657,10 +50644,10 @@
     <desc>Scatenati a ritmo dei video musicali dei tuoi artisti preferiti.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162782417_1_20260903T193610238Z_121_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
   </programme>
-  <programme channel="Vevo 70s-80s [IT]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Pop Essentials</title>
-    <desc>I migliori video pop delle due decadi.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738602_0_20260903T193610110Z_95_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
+  <programme channel="Vevo Pop [IT]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Live From Vevo Studios</title>
+    <desc>Le esibizioni live dei tuoi artisti preferiti, direttamente dai Vevo Studios!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739684_0_20260903T193610165Z_98_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
   </programme>
   <programme channel="Vevo 70s-80s [IT]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Classici Italiani</title>
@@ -50692,10 +50679,10 @@
     <desc>Motore, musica...azione! Le colonne sonore dei film più iconici degli anni 80 sono qui.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738512_3_20260903T193610699Z_113_imageprocessorclient-tvplus-linear-b5879c6c6-n5jz9.png" />
   </programme>
-  <programme channel="Vevo 90s-00s [IT]" start="20261121140000 +0000" stop="20261121150000 +0000">
-    <title>Cantautorato Collection</title>
-    <desc>I video dei giganti del cantautorato italiano e internazionale.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739988_0_20260903T193614157Z_74_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
+  <programme channel="Vevo 70s-80s [IT]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Vevo dal Vivo: 70s &amp; 80s</title>
+    <desc>Le esibizioni dal vivo delle leggende della musica italiana e internazionale.</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162738611_0_20260903T193614158Z_70_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
   </programme>
   <programme channel="Vevo 90s-00s [IT]" start="20261121150000 +0000" stop="20261121160000 +0000">
     <title>Classici del Buonumore</title>
@@ -50727,6 +50714,11 @@
     <desc>Il party più iconico direttamente a casa tua!</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739989_0_20260903T193612162Z_46_imageprocessorclient-tvplus-linear-b5879c6c6-csll5.png" />
   </programme>
+  <programme channel="Vevo 90s-00s [IT]" start="20261121210000 +0000" stop="20261121220000 +0000">
+    <title>Girls VS Boys Bands</title>
+    <desc>I video musicali delle boy e girl bands più famose delle due decadi!</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_2162739980_1_20260903T193610240Z_127_imageprocessorclient-tvplus-linear-b5879c6c6-669wl.png" />
+  </programme>
   <programme channel="70-80.it" start="20261121110000 +0000" stop="20261121170000 +0000">
     <title>70-80.it</title>
     <desc>70-80.it ogni giorno un nuovo ricordo, non perderlo!</desc>
@@ -50741,15 +50733,6 @@
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQT620324A_497805505_5_20240708T063832178Z_1.png" />
     <rating>
       <value>3</value>
-    </rating>
-  </programme>
-  <programme channel="Rock TV [IT]" start="20261121131349 +0000" stop="20261121151341 +0000">
-    <title>Rock TV</title>
-    <sub-title>Hits</sub-title>
-    <desc>La rotazione video con i più grandi successi di ogni tempo e le band più famose del panorama rock italiano ed internazionale.</desc>
-    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352137A_1938389304_0_20260616T220612022Z_86_imageprocessorclient-tvplus-linear-66fc4d58c8-z6qh7.jpeg" />
-    <rating>
-      <value>12</value>
     </rating>
   </programme>
   <programme channel="Rock TV [IT]" start="20261121151341 +0000" stop="20261121171714 +0000">
@@ -50784,6 +50767,15 @@
     <sub-title>Patti Smith</sub-title>
     <desc>L'appuntamento che racconta la vita e le opere delle più grandi band del panorama rock italiano ed internazionale.</desc>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352137A_485253814_0_20231014T183411086Z_142.jpeg" />
+    <rating>
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme channel="Rock TV [IT]" start="20261121201930 +0000" stop="20261121221913 +0000">
+    <title>Rock TV</title>
+    <sub-title>Hits</sub-title>
+    <desc>La rotazione video con i più grandi successi di ogni tempo e le band più famose del panorama rock italiano ed internazionale</desc>
+    <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/contents/vc/00/LINEAR/IT_USQU352137A_772074480_0_20250403T204347740Z_90_imageprocessorclient-tvplus-linear-6fb5b47f79-m2jtk.jpeg" />
     <rating>
       <value>12</value>
     </rating>
