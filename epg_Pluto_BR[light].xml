@@ -8,25 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261121070000 +0200" stop="20261121115300 +0200" channel="mtv-rocks-br">
+  <programme start="20261121090000 +0200" stop="20261121134100 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261121115300 +0200" stop="20261121122000 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">Where Is My Mind (Pixies) / Only Happy When It Rains (Garbage) / Song 2 (Blur) / Plush (Stone Temple Pilots) / Hard To Handle (The Black Crowes) / Let's Get Rocked (Def Leppard)</desc>
-  </programme>
-  <programme start="20261121122000 +0200" stop="20261121124500 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Gimme All Your Lovin' (ZZ Top) / Baby, I Don't Care (Transvision Vamp) / The Boys Of Summer (Don Henley) / Wanted Dead or Alive (Bon Jovi) / Any Way You Want It (Journey)</desc>
-  </programme>
-  <programme start="20261121124500 +0200" stop="20261121131300 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Closer To The Edge (30 Seconds To Mars) / Mr Brightside (The Killers) / Adventure Of A Lifetime (Coldplay) / Bring Me To Life (Evanescence Ft. Paul McCoy) / Californication (Red Hot Chili Peppers)</desc>
-  </programme>
-  <programme start="20261121131300 +0200" stop="20261121134100 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">Keep The Faith (Bon Jovi) / The Bartender And The Thief (Stereophonics) / Under The Bridge (Red Hot Chili Peppers) / Motorcycle Emptiness (Manic Street Preachers) / My Favourite Game (The Cardigans)</desc>
   </programme>
   <programme start="20261121134100 +0200" stop="20261121140800 +0200" channel="mtv-rocks-br">
     <title lang="en">80s Rock Anthems</title>
@@ -248,41 +232,33 @@
     <title lang="en">90s Rock Anthems</title>
     <desc lang="en">Keep The Faith (Bon Jovi) / The Bartender And The Thief (Stereophonics) / Under The Bridge (Red Hot Chili Peppers) / Motorcycle Emptiness (Manic Street Preachers) / My Favourite Game (The Cardigans)</desc>
   </programme>
-  <programme start="20261122130800 +0200" stop="20261122190000 +0200" channel="mtv-rocks-br">
+  <programme start="20261122130800 +0200" stop="20261122133500 +0200" channel="mtv-rocks-br">
+    <title lang="en">80s Rock Anthems</title>
+    <desc lang="en">You Give Love A Bad Name (Bon Jovi) / Heaven (Bryan Adams) / The Final Countdown (Europe) / Run To The Hills (Iron Maiden) / For Those About To Rock (We Salute You) (AC/DC)</desc>
+  </programme>
+  <programme start="20261122133500 +0200" stop="20261122140000 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">The Funeral (Yungblud) / Helena (My Chemical Romance) / Mantra (Bring Me The Horizon) / Numb (Linkin Park) / She Hates Me (Puddle Of Mudd) / Original Prankster (The Offspring Ft. Redman)</desc>
+  </programme>
+  <programme start="20261122140000 +0200" stop="20261122143200 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Boulevard Of Broken Dreams (Green Day) / Many Of Horror (Biffy Clyro) / Mountain At My Gates (Foals) / Sugar We're Going Down (Fall Out Boy) / Youth Of The Nation (P.O.D) / Last Resort (Papa Roach) / The Bitter End (Placebo)</desc>
+  </programme>
+  <programme start="20261122143200 +0200" stop="20261122210000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261122190000 +0200" stop="20261123070000 +0200" channel="mtv-rocks-br">
+  <programme start="20261122210000 +0200" stop="20261123090000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261123070000 +0200" stop="20261123130000 +0200" channel="mtv-rocks-br">
+  <programme start="20261123090000 +0200" stop="20261123150000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261121070000 +0200" stop="20261121114400 +0200" channel="mtv-classic-br">
+  <programme start="20261121090000 +0200" stop="20261121134700 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261121114400 +0200" stop="20261121121100 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Love Me Like You Do (Ellie Goulding) /  Runaway (U&amp;I) (Galantis) / Sign Of The Times (Harry Styles) / On The Floor (Jennifer Lopez Ft. Pitbull) / Heroes (We Could Be) (Alesso Ft. Tove Lo)</desc>
-  </programme>
-  <programme start="20261121121100 +0200" stop="20261121123700 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">No Diggity (Blackstreet) / Doo Wop (That Thing) (Lauryn Hill) / Better Off Alone (DJ Jurgen Ft. Alice Deejay) / Under The Bridge (Red Hot Chili Peppers) / Everybody Hurts (R.E.M.)</desc>
-  </programme>
-  <programme start="20261121123700 +0200" stop="20261121130200 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Yellow (Coldplay) / SexyBack (Justin Timberlake) /Survivor (Destiny's Child) / Back To Black (Amy Winehouse) / Let Me Love You (Mario)</desc>
-  </programme>
-  <programme start="20261121130200 +0200" stop="20261121132400 +0200" channel="mtv-classic-br">
-    <title lang="en">90s Hits</title>
-    <desc lang="en">My Name Is (Eminem) / I'll Be There For You (The Rembrandts) / Man! I Feel Like A Woman (Shania Twain) / Barbie Girl (Aqua) / Angels (Robbie Williams)</desc>
-  </programme>
-  <programme start="20261121132400 +0200" stop="20261121134700 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Counting Stars (OneRepublic) / Love On Top (Beyonce) / No Promises (Cheat Codes ft. Demi Lovato) /  I Knew You Were Trouble (Taylor Swift) / Calma (Pedro Capó &amp; Farruko)</desc>
   </programme>
   <programme start="20261121134700 +0200" stop="20261121141400 +0200" channel="mtv-classic-br">
     <title lang="en">80s Hits</title>
@@ -512,15 +488,23 @@
     <title lang="en">80s Hits</title>
     <desc lang="en">Just Can't Get Enough (Depeche Mode) / When Doves Cry (Prince) / Eternal Flame (The Bangles) / Living On A Prayer (Bon Jovi) / In The Air Tonight (Phil Collins)</desc>
   </programme>
-  <programme start="20261122131700 +0200" stop="20261122190000 +0200" channel="mtv-classic-br">
+  <programme start="20261122131700 +0200" stop="20261122133900 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">All About That Bass (Meghan Trainor) / This Is What You Came For (Calvin Harris Ft. Rihanna) / Give Me Everything (Pitbull Ft. Ne-yo, Afrojack And Nayer) / Wrecking Ball (Miley Cyrus) / In The Name Of Love (Martin Garrix Ft. Bebe Rexha)</desc>
+  </programme>
+  <programme start="20261122133900 +0200" stop="20261122140100 +0200" channel="mtv-classic-br">
+    <title lang="en">00s Hits</title>
+    <desc lang="en">Feel Good Inc (Gorillaz) / So What (P!nk) / Beggin (Madcon) / You're Beautiful (James Blunt) / Poker Face (Lady Gaga)</desc>
+  </programme>
+  <programme start="20261122140100 +0200" stop="20261122210000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261122190000 +0200" stop="20261123070000 +0200" channel="mtv-classic-br">
+  <programme start="20261122210000 +0200" stop="20261123090000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261123070000 +0200" stop="20261123130000 +0200" channel="mtv-classic-br">
+  <programme start="20261123090000 +0200" stop="20261123150000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
