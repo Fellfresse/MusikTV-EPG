@@ -56,6 +56,9 @@ jobs:
       - name: generate Vantage[light] EPG
         run: python generate_vantage[light].py --out epg_Vantage[light].xml
 
+      - name: generate Dummy_Magenta EPG
+        run: python generate_dummy_magenta_epg.py
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
