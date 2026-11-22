@@ -798,7 +798,7 @@
   </programme>
   <programme start="20261122180000 +0000" stop="20261122190000 +0000" channel="vantage-music">
     <title>music</title>
-    <sub-title lang="en">Episode #0001</sub-title>
+    <sub-title lang="en">Episode #0002</sub-title>
     <desc>Exploring "music" and their videos.</desc>
     <category lang="en">Music</category>
     <previously-shown />
@@ -1153,7 +1153,7 @@
     <previously-shown />
   </programme>
   <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="vantage-music">
-    <title>Vantage Raps</title>
+    <title>Vantage Jamz</title>
     <sub-title lang="en">Episode #0029</sub-title>
     <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
@@ -1161,7 +1161,7 @@
     <new />
   </programme>
   <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="vantage-music">
-    <title>Vantage Raps</title>
+    <title>Vantage Jamz</title>
     <sub-title lang="en">Episode #0028</sub-title>
     <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
@@ -1588,17 +1588,19 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
     <previously-shown />
   </programme>
-  <programme start="20261129180000 +0000" stop="20261129190000 +0000" channel="vantage-music">
-    <title>The 80's</title>
-    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
-  </programme>
-  <programme start="20261129190000 +0000" stop="20261129200000 +0000" channel="vantage-music">
+  <programme start="20261129180000 +0000" stop="20261129183000 +0000" channel="vantage-music">
     <title>music</title>
     <sub-title lang="en">Episode #0003</sub-title>
     <desc>Exploring "music" and their videos.</desc>
     <category lang="en">Music</category>
+    <previously-shown />
+  </programme>
+  <programme start="20261129180000 +0000" stop="20261129200000 +0000" channel="vantage-music">
+    <title>Vantage Jamz</title>
+    <sub-title lang="en">Episode #0029</sub-title>
+    <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantageraps.png" />
     <previously-shown />
   </programme>
   <programme start="20261129200000 +0000" stop="20261129210000 +0000" channel="vantage-music">
@@ -1866,7 +1868,7 @@
     <previously-shown />
   </programme>
   <programme start="20261202210000 +0000" stop="20261202220000 +0000" channel="vantage-music">
-    <title>Vantage Raps</title>
+    <title>Vantage Jamz</title>
     <sub-title lang="en">Episode #0030</sub-title>
     <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
@@ -1874,7 +1876,7 @@
     <new />
   </programme>
   <programme start="20261202220000 +0000" stop="20261202230000 +0000" channel="vantage-music">
-    <title>Vantage Raps</title>
+    <title>Vantage Jamz</title>
     <sub-title lang="en">Episode #0029</sub-title>
     <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
@@ -2303,17 +2305,19 @@
     <previously-shown />
   </programme>
   <programme start="20261206180000 +0000" stop="20261206190000 +0000" channel="vantage-music">
-    <title>The 80's</title>
-    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
-  </programme>
-  <programme start="20261206190000 +0000" stop="20261206200000 +0000" channel="vantage-music">
     <title>music</title>
     <sub-title lang="en">Episode #0004</sub-title>
     <desc>Whether you can't sleep, doing the night shift, or even if you just want to keep yourself awake, Vantage has non-stop commercial free music all night long.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+    <previously-shown />
+  </programme>
+  <programme start="20261206190000 +0000" stop="20261206200000 +0000" channel="vantage-music">
+    <title>Vantage Jamz</title>
+    <sub-title lang="en">Episode #0030</sub-title>
+    <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantageraps.png" />
     <previously-shown />
   </programme>
   <programme start="20261206200000 +0000" stop="20261206210000 +0000" channel="vantage-music">
@@ -2651,7 +2655,7 @@
     <previously-shown />
   </programme>
   <programme start="20261209210000 +0000" stop="20261209220000 +0000" channel="vantage-music">
-    <title>Vantage Raps</title>
+    <title>Vantage Jamz</title>
     <sub-title lang="en">Episode #0031</sub-title>
     <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
@@ -2659,7 +2663,7 @@
     <new />
   </programme>
   <programme start="20261209220000 +0000" stop="20261209230000 +0000" channel="vantage-music">
-    <title>Vantage Raps</title>
+    <title>Vantage Jamz</title>
     <sub-title lang="en">Episode #0030</sub-title>
     <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
@@ -3087,17 +3091,20 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/alt_planet.png" />
     <previously-shown />
   </programme>
-  <programme start="20261213180000 +0000" stop="20261213190000 +0000" channel="vantage-music">
-    <title>The 80's</title>
-    <desc>The start of the music video era, with 80's classics not to be forgotten as well as some you probably have forgotten (for good reason!).</desc>
+  <programme start="20261213180000 +0000" stop="20261213183000 +0000" channel="vantage-music">
+    <title>music</title>
+    <sub-title lang="en">Episode #0004</sub-title>
+    <desc>Exploring "music" and their videos.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/itsthe80s.png" />
+    <previously-shown />
   </programme>
-  <programme start="20261213190000 +0000" stop="20261213200000 +0000" channel="vantage-music">
-    <title>The 90's</title>
-    <desc>Britpop, Jamming basslines, Catchy pop, forgotten boy bands with a bit of hip hop. It's the 90's baby.</desc>
+  <programme start="20261213180000 +0000" stop="20261213200000 +0000" channel="vantage-music">
+    <title>Vantage Jamz</title>
+    <sub-title lang="en">Episode #0031</sub-title>
+    <desc>From classic hip-hop to the newest rap beats, Vantage Raps has you covered for an hour of rap &amp; hip-hop music.</desc>
     <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/the90s.png" />
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantageraps.png" />
+    <previously-shown />
   </programme>
   <programme start="20261213200000 +0000" stop="20261213210000 +0000" channel="vantage-music">
     <title>Vantage Romance</title>
