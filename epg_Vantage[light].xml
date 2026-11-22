@@ -692,13 +692,21 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <new />
   </programme>
-  <programme start="20261121210000 +0000" stop="20261121230000 +0000" channel="vantage-music">
+  <programme start="20261121210000 +0000" stop="20261121223000 +0000" channel="vantage-music">
     <title>Clubzone</title>
     <sub-title lang="en">Episode #0055</sub-title>
     <desc>Two hours of club music to get your night going</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubzone.png" />
     <previously-shown />
+  </programme>
+  <programme start="20261121223000 +0000" stop="20261121230000 +0000" channel="vantage-music">
+    <title>Retro Chart Mix</title>
+    <sub-title lang="en">21st November 1993</sub-title>
+    <desc>A look at the chart hits that didn't quite make it to the top 20.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrochartmix.jpg" />
+    <new />
   </programme>
   <programme start="20261121230000 +0000" stop="20261122010000 +0000" channel="vantage-music">
     <title>Partyzone</title>
@@ -3223,22 +3231,15 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
   </programme>
-  <programme start="20261121040000 +0000" stop="20261121170000 +0000" channel="vantage-dance">
+  <programme start="20261121040000 +0000" stop="20261121190000 +0000" channel="vantage-dance">
     <title>Don't Stop The Dance</title>
     <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
   </programme>
-  <programme start="20261121170000 +0000" stop="20261121190000 +0000" channel="vantage-dance">
-    <title>Vantage Club Classics</title>
-    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
-    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20261121190000 +0000" stop="20261121210000 +0000" channel="vantage-dance">
     <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -3402,22 +3403,15 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
   </programme>
-  <programme start="20261128040000 +0000" stop="20261128170000 +0000" channel="vantage-dance">
+  <programme start="20261128040000 +0000" stop="20261128190000 +0000" channel="vantage-dance">
     <title>Don't Stop The Dance</title>
     <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
   </programme>
-  <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="vantage-dance">
-    <title>Vantage Club Classics</title>
-    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
-    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20261128190000 +0000" stop="20261128210000 +0000" channel="vantage-dance">
     <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -3581,22 +3575,15 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
   </programme>
-  <programme start="20261205040000 +0000" stop="20261205170000 +0000" channel="vantage-dance">
+  <programme start="20261205040000 +0000" stop="20261205190000 +0000" channel="vantage-dance">
     <title>Don't Stop The Dance</title>
     <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
   </programme>
-  <programme start="20261205170000 +0000" stop="20261205190000 +0000" channel="vantage-dance">
-    <title>Vantage Club Classics</title>
-    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
-    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20261205190000 +0000" stop="20261205210000 +0000" channel="vantage-dance">
     <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -3760,22 +3747,15 @@
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/afterparty.png" />
   </programme>
-  <programme start="20261212040000 +0000" stop="20261212170000 +0000" channel="vantage-dance">
+  <programme start="20261212040000 +0000" stop="20261212190000 +0000" channel="vantage-dance">
     <title>Don't Stop The Dance</title>
     <desc>Non-stop, commercial free dance music to keep you dancing all day &amp; night</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/dontstopthedance.png" />
   </programme>
-  <programme start="20261212170000 +0000" stop="20261212190000 +0000" channel="vantage-dance">
-    <title>Vantage Club Classics</title>
-    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
-    <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
-    <previously-shown />
-  </programme>
   <programme start="20261212190000 +0000" stop="20261212210000 +0000" channel="vantage-dance">
     <title>Vantage Club Classics</title>
+    <sub-title lang="en">Simulcast from Vantage Classic</sub-title>
     <desc>The biggest classic house, trance, and electronic dance floor anthems from the golden era of clubbing.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/clubclassics.jpg" />
@@ -5044,21 +5024,19 @@
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
     <new />
   </programme>
-  <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="vantage-classic">
-    <title>Vantage Collection</title>
-    <sub-title lang="en">a-ha</sub-title>
-    <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
-    <category lang="en">Music</category>
-    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <new />
-  </programme>
-  <programme start="20261121180000 +0000" stop="20261121190000 +0000" channel="vantage-classic">
+  <programme start="20261121170000 +0000" stop="20261121183000 +0000" channel="vantage-classic">
     <title>Retro Charts</title>
     <sub-title lang="en">14th November 1992</sub-title>
     <desc>Take a blast though a specific week of chart history. Retro Charts plays the top 20 of a specific week &amp; year.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retrocharts.png" />
     <previously-shown />
+  </programme>
+  <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="vantage-classic">
+    <title>90's Mix</title>
+    <desc>A mix of 90's hits.</desc>
+    <category lang="en">Music</category>
+    <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/retromix.png" />
   </programme>
   <programme start="20261121190000 +0000" stop="20261121210000 +0000" channel="vantage-classic">
     <title>Vantage Club Classics</title>
