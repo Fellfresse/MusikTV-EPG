@@ -45,7 +45,7 @@ jobs:
         run: python generate_open_fr[light].py --out epg_OpenFR[light].xml
 
       - name: generate Plex Fellfresse[light] EPG
-        run: python generate_plex.fellfresse[light].py --out epg_Plex.fellfresse[light].xml
+        run: python generate_plex.fellfresse[light].py --out epg_Plex_Fellfresse[light].xml
 
       - name: generate EPGSHARE CA[light] EPG
         run: python generate_epgshare_ca[light].py --out epg_Share_CA[light].xml
