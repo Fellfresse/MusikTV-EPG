@@ -118,7 +118,7 @@ def parse_local_xmltv(path):
 def main():
     parser = argparse.ArgumentParser(description="gefilterte Datei")
     parser.add_argument("--skip-plex1", action="store_true")
-    parser.add_argument("--out", default="epg_Plex.fellfresse[light].xml")
+    parser.add_argument("--out", default="epg_Plex.Fellfresse[light].xml")
     args = parser.parse_args()
     
     all_channels = []
