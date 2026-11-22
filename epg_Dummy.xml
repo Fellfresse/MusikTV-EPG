@@ -6,10 +6,6 @@
   <channel id="MiamiTV DJ">
     <display-name>Miami TV DJ</display-name>
   </channel>
-  <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
-  </programme>
   <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="MiamiTV Music">
     <title lang="de">Miami TV Music</title>
     <desc lang="de">Variety of Music 24/7</desc>
@@ -198,9 +194,9 @@
     <title lang="de">Miami TV Music</title>
     <desc lang="de">Variety of Music 24/7</desc>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="MiamiTV Music">
+    <title lang="de">Miami TV Music</title>
+    <desc lang="de">Variety of Music 24/7</desc>
   </programme>
   <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="MiamiTV DJ">
     <title lang="de">Miami TV DJ</title>
@@ -387,6 +383,10 @@
     <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
   </programme>
   <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="MiamiTV DJ">
+    <title lang="de">Miami TV DJ</title>
+    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="MiamiTV DJ">
     <title lang="de">Miami TV DJ</title>
     <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
   </programme>
