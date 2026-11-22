@@ -724,6 +724,30 @@
     <title lang="de">Nachtexpress</title>
     <desc lang="de">Kommt gut durch die Nacht mit euren Stars!</desc>
   </programme>
+  <programme start="20261122062456 +0100" stop="20261122103423 +0100" channel="deluxe-deutschpop">
+    <title lang="de">100% Hits</title>
+    <desc lang="de">Die größten Hits von Schlager bis Deutschpop!</desc>
+  </programme>
+  <programme start="20261122103424 +0100" stop="20261122144502 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Schlagermix</title>
+    <desc lang="de">Schlager auf Schlager, der Mix zum Durchstarten!</desc>
+  </programme>
+  <programme start="20261122144503 +0100" stop="20261122200000 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Schlager Total</title>
+    <desc lang="de">Die geballte Ladung Schlagerhits.</desc>
+  </programme>
+  <programme start="20261122200001 +0100" stop="20261123010906 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Megahelden</title>
+    <desc lang="de">Mega Laune mit den Megastars.</desc>
+  </programme>
+  <programme start="20261123010907 +0100" stop="20261123041625 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Nachtexpress</title>
+    <desc lang="de">Kommt gut durch die Nacht mit euren Stars!</desc>
+  </programme>
+  <programme start="20261123041626 +0100" stop="20261123062455 +0100" channel="deluxe-deutschpop">
+    <title lang="de">Nachtexpress</title>
+    <desc lang="de">Kommt gut durch die Nacht mit euren Stars!</desc>
+  </programme>
   <programme start="20261122010000 +0100" stop="20261122015959 +0100" channel="vevo-pop-de">
     <title lang="de">Vevo Pop</title>
   </programme>
