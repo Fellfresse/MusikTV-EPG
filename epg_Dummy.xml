@@ -1,393 +1,1173 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Fellfresse" generator-info="dummy_epg">
+  <channel id="V2BEAT">
+    <display-name>V2BEAT</display-name>
+  </channel>
+  <channel id="RadioU">
+    <display-name>RadioU</display-name>
+  </channel>
+  <channel id="TV Rock Brasilien">
+    <display-name>TV Rock Brasilien</display-name>
+  </channel>
   <channel id="MiamiTV Music">
     <display-name>Miami TV Music</display-name>
   </channel>
   <channel id="MiamiTV DJ">
-    <display-name>Miami TV DJ</display-name>
+    <display-name>MiamiTV DJ</display-name>
   </channel>
-  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+  <channel id="Totalmusic">
+    <display-name>Totalmusic</display-name>
+  </channel>
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="V2BEAT">
+    <title lang="de">Pop &amp; Dance Video-Hits</title>
+    <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="RadioU">
+    <title lang="de">Alternative Musik</title>
+    <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="TV Rock Brasilien">
+    <title lang="de">Rock und Real Metal</title>
+    <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
   <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="MiamiTV Music">
-    <title lang="de">Miami TV Music</title>
-    <desc lang="de">Variety of Music 24/7</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="MiamiTV Music">
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123170000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="MiamiTV Music">
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
   <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
   <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="MiamiTV DJ">
-    <title lang="de">Miami TV DJ</title>
-    <desc lang="de">Continuous DJ electronic music from DJs around the world.</desc>
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="MiamiTV DJ">
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="MiamiTV DJ">
+    <title lang="de">Musikprogramm</title>
+    <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261123190000 +0000" stop="20261123200000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123210000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="Totalmusic">
+    <title lang="de">Videoclips</title>
+    <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
 </tv>
