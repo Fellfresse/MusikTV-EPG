@@ -25,9 +25,6 @@
     <display-name>Retro Music TV</display-name>
     <icon src="https://iptvx.one/picons/retro-music-cz.png" />
   </channel>
-  <programme start="20261115020000 +0300" stop="20261115120000 +0300" channel="deejay-tv">
-    <title>La musica di Radio Deejay</title>
-  </programme>
   <programme start="20261115120000 +0300" stop="20261115140000 +0300" channel="deejay-tv">
     <title>Playlist Radio Linetti</title>
   </programme>
@@ -50,7 +47,6 @@
     <title>La musica di Radio Deejay</title>
   </programme>
   <programme start="20261116020000 +0300" stop="20261116110000 +0300" channel="deejay-tv">
-    <desc>I videoclip piu' belli, 100% Radio Deejay</desc>
     <title>La musica di Radio Deejay</title>
   </programme>
   <programme start="20261116110000 +0300" stop="20261116120000 +0300" channel="deejay-tv">
@@ -604,33 +600,6 @@
     <desc>Le 50 canzoni piu' suonate da Radio DEEJAY</desc>
     <title>50 Songs</title>
   </programme>
-  <programme start="20261115020000 +0300" stop="20261115030000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115030000 +0300" stop="20261115040000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115040000 +0300" stop="20261115050000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115050000 +0300" stop="20261116060000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115060000 +0300" stop="20261115000000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115070000 +0300" stop="20261115080000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115080000 +0300" stop="20261115090000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115090000 +0300" stop="20261115100000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115100000 +0300" stop="20261115110000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
   <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
@@ -1183,32 +1152,497 @@
   <programme start="20261123060000 +0300" stop="20261123080000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115020000 +0300" stop="20261115030000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123070000 +0300" stop="20261123080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115030000 +0300" stop="20261115040000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123080000 +0300" stop="20261123090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115040000 +0300" stop="20261115050000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123090000 +0300" stop="20261123100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115050000 +0300" stop="20261116060000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123100000 +0300" stop="20261123110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115060000 +0300" stop="20261115000000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123110000 +0300" stop="20261123120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115070000 +0300" stop="20261115080000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123120000 +0300" stop="20261123130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115080000 +0300" stop="20261115090000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123130000 +0300" stop="20261123140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115090000 +0300" stop="20261115100000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123140000 +0300" stop="20261123150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
-  <programme start="20261115100000 +0300" stop="20261115110000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
+  <programme start="20261123150000 +0300" stop="20261123160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123160000 +0300" stop="20261123170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123170000 +0300" stop="20261123180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123180000 +0300" stop="20261123190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123190000 +0300" stop="20261123200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123200000 +0300" stop="20261123210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123210000 +0300" stop="20261123220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123220000 +0300" stop="20261123230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261123230000 +0300" stop="20261124000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124000000 +0300" stop="20261124010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124010000 +0300" stop="20261124020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124020000 +0300" stop="20261124030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124030000 +0300" stop="20261124040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124040000 +0300" stop="20261124050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124050000 +0300" stop="20261124060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124060000 +0300" stop="20261124070000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124070000 +0300" stop="20261124080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124080000 +0300" stop="20261124090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124090000 +0300" stop="20261124100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124100000 +0300" stop="20261124110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124110000 +0300" stop="20261124120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124120000 +0300" stop="20261124130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124130000 +0300" stop="20261124140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124140000 +0300" stop="20261124150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124150000 +0300" stop="20261124160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124160000 +0300" stop="20261124170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124170000 +0300" stop="20261124180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124180000 +0300" stop="20261124190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124190000 +0300" stop="20261124200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124200000 +0300" stop="20261124210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124210000 +0300" stop="20261124220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124220000 +0300" stop="20261124230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261124230000 +0300" stop="20261125000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125000000 +0300" stop="20261125010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125010000 +0300" stop="20261125020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125020000 +0300" stop="20261125030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125030000 +0300" stop="20261125040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125040000 +0300" stop="20261125050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125050000 +0300" stop="20261125060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125060000 +0300" stop="20261125070000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125070000 +0300" stop="20261125080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125080000 +0300" stop="20261125090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125100000 +0300" stop="20261125110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125110000 +0300" stop="20261125120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125130000 +0300" stop="20261125140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125140000 +0300" stop="20261125150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125150000 +0300" stop="20261125160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125160000 +0300" stop="20261125170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125170000 +0300" stop="20261125180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125180000 +0300" stop="20261125190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125190000 +0300" stop="20261125200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125200000 +0300" stop="20261125210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125210000 +0300" stop="20261125220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125220000 +0300" stop="20261125230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261125230000 +0300" stop="20261126000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126000000 +0300" stop="20261126010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126010000 +0300" stop="20261126020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126020000 +0300" stop="20261126030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126030000 +0300" stop="20261126040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126040000 +0300" stop="20261126050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126050000 +0300" stop="20261126060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126070000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126070000 +0300" stop="20261126080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126080000 +0300" stop="20261126090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126160000 +0300" stop="20261126170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126170000 +0300" stop="20261126180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261127000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127000000 +0300" stop="20261127010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127010000 +0300" stop="20261127020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127020000 +0300" stop="20261127030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127030000 +0300" stop="20261127040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127040000 +0300" stop="20261127050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127050000 +0300" stop="20261127060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127060000 +0300" stop="20261127070000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127070000 +0300" stop="20261127080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127080000 +0300" stop="20261127090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127090000 +0300" stop="20261127100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127100000 +0300" stop="20261127110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127110000 +0300" stop="20261127120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127120000 +0300" stop="20261127130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127130000 +0300" stop="20261127140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127140000 +0300" stop="20261127150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127150000 +0300" stop="20261127160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127160000 +0300" stop="20261127170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127170000 +0300" stop="20261127180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127180000 +0300" stop="20261127190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127190000 +0300" stop="20261127200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127200000 +0300" stop="20261127210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127210000 +0300" stop="20261127220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127220000 +0300" stop="20261127230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261127230000 +0300" stop="20261128000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128000000 +0300" stop="20261128010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128010000 +0300" stop="20261128020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128020000 +0300" stop="20261128030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128030000 +0300" stop="20261128040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128040000 +0300" stop="20261128050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128050000 +0300" stop="20261128060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128060000 +0300" stop="20261128070000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128070000 +0300" stop="20261128080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128080000 +0300" stop="20261128090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128090000 +0300" stop="20261128100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128100000 +0300" stop="20261128110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128110000 +0300" stop="20261128120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128120000 +0300" stop="20261128130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128130000 +0300" stop="20261128140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128140000 +0300" stop="20261128150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128150000 +0300" stop="20261128160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128160000 +0300" stop="20261128170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128170000 +0300" stop="20261128180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128180000 +0300" stop="20261128190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128190000 +0300" stop="20261128200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128200000 +0300" stop="20261128210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128210000 +0300" stop="20261128220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128220000 +0300" stop="20261128230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261128230000 +0300" stop="20261129000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129000000 +0300" stop="20261129010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129010000 +0300" stop="20261129020000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129020000 +0300" stop="20261129030000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129030000 +0300" stop="20261129040000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129040000 +0300" stop="20261129050000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129050000 +0300" stop="20261129060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129060000 +0300" stop="20261129070000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129070000 +0300" stop="20261129080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129080000 +0300" stop="20261129090000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129090000 +0300" stop="20261129100000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129100000 +0300" stop="20261129110000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129110000 +0300" stop="20261129120000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129120000 +0300" stop="20261129130000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129130000 +0300" stop="20261129140000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129140000 +0300" stop="20261129150000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129150000 +0300" stop="20261129160000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129160000 +0300" stop="20261129170000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129170000 +0300" stop="20261129180000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129180000 +0300" stop="20261129190000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129190000 +0300" stop="20261129200000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129200000 +0300" stop="20261129210000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129210000 +0300" stop="20261129220000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129220000 +0300" stop="20261129230000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261129230000 +0300" stop="20261130000000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261130000000 +0300" stop="20261130010000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261130010000 +0300" stop="20261130060000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
+  </programme>
+  <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-classic">
+    <title>Timeless Hits</title>
   </programme>
   <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
@@ -2257,33 +2691,6 @@
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
-  <programme start="20261115020000 +0300" stop="20261115030000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115030000 +0300" stop="20261115040000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115040000 +0300" stop="20261115050000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115050000 +0300" stop="20261116060000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115060000 +0300" stop="20261115000000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115070000 +0300" stop="20261115080000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115080000 +0300" stop="20261115090000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115090000 +0300" stop="20261115100000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115100000 +0300" stop="20261115110000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
   <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
@@ -2836,32 +3243,497 @@
   <programme start="20261123060000 +0300" stop="20261123080000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
-  <programme start="20261115020000 +0300" stop="20261115030000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123070000 +0300" stop="20261123080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115030000 +0300" stop="20261115040000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123080000 +0300" stop="20261123090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115040000 +0300" stop="20261115050000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123090000 +0300" stop="20261123100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115050000 +0300" stop="20261116060000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123100000 +0300" stop="20261123110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115060000 +0300" stop="20261115000000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123110000 +0300" stop="20261123120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115070000 +0300" stop="20261115080000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123120000 +0300" stop="20261123130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115080000 +0300" stop="20261115090000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123130000 +0300" stop="20261123140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115090000 +0300" stop="20261115100000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123140000 +0300" stop="20261123150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
-  <programme start="20261115100000 +0300" stop="20261115110000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
+  <programme start="20261123150000 +0300" stop="20261123160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123160000 +0300" stop="20261123170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123170000 +0300" stop="20261123180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123180000 +0300" stop="20261123190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123190000 +0300" stop="20261123200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123200000 +0300" stop="20261123210000 +0300" channel="musicbox-hits">
+    <title>Euro Top 20</title>
+  </programme>
+  <programme start="20261123210000 +0300" stop="20261123220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123220000 +0300" stop="20261123230000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261123230000 +0300" stop="20261124000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124000000 +0300" stop="20261124010000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124010000 +0300" stop="20261124020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124020000 +0300" stop="20261124030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124030000 +0300" stop="20261124040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124040000 +0300" stop="20261124050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124050000 +0300" stop="20261124060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124060000 +0300" stop="20261124070000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124070000 +0300" stop="20261124080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124080000 +0300" stop="20261124090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124090000 +0300" stop="20261124100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124100000 +0300" stop="20261124110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124110000 +0300" stop="20261124120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124120000 +0300" stop="20261124130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124130000 +0300" stop="20261124140000 +0300" channel="musicbox-hits">
+    <title>Euro Top 20</title>
+  </programme>
+  <programme start="20261124140000 +0300" stop="20261124150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124150000 +0300" stop="20261124160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124160000 +0300" stop="20261124170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124170000 +0300" stop="20261124180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124180000 +0300" stop="20261124190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124190000 +0300" stop="20261124200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124200000 +0300" stop="20261124210000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124210000 +0300" stop="20261124220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124220000 +0300" stop="20261124230000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261124230000 +0300" stop="20261125000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125000000 +0300" stop="20261125010000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125010000 +0300" stop="20261125020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125020000 +0300" stop="20261125030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125030000 +0300" stop="20261125040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125040000 +0300" stop="20261125050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125050000 +0300" stop="20261125060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125060000 +0300" stop="20261125070000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125070000 +0300" stop="20261125080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125080000 +0300" stop="20261125090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125090000 +0300" stop="20261125100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125100000 +0300" stop="20261125110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125110000 +0300" stop="20261125120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125120000 +0300" stop="20261125130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125130000 +0300" stop="20261125140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125140000 +0300" stop="20261125150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125150000 +0300" stop="20261125160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125160000 +0300" stop="20261125170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125170000 +0300" stop="20261125180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125180000 +0300" stop="20261125190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125190000 +0300" stop="20261125200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125200000 +0300" stop="20261125210000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125210000 +0300" stop="20261125220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125220000 +0300" stop="20261125230000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261125230000 +0300" stop="20261126000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126000000 +0300" stop="20261126010000 +0300" channel="musicbox-hits">
+    <title>Euro Top 20</title>
+  </programme>
+  <programme start="20261126010000 +0300" stop="20261126020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126020000 +0300" stop="20261126030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126030000 +0300" stop="20261126040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126040000 +0300" stop="20261126050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126050000 +0300" stop="20261126060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126060000 +0300" stop="20261126070000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126070000 +0300" stop="20261126080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126080000 +0300" stop="20261126090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126090000 +0300" stop="20261126100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126100000 +0300" stop="20261126110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126110000 +0300" stop="20261126120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126120000 +0300" stop="20261126130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126130000 +0300" stop="20261126140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126140000 +0300" stop="20261126150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126150000 +0300" stop="20261126160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126160000 +0300" stop="20261126170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126170000 +0300" stop="20261126180000 +0300" channel="musicbox-hits">
+    <title>Euro Top 20</title>
+  </programme>
+  <programme start="20261126180000 +0300" stop="20261126190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126190000 +0300" stop="20261126200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126200000 +0300" stop="20261126210000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126210000 +0300" stop="20261126220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126220000 +0300" stop="20261126230000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261126230000 +0300" stop="20261127000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127000000 +0300" stop="20261127010000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127010000 +0300" stop="20261127020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127020000 +0300" stop="20261127030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127030000 +0300" stop="20261127040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127040000 +0300" stop="20261127050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127050000 +0300" stop="20261127060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127060000 +0300" stop="20261127070000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127070000 +0300" stop="20261127080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127080000 +0300" stop="20261127090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127090000 +0300" stop="20261127100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127100000 +0300" stop="20261127110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127110000 +0300" stop="20261127120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127120000 +0300" stop="20261127130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127130000 +0300" stop="20261127140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127140000 +0300" stop="20261127150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127150000 +0300" stop="20261127160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127160000 +0300" stop="20261127170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127170000 +0300" stop="20261127180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127180000 +0300" stop="20261127190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127190000 +0300" stop="20261127200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127200000 +0300" stop="20261127210000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127210000 +0300" stop="20261127220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127220000 +0300" stop="20261127230000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261127230000 +0300" stop="20261128000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128000000 +0300" stop="20261128010000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128010000 +0300" stop="20261128020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128020000 +0300" stop="20261128030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128030000 +0300" stop="20261128040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128040000 +0300" stop="20261128050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128050000 +0300" stop="20261128060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128060000 +0300" stop="20261128070000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128070000 +0300" stop="20261128080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128080000 +0300" stop="20261128090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128090000 +0300" stop="20261128100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128100000 +0300" stop="20261128110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128110000 +0300" stop="20261128120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128120000 +0300" stop="20261128130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128130000 +0300" stop="20261128140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128140000 +0300" stop="20261128150000 +0300" channel="musicbox-hits">
+    <title>Euro Top 20</title>
+  </programme>
+  <programme start="20261128150000 +0300" stop="20261128160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128160000 +0300" stop="20261128170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128170000 +0300" stop="20261128180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128180000 +0300" stop="20261128190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128190000 +0300" stop="20261128200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128200000 +0300" stop="20261128210000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128210000 +0300" stop="20261128220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128220000 +0300" stop="20261128230000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261128230000 +0300" stop="20261129000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129000000 +0300" stop="20261129010000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129010000 +0300" stop="20261129020000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129020000 +0300" stop="20261129030000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129030000 +0300" stop="20261129040000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129040000 +0300" stop="20261129050000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129050000 +0300" stop="20261129060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129060000 +0300" stop="20261129070000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129070000 +0300" stop="20261129080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129080000 +0300" stop="20261129090000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129090000 +0300" stop="20261129100000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129100000 +0300" stop="20261129110000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129110000 +0300" stop="20261129120000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129120000 +0300" stop="20261129130000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129130000 +0300" stop="20261129140000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129140000 +0300" stop="20261129150000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129150000 +0300" stop="20261129160000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129160000 +0300" stop="20261129170000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129170000 +0300" stop="20261129180000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129180000 +0300" stop="20261129190000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129190000 +0300" stop="20261129200000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129200000 +0300" stop="20261129210000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129210000 +0300" stop="20261129220000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261129220000 +0300" stop="20261129230000 +0300" channel="musicbox-hits">
+    <title>Euro Top 20</title>
+  </programme>
+  <programme start="20261129230000 +0300" stop="20261130000000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261130000000 +0300" stop="20261130010000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261130010000 +0300" stop="20261130060000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
+  </programme>
+  <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-hits">
+    <title>Hot New Music</title>
   </programme>
   <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
@@ -3910,15 +4782,6 @@
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
-  <programme start="20261115033000 +0300" stop="20261115065900 +0300" channel="retro-music-tv">
-    <title>Revolution</title>
-  </programme>
-  <programme start="20261115065900 +0300" stop="20261115095900 +0300" channel="retro-music-tv">
-    <title>Restart</title>
-  </programme>
-  <programme start="20261115095900 +0300" stop="20261115110000 +0300" channel="retro-music-tv">
-    <title>Retrománie</title>
-  </programme>
   <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="retro-music-tv">
     <title>Replay 80'</title>
   </programme>
@@ -3956,19 +4819,15 @@
     <title>Retro love</title>
   </programme>
   <programme start="20261116020000 +0300" stop="20261116030000 +0300" channel="retro-music-tv">
-    <desc>Láska hraje prim</desc>
     <title>Retro love</title>
   </programme>
   <programme start="20261116030000 +0300" stop="20261116065900 +0300" channel="retro-music-tv">
-    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
     <title>Revolution</title>
   </programme>
   <programme start="20261116065900 +0300" stop="20261116095900 +0300" channel="retro-music-tv">
-    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
     <title>Restart</title>
   </programme>
   <programme start="20261116095900 +0300" stop="20261116110000 +0300" channel="retro-music-tv">
-    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
     <title>Retrománie</title>
   </programme>
   <programme start="20261116110000 +0300" stop="20261116120000 +0300" channel="retro-music-tv">
