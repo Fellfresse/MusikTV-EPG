@@ -119,8 +119,8 @@ def main():
     parser.add_argument("--open_fr", default="epg_OpenFR[light].xml")
     parser.add_argument("--vantage", default="epg_Vantage[light].xml")
     parser.add_argument("--musikbox", default="epg_Musikbox[light].xml")
-    parser.add_argument("--dummy", default="epg_Dummy.xml")
-    parser.add_argument("--dummy_magenta", default="epg_Dummy_Magenta.xml")
+    parser.add_argument("--dummy_musik", default="epg_Dummy_Musik.xml")
+    parser.add_argument("--dummy_magenta_musik", default="epg_Dummy_Magenta_Musik.xml")
 
     parser.add_argument("--skip-sam", action="store_true")
     parser.add_argument("--out", default="EPG_MusikTV.xml")
@@ -146,8 +146,8 @@ def main():
     ("OpenFR", args.open_fr),
     ("Vantage", args.vantage),
     ("MusikBox", args.musikbox),
-    ("Dummy", args.dummy),
-    ("Dummy_Magenta", args.dummy_magenta)
+    ("Dummy_Musik", args.dummy),
+    ("Dummy_Magenta_Musik", args.dummy_magenta)
     ]:
         ch, pr = parse_local_xmltv(path)
         all_channels.extend(ch)
