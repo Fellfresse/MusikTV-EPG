@@ -146,8 +146,8 @@ def main():
     ("OpenFR", args.open_fr),
     ("Vantage", args.vantage),
     ("MusikBox", args.musikbox),
-    ("Dummy_Musik", args.dummy),
-    ("Dummy_Magenta_Musik", args.dummy_magenta)
+    ("Dummy_Musik", args.dummy_musik),
+    ("Dummy_Magenta_Musik", args.dummy_magenta_musik)
     ]:
         ch, pr = parse_local_xmltv(path)
         all_channels.extend(ch)
