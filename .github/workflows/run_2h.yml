@@ -40,9 +40,6 @@ jobs:
       - name: generate Plex.buddy_chew_chew[light] EPG
         run: python generate_plex.buddy_chew_chew[light].py --out epg_Plex_BuddyChewChew[light].xml
 
-      - name: generate Dummy EPG
-        run: python generate_dummy_epg.py
-
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
