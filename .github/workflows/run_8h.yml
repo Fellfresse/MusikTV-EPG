@@ -60,10 +60,10 @@ jobs:
         run: python generate_dummy_musik_epg.py
 
        - name: generate Dummy_Magenta_Musik EPG
-        run: python generate_dummy_magenta_musik_epg.py
+         run: python generate_dummy_magenta_musik_epg.py
 
        - name: commit files
-        run: |
+         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
