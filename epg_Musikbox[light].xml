@@ -25,9 +25,6 @@
     <display-name>Retro Music TV</display-name>
     <icon src="https://iptvx.one/picons/retro-music-cz.png" />
   </channel>
-  <programme start="20261115120000 +0300" stop="20261115140000 +0300" channel="deejay-tv">
-    <title>Playlist Radio Linetti</title>
-  </programme>
   <programme start="20261115140000 +0300" stop="20261115160000 +0300" channel="deejay-tv">
     <title>50 Songs</title>
   </programme>
@@ -53,7 +50,6 @@
     <title>Playlist Radio Linetti</title>
   </programme>
   <programme start="20261116120000 +0300" stop="20261116140000 +0300" channel="deejay-tv">
-    <desc>Il morning show di Radio DEEJAY con Linus e Nicola Savino</desc>
     <title>Deejay Chiama Italia</title>
   </programme>
   <programme start="20261116140000 +0300" stop="20261116150000 +0300" channel="deejay-tv">
@@ -599,12 +595,6 @@
   <programme start="20261128220000 +0300" stop="20261129000000 +0300" channel="deejay-tv">
     <desc>Le 50 canzoni piu' suonate da Radio DEEJAY</desc>
     <title>50 Songs</title>
-  </programme>
-  <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115120000 +0300" stop="20261115130000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
   </programme>
   <programme start="20261115130000 +0300" stop="20261115140000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
@@ -1643,12 +1633,6 @@
   </programme>
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261115120000 +0300" stop="20261115130000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
   </programme>
   <programme start="20261115130000 +0300" stop="20261115140000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
@@ -2691,12 +2675,6 @@
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
-  <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115120000 +0300" stop="20261115130000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
   <programme start="20261115130000 +0300" stop="20261115140000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
@@ -3734,12 +3712,6 @@
   </programme>
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
-  </programme>
-  <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261115120000 +0300" stop="20261115130000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
   </programme>
   <programme start="20261115130000 +0300" stop="20261115140000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
@@ -4782,12 +4754,6 @@
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
   </programme>
-  <programme start="20261115110000 +0300" stop="20261115120000 +0300" channel="retro-music-tv">
-    <title>Replay 80'</title>
-  </programme>
-  <programme start="20261115120000 +0300" stop="20261115125900 +0300" channel="retro-music-tv">
-    <title>Replay 90'</title>
-  </programme>
   <programme start="20261115125900 +0300" stop="20261115150000 +0300" channel="retro-music-tv">
     <title>Refresh</title>
   </programme>
@@ -4831,11 +4797,9 @@
     <title>Retrománie</title>
   </programme>
   <programme start="20261116110000 +0300" stop="20261116120000 +0300" channel="retro-music-tv">
-    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
     <title>Replay 80'</title>
   </programme>
   <programme start="20261116120000 +0300" stop="20261116125900 +0300" channel="retro-music-tv">
-    <desc>Vaše hudební dopoledne s 90's. Devadesátky máte ještě v živé paměti, tak do skoku!</desc>
     <title>Replay 90'</title>
   </programme>
   <programme start="20261116125900 +0300" stop="20261116150000 +0300" channel="retro-music-tv">
