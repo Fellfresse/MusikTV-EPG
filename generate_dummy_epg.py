@@ -5,8 +5,12 @@ from xml.dom import minidom
 def generate_dummy_channel_epg():
     # Configuration
     channels = [
-        {"id": "MiamiTV Music", "name": "Miami TV Music", "desc": "Variety of Music 24/7"},
-        {"id": "MiamiTV DJ", "name": "Miami TV DJ", "desc": "Continuous DJ electronic music from DJs around the world."},
+        {"id": "V2BEAT", "name": "V2BEAT", "title": "Pop & Dance Video-Hits", "desc": "V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit"},
+        {"id": "RadioU", "name": "RadioU", "title": "Alternative Musik", "desc": "RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen."},
+        {"id": "TV Rock Brasilien", "name": "TV Rock Brasilien", "title": "Rock und Real Metal", "desc": "TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl."},
+        {"id": "MiamiTV Music", "name": "Miami TV Music", "title": "Musikprogramm", "desc": "Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung."},
+        {"id": "MiamiTV DJ", "name": "MiamiTV DJ", "title": "Musikprogramm", "desc": "Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert."},
+        {"id": "Totalmusic", "name": "Totalmusic", "title": "Videoclips", "desc": "24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist."},
    ]
     
     filename = "epg_Dummy.xml"
@@ -32,7 +36,7 @@ def generate_dummy_channel_epg():
                 stop_str = prog_stop.strftime('%Y%m%d%H%M%S +0000')
                 
                 prog = ET.SubElement(tv, 'programme', start=start_str, stop=stop_str, channel=ch["id"])
-                ET.SubElement(prog, 'title', lang="de").text = ch['name']
+                ET.SubElement(prog, 'title', lang="de").text = ch['title']
                 ET.SubElement(prog, 'desc', lang="de").text = ch['desc']
 
     # Format and Save XML
