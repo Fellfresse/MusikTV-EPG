@@ -25,7 +25,6 @@ jobs:
         with:
           python-version: "3.10"
 
-
       - name: generate Rakuten NL[light] EPG
         run: python generate_rakuten_nl[light].py --out epg_Rakuten_NL[light].xml
   
@@ -59,11 +58,11 @@ jobs:
       - name: generate Dummy_Musik EPG
         run: python generate_dummy_musik_epg.py
 
-       - name: generate Dummy_Magenta_Musik EPG
-         run: python generate_dummy_magenta_musik_epg.py
-
-       - name: commit files
-         run: |
+      - name: generate Dummy_Magenta_Musik EPG
+        run: python generate_dummy_magenta_musik_epg.py
+ 
+      - name: commit files
+        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
