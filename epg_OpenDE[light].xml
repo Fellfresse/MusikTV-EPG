@@ -9,46 +9,6 @@
   <channel id="Magenta Musik 2">
     <display-name>Magenta Musik 2.de</display-name>
   </channel>
-  <programme start="20261123000000 +0000" stop="20261123020000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123040000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123040000 +0000" stop="20261123060000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
-  </programme>
-  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123080000 +0000" stop="20261123100000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123100000 +0000" stop="20261123120000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
-  </programme>
-  <programme start="20261123120000 +0000" stop="20261123140000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123140000 +0000" stop="20261123160000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
-  </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-  </programme>
-  <programme start="20261123220000 +0000" stop="20261124000000 +0000" channel="Ballermann TV">
-    <title>Ballermann TV - Party Hits</title>
-    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
-  </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="Ballermann TV">
     <title>Ballermann TV - Party Hits</title>
   </programme>
@@ -95,21 +55,45 @@
   <programme start="20261125020000 +0000" stop="20261125040000 +0000" channel="Ballermann TV">
     <title>Ballermann TV - Party Hits</title>
   </programme>
-  <programme start="20261122230000 +0000" stop="20261123050000 +0000" channel="Magenta Musik 1">
-    <title>Sendepause auf Magenta Musik 1</title>
-    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  <programme start="20261125040000 +0000" stop="20261125060000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
   </programme>
-  <programme start="20261123050000 +0000" stop="20261123110000 +0000" channel="Magenta Musik 1">
-    <title>Sendepause auf Magenta Musik 1</title>
-    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  <programme start="20261125060000 +0000" stop="20261125080000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
   </programme>
-  <programme start="20261123110000 +0000" stop="20261123170000 +0000" channel="Magenta Musik 1">
-    <title>Sendepause auf Magenta Musik 1</title>
-    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  <programme start="20261125080000 +0000" stop="20261125100000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
   </programme>
-  <programme start="20261123170000 +0000" stop="20261123230000 +0000" channel="Magenta Musik 1">
-    <title>Sendepause auf Magenta Musik 1</title>
-    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  <programme start="20261125100000 +0000" stop="20261125120000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125140000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125160000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125180000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125200000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261126000000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+    <desc>Die Sendung zeigt eine Auswahl an Partyliedern für die richtige Ballermann-Stimmung.</desc>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126020000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126040000 +0000" channel="Ballermann TV">
+    <title>Ballermann TV - Party Hits</title>
   </programme>
   <programme start="20261123230000 +0000" stop="20261124050000 +0000" channel="Magenta Musik 1">
     <title>Sendepause auf Magenta Musik 1</title>
@@ -131,20 +115,20 @@
     <title>Sendepause auf Magenta Musik 1</title>
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
-  <programme start="20261122230000 +0000" stop="20261123050000 +0000" channel="Magenta Musik 2">
-    <title>Sendepause auf Magenta Musik 2</title>
+  <programme start="20261125050000 +0000" stop="20261125110000 +0000" channel="Magenta Musik 1">
+    <title>Sendepause auf Magenta Musik 1</title>
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
-  <programme start="20261123050000 +0000" stop="20261123110000 +0000" channel="Magenta Musik 2">
-    <title>Sendepause auf Magenta Musik 2</title>
+  <programme start="20261125110000 +0000" stop="20261125170000 +0000" channel="Magenta Musik 1">
+    <title>Sendepause auf Magenta Musik 1</title>
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
-  <programme start="20261123110000 +0000" stop="20261123170000 +0000" channel="Magenta Musik 2">
-    <title>Sendepause auf Magenta Musik 2</title>
+  <programme start="20261125170000 +0000" stop="20261125230000 +0000" channel="Magenta Musik 1">
+    <title>Sendepause auf Magenta Musik 1</title>
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
-  <programme start="20261123170000 +0000" stop="20261123230000 +0000" channel="Magenta Musik 2">
-    <title>Sendepause auf Magenta Musik 2</title>
+  <programme start="20261125230000 +0000" stop="20261126050000 +0000" channel="Magenta Musik 1">
+    <title>Sendepause auf Magenta Musik 1</title>
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
   <programme start="20261123230000 +0000" stop="20261124050000 +0000" channel="Magenta Musik 2">
@@ -164,6 +148,22 @@
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125050000 +0000" channel="Magenta Musik 2">
+    <title>Sendepause auf Magenta Musik 2</title>
+    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125110000 +0000" channel="Magenta Musik 2">
+    <title>Sendepause auf Magenta Musik 2</title>
+    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125170000 +0000" channel="Magenta Musik 2">
+    <title>Sendepause auf Magenta Musik 2</title>
+    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125230000 +0000" channel="Magenta Musik 2">
+    <title>Sendepause auf Magenta Musik 2</title>
+    <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
+  </programme>
+  <programme start="20261125230000 +0000" stop="20261126050000 +0000" channel="Magenta Musik 2">
     <title>Sendepause auf Magenta Musik 2</title>
     <desc>Genießen Sie auf diesem Kanal exklusive Livestreams von Konzerten und Festivals.</desc>
   </programme>
