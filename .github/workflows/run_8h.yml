@@ -4,11 +4,7 @@ on:
   repository_dispatch:
     types:
       - 8-H
-  # 'push:' entfernt, um Endlosschleifen zu vermeiden
-
-permissions:
-  contents: write  # Erlaubt dem Workflow das Pushen der XML-Dateien
-
+  push:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,16 +16,16 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v4
 
+      - name: pull changes
+        run: |
+          git pull
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      # Falls nötig, hier einkommentieren:
-      # - name: Install dependencies
-      #   run: pip install -r requirements.txt
-
-      - name: generate Rakuten NL[light] EPG
+     - name: generate Rakuten NL[light] EPG
         run: python "generate_rakuten_nl[light].py" --out "epg_Rakuten_NL[light].xml"
   
       - name: generate Rakuten DE[light] EPG
@@ -70,10 +66,11 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Updated EPG listings on $RUN_DATE"
+          git diff-index --quiet HEAD || (git commit -a -m "EPG Update am $RUN_DATE" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
+
