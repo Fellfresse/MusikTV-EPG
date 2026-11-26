@@ -4,7 +4,15 @@ on:
   repository_dispatch:
     types:
       - 1-H
-  push:
+  # 'push:' entfernt, um die Endlosschleife zwischen 1H, 2H und 8H zu stoppen
+
+permissions:
+  contents: write  # Erlaubt dem Workflow das Pushen der EPG-Datei
+
+concurrency:
+  group: epg-repo-push  # Gleiche Gruppe wie 2-H und 8-H -> verhindert Push-Konflikte
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,14 +24,14 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v4
 
-      - name: pull changes
-        run: |
-          git pull
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
+
+      # Falls nötig, hier einkommentieren:
+      # - name: Install dependencies
+      #   run: pip install -r requirements.txt
 
       - name: generate EPG_MusikTV
         run: python generate_musicTV_epg.py
@@ -33,7 +41,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
+          git diff-index --quiet HEAD || git commit -m "Updated EPG listings on $RUN_DATE"
 
       - name: push changes
         uses: ad-m/github-push-action@master
