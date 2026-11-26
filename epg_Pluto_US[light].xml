@@ -8,13 +8,9 @@
     <display-name lang="en">Yo! MTV</display-name>
     <icon src="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261126123000 +0200" stop="20261126160000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261126130000 +0200" stop="20261126170000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126160000 +0200" stop="20261126170000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261126170000 +0200" stop="20261126180000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -120,25 +116,21 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261127190000 +0200" stop="20261128003000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261127190000 +0200" stop="20261128010000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126160000 +0200" channel="mtv-yo!-us">
+  <programme start="20261126130000 +0200" stop="20261126170000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126160000 +0200" stop="20261126170000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261126170000 +0200" stop="20261126180000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -244,15 +236,15 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261127190000 +0200" stop="20261128003000 +0200" channel="mtv-yo!-us">
+  <programme start="20261127190000 +0200" stop="20261128010000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-yo!-us">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-yo!-us">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
