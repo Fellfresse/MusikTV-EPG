@@ -25,7 +25,7 @@ jobs:
         with:
           python-version: "3.10"
 
-     - name: generate Rakuten NL[light] EPG
+      - name: generate Rakuten NL[light] EPG
         run: python "generate_rakuten_nl[light].py" --out "epg_Rakuten_NL[light].xml"
   
       - name: generate Rakuten DE[light] EPG
