@@ -5,6 +5,10 @@ on:
     types:
       - 8-H
   push:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,10 +19,6 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v4
-
-      - name: pull changes
-        run: |
-          git pull
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -72,5 +72,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-
+          branch: master # Ggf. auf 'main' ändern
