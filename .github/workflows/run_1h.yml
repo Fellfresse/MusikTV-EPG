@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "RUN_DATE=$(TZ='Europe/Berlin' date +'%Y-%m-%d  %H:%M MEZ')" >> $GITHUB_ENV
+        run: echo "RUN_DATE=$(TZ='Europe/Berlin' date +'%d-%m-%Y  %H:%M MEZ')" >> $GITHUB_ENV
 
       - name: checkout repo content
         uses: actions/checkout@v4
@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "EPG Updated on $RUN_DATE" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "EPG Update am $RUN_DATE" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
