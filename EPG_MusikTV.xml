@@ -526,17 +526,9 @@
     <display-name>Rock TV</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100011RK_20241022T043817SQUARE.png" />
   </channel>
-  <programme start="20261126123000 +0200" stop="20261126163000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261126130000 +0200" stop="20261126173000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126163000 +0200" stop="20261126170000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
-  </programme>
-  <programme start="20261126170000 +0200" stop="20261126173000 +0200" channel="mtv-spankin’new-ca">
-    <title lang="en">MTV Spankin’ New</title>
-    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
   <programme start="20261126173000 +0200" stop="20261126180000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
@@ -738,33 +730,29 @@
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
   </programme>
-  <programme start="20261127183000 +0200" stop="20261128003000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261127183000 +0200" stop="20261127190000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261127190000 +0200" stop="20261127193000 +0200" channel="mtv-spankin’new-ca">
+    <title lang="en">MTV Spankin’ New</title>
+    <desc lang="en">You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+  </programme>
+  <programme start="20261127193000 +0200" stop="20261128010000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-spankin’new-ca">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-spankin’new-ca">
     <title lang="en">MTV Spankin’ New</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126164308 +0200" channel="mtv-classic-ca">
+  <programme start="20261126130000 +0200" stop="20261126174908 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126164308 +0200" stop="20261126170508 +0200" channel="mtv-classic-ca">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">How Deep Is Your Love (Calvin Harris &amp; Disciples), Hotline Bling (Drake), Titanium (David Guetta ft. Sia), Waka Waka (This Time For Africa) (Shakira), Super Bass (Nicki Minaj)</desc>
-  </programme>
-  <programme start="20261126170508 +0200" stop="20261126172708 +0200" channel="mtv-classic-ca">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">All Of Me (John Legend)</desc>
-  </programme>
-  <programme start="20261126172708 +0200" stop="20261126174908 +0200" channel="mtv-classic-ca">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Treat You Better (Shawn Mendes), Taki Taki (DJ Snake ft. Selena Gomez, Ozuna &amp; Cardi B), Stressed Out (Twenty One Pilots), The Hills (The Weeknd)</desc>
   </programme>
   <programme start="20261126174908 +0200" stop="20261126181008 +0200" channel="mtv-classic-ca">
     <title lang="en">10's Hits</title>
@@ -1042,29 +1030,29 @@
     <title lang="en">80s Hits</title>
     <desc lang="en">Bette Davis Eyes (Kim Carnes) / A Little Respect (Erasure) / I Want To Break Free (Queen) / Like A Prayer (Madonna)</desc>
   </programme>
-  <programme start="20261127181708 +0200" stop="20261128003000 +0200" channel="mtv-classic-ca">
+  <programme start="20261127181708 +0200" stop="20261127183908 +0200" channel="mtv-classic-ca">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Dancing In The Dark (Bruce Springsteen) / Wake Me Up Before You Go Go (Wham) / The Final Countdown (Europe) / Push It (Salt-N-Pepa) / Don't Leave Me This Way (The Communards)</desc>
+  </programme>
+  <programme start="20261127183908 +0200" stop="20261127190708 +0200" channel="mtv-classic-ca">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Come On Eileen (Dexys) / I Just Called To Say I Love You (Stevie Wonder) / The Power Of Love (Jennifer Rush) / Hello (Lionel Richie) / Sledgehammer (Peter Gabriel).</desc>
+  </programme>
+  <programme start="20261127190708 +0200" stop="20261128010000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-classic-ca">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-classic-ca">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-classic-ca">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126163000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261126130000 +0200" stop="20261126173000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126163000 +0200" stop="20261126170000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
-  </programme>
-  <programme start="20261126170000 +0200" stop="20261126173000 +0200" channel="mtv-biggest-pop-ca">
-    <title lang="en">MTV Biggest Pop</title>
-    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
   <programme start="20261126173000 +0200" stop="20261126180000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
@@ -1266,29 +1254,29 @@
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
   </programme>
-  <programme start="20261127183000 +0200" stop="20261128003000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261127183000 +0200" stop="20261127190000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261127190000 +0200" stop="20261127193000 +0200" channel="mtv-biggest-pop-ca">
+    <title lang="en">MTV Biggest Pop</title>
+    <desc lang="en">Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+  </programme>
+  <programme start="20261127193000 +0200" stop="20261128010000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-biggest-pop-ca">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-biggest-pop-ca">
     <title lang="en">MTV Biggest Pop</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126165900 +0200" channel="mtv-rocks-br">
+  <programme start="20261126130000 +0200" stop="20261126175100 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126165900 +0200" stop="20261126172600 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Shoot The Runner (Kasabian) / No One Knows (Queens Of The Stone Age) / Hysteria (Muse) / Pork And Beans (Weezer) / Believer (Imagine Dragons) / Use Somebody (Kings Of Leon)</desc>
-  </programme>
-  <programme start="20261126172600 +0200" stop="20261126175100 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Jump (Van Halen) / Master Of Puppets (Metallica) / Welcome To The Jungle (Guns N' Roses) / Bad Medicine (Bon Jovi)</desc>
   </programme>
   <programme start="20261126175100 +0200" stop="20261126181800 +0200" channel="mtv-rocks-br">
     <title lang="en">90s Rock Anthems</title>
@@ -1518,33 +1506,29 @@
     <title lang="en">90s Rock Anthems: Nirvana / Soundgarden / Alanis Morissette / Smashing Pumpkins / Blur</title>
     <desc lang="en">Smells Like Teen Spirit (Nirvana) / Black Hole Sun (Soundgarden) / Head Over Feet (Alanis Morissette) / Tonight, Tonight (Smashing Pumpkins) / Girls and Boys (Blur)</desc>
   </programme>
-  <programme start="20261127181200 +0200" stop="20261128003000 +0200" channel="mtv-rocks-br">
+  <programme start="20261127181200 +0200" stop="20261127183800 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">The Day We Caught The Train (Ocean Colour Scene) / She Said (Longpigs) / Breakfast At Tiffany's (Deep Blue Something) / Innuendo (Queen) / Spiderwebs (No Doubt)</desc>
+  </programme>
+  <programme start="20261127183800 +0200" stop="20261127190200 +0200" channel="mtv-rocks-br">
+    <title lang="en">90s Rock Anthems</title>
+    <desc lang="en">Two Princes (Spin Doctors) / Ironic (Alanis Morissette) / Even Flow (Pearl Jam) / Come As You Are (Nirvana) / Celebrity Skin (Hole)</desc>
+  </programme>
+  <programme start="20261127190200 +0200" stop="20261128010000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-rocks-br">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-rocks-br">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126164200 +0200" channel="mtv-classic-br">
+  <programme start="20261126130000 +0200" stop="20261126175700 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126164200 +0200" stop="20261126171000 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Sweet Child O' Mine (Guns N' Roses) / Every Breath You Take (The Police) / Blue Monday 1988 (New Order) / Need You Tonight (Inxs) / Uptown Girl (Billy Joel) / Take My Breath Away (Berlin)</desc>
-  </programme>
-  <programme start="20261126171000 +0200" stop="20261126173200 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">Cake By The Ocean (DNCE) / Shake It Off (Taylor Swift) / Want To Want Me (Jason Derulo) / X (Equis) (Nicky Jam ft. J Balvin) / Castle On The Hill (Ed Sheeran)</desc>
-  </programme>
-  <programme start="20261126173200 +0200" stop="20261126175700 +0200" channel="mtv-classic-br">
-    <title lang="en">00s Hits</title>
-    <desc lang="en">Lose Yourself (Eminem) / Don't Cha (The Pussycat Dolls; Busta Rhymes) / Sugar We're Going Down (Fall Out Boy) / No One (Alicia Keys) / Hey There Delilah (Plain White T's)</desc>
   </programme>
   <programme start="20261126175700 +0200" stop="20261126182400 +0200" channel="mtv-classic-br">
     <title lang="en">90s Hits</title>
@@ -1782,29 +1766,29 @@
     <title lang="en">00s Hits</title>
     <desc lang="en">She Will Be Loved (Maroon 5) / Call On Me (Eric Prydz) / Love Story (Taylor Swift) / Apologize (Timbaland Ft. OneRepublic) / 1, 2 Step (Ciara Ft. Missy Elliott) / Toxic (Britney Spears) / Pon De Replay (Rihanna)</desc>
   </programme>
-  <programme start="20261127182600 +0200" stop="20261128003000 +0200" channel="mtv-classic-br">
+  <programme start="20261127182600 +0200" stop="20261127185000 +0200" channel="mtv-classic-br">
+    <title lang="en">80s Hits</title>
+    <desc lang="en">Gold (Spandau Ballet)</desc>
+  </programme>
+  <programme start="20261127185000 +0200" stop="20261127191300 +0200" channel="mtv-classic-br">
+    <title lang="en">10's Hits</title>
+    <desc lang="en">Chantaje (Shakira ft. Maluma), Pillowtalk (ZAYN), Hey Brother (Avicii), Better Now (Post Malone), Radioactive (Imagine Dragons)</desc>
+  </programme>
+  <programme start="20261127191300 +0200" stop="20261128010000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-classic-br">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-classic-br">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126163000 +0200" channel="that-s-60s">
+  <programme start="20261126130000 +0200" stop="20261126173000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126163000 +0200" stop="20261126170000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
-  </programme>
-  <programme start="20261126170000 +0200" stop="20261126173000 +0200" channel="that-s-60s">
-    <title lang="en">That's 60s</title>
-    <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
   <programme start="20261126173000 +0200" stop="20261126180000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
@@ -2006,25 +1990,21 @@
     <title lang="en">That's 60s</title>
     <desc lang="en">Your premier hub for the timeless legends of the swinging sixties. Includes classics from The Beatles, Elvis Presley, Aretha Franklin, The Rolling Stones, Bob Dylan, James Brown, and many more.</desc>
   </programme>
-  <programme start="20261127183000 +0200" stop="20261128003000 +0200" channel="that-s-60s">
+  <programme start="20261127183000 +0200" stop="20261128010000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="that-s-60s">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="that-s-60s">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="that-s-60s">
     <title lang="en">That's 60s</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126160000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261126130000 +0200" stop="20261126170000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126160000 +0200" stop="20261126170000 +0200" channel="mtv-flow-latino-us">
-    <title lang="en">MTV Flow Latino</title>
-    <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
   <programme start="20261126170000 +0200" stop="20261126180000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
@@ -2130,25 +2110,21 @@
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">Your stop for all the latin pop hits, reggaeton and more!</desc>
   </programme>
-  <programme start="20261127190000 +0200" stop="20261128003000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261127190000 +0200" stop="20261128010000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-flow-latino-us">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-flow-latino-us">
     <title lang="en">MTV Flow Latino</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126123000 +0200" stop="20261126160000 +0200" channel="mtv-yo!-us">
+  <programme start="20261126130000 +0200" stop="20261126170000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126160000 +0200" stop="20261126170000 +0200" channel="mtv-yo!-us">
-    <title lang="en">Yo! MTV</title>
-    <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
   <programme start="20261126170000 +0200" stop="20261126180000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
@@ -2254,15 +2230,15 @@
     <title lang="en">Yo! MTV</title>
     <desc lang="en">The biggest jams from your favorite hip-hop heads.</desc>
   </programme>
-  <programme start="20261127190000 +0200" stop="20261128003000 +0200" channel="mtv-yo!-us">
+  <programme start="20261127190000 +0200" stop="20261128010000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128003000 +0200" stop="20261128123000 +0200" channel="mtv-yo!-us">
+  <programme start="20261128010000 +0200" stop="20261128130000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128123000 +0200" stop="20261128183000 +0200" channel="mtv-yo!-us">
+  <programme start="20261128130000 +0200" stop="20261128190000 +0200" channel="mtv-yo!-us">
     <title lang="en">Yo! MTV</title>
     <desc lang="en">no info available</desc>
   </programme>
@@ -48267,1011 +48243,1011 @@
     <desc>Hity zlatých šedesátých – vzpomínky zůstanou</desc>
     <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/d/d1a1cc930601f622370394dd93fe3763.jpg" />
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="V2BEAT">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="V2BEAT">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="V2BEAT">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="V2BEAT">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="V2BEAT">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="V2BEAT">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="V2BEAT">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="V2BEAT">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="V2BEAT">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="V2BEAT">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="V2BEAT">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="V2BEAT">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="V2BEAT">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="V2BEAT">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="V2BEAT">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="V2BEAT">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="V2BEAT">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="V2BEAT">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="V2BEAT">
     <title lang="de">Pop &amp; Dance Video-Hits</title>
     <desc lang="de">V2BEAT Music TV ist ein unabhängiger Pop- und Tanz-Videokanal weltweit</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="TV Rock Brasilien">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="TV Rock Brasilien">
     <title lang="de">Rock und Real Metal</title>
     <desc lang="de">TV Rock Brazil Live-Highlights Heavy Guitars und Rock- und Metal-Künstler in ihrer musikalischen Auswahl.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="RadioU TV">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="RadioU TV">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="RadioU TV">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="RadioU TV">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="RadioU TV">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="RadioU TV">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="RadioU TV">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="RadioU TV">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="RadioU TV">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="RadioU TV">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="RadioU TV">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="RadioU TV">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="RadioU TV">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="RadioU TV">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="RadioU TV">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="RadioU TV">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="RadioU TV">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="RadioU TV">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="RadioU TV">
     <title lang="de">Alternative Musik</title>
     <desc lang="de">RadioU Live TV kombiniert alternative Rock-, Metal- und Hip-Hop-Musikvideos mit Interviews und Studiobeiträgen.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="Radio M2O TV">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="Radio M2O TV">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="Radio M2O TV">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="Radio M2O TV">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="Radio M2O TV">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="Radio M2O TV">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="Radio M2O TV">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="Radio M2O TV">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="Radio M2O TV">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="Radio M2O TV">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="Radio M2O TV">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="Radio M2O TV">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="Radio M2O TV">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="Radio M2O TV">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="Radio M2O TV">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="Radio M2O TV">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="Radio M2O TV">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="Radio M2O TV">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="Radio M2O TV">
     <title lang="de">Musikalisches Web-TV von Elemedia</title>
     <desc lang="de">Videoclips, Club- und DJ-Sets sowie Live-Inhalte rund um Dance, Electronic und House im Livestream.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="MiamiTV Music">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="MiamiTV Music">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="MiamiTV Music">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="MiamiTV Music">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="MiamiTV Music">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="MiamiTV Music">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="MiamiTV Music">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="MiamiTV Music">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="MiamiTV Music">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="MiamiTV Music">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="MiamiTV Music">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="MiamiTV Music">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="MiamiTV Music">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="MiamiTV Music">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="MiamiTV Music">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="MiamiTV Music">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="MiamiTV Music">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="MiamiTV Music">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="MiamiTV Music">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV Music ist ein Unterhaltungskanal im Miami TV FAST-Netzwerk, der eine Vielzahl von Musikgenres 24/7 bietet, darunter Pop, Rock, Latin-Hits, elektronische Mixe und Live-Auftritte für nonstop musikalische Unterhaltung.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="MiamiTV DJ">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="MiamiTV DJ">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="MiamiTV DJ">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="MiamiTV DJ">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="MiamiTV DJ">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="MiamiTV DJ">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="MiamiTV DJ">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="MiamiTV DJ">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="MiamiTV DJ">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="MiamiTV DJ">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="MiamiTV DJ">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="MiamiTV DJ">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="MiamiTV DJ">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="MiamiTV DJ">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="MiamiTV DJ">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="MiamiTV DJ">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="MiamiTV DJ">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="MiamiTV DJ">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="MiamiTV DJ">
     <title lang="de">Musikprogramm</title>
     <desc lang="de">Miami TV DJ ist ein 24/7 Musikkanal des Miami TV-Netzwerks, der kontinuierliche elektronische Tanzmusikmixe von DJs weltweit anbietet und sich auf Nonstop-EDM-, House- und Club-Beats konzentriert.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="CMC-California Music Channel">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="CMC-California Music Channel">
     <title lang="de">Amerikas #1 lokale Musikvideostation</title>
     <desc lang="de">California Music Channel (CMC) ist ein US-amerikanischer Fernsehsender für Musikvideos mit Sitz in der San Francisco Bay Area. Er zählt zu den weltweit am längsten bestehenden lokalen Fernsehsendern für Musikvideos.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="CMC-Country Music Channel">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="CMC-Country Music Channel">
     <title lang="de">Country-Hits und Klassiker</title>
     <desc lang="de">CMC-USA ist ein von der CMC Broadcasting Company betriebener Country-Musik-Sender, der Country-Hits und -Klassiker im Video-Jukebox-Format ausstrahlt.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="Dance TV">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="Dance TV">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="Dance TV">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="Dance TV">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="Dance TV">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="Dance TV">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="Dance TV">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="Dance TV">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="Dance TV">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="Dance TV">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="Dance TV">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="Dance TV">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="Dance TV">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="Dance TV">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="Dance TV">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="Dance TV">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="Dance TV">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="Dance TV">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="Dance TV">
     <title lang="de">House, Electro, Trap oder Melodic Techno</title>
     <desc lang="de">DanceTV ist Europas führende kostenlose 24/7 elektronische Dance-Musik-Streaming-Plattform. DanceTV wurde 2009 in den Niederlanden gegründet und überträgt Live-DJ-Sets, Festival-Streams und kuratierte Musikvideos an Millionen von Zuschauern weltweit über Webbrowser.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="First Music Channel">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="First Music Channel">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="First Music Channel">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="First Music Channel">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="First Music Channel">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="First Music Channel">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="First Music Channel">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="First Music Channel">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="First Music Channel">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="First Music Channel">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="First Music Channel">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="First Music Channel">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="First Music Channel">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="First Music Channel">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="First Music Channel">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="First Music Channel">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="First Music Channel">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="First Music Channel">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="First Music Channel">
     <title lang="de">Videoclips</title>
     <desc lang="de">Non-Stop-Musikvideostream mit Schwerpunkt auf populärer Unterhaltungsmusik</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="Totalmusic">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="Totalmusic">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="Totalmusic">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="Totalmusic">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="Totalmusic">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="Totalmusic">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="Totalmusic">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="Totalmusic">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="Totalmusic">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="Totalmusic">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="Totalmusic">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="Totalmusic">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="Totalmusic">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="Totalmusic">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="Totalmusic">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="Totalmusic">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="Totalmusic">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="Totalmusic">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="Totalmusic">
     <title lang="de">Videoclips</title>
     <desc lang="de">24/7 Musikkanal mit Videoclips aller Genres, die klassische und aktuelle Hits kombinieren, ideal als musikalisches Hauptsignal am Raster. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="Totalmusic 2000s">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="Totalmusic 2000s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Musikalisches Signal, das den großen Hits und unterbewerteten Juwelen des neuen Jahrtausendsjahrzehnt gewidmet ist, mit kontinuierlicher Programmierung von ikonischen Videoclips des Jahrzehnts. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="Totalmusic 80s">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="Totalmusic 80s">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="Totalmusic 80s">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="Totalmusic 80s">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="Totalmusic 80s">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="Totalmusic 80s">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="Totalmusic 80s">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="Totalmusic 80s">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="Totalmusic 80s">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="Totalmusic 80s">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="Totalmusic 80s">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="Totalmusic 80s">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="Totalmusic 80s">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="Totalmusic 80s">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="Totalmusic 80s">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="Totalmusic 80s">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="Totalmusic 80s">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="Totalmusic 80s">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="Totalmusic 80s">
     <title lang="de">Videoclips</title>
     <desc lang="de">Der thematische Kanal konzentrierte sich ausschließlich auf Erfolge und unterbewertete Juwelen des goldenen Jahrzehnts, die sich an nostalgischen und hohen Engagement-Zielgruppen orientieren. Höher oben, auf dieser Seite, ist die heutige Programmierung auf Ihrer lokalen Zeit und was jetzt auf Sendung ist.</desc>
   </programme>
-  <programme start="20261126160000 +0100" stop="20261127000000 +0100" channel="Impact TV Dance">
+  <programme start="20261126170000 +0100" stop="20261127010000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261127000000 +0100" stop="20261127080000 +0100" channel="Impact TV Dance">
+  <programme start="20261127010000 +0100" stop="20261127090000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127160000 +0100" channel="Impact TV Dance">
+  <programme start="20261127090000 +0100" stop="20261127170000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261127160000 +0100" stop="20261128000000 +0100" channel="Impact TV Dance">
+  <programme start="20261127170000 +0100" stop="20261128010000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128080000 +0100" channel="Impact TV Dance">
+  <programme start="20261128010000 +0100" stop="20261128090000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261128080000 +0100" stop="20261128160000 +0100" channel="Impact TV Dance">
+  <programme start="20261128090000 +0100" stop="20261128170000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261128160000 +0100" stop="20261129000000 +0100" channel="Impact TV Dance">
+  <programme start="20261128170000 +0100" stop="20261129010000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261129000000 +0100" stop="20261129080000 +0100" channel="Impact TV Dance">
+  <programme start="20261129010000 +0100" stop="20261129090000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261129080000 +0100" stop="20261129160000 +0100" channel="Impact TV Dance">
+  <programme start="20261129090000 +0100" stop="20261129170000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261129160000 +0100" stop="20261130000000 +0100" channel="Impact TV Dance">
+  <programme start="20261129170000 +0100" stop="20261130010000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261130000000 +0100" stop="20261130080000 +0100" channel="Impact TV Dance">
+  <programme start="20261130010000 +0100" stop="20261130090000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261130080000 +0100" stop="20261130160000 +0100" channel="Impact TV Dance">
+  <programme start="20261130090000 +0100" stop="20261130170000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261130160000 +0100" stop="20261201000000 +0100" channel="Impact TV Dance">
+  <programme start="20261130170000 +0100" stop="20261201010000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261201000000 +0100" stop="20261201080000 +0100" channel="Impact TV Dance">
+  <programme start="20261201010000 +0100" stop="20261201090000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261201080000 +0100" stop="20261201160000 +0100" channel="Impact TV Dance">
+  <programme start="20261201090000 +0100" stop="20261201170000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261201160000 +0100" stop="20261202000000 +0100" channel="Impact TV Dance">
+  <programme start="20261201170000 +0100" stop="20261202010000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261202000000 +0100" stop="20261202080000 +0100" channel="Impact TV Dance">
+  <programme start="20261202010000 +0100" stop="20261202090000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
-  <programme start="20261202080000 +0100" stop="20261202160000 +0100" channel="Impact TV Dance">
+  <programme start="20261202090000 +0100" stop="20261202170000 +0100" channel="Impact TV Dance">
     <title lang="de">Dance-, House- und elektronische Musik</title>
     <desc lang="de">Impact Dance liefert dir die angesagtesten Beats und elektronische Musik – nonstop, rund um die Uhr, in HD-Qualität und direkt in deiner Box</desc>
   </programme>
