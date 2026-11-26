@@ -5,6 +5,10 @@ on:
     types:
       - 2-H
   push:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
