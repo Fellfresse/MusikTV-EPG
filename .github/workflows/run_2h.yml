@@ -5,6 +5,7 @@ on:
     types:
       - 2-H
   push:
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,41 +23,34 @@ jobs:
         run: echo "RUN_DATE=$(TZ='Europe/Berlin' date +'%d-%m-%Y  %H:%M MEZ')" >> $GITHUB_ENV
 
       - name: checkout repo content
-        uses: actions/checkout@v4
-
-      - name: pull changes
-        run: |
-          git pull
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.10"
 
       - name: generate Pluto GB[light] EPG
-        run: python generate_pluto_gb[light].py --hours 48 --out epg_Pluto_GB[light].xml
+        run: python "generate_pluto_gb[light].py" --hours 48 --out "epg_Pluto_GB[light].xml"
 
       - name: generate Pluto CA[light] EPG
-        run: python generate_pluto_ca[light].py --hours 48 --out epg_Pluto_CA[light].xml
+        run: python "generate_pluto_ca[light].py" --hours 48 --out "epg_Pluto_CA[light].xml"
 
       - name: generate Pluto BR[light] EPG
-        run: python generate_pluto_br[light].py --hours 48 --out epg_Pluto_BR[light].xml
+        run: python "generate_pluto_br[light].py" --hours 48 --out "epg_Pluto_BR[light].xml"
  
       - name: generate Pluto US[light] EPG
-        run: python generate_pluto_us[light].py --hours 48 --out epg_Pluto_US[light].xml
+        run: python "generate_pluto_us[light].py" --hours 48 --out "epg_Pluto_US[light].xml"
  
       - name: generate Plex.buddy_chew_chew[light] EPG
-        run: python generate_plex.buddy_chew_chew[light].py --out epg_Plex_BuddyChewChew[light].xml
+        run: python "generate_plex.buddy_chew_chew[light].py" --out "epg_Plex_BuddyChewChew[light].xml"
 
-      - name: commit files
+      - name: commit and push files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "EPG Update am $RUN_DATE" --allow-empty)
-
-      - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "EPG Update am $RUN_DATE"
+            git push
+          fi
