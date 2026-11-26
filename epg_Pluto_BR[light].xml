@@ -8,21 +8,9 @@
     <display-name lang="en">MTV Classic</display-name>
     <icon src="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png"></icon>
   </channel>
-  <programme start="20261126153000 +0200" stop="20261126193500 +0200" channel="mtv-rocks-br">
+  <programme start="20261126160000 +0200" stop="20261126205700 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126193500 +0200" stop="20261126200300 +0200" channel="mtv-rocks-br">
-    <title lang="en">80s Rock Anthems</title>
-    <desc lang="en">Pride (U2) / Brass In Pocket (The Pretenders) / Beds Are Burning (Midnight Oil) / Living After Midnight (Judas Priest) / Looks That Kill (Mötley Crüe) / Animal (Def Leppard)</desc>
-  </programme>
-  <programme start="20261126200300 +0200" stop="20261126203000 +0200" channel="mtv-rocks-br">
-    <title lang="en">Rock Anthems of the Century</title>
-    <desc lang="en">Girl All The Bad Guys Want (Bowling For Soup) / Still Into You (Paramore) / I Write Sins Not Tragedies (Panic At The Disco) / Show Me How To Live (Audioslave) / Wait And Bleed (Slipknot) / Out Of The Black (Royal Blood)</desc>
-  </programme>
-  <programme start="20261126203000 +0200" stop="20261126205700 +0200" channel="mtv-rocks-br">
-    <title lang="en">90s Rock Anthems</title>
-    <desc lang="en">All Star (Smash Mouth) / Losing My Religion (R.E.M.) / Stupid Girl (Garbage) / Everlong (Foo Fighters) / Thunderstruck (AC/DC)</desc>
   </programme>
   <programme start="20261126205700 +0200" stop="20261126212000 +0200" channel="mtv-rocks-br">
     <title lang="en">Rock Anthems of the Century</title>
@@ -252,29 +240,29 @@
     <title lang="en">Rock Anthems of the Century</title>
     <desc lang="en">Mountains (Biffy Clyro) / Lights Out (Royal Blood) / Hash Pipe (Weezer) / Like A Stone (Audioslave) / Hurt (Johnny Cash) / The Kill (30 Seconds To Mars)</desc>
   </programme>
-  <programme start="20261127211500 +0200" stop="20261128033000 +0200" channel="mtv-rocks-br">
+  <programme start="20261127211500 +0200" stop="20261127213800 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Radioactive (Imagine Dragons) / Thks Fr Th Mmrs (Fall Out Boy) / Dani California (Red Hot Chili Peppers) / Chop Suey (System Of A Down) / Before I Forget (Slipknot)</desc>
+  </programme>
+  <programme start="20261127213800 +0200" stop="20261127220300 +0200" channel="mtv-rocks-br">
+    <title lang="en">Rock Anthems of the Century</title>
+    <desc lang="en">Waste A Moment (Kings Of Leon) / Yellow (Coldplay) / Cochise (Audioslave) / Drown (Bring Me The Horizon) / I'm Not Ok (I Promise) (My Chemical Romance) / Misery Business (Paramore)</desc>
+  </programme>
+  <programme start="20261127220300 +0200" stop="20261128040000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128033000 +0200" stop="20261128153000 +0200" channel="mtv-rocks-br">
+  <programme start="20261128040000 +0200" stop="20261128160000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128153000 +0200" stop="20261128213000 +0200" channel="mtv-rocks-br">
+  <programme start="20261128160000 +0200" stop="20261128220000 +0200" channel="mtv-rocks-br">
     <title lang="en">MTV Rocks</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261126153000 +0200" stop="20261126193600 +0200" channel="mtv-classic-br">
+  <programme start="20261126160000 +0200" stop="20261126203500 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
-  </programme>
-  <programme start="20261126193600 +0200" stop="20261126201200 +0200" channel="mtv-classic-br">
-    <title lang="en">80s Hits</title>
-    <desc lang="en">Come On Eileen (Dexys) / I Just Called To Say I Love You (Stevie Wonder) / The Power Of Love (Jennifer Rush) / Relax (Frankie Goes To Hollywood) / Hello (Lionel Richie) / Sledgehammer (Peter Gabriel) / Teardrops (Womack &amp; Womack)</desc>
-  </programme>
-  <programme start="20261126201200 +0200" stop="20261126203500 +0200" channel="mtv-classic-br">
-    <title lang="en">10's Hits</title>
-    <desc lang="en">All Of Me (John Legend)</desc>
   </programme>
   <programme start="20261126203500 +0200" stop="20261126210200 +0200" channel="mtv-classic-br">
     <title lang="en">80s Hits</title>
@@ -516,15 +504,23 @@
     <title lang="en">00s Hits</title>
     <desc lang="en">Lose Yourself (Eminem) / Don't Cha (The Pussycat Dolls; Busta Rhymes) / Sugar We're Going Down (Fall Out Boy) / No One (Alicia Keys) / Hey There Delilah (Plain White T's)</desc>
   </programme>
-  <programme start="20261127212100 +0200" stop="20261128033000 +0200" channel="mtv-classic-br">
+  <programme start="20261127212100 +0200" stop="20261127214800 +0200" channel="mtv-classic-br">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Groove Is In The Heart (Deee-Lite) / Waterfalls (TLC) / Vogue (Madonna) / Gangsta's Paradise (Coolio Ft. Rico Bernasconi) / How Do I Live (Leann Rimes)</desc>
+  </programme>
+  <programme start="20261127214800 +0200" stop="20261127221200 +0200" channel="mtv-classic-br">
+    <title lang="en">90s Hits</title>
+    <desc lang="en">Breakfast At Tiffany's (Deep Blue Something) / When You Say Nothing At All (Ronan Keating) / This Is How We Do It (Montell Jordan) / Dreams (Gabrielle) / My Heart Will Go On (Celine Dion)</desc>
+  </programme>
+  <programme start="20261127221200 +0200" stop="20261128040000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128033000 +0200" stop="20261128153000 +0200" channel="mtv-classic-br">
+  <programme start="20261128040000 +0200" stop="20261128160000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
-  <programme start="20261128153000 +0200" stop="20261128213000 +0200" channel="mtv-classic-br">
+  <programme start="20261128160000 +0200" stop="20261128220000 +0200" channel="mtv-classic-br">
     <title lang="en">MTV Classic</title>
     <desc lang="en">no info available</desc>
   </programme>
