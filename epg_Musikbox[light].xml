@@ -361,27 +361,6 @@
     <title>50 Songs</title>
     <desc>Le 50 canzoni piu' suonate da Radio DEEJAY</desc>
   </programme>
-  <programme start="20261119000000 +0300" stop="20261119010000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119010000 +0300" stop="20261119020000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119020000 +0300" stop="20261119030000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119030000 +0300" stop="20261119040000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119040000 +0300" stop="20261119050000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119050000 +0300" stop="20261119060000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119060000 +0300" stop="20261119070000 +0300" channel="musicbox-classic">
-    <title>Timeless Hits</title>
-  </programme>
   <programme start="20261119070000 +0300" stop="20261119080000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
@@ -1149,27 +1128,6 @@
   </programme>
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
-  </programme>
-  <programme start="20261119000000 +0300" stop="20261119010000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261119010000 +0300" stop="20261119020000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261119020000 +0300" stop="20261119030000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261119030000 +0300" stop="20261119040000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261119040000 +0300" stop="20261119050000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261119050000 +0300" stop="20261119060000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
-  </programme>
-  <programme start="20261119060000 +0300" stop="20261119070000 +0300" channel="musicbox-dance">
-    <title>Feel The Beat!</title>
   </programme>
   <programme start="20261119070000 +0300" stop="20261119080000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
@@ -1951,27 +1909,6 @@
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-dance">
     <title>Feel The Beat!</title>
   </programme>
-  <programme start="20261119000000 +0300" stop="20261119010000 +0300" channel="musicbox-hits">
-    <title>Euro Top 20</title>
-  </programme>
-  <programme start="20261119010000 +0300" stop="20261119020000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261119020000 +0300" stop="20261119030000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261119030000 +0300" stop="20261119040000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261119040000 +0300" stop="20261119050000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261119050000 +0300" stop="20261119060000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
-  <programme start="20261119060000 +0300" stop="20261119070000 +0300" channel="musicbox-hits">
-    <title>Hot New Music</title>
-  </programme>
   <programme start="20261119070000 +0300" stop="20261119080000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
   </programme>
@@ -2739,27 +2676,6 @@
   </programme>
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-hits">
     <title>Hot New Music</title>
-  </programme>
-  <programme start="20261119000000 +0300" stop="20261119010000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119010000 +0300" stop="20261119020000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119020000 +0300" stop="20261119030000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119030000 +0300" stop="20261119040000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119040000 +0300" stop="20261119050000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119050000 +0300" stop="20261119060000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119060000 +0300" stop="20261119070000 +0300" channel="musicbox-sexy">
-    <title>Where Music Is Sexy</title>
   </programme>
   <programme start="20261119070000 +0300" stop="20261119080000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
@@ -3540,16 +3456,6 @@
   </programme>
   <programme start="20261130060000 +0300" stop="20261130080000 +0300" channel="musicbox-sexy">
     <title>Where Music Is Sexy</title>
-  </programme>
-  <programme start="20261119022900 +0300" stop="20261119065900 +0300" channel="retro-music-tv">
-    <title>Revolution</title>
-    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
-    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/7/7eacf33dd86cae2e5890ef6d7229da3b.jpg" />
-  </programme>
-  <programme start="20261119065900 +0300" stop="20261119095900 +0300" channel="retro-music-tv">
-    <title>Restart</title>
-    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
-    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/a/a6d10f56f51e24668c2751b2a58e592f.jpg" />
   </programme>
   <programme start="20261119095900 +0300" stop="20261119110000 +0300" channel="retro-music-tv">
     <title>Retrománie</title>
