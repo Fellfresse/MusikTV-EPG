@@ -33,7 +33,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "EPG Updated on $RUN_DATE" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
