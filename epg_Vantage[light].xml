@@ -654,7 +654,7 @@
   </programme>
   <programme start="20261128170000 +0000" stop="20261128190000 +0000" channel="vantage-music">
     <title>Vantage Collection XL</title>
-    <sub-title lang="en">Genesis</sub-title>
+    <sub-title lang="en">Duran Duran</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
@@ -1377,11 +1377,11 @@
   </programme>
   <programme start="20261205170000 +0000" stop="20261205190000 +0000" channel="vantage-music">
     <title>Vantage Collection XL</title>
-    <sub-title lang="en">U2</sub-title>
+    <sub-title lang="en">Genesis</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <previously-shown />
+    <new />
   </programme>
   <programme start="20261205190000 +0000" stop="20261205210000 +0000" channel="vantage-music">
     <title>Retro Charts</title>
@@ -2170,11 +2170,11 @@
   </programme>
   <programme start="20261212170000 +0000" stop="20261212190000 +0000" channel="vantage-music">
     <title>Vantage Collection XL</title>
-    <sub-title lang="en">Genesis</sub-title>
+    <sub-title lang="en">Duran Duran</sub-title>
     <desc>Take a dive into the Vantage collections with a curated unique theme each show.</desc>
     <category lang="en">Music</category>
     <icon src="https://vantage-resources.lulzy.eu/epg_thumbs/vantagecollection.jpg" />
-    <new />
+    <previously-shown />
   </programme>
   <programme start="20261212190000 +0000" stop="20261212210000 +0000" channel="vantage-music">
     <title>Retro Charts</title>
