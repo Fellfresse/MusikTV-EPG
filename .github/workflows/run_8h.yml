@@ -5,6 +5,7 @@ on:
     types:
       - 8-H
   push:
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,10 +23,10 @@ jobs:
         run: echo "RUN_DATE=$(TZ='Europe/Berlin' date +'%d-%m-%Y  %H:%M MEZ')" >> $GITHUB_ENV
 
       - name: checkout repo content
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.10"
 
@@ -65,15 +66,12 @@ jobs:
       - name: generate Dummy_Magenta_Musik EPG
         run: python generate_dummy_magenta_musik_epg.py
  
-      - name: commit files
+      - name: commit and push files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "EPG Update am $RUN_DATE" --allow-empty)
-
-      - name: push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master # Ggf. auf 'main' ändern
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "EPG Update am $RUN_DATE"
+            git push
+          fi
