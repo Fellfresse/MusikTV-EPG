@@ -15,7 +15,7 @@ jobs:
     steps:
       - name: Get current date
         id: date
-        run: echo "RUN_DATE=$(TZ='Europe/Berlin' date +'%Y-%m-%d  %H:%M %MEZ')" >> $GITHUB_ENV
+        run: echo "RUN_DATE=$(TZ=Europe/Berlin date +'%d-%m-%Y %H:%M MEZ')" >> "$GITHUB_ENV"
 
       - name: checkout repo content
         uses: actions/checkout@v4
