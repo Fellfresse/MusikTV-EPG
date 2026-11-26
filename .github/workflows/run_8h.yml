@@ -4,7 +4,11 @@ on:
   repository_dispatch:
     types:
       - 8-H
-  push:
+  # 'push:' entfernt, um Endlosschleifen zu vermeiden
+
+permissions:
+  contents: write  # Erlaubt dem Workflow das Pushen der XML-Dateien
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,44 +20,44 @@ jobs:
       - name: checkout repo content
         uses: actions/checkout@v4
 
-      - name: pull changes
-        run: |
-          git pull
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
+      # Falls nötig, hier einkommentieren:
+      # - name: Install dependencies
+      #   run: pip install -r requirements.txt
+
       - name: generate Rakuten NL[light] EPG
-        run: python generate_rakuten_nl[light].py --out epg_Rakuten_NL[light].xml
+        run: python "generate_rakuten_nl[light].py" --out "epg_Rakuten_NL[light].xml"
   
       - name: generate Rakuten DE[light] EPG
-        run: python generate_rakuten_de[light].py --out epg_Rakuten_DE[light].xml
+        run: python "generate_rakuten_de[light].py" --out "epg_Rakuten_DE[light].xml"
 
       - name: generate Zattoo AT[light] EPG
-        run: python generate_zattoo_at[light].py --out epg_Zattoo_AT[light].xml
+        run: python "generate_zattoo_at[light].py" --out "epg_Zattoo_AT[light].xml"
 
       - name: generate Zattoo CH[light] EPG
-        run: python generate_zattoo_ch[light].py --out epg_Zattoo_CH[light].xml
+        run: python "generate_zattoo_ch[light].py" --out "epg_Zattoo_CH[light].xml"
 
       - name: generate Open DE[light] EPG
-        run: python generate_open_de[light].py --out epg_OpenDE[light].xml
+        run: python "generate_open_de[light].py" --out "epg_OpenDE[light].xml"
 
       - name: generate Open FR[light] EPG
-        run: python generate_open_fr[light].py --out epg_OpenFR[light].xml
+        run: python "generate_open_fr[light].py" --out "epg_OpenFR[light].xml"
 
       - name: generate Plex Fellfresse[light] EPG
-        run: python generate_plex.fellfresse[light].py --out epg_Plex_Fellfresse[light].xml
+        run: python "generate_plex.fellfresse[light].py" --out "epg_Plex_Fellfresse[light].xml"
 
       - name: generate EPGSHARE CA[light] EPG
-        run: python generate_epgshare_ca[light].py --out epg_Share_CA[light].xml
+        run: python "generate_epgshare_ca[light].py" --out "epg_Share_CA[light].xml"
 
       - name: generate Musikbox[light] EPG
-        run: python generate_musikbox[light].py --out epg_Musikbox[light].xml
+        run: python "generate_musikbox[light].py" --out "epg_Musikbox[light].xml"
 
       - name: generate Vantage[light] EPG
-        run: python generate_vantage[light].py --out epg_Vantage[light].xml
+        run: python "generate_vantage[light].py" --out "epg_Vantage[light].xml"
 
       - name: generate Dummy_Musik EPG
         run: python generate_dummy_musik_epg.py
@@ -66,7 +70,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated EPG listings on $RUN_DATE" --allow-empty)
+          git diff-index --quiet HEAD || git commit -m "Updated EPG listings on $RUN_DATE"
 
       - name: push changes
         uses: ad-m/github-push-action@master
