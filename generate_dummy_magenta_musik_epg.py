@@ -28,11 +28,6 @@ def generate_dummy_magenta_musik_epg():
     filename = "epg_Dummy_Magenta_Musik.xml"
     gz_filename = "EPG_VOD_Magenta_Musik.xml.gz"
 
-    # Sender-Liste (.txt) erstellen
-    with open("Sender_magenta_musik.txt", "w", encoding="utf-8") as f:
-        for ch in channels:
-            f.write(f"{ch['name']}\n")
-
     # XML-Wurzelelement erstellen
     tv = ET.Element('tv', {"generator-info-name": "Fellfresse", "generator-info": "Dummy_Magenta_Musik_epg"})
 
