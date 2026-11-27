@@ -361,6 +361,18 @@
     <title>50 Songs</title>
     <desc>Le 50 canzoni piu' suonate da Radio DEEJAY</desc>
   </programme>
+  <programme start="20261130000000 +0300" stop="20261130020000 +0300" channel="deejay-tv">
+    <title>La musica di Radio Deejay</title>
+    <desc>I videoclip piu' belli, 100% Radio Deejay</desc>
+  </programme>
+  <programme start="20261130020000 +0300" stop="20261130110000 +0300" channel="deejay-tv">
+    <title>La musica di Radio Deejay</title>
+    <desc>I videoclip piu' belli, 100% Radio Deejay</desc>
+  </programme>
+  <programme start="20261130110000 +0300" stop="20261130120000 +0300" channel="deejay-tv">
+    <title>Playlist Radio Linetti</title>
+    <desc>Playlist Radio Linetti</desc>
+  </programme>
   <programme start="20261120070000 +0300" stop="20261120080000 +0300" channel="musicbox-classic">
     <title>Timeless Hits</title>
   </programme>
@@ -3873,5 +3885,35 @@
     <title>Regenerace</title>
     <desc>Hity zlatých šedesátých – vzpomínky zůstanou</desc>
     <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/d/d1a1cc930601f622370394dd93fe3763.jpg" />
+  </programme>
+  <programme start="20261130005900 +0300" stop="20261130020000 +0300" channel="retro-music-tv">
+    <title>Retro love</title>
+    <desc>Láska hraje prim</desc>
+    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/c/cbe4e62bb9ae8ef28747460daa348760.jpg" />
+  </programme>
+  <programme start="20261130020000 +0300" stop="20261130030000 +0300" channel="retro-music-tv">
+    <title>Retro love</title>
+    <desc>Láska hraje prim</desc>
+    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/c/cbe4e62bb9ae8ef28747460daa348760.jpg" />
+  </programme>
+  <programme start="20261130030000 +0300" stop="20261130065900 +0300" channel="retro-music-tv">
+    <title>Revolution</title>
+    <desc>Na tuhle rockovou klasiku vám nedáme zapomenout!</desc>
+    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/7/7eacf33dd86cae2e5890ef6d7229da3b.jpg" />
+  </programme>
+  <programme start="20261130065900 +0300" stop="20261130095900 +0300" channel="retro-music-tv">
+    <title>Restart</title>
+    <desc>Hudební energie na celý den. Načerpejte energii na celý den z ranní retro snídaně</desc>
+    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/a/a6d10f56f51e24668c2751b2a58e592f.jpg" />
+  </programme>
+  <programme start="20261130095900 +0300" stop="20261130110000 +0300" channel="retro-music-tv">
+    <title>Retrománie</title>
+    <desc>České, slovenské, sousední i z druhého konce světa. Prostě klipová mánie</desc>
+    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/3/36e117578c20666872ceafe11db48c15.jpg" />
+  </programme>
+  <programme start="20261130110000 +0300" stop="20261130120000 +0300" channel="retro-music-tv">
+    <title>Replay 80'</title>
+    <desc>Kafe a osmdesátky vás zaručeně postaví na nohy</desc>
+    <icon src="https://www.sms.cz/~tri65dnigalerie/skupina/100/d/d6132e327a0950c80f626edc4edd1be2.jpg" />
   </programme>
 </tv>
